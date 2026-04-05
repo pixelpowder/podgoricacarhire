@@ -12,7 +12,7 @@
     "perDay": "po danu"
   },
   "hero": {
-    "headline": "Rent a Car Crna Gora",
+    "headline": "Rent a Car Podgorica",
     "badges": {
       "freeCancellation": "Besplatna Otkazivanja",
       "fullInsurance": "Puno Osiguranje Uključeno",
@@ -62,13 +62,13 @@
   },
   "destinations": {
     "label": "Top Destinacije",
-    "title": "Istražite Crnu Goru",
-    "subtitle": "Od Bokokotorskog zaliva do albanske granice — svaka destinacija je drugi svijet."
+    "title": "Istražite iz Podgorice",
+    "subtitle": "Od Skadarskog jezera do Durmitora i obale — svako putovanje počinje ovdje."
   },
   "features": {
     "label": "Zašto Mi",
     "title": "Napravljeno za Putnike",
-    "subtitle": "Sve što vam treba za bezbrižan rent a car u Crnoj Gori."
+    "subtitle": "Sve što vam treba za rent a car bez brige u Podgorici."
   },
   "reviews": {
     "label": "Recenzije",
@@ -81,7 +81,7 @@
     "subtitle": "Sve što treba da znate prije rezervacije."
   },
   "cta": {
-    "title": "Spremni da Istražite Crnu Goru?",
+    "title": "Spremni za istraživanje iz Podgorice?",
     "subtitle": "Rezervišite za nekoliko minuta. Preuzmite na aerodromu. Vozite cijelom jadranskom obalom sopstvenim tempom.",
     "browseFleet": "Pregledaj Flotu"
   },
@@ -98,7 +98,7 @@
     "seoDesc": "Pretražite i rezervišite rent a car u Crnoj Gori. Dostupnost u realnom vremenu, trenutna potvrda, besplatno otkazivanje."
   },
   "footer": {
-    "brandDesc": "Premium rent a car u Crnoj Gori od 2007. Preuzimanje na aerodromu, puno osiguranje i bez skrivenih troškova.",
+    "brandDesc": "Rent a car iz Podgorice, glavnog grada Crne Gore.",
     "quickLinks": "Brzi Linkovi",
     "guides": "Vodiči",
     "locations": "Lokacije",
@@ -197,7 +197,7 @@
   "featureCards": {
     "airportPickup": {
       "title": "Preuzimanje na aerodromu",
-      "desc": "Preuzmite automobil na aerodromu Tivat ili Podgorica. Bez prevoza, bez čekanja."
+      "desc": "Preuzmite auto na aerodromu Podgorica. Bez šatla, bez čekanja."
     },
     "fullInsurance": {
       "title": "Potpuno osiguranje",
@@ -282,45 +282,45 @@
     }
   },
   "destCards": {
-    "tivat-airport": {
-      "name": "Aerodrom Tivat",
-      "tag": "Najpopularnije",
-      "desc": "Naš glavni hub. Dočekujemo vas na dolascima."
-    },
-    "kotor": {
-      "name": "Kotor",
-      "tag": "UNESCO lokalitet",
-      "desc": "Srednjovjekovni utvrđeni grad na Jadranu."
-    },
     "podgorica-airport": {
       "name": "Aerodrom Podgorica",
-      "tag": "Glavni grad hub",
-      "desc": "Glavni međunarodni aerodrom Crna Gora."
+      "tag": "Najpopularnija",
+      "desc": "Naša glavna lokacija. Dočekujemo vas na dolasku."
     },
-    "perast": {
-      "name": "Perast",
-      "tag": "Skriveni dragulj",
-      "desc": "Barokno selo na Boka Bay."
+    "lake-skadar": {
+      "name": "Skadarsko Jezero",
+      "tag": "30 Minuta",
+      "desc": "Najveće jezero Balkana i nacionalni park."
+    },
+    "cetinje": {
+      "name": "Cetinje",
+      "tag": "35 Minuta",
+      "desc": "Stara prijestonica Crne Gore u planinama."
     },
     "budva": {
       "name": "Budva",
-      "tag": "Primorski grad",
+      "tag": "1 Sat",
       "desc": "Plaže Rivijere i zidine starog grada."
     },
-    "dubrovnik-airport": {
-      "name": "Aerodrom Dubrovnik",
-      "tag": "Prekogranično",
-      "desc": "Doletite u Dubrovnik, vozite u Crna Gora."
+    "kotor": {
+      "name": "Kotor",
+      "tag": "1,5 Sati",
+      "desc": "UNESCO zidinama opasani grad u Boki Kotorskoj."
     },
-    "tivat": {
-      "name": "Tivat",
-      "tag": "Grad marine",
-      "desc": "Porto Crna Gora i zadivljujuća Boka Bay."
+    "durmitor": {
+      "name": "Durmitor",
+      "tag": "2,5 Sata",
+      "desc": "UNESCO nacionalni park — planine, jezera i kanjoni."
     },
-    "podgorica": {
-      "name": "Podgorica",
-      "tag": "Glavni grad",
-      "desc": "Moderna prijestonica Crna Gora — kultura i trgovina."
+    "ostrog-monastery": {
+      "name": "Manastir Ostrog",
+      "tag": "45 Minuta",
+      "desc": "Manastir uklesan u stijenu — najposjećenije hodočasničko mjesto."
+    },
+    "niksic": {
+      "name": "Nikšić",
+      "tag": "1 Sat",
+      "desc": "Drugi grad Crne Gore — kapija ka sjeveru."
     }
   },
   "aboutBody": {

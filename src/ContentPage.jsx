@@ -37,17 +37,17 @@ export default function ContentPage({ title, subtitle, image, description, child
           <div className="sidebar-card">
             <h3 className="sidebar-card__title">{t('sidebar.helpTitle')}</h3>
             <p className="sidebar-card__text">{t('sidebar.helpText')}</p>
-            <a href="mailto:info@montenegrocarhire.com" className="sidebar-card__btn sidebar-card__btn--outline">{t('common.emailUs') || 'Email Us'}</a>
+            <a href="mailto:info@podgoricacarhire.com" className="sidebar-card__btn sidebar-card__btn--outline">{t('common.emailUs') || 'Email Us'}</a>
           </div>
           <div className="sidebar-card">
             <h3 className="sidebar-card__title">{t('sidebar.popularDest')}</h3>
             <ul className="sidebar-links">
-              <li><a href={localePath('/tivat-airport')}>Tivat Airport</a></li>
+              <li><a href={localePath('/podgorica-airport')}>Podgorica Airport</a></li>
+              <li><a href={localePath('/lake-skadar')}>Lake Skadar</a></li>
               <li><a href={localePath('/kotor')}>Kotor</a></li>
               <li><a href={localePath('/budva')}>Budva</a></li>
-              <li><a href={localePath('/perast')}>Perast</a></li>
-              <li><a href={localePath('/podgorica')}>Podgorica</a></li>
-              <li><a href={localePath('/dubrovnik-airport')}>Dubrovnik Airport</a></li>
+              <li><a href={localePath('/cetinje')}>Cetinje</a></li>
+              <li><a href={localePath('/ostrog-monastery')}>Ostrog Monastery</a></li>
               <li><a href={localePath('/border-crossing-guide')}>{t('footer.borderGuide')}</a></li>
             </ul>
           </div>

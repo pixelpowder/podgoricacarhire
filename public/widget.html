@@ -28,9 +28,9 @@
   </style>
   <script>
     // Intercept widget style injections and recolour green → navy/blue
-    const NAVY  = '#05203c';
-    const BLUE  = '#0062e3';
-    const LIGHT = '#e8f0fd';
+    const NAVY  = '#0B2618';
+    const BLUE  = '#2D6A4F';
+    const LIGHT = '#E8F5EE';
 
     // Colours to replace (widget greens)
     const replacements = [
@@ -39,11 +39,11 @@
       [/#00a651/gi, BLUE],
       [/#2ecc71/gi, BLUE],
       [/#27ae60/gi, BLUE],
-      [/rgb\(57,\s*181,\s*74\)/gi,  'rgb(0,98,227)'],
-      [/rgb\(76,\s*175,\s*80\)/gi,  'rgb(0,98,227)'],
-      [/rgb\(0,\s*166,\s*81\)/gi,   'rgb(0,98,227)'],
-      [/rgba\(57,\s*181,\s*74,/gi,  'rgba(0,98,227,'],
-      [/rgba\(76,\s*175,\s*80,/gi,  'rgba(0,98,227,'],
+      [/rgb\(57,\s*181,\s*74\)/gi,  'rgb(45,106,79)'],
+      [/rgb\(76,\s*175,\s*80\)/gi,  'rgb(45,106,79)'],
+      [/rgb\(0,\s*166,\s*81\)/gi,   'rgb(45,106,79)'],
+      [/rgba\(57,\s*181,\s*74,/gi,  'rgba(45,106,79,'],
+      [/rgba\(76,\s*175,\s*80,/gi,  'rgba(45,106,79,'],
     ];
 
     function recolour(css) {
@@ -79,13 +79,14 @@
   <script>
     (function() {
       const _params = new URLSearchParams(window.location.search);
-      const cityId = _params.get('city_id') || '9';
+      const cityId = _params.get('city_id') || '41';
       const widgetLang = _params.get('lang') || 'en';
       const script = document.createElement('script');
       script.src = 'https://static.localrent.com/booking/v2/wl/app.js';
       script.async = true;
       script.setAttribute('data-mrc-wl',   'true');
       script.setAttribute('data-affiliate','14905');
+      script.setAttribute('data-marker', 'podgorica');
       script.setAttribute('data-country',  '133');
       script.setAttribute('data-city',     cityId);
       script.setAttribute('data-routing',  'on');
@@ -186,17 +187,17 @@
       /* Search bar — match nav exactly */
       .search-cigarette,
       .search-cigarette__wrap,
-      .search-cigarette__row { background: rgb(5,32,60) !important; }
+      .search-cigarette__row { background: rgb(11,38,24) !important; }
       .search-cigarette__city,
       .search-cigarette__calendar,
-      .search-cigarette__place-time { border-color: rgba(255,255,255,0.12) !important; }
+      .search-cigarette__place-time { border-color: rgba(255,255,255,0.15) !important; }
       .search-cigarette__trigger,
       .search-cigarette__pinned,
       .dropdown,
       .search-place-time { color: #fff !important; }
       .search-cigarette__placeholder { color: rgba(255,255,255,0.55) !important; }
       .search-filters,
-      .search-filters__wrap { border-color: rgba(255,255,255,0.2) !important; color: #fff !important; background: rgb(5,32,60) !important; }
+      .search-filters__wrap { border-color: rgba(255,255,255,0.2) !important; color: #fff !important; background: rgb(11,38,24) !important; }
       .search-cigarette__calendar { background: #fff !important; border-radius: 8px; }
       .search-calendar,
       .search-calendar__date,
@@ -207,30 +208,30 @@
       .date-range__days,
       .date-range__dash,
       .search-cigarette__calendar .search-cigarette__trigger,
-      .search-cigarette__calendar .search-cigarette__placeholder { color: rgb(5,32,60) !important; }
+      .search-cigarette__calendar .search-cigarette__placeholder { color: rgb(11,38,24) !important; }
 
       /* Calendar selected range — fix invisible white-on-white text */
       .calendar-day.calendar-highlighted {
-        background: rgba(0,98,227,0.12) !important;
-        color: rgb(5,32,60) !important;
+        background: rgba(45,106,79,0.12) !important;
+        color: rgb(11,38,24) !important;
       }
       .calendar-day.calendar-selected {
-        background: rgb(0,98,227) !important;
+        background: rgb(45,106,79) !important;
         color: #fff !important;
       }
 
       /* Low deposit badge — wildcard to beat inline styles */
       .product-sticker--low-deposit,
-      [class*="low-deposit"] { background: rgb(0,98,227) !important; color: #fff !important; border-color: rgb(0,98,227) !important; }
+      [class*="low-deposit"] { background: rgb(45,106,79) !important; color: #fff !important; border-color: rgb(45,106,79) !important; }
 
       /* Buttons */
-      .button { background: rgb(0,98,227) !important; border-color: rgb(0,98,227) !important; color: #fff !important; }
-      .button:hover { background: rgb(0,75,195) !important; }
-      .embla__button { background: rgb(0,98,227) !important; border-color: rgb(0,98,227) !important; }
+      .button { background: rgb(45,106,79) !important; border-color: rgb(45,106,79) !important; color: #fff !important; }
+      .button:hover { background: rgb(27,67,50) !important; }
+      .embla__button { background: rgb(45,106,79) !important; border-color: rgb(45,106,79) !important; }
 
       /* Progress & accents */
-      .search__progress { background: rgb(0,98,227) !important; }
-      .vehicle-card-info__badge { color: rgb(0,98,227) !important; }
+      .search__progress { background: rgb(45,106,79) !important; }
+      .vehicle-card-info__badge { color: rgb(45,106,79) !important; }
 
       /* Hide promotional banners and filter badges */
       [class*="banner"], [class*="promo"], [class*="winter"], [class*="notification"],

@@ -12,7 +12,7 @@
     "perDay": "par jour"
   },
   "hero": {
-    "headline": "Location de Voiture au Monténégro",
+    "headline": "Location de Voiture à Podgorica",
     "badges": {
       "freeCancellation": "Annulation Gratuite",
       "fullInsurance": "Assurance Tous Risques Incluse",
@@ -62,13 +62,13 @@
   },
   "destinations": {
     "label": "Destinations Phares",
-    "title": "Explorez le Monténégro",
-    "subtitle": "De la baie de Kotor à la frontière albanaise — chaque destination est un monde différent."
+    "title": "Explorer depuis Podgorica",
+    "subtitle": "Du lac Skadar au Durmitor et à la côte — chaque voyage commence ici."
   },
   "features": {
     "label": "Pourquoi Nous Choisir",
     "title": "Conçu pour les Voyageurs",
-    "subtitle": "Tout ce dont vous avez besoin pour une location de voiture sans stress au Monténégro."
+    "subtitle": "Tout ce dont vous avez besoin pour une location sans stress à Podgorica."
   },
   "reviews": {
     "label": "Avis",
@@ -81,7 +81,7 @@
     "subtitle": "Tout ce que vous devez savoir avant de réserver."
   },
   "cta": {
-    "title": "Prêt à Explorer le Monténégro ?",
+    "title": "Prêt à explorer depuis Podgorica ?",
     "subtitle": "Réservez en quelques minutes. Récupérez à l'aéroport. Parcourez toute la côte adriatique à votre rythme.",
     "browseFleet": "Parcourir la Flotte"
   },
@@ -98,7 +98,7 @@
     "seoDesc": "Recherchez et réservez des voitures de location au Monténégro. Disponibilité en temps réel, confirmation instantanée, annulation gratuite."
   },
   "footer": {
-    "brandDesc": "Location de voitures premium au Monténégro depuis 2007. Prise en charge à l'aéroport, assurance tous risques et aucun frais caché.",
+    "brandDesc": "Location de voitures depuis Podgorica, capitale du Monténégro. Prise en charge aéroport, assurance tous risques.",
     "quickLinks": "Liens Rapides",
     "guides": "Guides",
     "locations": "Nos Agences",
@@ -127,7 +127,7 @@
   "about": {
     "title": "À Propos",
     "subtitle": "Nous aidons les voyageurs à explorer le Monténégro depuis 2007.",
-    "seoDesc": "À propos de Montenegro Car Hire. Nous aidons les voyageurs à explorer le Monténégro depuis 2007 avec des voitures fiables, la livraison à l'aéroport et une expertise locale."
+    "seoDesc": "À propos de Podgorica Car Hire. Nous aidons les voyageurs à explorer le Monténégro depuis 2007 avec des voitures fiables, la livraison à l'aéroport et une expertise locale."
   },
   "kotor": {
     "title": "Location de Voiture à Kotor",
@@ -182,22 +182,22 @@
   "privacy": {
     "title": "Politique de Confidentialité",
     "subtitle": "Comment nous traitons vos informations.",
-    "seoDesc": "Politique de confidentialité de Montenegro Car Hire. Comment nous collectons, utilisons et protégeons vos données personnelles lors de la recherche de voitures de location."
+    "seoDesc": "Politique de confidentialité de Podgorica Car Hire. Comment nous collectons, utilisons et protégeons vos données personnelles lors de la recherche de voitures de location."
   },
   "terms": {
     "title": "Conditions Générales",
     "subtitle": "Conditions d'utilisation de notre site web.",
-    "seoDesc": "Conditions générales d'utilisation de Montenegro Car Hire. Découvrez notre processus de réservation, partenaire de location, tarifs et responsabilité."
+    "seoDesc": "Conditions générales d'utilisation de Podgorica Car Hire. Découvrez notre processus de réservation, partenaire de location, tarifs et responsabilité."
   },
   "cookie-policy": {
     "title": "Politique de Cookies",
     "subtitle": "Comment nous utilisons les cookies sur ce site.",
-    "seoDesc": "Politique de cookies de Montenegro Car Hire. Découvrez quels cookies nous utilisons, comment le widget de réservation stocke vos préférences et comment les gérer."
+    "seoDesc": "Politique de cookies de Podgorica Car Hire. Découvrez quels cookies nous utilisons, comment le widget de réservation stocke vos préférences et comment les gérer."
   },
   "featureCards": {
     "airportPickup": {
       "title": "Prise en charge à l'aéroport",
-      "desc": "Récupérez votre voiture aux arrivées de l'aéroport de Tivat ou Podgorica. Pas de navette, pas d'attente."
+      "desc": "Récupérez votre voiture à l’aéroport de Podgorica. Sans navette, sans attente."
     },
     "fullInsurance": {
       "title": "Assurance tous risques",
@@ -282,50 +282,50 @@
     }
   },
   "destCards": {
-    "tivat-airport": {
-      "name": "Aéroport de Tivat",
-      "tag": "Le plus populaire",
-      "desc": "Notre hub principal. Nous vous accueillons aux arrivées."
-    },
-    "kotor": {
-      "name": "Kotor",
-      "tag": "Site UNESCO",
-      "desc": "Cité médiévale fortifiée sur l'Adriatique."
-    },
     "podgorica-airport": {
       "name": "Aéroport de Podgorica",
-      "tag": "Hub de la capitale",
-      "desc": "Le principal aéroport international du Montenegro."
+      "tag": "Le Plus Populaire",
+      "desc": "Notre base principale. Nous vous accueillons aux arrivées."
     },
-    "perast": {
-      "name": "Perast",
-      "tag": "Joyau caché",
-      "desc": "Village baroque sur la baie de Kotor."
+    "lake-skadar": {
+      "name": "Lac Skadar",
+      "tag": "30 Minutes",
+      "desc": "Le plus grand lac des Balkans et parc national."
+    },
+    "cetinje": {
+      "name": "Cetinje",
+      "tag": "35 Minutes",
+      "desc": "Ancienne capitale royale du Monténégro en montagne."
     },
     "budva": {
       "name": "Budva",
-      "tag": "Station balnéaire",
-      "desc": "Plages de la Riviera et remparts de la vieille ville."
+      "tag": "1 Heure",
+      "desc": "Plages de la Riviera et vieille ville fortifiée."
     },
-    "dubrovnik-airport": {
-      "name": "Aéroport de Dubrovnik",
-      "tag": "Transfrontalier",
-      "desc": "Atterrissez à Dubrovnik, conduisez au Montenegro."
+    "kotor": {
+      "name": "Kotor",
+      "tag": "1h30",
+      "desc": "Cité fortifiée UNESCO dans la baie de Kotor."
     },
-    "tivat": {
-      "name": "Tivat",
-      "tag": "Ville portuaire",
-      "desc": "Porto Montenegro et la magnifique Boka Bay."
+    "durmitor": {
+      "name": "Durmitor",
+      "tag": "2h30",
+      "desc": "Parc national UNESCO — montagnes, lacs et canyons."
     },
-    "podgorica": {
-      "name": "Podgorica",
-      "tag": "Capitale",
-      "desc": "La capitale moderne du Montenegro — culture et commerce."
+    "ostrog-monastery": {
+      "name": "Monastère d’Ostrog",
+      "tag": "45 Minutes",
+      "desc": "Monastère sculpté dans la falaise — pèlerinage emblématique."
+    },
+    "niksic": {
+      "name": "Nikšić",
+      "tag": "1 Heure",
+      "desc": "Deuxième ville du Monténégro — porte du nord."
     }
   },
   "aboutBody": {
     "h1": "Location de Voitures au Montenegro",
-    "p1": "Depuis 2007, Montenegro Car Hire met en relation les voyageurs avec des voitures de location fiables et abordables à travers tout le Montenegro. Ce qui a commencé comme une idée simple — faciliter l'exploration de ce magnifique coin de l'Adriatic pour les visiteurs — est devenu l'un des services de location de voitures les plus fiables du pays.",
+    "p1": "Depuis 2007, Podgorica Car Hire met en relation les voyageurs avec des voitures de location fiables et abordables à travers tout le Montenegro. Ce qui a commencé comme une idée simple — faciliter l'exploration de ce magnifique coin de l'Adriatic pour les visiteurs — est devenu l'un des services de location de voitures les plus fiables du pays.",
     "h2": "Pourquoi nous avons commencé",
     "p2": "Le Montenegro est un pays qui se découvre à son propre rythme. Les routes côtières sinueuses, les villages de montagne cachés et les villes classées au patrimoine de l'UNESCO sont difficilement accessibles en transports en commun. Nous avons vu l'opportunité d'offrir aux voyageurs la liberté de découvrir le Montenegro à leur façon — pas d'horaires de bus touristiques, pas de points de vue manqués, aucun compromis.",
     "h3": "Ce que nous proposons",

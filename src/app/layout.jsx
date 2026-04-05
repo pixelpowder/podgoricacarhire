@@ -9,10 +9,10 @@ import { LanguageContext } from '@/src/i18n/LanguageContext';
 import { DEFAULT_LANG } from '@/src/i18n/languages';
 
 export const metadata = {
-  title: 'Montenegro Car Hire — Tivat & Podgorica Airport Pickup',
+  title: 'Podgorica Car Hire — Airport Pickup, Drive Montenegro',
   description:
-    'Rent a car in Montenegro from €13/day. Pick up at Tivat Airport, Podgorica Airport, Kotor, Budva and 28+ locations. Free cancellation, full insurance, no hidden fees.',
-  metadataBase: new URL('https://www.montenegrocarhire.com'),
+    'Rent a car in Podgorica from \u20AC13/day. Pick up at Podgorica Airport (TGD) and drive to Durmitor, Lake Skadar, Kotor, and the coast. Free cancellation, full insurance, no hidden fees.',
+  metadataBase: new URL('https://www.podgoricacarhire.com'),
 };
 
 export default function RootLayout({ children }) {

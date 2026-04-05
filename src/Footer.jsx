@@ -73,8 +73,8 @@ export default function Footer() {
 
         <FooterColumn title={t('footer.locations')}>
           {[
-            { name: 'Tivat Airport', slug: 'tivat-airport' },
             { name: 'Podgorica Airport', slug: 'podgorica-airport' },
+            { name: 'Lake Skadar', slug: 'lake-skadar' },
             { name: 'Kotor', slug: 'kotor' },
             { name: 'Budva', slug: 'budva' },
           ].map(dest => (

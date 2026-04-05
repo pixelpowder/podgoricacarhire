@@ -12,7 +12,7 @@
     "perDay": "pro Tag"
   },
   "hero": {
-    "headline": "Mietwagen in Montenegro",
+    "headline": "Mietwagen in Podgorica",
     "badges": {
       "freeCancellation": "Kostenlose Stornierung",
       "fullInsurance": "Vollkasko inklusive",
@@ -62,13 +62,13 @@
   },
   "destinations": {
     "label": "Top-Reiseziele",
-    "title": "Montenegro entdecken",
-    "subtitle": "Von der Bay of Kotor bis zur albanischen Grenze — jedes Reiseziel eine andere Welt."
+    "title": "Von Podgorica aus entdecken",
+    "subtitle": "Vom Skadar-See bis zum Durmitor und zur Küste — jede Reise beginnt hier."
   },
   "features": {
     "label": "Warum wir",
     "title": "Für Reisende gemacht",
-    "subtitle": "Alles, was Sie für eine stressfreie Autovermietung in Montenegro brauchen."
+    "subtitle": "Alles, was Sie für eine stressfreie Autovermietung in Podgorica brauchen."
   },
   "reviews": {
     "label": "Bewertungen",
@@ -81,7 +81,7 @@
     "subtitle": "Alles, was Sie vor Ihrer Buchung wissen müssen."
   },
   "cta": {
-    "title": "Bereit, Montenegro zu entdecken?",
+    "title": "Bereit, von Podgorica aus zu entdecken?",
     "subtitle": "In wenigen Minuten buchen. Am Flughafen abholen. Die gesamte Adriatic-Küste in Ihrem eigenen Tempo erkunden.",
     "browseFleet": "Flotte ansehen"
   },
@@ -98,7 +98,7 @@
     "seoDesc": "Mietwagen in Montenegro suchen und buchen. Echtzeit-Verfügbarkeit, sofortige Bestätigung, kostenlose Stornierung."
   },
   "footer": {
-    "brandDesc": "Premium-Autovermietung in Montenegro seit 2007. Flughafenabholung, Vollkasko und keine versteckten Kosten.",
+    "brandDesc": "Mietwagen ab Podgorica, der Hauptstadt Montenegros. Flughafenabholung, Vollkasko und keine versteckten Gebühren.",
     "quickLinks": "Schnelllinks",
     "guides": "Reiseführer",
     "locations": "Standorte",
@@ -127,7 +127,7 @@
   "about": {
     "title": "Über uns",
     "subtitle": "Wir helfen Reisenden seit 2007, Montenegro zu entdecken.",
-    "seoDesc": "Über Montenegro Car Hire. Seit 2007 helfen wir Reisenden, Montenegro mit zuverlässigen Mietwagen, Flughafenzustellung und lokaler Expertise zu entdecken."
+    "seoDesc": "Über Podgorica Car Hire. Seit 2007 helfen wir Reisenden, Montenegro mit zuverlässigen Mietwagen, Flughafenzustellung und lokaler Expertise zu entdecken."
   },
   "kotor": {
     "title": "Mietwagen in Kotor",
@@ -182,22 +182,22 @@
   "privacy": {
     "title": "Datenschutzrichtlinie",
     "subtitle": "Wie wir mit Ihren Daten umgehen.",
-    "seoDesc": "Datenschutzrichtlinie von Montenegro Car Hire. Wie wir Ihre personenbezogenen Daten bei der Suche nach Mietwagen erheben, verwenden und schützen."
+    "seoDesc": "Datenschutzrichtlinie von Podgorica Car Hire. Wie wir Ihre personenbezogenen Daten bei der Suche nach Mietwagen erheben, verwenden und schützen."
   },
   "terms": {
     "title": "Allgemeine Geschäftsbedingungen",
     "subtitle": "Nutzungsbedingungen für unsere Website.",
-    "seoDesc": "Allgemeine Geschäftsbedingungen für die Nutzung von Montenegro Car Hire. Erfahren Sie mehr über Buchungsprozess, Mietpartner, Preise und Haftung."
+    "seoDesc": "Allgemeine Geschäftsbedingungen für die Nutzung von Podgorica Car Hire. Erfahren Sie mehr über Buchungsprozess, Mietpartner, Preise und Haftung."
   },
   "cookie-policy": {
     "title": "Cookie-Richtlinie",
     "subtitle": "Wie wir Cookies auf dieser Website verwenden.",
-    "seoDesc": "Cookie-Richtlinie von Montenegro Car Hire. Erfahren Sie, welche Cookies wir verwenden, wie das Buchungs-Widget Einstellungen speichert und wie Sie sie verwalten."
+    "seoDesc": "Cookie-Richtlinie von Podgorica Car Hire. Erfahren Sie, welche Cookies wir verwenden, wie das Buchungs-Widget Einstellungen speichert und wie Sie sie verwalten."
   },
   "featureCards": {
     "airportPickup": {
       "title": "Flughafenabholung",
-      "desc": "Holen Sie Ihr Auto am Flughafen Tivat oder Podgorica ab. Kein Shuttle, kein Warten."
+      "desc": "Holen Sie Ihr Auto am Flughafen Podgorica ab. Kein Shuttle, kein Warten."
     },
     "fullInsurance": {
       "title": "Vollversicherung",
@@ -282,50 +282,50 @@
     }
   },
   "destCards": {
-    "tivat-airport": {
-      "name": "Flughafen Tivat",
+    "podgorica-airport": {
+      "name": "Flughafen Podgorica",
       "tag": "Beliebteste Wahl",
       "desc": "Unser Hauptstandort. Wir treffen Sie bei der Ankunft."
     },
-    "kotor": {
-      "name": "Kotor",
-      "tag": "UNESCO-Welterbe",
-      "desc": "Mittelalterliche ummauerte Stadt an der Adria."
+    "lake-skadar": {
+      "name": "Skadar-See",
+      "tag": "30 Minuten",
+      "desc": "Der größte See des Balkans und Nationalpark."
     },
-    "podgorica-airport": {
-      "name": "Flughafen Podgorica",
-      "tag": "Hauptstadt-Hub",
-      "desc": "Montenegros wichtigster internationaler Flughafen."
-    },
-    "perast": {
-      "name": "Perast",
-      "tag": "Geheimtipp",
-      "desc": "Barockdorf an der Bucht von Kotor."
+    "cetinje": {
+      "name": "Cetinje",
+      "tag": "35 Minuten",
+      "desc": "Montenegros alte Königshauptstadt in den Bergen."
     },
     "budva": {
       "name": "Budva",
-      "tag": "Strandstadt",
+      "tag": "1 Stunde",
       "desc": "Riviera-Strände und die Altstadt-Mauern."
     },
-    "dubrovnik-airport": {
-      "name": "Flughafen Dubrovnik",
-      "tag": "Grenzüberschreitend",
-      "desc": "Fliegen Sie nach Dubrovnik, fahren Sie nach Montenegro."
+    "kotor": {
+      "name": "Kotor",
+      "tag": "1,5 Stunden",
+      "desc": "UNESCO-ummauerte Stadt an der Bucht von Kotor."
     },
-    "tivat": {
-      "name": "Tivat",
-      "tag": "Hafenstadt",
-      "desc": "Porto Montenegro und die atemberaubende Boka Bay."
+    "durmitor": {
+      "name": "Durmitor",
+      "tag": "2,5 Stunden",
+      "desc": "UNESCO-Nationalpark — Berge, Seen und Schluchten."
     },
-    "podgorica": {
-      "name": "Podgorica",
-      "tag": "Hauptstadt",
-      "desc": "Montenegros moderne Hauptstadt — Kultur und Handel."
+    "ostrog-monastery": {
+      "name": "Kloster Ostrog",
+      "tag": "45 Minuten",
+      "desc": "In den Fels gehauenes Kloster — Montenegros Pilgerstätte."
+    },
+    "niksic": {
+      "name": "Nikšić",
+      "tag": "1 Stunde",
+      "desc": "Montenegros zweitgrößte Stadt — Tor zum Norden."
     }
   },
   "aboutBody": {
-    "h1": "Montenegro Autovermietung",
-    "p1": "Seit 2007 verbindet Montenegro Car Hire Reisende mit zuverlässigen und erschwinglichen Mietwagen in ganz Montenegro. Was als einfache Idee begann — Besuchern die Erkundung dieser atemberaubenden Ecke der Adriatic zu erleichtern — hat sich zu einem der vertrauenswürdigsten Mietwagenservices des Landes entwickelt.",
+    "h1": "Podgorica Autovermietung",
+    "p1": "Seit 2007 verbindet Podgorica Car Hire Reisende mit zuverlässigen und erschwinglichen Mietwagen in ganz Montenegro. Was als einfache Idee begann — Besuchern die Erkundung dieser atemberaubenden Ecke der Adriatic zu erleichtern — hat sich zu einem der vertrauenswürdigsten Mietwagenservices des Landes entwickelt.",
     "h2": "Warum wir angefangen haben",
     "p2": "Montenegro ist ein Land, das man am besten in eigenem Tempo erlebt. Die kurvigen Küstenstraßen, versteckten Bergdörfer und UNESCO-Welterbestätten sind mit öffentlichen Verkehrsmitteln nur schwer erreichbar. Wir sahen die Möglichkeit, Reisenden die Freiheit zu geben, Montenegro auf eigene Faust zu entdecken — keine Reisebusfahrpläne, keine verpassten Aussichtspunkte, keine Kompromisse.",
     "h3": "Was wir anbieten",
