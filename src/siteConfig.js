@@ -213,7 +213,7 @@ const siteConfig = {
       slug: "kotor",
       tag: "1.5 Hours",
       desc: "UNESCO walled city on the Bay of Kotor.",
-      image: "/img/mountain-road.webp",
+      image: "/img/kotor-bay.webp",
     },
     {
       name: "Durmitor",

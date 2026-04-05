@@ -4,8 +4,8 @@ import ContentPage from '../../ContentPage';
 export default function Kotor() {
   const { t } = useTranslation();
   return (
-    <ContentPage title={t("kotor.title")} subtitle={t("kotor.subtitle")} description={t("kotor.seoDesc")} image="/img/moraca-canyon.webp">
-      <img src="/img/moraca-canyon.webp" alt="Bay of Kotor" loading="lazy" />
+    <ContentPage title={t("kotor.title")} subtitle={t("kotor.subtitle")} description={t("kotor.seoDesc")} image="/img/kotor-bay.webp">
+      <img src="/img/kotor-bay.webp" alt="Bay of Kotor" loading="lazy" />
       <h2>{t('kotorBody.h1')}</h2>
       <p>{t('kotorBody.p1')}</p>
       <p>{t('kotorBody.p2')}</p>
@@ -14,7 +14,7 @@ export default function Kotor() {
       <p>{t('kotorBody.stJohnText')}</p>
       <h3>{t('kotorBody.cathedralTitle')}</h3>
       <p>{t('kotorBody.cathedralText')}</p>
-      <img src="/img/mountain-road.webp" alt="Kotor mountain road" loading="lazy" />
+      <img src="/img/kotor-bay.webp" alt="Kotor Old Town from above" loading="lazy" />
       <h2>{t('kotorBody.dayTripsTitle')}</h2>
       <p>{t('kotorBody.perastTrip')}</p>
       <p>{t('kotorBody.cetinjeTrip')}</p>
