@@ -710,11 +710,11 @@
 
 /* ─── LOCALRENT WIDGET COLOUR OVERRIDES ─────────────── */
 .search-cigarette__wrap {
-  background-color: #05203c !important;
+  background-color: #0B2618 !important;
 }
 .search-placeholder,
 .search-cigarette__placeholder {
-  background-color: #003e6e !important;
+  background-color: #1B4332 !important;
 }
 .winter-package-banner--more,
 .link-dashed-M {
@@ -723,7 +723,7 @@
   border-bottom-color: #2D6A4F !important;
 }
 .featuring-cool-cars__badge {
-  background-color: rgba(0, 98, 227, 0.15) !important;
+  background-color: rgba(45, 106, 79, 0.15) !important;
   color: #2D6A4F !important;
 }
 /* Buttons / CTAs */
@@ -739,8 +739,8 @@
 [class*="btn--primary"]:hover,
 .search-form__submit:hover,
 .search-cigarette__submit:hover {
-  background-color: #004fc0 !important;
-  border-color: #004fc0 !important;
+  background-color: #1B4332 !important;
+  border-color: #1B4332 !important;
 }
 
 /* ─── HERO FORM WRAPPER ────────────────────────────────── */
@@ -1073,7 +1073,7 @@ select.booking-field__input {
 /* ─── STAT COUNTERS ────────────────────────────────────── */
 .stats-section {
   padding: 48px 0;
-  background: linear-gradient(135deg, #e8f0fd 0%, #eaf2ff 50%, #e8f7fd 100%);
+  background: linear-gradient(135deg, #E8F5EE 0%, #E8F5EE 50%, #E8F5EE 100%);
 }
 
 .stats-grid {
@@ -1946,7 +1946,7 @@ select.booking-field__input {
 }
 
 .cta-btn--primary:hover {
-  background: #0563ca;
+  background: #1B4332;
   transform: translateY(-1px);
 }
 

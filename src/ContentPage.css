@@ -140,8 +140,8 @@
 
 /* ─── ROUTE INFO BOX ───────────────────────────────────── */
 .route-info {
-  background: linear-gradient(135deg, #eef4ff 0%, #f0f0ff 100%);
-  border: 1px solid #dde5f5;
+  background: linear-gradient(135deg, #E8F5EE 0%, #EDF7F1 100%);
+  border: 1px solid #C8E6D0;
   border-radius: 12px;
   padding: 24px;
   margin: 32px 0;
@@ -231,7 +231,7 @@
 }
 
 .sidebar-card__btn:hover {
-  background: #0050b5;
+  background: #1B4332;
 }
 
 .sidebar-card__btn--outline {
