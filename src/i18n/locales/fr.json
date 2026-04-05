@@ -196,89 +196,89 @@
   },
   "featureCards": {
     "airportPickup": {
-      "title": "Prise en charge à l'aéroport",
-      "desc": "Récupérez votre voiture à l’aéroport de Podgorica. Sans navette, sans attente."
+      "title": "Remise à l'aéroport",
+      "desc": "Clés en main en moins de 10 minutes après l'atterrissage à TGD. Les montagnes vous attendent."
     },
     "fullInsurance": {
-      "title": "Assurance tous risques",
-      "desc": "Couverture complète avec option zéro franchise. Conduisez en toute sérénité."
+      "title": "Assurance montagne complète",
+      "desc": "Couverture intégrale avec option zéro franchise — conçue pour les virages en lacets, les routes de canyon et tout le reste."
     },
     "support": {
       "title": "Assistance 24h/24",
-      "desc": "Assistance routière et service client disponibles jour et nuit, tous les jours."
+      "desc": "Bloqué dans la neige au-dessus de Žabljak ? On connaît ça. Appelez à toute heure."
     },
     "noHiddenFees": {
       "title": "Aucun frais caché",
-      "desc": "Politique carburant, kilométrage, taxes — tout est inclus dans le prix affiché."
+      "desc": "Les équipements hivernaux comme les chaînes à neige sont indiqués dans le prix dès le départ, jamais ajoutés au comptoir."
     },
     "freeCancellation": {
       "title": "Annulation gratuite",
-      "desc": "Les plans changent. Annulez jusqu'à 24 heures avant pour un remboursement intégral."
+      "desc": "Vol Ryanair modifié ? Col de montagne fermé par la neige ? Annulez jusqu'à 24 h avant pour un remboursement intégral."
     },
     "crossBorder": {
-      "title": "Transfrontalier",
-      "desc": "Roulez en Croatia, Bosnia, Albania ou Kosovo. Les trajets transfrontaliers sont autorisés."
+      "title": "Traversée de frontières",
+      "desc": "Serbie (Prijepolje, 2 h), Albanie (Shkodra, 1,5 h), Kosovo (Peć, 3 h) — Carte verte incluse, indiquez-le à la réservation."
     }
   },
   "testimonials": {
     "0": {
-      "text": "J'ai récupéré une Octavia impeccable à l'aéroport de Tivat en moins de 5 minutes. Rapport qualité-prix incroyable."
+      "text": "Nous avons pris l'avion jusqu'à TGD spécialement pour randonner dans le Durmitor et longer le bord du canyon de Tara. Le 4x4 était prêt en quelques minutes et a parfaitement géré les routes de montagne vers Žabljak. La réservation était simple et le prix bien meilleur que tout ce qu'on avait trouvé chez nous."
     },
     "1": {
-      "text": "La BMW était en parfait état et les documents pour la Croatia étaient prêts à notre arrivée. Je recommande vivement."
+      "text": "Road trip en solitaire depuis l'aéroport de Podgorica à travers les gorges de la Morača jusqu'au monastère d'Ostrog — l'un des trajets les plus saisissants de ma vie. La voiture était impeccable et la prise en charge à TGD a pris moins de 10 minutes. Je ferai appel à ce service à chaque vol Wizz Air vers le Monténégro."
     },
     "2": {
-      "text": "Nous avons exploré le Montenegro pendant deux semaines. Le Jeep a parfaitement géré les routes de montagne."
+      "text": "On avait réservé pour aller à la plage, mais on a finalement passé deux jours à explorer les villages viticoles du lac de Skadar et on s'est retrouvés au coucher du soleil sur une route de montagne au-dessus de Cetinje. Le meilleur détour impromptu de notre vie. La voiture a tout rendu possible."
     }
   },
   "faqItems": {
     "0": {
-      "q": "Quels documents dois-je fournir ?",
-      "a": "Un permis de conduire valide (les informations doivent figurer en caractères latins), un passeport et une carte de crédit physique au nom du conducteur principal. Un permis de conduire international est recommandé si votre permis n'est valable que dans son pays d'émission. Les copies ou permis électroniques ne sont pas acceptés."
+      "q": "Quels documents me faut-il ?",
+      "a": "Un permis de conduire valide avec les informations en caractères latins, votre passeport et une carte de crédit physique au nom du conducteur principal. Si votre permis a été délivré hors de l'UE, un permis de conduire international est fortement recommandé en complément. Les photocopies et les permis numériques sur smartphone ne sont pas acceptés à la remise du véhicule."
     },
     "1": {
-      "q": "Puis-je conduire en Croatie ou en Albanie ?",
-      "a": "Oui ! Si vous prévoyez de voyager en dehors du Monténégro, informez l'agent de location à l'avance afin qu'il puisse préparer les documents nécessaires. Les déplacements transfrontaliers vers les pays voisins sont autorisés."
+      "q": "Puis-je conduire en Serbie ou en Albanie ?",
+      "a": "Oui — les traversées de frontière sont autorisées vers la Serbie, l'Albanie, le Kosovo, la Bosnie et la Croatie. Les principaux postes frontière proches de Podgorica sont Dračenovac pour la Serbie et Hani i Hotit pour l'Albanie. Précisez-le à la réservation afin que nous puissions préparer la Carte verte et les documents nécessaires."
     },
     "2": {
       "q": "Y a-t-il un âge minimum ?",
-      "a": "L'âge minimum et les exigences en matière d'expérience de conduite varient selon le véhicule. Ces détails sont affichés lorsque vous recherchez les voitures disponibles."
+      "a": "L'âge minimum de location est de 21 ans, avec au moins 2 ans d'expérience au volant. Les conducteurs de 21 à 24 ans paient un supplément jeune conducteur ; le montant exact dépend de la catégorie du véhicule et est affiché avant la confirmation de la réservation."
     },
     "3": {
       "q": "Qu'est-ce qui est inclus dans le prix ?",
-      "a": "Tous les véhicules sont assurés — la plupart incluent l'assurance responsabilité civile et la garantie dommages par collision (CDW) dans le prix de base. La TVA, les kits d'équipement (trousse de premiers secours, triangle de signalisation, gilet de haute visibilité) et une politique carburant transparente sont également inclus. Les conditions de kilométrage varient selon le véhicule. Des options de couverture étendue sont disponibles moyennant un supplément."
+      "a": "Tous les véhicules sont couverts par l'assurance responsabilité civile, et la plupart incluent la garantie dommages par collision (CDW) dans le tarif de base. La TVA, le kit d'équipement obligatoire (trousse de premiers secours, triangle de signalisation, gilet rétroréfléchissant) et une politique carburant claire sont également inclus. Les conditions de kilométrage varient selon le véhicule. Des formules zéro franchise sont disponibles en option."
     },
     "4": {
-      "q": "Comment se passe la prise en charge ?",
-      "a": "Choisissez l'heure et le lieu de prise en charge lors de la réservation — les options varient selon l'agent de location et la destination. L'agent organisera la rencontre au lieu convenu. Pour les détails précis du point de rencontre, contactez l'agent directement après la réservation."
+      "q": "Comment se passe la prise en charge à TGD ?",
+      "a": "L'aéroport de Podgorica (TGD) est un bâtiment mono-terminal compact — l'arrivée est simple à s'orienter. Notre agent vous accueille dans le hall des arrivées avec une pancarte à votre nom. Le véhicule est garé juste devant le terminal. De l'atterrissage jusqu'au départ en voiture, comptez généralement moins de 10 minutes."
     },
     "5": {
-      "q": "Puis-je restituer le véhicule dans un autre lieu ?",
-      "a": "Oui — les locations en aller simple sont proposées dans 28 villes et localités du Monténégro. Il vous suffit de choisir des lieux de prise en charge et de restitution différents lors de la réservation."
+      "q": "Puis-je restituer le véhicule ailleurs ?",
+      "a": "Oui — les locations aller simple sont disponibles dans 28 destinations au Monténégro. Choisissez vos lieux de prise en charge et de restitution lors de la réservation. Les frais aller simple, s'ils s'appliquent, sont indiqués de manière transparente avant la confirmation."
     },
     "6": {
       "q": "Quelle est la politique d'annulation ?",
-      "a": "Annulation gratuite jusqu'à 7 jours avant la date de début de location. Pour les voitures de luxe et les cabriolets, l'annulation gratuite est possible jusqu'à 30 jours avant. Des frais de service de paiement de 6 % s'appliquent à toutes les annulations."
+      "a": "Véhicules standards : annulation gratuite jusqu'à 7 jours avant la prise en charge. Voitures de luxe et cabriolets : annulation gratuite jusqu'à 30 jours avant. Des frais de traitement du paiement de 6 % s'appliquent à toutes les annulations. Si une fermeture de col ou des conditions météo extrêmes vous obligent à modifier vos plans, contactez-nous — nous ferons notre possible."
     },
     "7": {
-      "q": "Un dépôt de garantie est-il requis ?",
-      "a": "Le montant du dépôt varie selon le véhicule — certains véhicules sont disponibles sans dépôt. Si un dépôt est requis, il doit être prélevé sur une carte de crédit physique au nom du conducteur principal et est remboursé à la restitution du véhicule en bon état."
+      "q": "Une caution est-elle requise ?",
+      "a": "Les exigences de caution à TGD varient entre zéro et 300 € selon la catégorie de véhicule. La caution doit être bloquée sur une carte de crédit physique (ni débit ni prépayée) au nom du conducteur principal lors de la remise, et est intégralement libérée après restitution sans dommage. Le montant exact figure dans le récapitulatif de réservation."
     },
     "8": {
-      "q": "Que se passe-t-il si je dépasse la limite de kilométrage ?",
-      "a": "Les véhicules avec restriction de kilométrage sont facturés au kilomètre supplémentaire. Les tarifs sont indiqués dans les détails du véhicule avant la réservation."
+      "q": "Que se passe-t-il si je dépasse le kilométrage ?",
+      "a": "Les véhicules avec plafond kilométrique sont facturés au kilomètre supplémentaire au-delà de la limite convenue. Le tarif est précisé dans les conditions du véhicule avant la réservation. Si vous prévoyez de longs trajets en montagne — Durmitor, canyon de Tara, frontière albanaise — vérifiez bien les conditions kilométriques ou choisissez une option kilométrage illimité."
     },
     "9": {
-      "q": "Y a-t-il des frais cachés ?",
-      "a": "Non. Le prix affiché comprend toutes les taxes et tous les frais. Ce qui est indiqué lors de la réservation correspond à ce que vous payez."
+      "q": "Ai-je besoin de chaînes à neige en montagne ?",
+      "a": "De novembre à mars, les chaînes à neige ou les pneus hiver sont obligatoires sur les routes de montagne au-dessus de 1 000 m au Monténégro. Cela inclut la route vers Žabljak et le parc national du Durmitor. Si vous partez en montagne en hiver, précisez-le lors de la réservation. À noter : Nikšić est la dernière station-service fiable avant le Durmitor — faites le plein là-bas."
     },
     "10": {
       "q": "Combien dois-je payer à l'avance ?",
-      "a": "Seulement 15 à 20 % du montant total sont nécessaires pour confirmer votre réservation. Le solde est payé directement à l'agent de location lors de la prise en charge."
+      "a": "Un acompte de 15 à 20 % du coût total est prélevé à la réservation pour garantir votre véhicule. Le solde est réglé directement avec l'agent de location à TGD lors de la remise. Aucune surprise au comptoir — la répartition est clairement indiquée avant la confirmation."
     },
     "11": {
       "q": "Puis-je louer sans carte de crédit ?",
-      "a": "Certains véhicules sont disponibles sans carte de crédit. Vérifiez la disponibilité lors de votre recherche — les options sans carte de crédit sont clairement indiquées."
+      "a": "Un petit nombre de véhicules de notre flotte est disponible sans carte de crédit — ils sont clairement signalés dans les résultats de recherche. Pour la plupart des véhicules, cependant, une carte de crédit physique au nom du conducteur est nécessaire pour le dépôt de garantie à la remise."
     }
   },
   "destCards": {

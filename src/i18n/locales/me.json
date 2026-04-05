@@ -196,89 +196,89 @@
   },
   "featureCards": {
     "airportPickup": {
-      "title": "Preuzimanje na aerodromu",
-      "desc": "Preuzmite auto na aerodromu Podgorica. Bez šatla, bez čekanja."
+      "title": "Predaja na aerodromu",
+      "desc": "Ključevi u ruci u roku od 10 minuta od slijetanja na TGD. Planine čekaju."
     },
     "fullInsurance": {
-      "title": "Potpuno osiguranje",
-      "desc": "Sveobuhvatna pokrivenost sa opcijom nulte franšize. Vozite potpuno bezbrižno."
+      "title": "Planinski nivo osiguranja",
+      "desc": "Puno pokriće sa opcijom nulte franšize — napravljeno za planinske zavoje, klisurske puteve i sve između."
     },
     "support": {
       "title": "Podrška 24/7",
-      "desc": "Pomoć na putu i korisnička podrška dostupni non-stop, svakog dana."
+      "desc": "Zaglavljeni u snijegu iznad Žabljaka? To znamo. Pozovite nas u bilo koje doba."
     },
     "noHiddenFees": {
       "title": "Bez skrivenih troškova",
-      "desc": "Politika goriva, kilometraža, porez — sve je uključeno u cijenu koju vidite."
+      "desc": "Zimska oprema poput lanaca za snijeg navedena je u cijeni unaprijed, nikad se ne dodaje na šalteru."
     },
     "freeCancellation": {
       "title": "Besplatno otkazivanje",
-      "desc": "Planovi se mijenjaju. Otkažite do 24 sata prije preuzimanja za puni povrat novca."
+      "desc": "Ryanair promijenio let? Planinski prevoj zatvoren zbog snijega? Otkažite do 24 sata ranije za puni povrat."
     },
     "crossBorder": {
       "title": "Prelazak granice",
-      "desc": "Vozite u Croatia, Bosnia, Albania ili Kosovo. Prekogranična putovanja su dozvoljena."
+      "desc": "Srbija (Prijepolje, 2 h), Albanija (Shkodra, 1,5 h), Kosovo (Peć, 3 h) — Zelena karta uključena, samo navedite pri rezervaciji."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Preuzeo sam besprijekornu Octavia na aerodromu Tivat za manje od 5 minuta. Nevjerovatna vrijednost."
+      "text": "Doletjeli smo na TGD isključivo da planinarimo po Durmitoru i prošetamo rubom Tarske klisure. Terenac je bio spreman za nekoliko minuta i bez problema svladao planinske puteve do Žabljaka. Rezervacija je bila jednostavna, a cijena bolja od svega što smo našli kod kuće."
     },
     "1": {
-      "text": "BMW je bio u savršenom stanju, a dokumenti za Croatia bili su spremni kada smo stigli. Toplo preporučujem."
+      "text": "Samostalno putovanje od podgoričkog aerodroma kroz Moračku klisuru do Manastira Ostrog — jedna od najdramatičnijih vožnji u mom životu. Auto je bio besprijekoran, a preuzimanje na TGD trajalo je manje od 10 minuta. Koristiću ovaj servis svaki put kad letim Wizz Airom u Crnu Goru."
     },
     "2": {
-      "text": "Istraživali smo Crna Gora dvije sedmice. Jeep je savršeno savladao planinske puteve."
+      "text": "Rezervisali smo odmor na plaži, ali proveli smo dva dana istražujući vinarska sela uz Skadarsko jezero i nekako završili na planinskom putu iznad Cetinja pri zalasku sunca. Najljepša neplanirana skretanja ikad. Auto je sve to učinio mogućim."
     }
   },
   "faqItems": {
     "0": {
       "q": "Koja dokumenta su mi potrebna?",
-      "a": "Važeća vozačka dozvola (mora sadržavati podatke na latinici), pasoš i fizička kreditna kartica na ime glavnog vozača. Međunarodna vozačka dozvola se preporučuje ako vaša dozvola važi samo u zemlji izdavanja. Kopije ili elektronske vozačke dozvole se ne prihvataju."
+      "a": "Važeća vozačka dozvola s podacima na latiničnom pismu, pasoš i fizička kreditna kartica na ime glavnog vozača. Ako je dozvola izdata van EU, preporučuje se Međunarodna vozačka dozvola uz nacionalnu. Kopije i digitalne vozačke dozvole na telefonu ne prihvataju se pri preuzimanju vozila."
     },
     "1": {
-      "q": "Mogu li voziti do Hrvatske ili Albanije?",
-      "a": "Da! Ako planirate putovanje van Crne Gore, unaprijed obavijestite agenta za iznajmljivanje kako bi pripremio potrebnu dokumentaciju. Prekogranična putovanja u susjedne zemlje su dozvoljena."
+      "q": "Mogu li voziti u Srbiju ili Albaniju?",
+      "a": "Da — prelazak granice dozvoljen je prema Srbiji, Albaniji, Kosovu, Bosni i Hrvatskoj. Glavni granični prelazi blizu Podgorice su Dračenovac za Srbiju i Hani i Hotit za Albaniju. Navedite to pri rezervaciji kako bismo unaprijed pripremili Zelenu kartu i potrebnu dokumentaciju."
     },
     "2": {
       "q": "Postoji li minimalna starosna granica?",
-      "a": "Minimalna starost i zahtjevi za vozačko iskustvo zavise od vozila. Ovi detalji se prikazuju kada pretražujete dostupne automobile."
+      "a": "Minimalna starost za iznajmljivanje je 21 godina, s najmanje 2 godine vozačkog iskustva. Vozači od 21 do 24 godine plaćaju doplatu za mlade vozače; tačan iznos zavisi od kategorije vozila i prikazuje se jasno prije potvrde rezervacije."
     },
     "3": {
       "q": "Šta je uključeno u cijenu?",
-      "a": "Sva vozila su osigurana — većina uključuje osiguranje od odgovornosti prema trećim licima i zaštitu od oštećenja u sudaru (CDW) u osnovnu cijenu. PDV, komplet opreme (prva pomoć, trougao upozorenja, reflektujući prsluk) i transparentna politika goriva su takođe uključeni. Uslovi kilometraže zavise od vozila. Proširene opcije pokrića su dostupne uz doplatu."
+      "a": "Sva vozila uključuju osiguranje od odgovornosti, a većina u osnovnoj cijeni ima i CDW (Collision Damage Waiver). PDV, obavezni komplet opreme (prva pomoć, trougao upozorenja, reflektujući prsluk) i jasna politika goriva su također uključeni. Uslovi kilometraže variraju po vozilu i prikazuju se prije rezervacije. Nadogradnje na nultu franšizu dostupne su kao opcija."
     },
     "4": {
-      "q": "Kako funkcioniše preuzimanje vozila?",
-      "a": "Izaberite vrijeme i mjesto preuzimanja tokom rezervacije — opcije zavise od agenta za iznajmljivanje i destinacije. Agent će organizovati susret na dogovorenom mjestu. Za tačne detalje o mjestu susreta, kontaktirajte agenta direktno nakon rezervacije."
+      "q": "Kako funkcioniše preuzimanje na TGD-u?",
+      "a": "Podgorički aerodrom (TGD) je kompaktna zgrada s jednim terminalom — dolazak je jednostavan za snalaženje. Naš agent dočekuje vas u holu za dolaske s tablom s vašim imenom. Vozilo je parkirano odmah ispred terminala. Od slijetanja do odlaska vozicom obično prolazi manje od 10 minuta."
     },
     "5": {
       "q": "Mogu li vratiti vozilo na drugoj lokaciji?",
-      "a": "Da — jednosmjerno iznajmljivanje je dostupno u 28 gradova i mjesta u Crnoj Gori. Jednostavno izaberite različita mjesta preuzimanja i vraćanja tokom rezervacije."
+      "a": "Da — jednosmjerno iznajmljivanje dostupno je na 28 destinacija u Crnoj Gori. Odaberite željene lokacije preuzimanja i vraćanja pri rezervaciji. Naknade za jednosmjerne iznajme, gdje se primjenjuju, transparentno su prikazane prije potvrde."
     },
     "6": {
       "q": "Koja je politika otkazivanja?",
-      "a": "Besplatno otkazivanje do 7 dana prije početka iznajmljivanja. Za luksuzne automobile i kabriolete, besplatno otkazivanje je moguće do 30 dana unaprijed. Naknada za platni servis od 6 % se primjenjuje na sva otkazivanja."
+      "a": "Standardna vozila: besplatno otkazivanje do 7 dana prije preuzimanja. Luksuzni automobili i kabriole: besplatno otkazivanje do 30 dana unaprijed. Naknada za obradu plaćanja od 6 % primjenjuje se na sva otkazivanja. Ako zatvaranje prevoja ili ekstremno vrijeme zahtijeva promjenu planova, kontaktirajte nas — učinit ćemo što možemo."
     },
     "7": {
       "q": "Da li je potreban depozit?",
-      "a": "Iznos depozita zavisi od vozila — neki automobili su dostupni bez depozita. Ako je potreban, depozit mora biti na fizičkoj kreditnoj kartici na ime glavnog vozača i vraća se po povratku vozila u dobrom stanju."
+      "a": "Iznosi depozita na TGD-u kreću se od nula do 300 € zavisno od kategorije vozila. Depozit se mora blokirati na fizičkoj kreditnoj kartici (ne debitnoj ni prepejd) na ime glavnog vozača pri preuzimanju, i potpuno se oslobađa po vraćanju vozila bez oštećenja. Tačan iznos za odabrano vozilo prikazan je u sažetku rezervacije."
     },
     "8": {
       "q": "Šta se dešava ako prekoračim limit kilometraže?",
-      "a": "Za vozila sa ograničenjem kilometraže naplaćuje se svaki dodatni kilometar. Tarife su prikazane u detaljima vozila prije rezervacije."
+      "a": "Vozila s ograničenjem kilometraže naplaćuju po kilometru iznad dogovorenog limita. Tarifa je navedena u uslovima vozila prije rezervacije. Ako planirate dugačke planinske vožnje — Durmitor, Tarska klisura, albanska granica — pažljivo provjerite uslove kilometraže ili odaberite opciju s neograničenom kilometražom."
     },
     "9": {
-      "q": "Ima li skrivenih naknada?",
-      "a": "Ne. Cijena koju vidite uključuje sve poreze i naknade. Ono što je prikazano pri rezervaciji je ono što plaćate."
+      "q": "Da li su potrebni lanci za snijeg na planinskim putevima?",
+      "a": "Od novembra do marta, lanci za snijeg ili zimske gume zakonski su obavezni na planinskim putevima iznad 1.000 m u Crnoj Gori. To uključuje put prema Žabljaku i Nacionalnom parku Durmitor. Ako idete u planine zimi, navedite to pri rezervaciji i opremit ćemo vozilo u skladu s tim. Napomena: Nikšić je posljednja pouzdana benzinska stanica prije Durmitora — napunite tank tamo."
     },
     "10": {
       "q": "Koliko plaćam unaprijed?",
-      "a": "Samo 15–20 % ukupnog iznosa je potrebno za potvrdu rezervacije. Ostatak se plaća direktno agentu za iznajmljivanje prilikom preuzimanja."
+      "a": "Predujam od 15–20 % ukupne cijene iznajmljivanja naplaćuje se pri rezervaciji radi osiguranja vašeg mjesta. Ostatak se podmiruje direktno s agentom za iznajmljivanje pri preuzimanju na TGD-u. Nema iznenađenja na šalteru — podjela je jasno prikazana prije potvrde."
     },
     "11": {
       "q": "Mogu li iznajmiti bez kreditne kartice?",
-      "a": "Neki automobili su dostupni bez kreditne kartice. Provjerite dostupnost prilikom pretrage — opcije bez kreditne kartice su jasno označene."
+      "a": "Manji broj vozila u našoj floti dostupan je i bez kreditne kartice — jasno su označeni u rezultatima pretrage. Za većinu vozila, međutim, fizička kreditna kartica na ime vozača neophodna je za sigurnosni depozit pri preuzimanju."
     }
   },
   "destCards": {
