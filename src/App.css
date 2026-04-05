@@ -577,9 +577,9 @@
   inset: 0;
   background: linear-gradient(
     to bottom,
-    rgba(11, 38, 24, 0.55) 0%,
-    rgba(11, 38, 24, 0.40) 50%,
-    rgba(11, 38, 24, 0.30) 100%
+    rgba(5, 25, 55, 0.55) 0%,
+    rgba(5, 25, 55, 0.40) 50%,
+    rgba(5, 25, 55, 0.30) 100%
   );
   z-index: 2;
 }
@@ -790,7 +790,7 @@
 
 /* ─── BOOKING CARD ─────────────────────────────────────── */
 .booking-card {
-  background: rgba(11, 38, 24, 0.85);
+  background: rgba(5, 25, 55, 0.85);
   border-radius: 12px;
   padding: 25px 28px 25px;
   max-width: 100%;
@@ -956,7 +956,7 @@ select.booking-field__input {
 
 /* ─── TRUST STRIP ──────────────────────────────────────── */
 .trust-strip {
-  background: rgba(11, 38, 24, 0.93);
+  background: rgba(5, 25, 55, 0.93);
   backdrop-filter: blur(80px);
   -webkit-backdrop-filter: blur(80px);
   padding: 40px 0;
@@ -1265,7 +1265,7 @@ select.booking-field__input {
 .faq-item {
   background: #fff !important;
   border: 1px solid var(--gray-200, #e5e7eb) !important;
-  box-shadow: 0 2px 8px rgba(11, 38, 24,0.06) !important;
+  box-shadow: 0 2px 8px rgba(5, 25, 55,0.06) !important;
 }
 
 .step-card {
@@ -1328,7 +1328,7 @@ select.booking-field__input {
 .dest-card__overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(to top, rgba(11, 38, 24,0.7) 0%, rgba(11, 38, 24,0.05) 55%);
+  background: linear-gradient(to top, rgba(5, 25, 55,0.7) 0%, rgba(5, 25, 55,0.05) 55%);
   backdrop-filter: blur(1px);
   -webkit-backdrop-filter: blur(1px);
   padding: 18px;
@@ -1339,7 +1339,7 @@ select.booking-field__input {
 
 .dest-card {
   border: 1px solid rgba(255,255,255,0.8);
-  box-shadow: 0 4px 24px rgba(11, 38, 24,0.06), inset 0 1px 0 rgba(255,255,255,0.9);
+  box-shadow: 0 4px 24px rgba(5, 25, 55,0.06), inset 0 1px 0 rgba(255,255,255,0.9);
 }
 
 .dest-card__tag {
@@ -1610,7 +1610,7 @@ select.booking-field__input {
 }
 
 .feature-card:hover {
-  box-shadow: 0 8px 32px rgba(11, 38, 24,0.1), inset 0 1px 0 rgba(255,255,255,0.9) !important;
+  box-shadow: 0 8px 32px rgba(5, 25, 55,0.1), inset 0 1px 0 rgba(255,255,255,0.9) !important;
   border-color: var(--blue) !important;
 }
 
@@ -2517,7 +2517,7 @@ select.booking-field__input {
 
 .mountain-card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 16px 40px rgba(10,46,26,0.12);
+  box-shadow: 0 16px 40px rgba(5,25,55,0.12);
 }
 
 .mountain-card__img {
@@ -2560,7 +2560,7 @@ select.booking-field__input {
   border-top: 1px solid var(--gray-200);
   font-size: 13px;
   font-weight: 600;
-  color: var(--blue, #0D8B7D);
+  color: var(--blue, #1a56db);
 }
 
 .mountain-card__meta span {
