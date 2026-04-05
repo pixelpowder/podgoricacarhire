@@ -710,21 +710,21 @@
 
 /* ─── LOCALRENT WIDGET COLOUR OVERRIDES ─────────────── */
 .search-cigarette__wrap {
-  background-color: #0B2618 !important;
+  background-color: #0c1a3d !important;
 }
 .search-placeholder,
 .search-cigarette__placeholder {
-  background-color: #1B4332 !important;
+  background-color: #1243af !important;
 }
 .winter-package-banner--more,
 .link-dashed-M {
-  color: #2D6A4F !important;
-  border-color: #2D6A4F !important;
-  border-bottom-color: #2D6A4F !important;
+  color: #1a56db !important;
+  border-color: #1a56db !important;
+  border-bottom-color: #1a56db !important;
 }
 .featuring-cool-cars__badge {
-  background-color: rgba(45, 106, 79, 0.15) !important;
-  color: #2D6A4F !important;
+  background-color: rgba(26, 86, 219, 0.15) !important;
+  color: #1a56db !important;
 }
 /* Buttons / CTAs */
 .btn-primary,
@@ -732,15 +732,15 @@
 .search-cigarette__submit,
 [class*="button--primary"],
 [class*="btn--primary"] {
-  background-color: #2D6A4F !important;
-  border-color: #2D6A4F !important;
+  background-color: #1a56db !important;
+  border-color: #1a56db !important;
 }
 [class*="button--primary"]:hover,
 [class*="btn--primary"]:hover,
 .search-form__submit:hover,
 .search-cigarette__submit:hover {
-  background-color: #1B4332 !important;
-  border-color: #1B4332 !important;
+  background-color: #1243af !important;
+  border-color: #1243af !important;
 }
 
 /* ─── HERO FORM WRAPPER ────────────────────────────────── */
@@ -1946,7 +1946,7 @@ select.booking-field__input {
 }
 
 .cta-btn--primary:hover {
-  background: #1B4332;
+  background: #1243af;
   transform: translateY(-1px);
 }
 
@@ -2496,4 +2496,79 @@ select.booking-field__input {
     width: 100%;
     justify-content: center;
   }
+}
+
+/* ─── MOUNTAIN ROUTES (PODGORICA UNIQUE) ─────────────── */
+.mountain-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+}
+
+.mountain-card {
+  background: var(--white);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s cubic-bezier(0.4,0,0.2,1), box-shadow 0.3s;
+}
+
+.mountain-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 40px rgba(10,46,26,0.12);
+}
+
+.mountain-card__img {
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+  transition: transform 0.4s cubic-bezier(0.4,0,0.2,1);
+}
+
+.mountain-card:hover .mountain-card__img {
+  transform: scale(1.05);
+}
+
+.mountain-card__body {
+  padding: 20px 24px 24px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.mountain-card__title {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--navy);
+  margin-bottom: 8px;
+}
+
+.mountain-card__desc {
+  font-size: 14px;
+  color: var(--gray-600);
+  line-height: 1.6;
+  flex: 1;
+}
+
+.mountain-card__meta {
+  display: flex;
+  gap: 20px;
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--gray-200);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--blue, #0D8B7D);
+}
+
+.mountain-card__meta span {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+@media (max-width: 768px) {
+  .mountain-grid { grid-template-columns: 1fr; }
 }

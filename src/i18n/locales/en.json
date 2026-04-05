@@ -320,20 +320,8 @@
       "a": "Deposit requirements at TGD vary between zero and €300 depending on the vehicle tier. The deposit must be blocked on a physical credit card (not debit or prepaid) in the main driver's name at the time of pickup, and is fully released once the car is returned undamaged. The exact amount for your chosen vehicle is shown in the booking summary."
     },
     "8": {
-      "q": "What happens if I exceed the mileage limit?",
-      "a": "Vehicles with a kilometre cap charge a per-km rate for any distance above the agreed limit. The rate is listed in the vehicle terms before you book. If you're planning long mountain drives — Durmitor, Tara Canyon, the Albanian border — check the mileage terms carefully or look for an unlimited-mileage option."
-    },
-    "9": {
       "q": "Do I need snow chains for mountain roads?",
-      "a": "From November to March, snow chains or winter tyres are legally required on mountain roads above 1,000 m in Montenegro. This includes the road to Žabljak and Durmitor National Park. If you're heading into the mountains in winter, let us know at booking and we'll equip the car accordingly. Also note: Nikšić is the last reliable fuel stop before Durmitor — fill up there."
-    },
-    "10": {
-      "q": "How much do I pay upfront?",
-      "a": "A deposit of 15–20% of the total rental cost is charged at booking to secure your reservation. The remaining balance is settled directly with the rental agent at TGD pickup. No surprise charges at the counter — the split is shown clearly before you confirm."
-    },
-    "11": {
-      "q": "Can I rent without a credit card?",
-      "a": "A small number of vehicles in our fleet are available to renters without a credit card — these are clearly marked in the search results. For most vehicles, however, a physical credit card in the driver's name is required for the security deposit at pickup."
+      "a": "From November to March, snow chains or winter tyres are legally required on mountain roads above 1,000 m in Montenegro. This includes the road to \u017dabljak and Durmitor National Park. If you're heading into the mountains in winter, let us know at booking and we'll equip the car accordingly. Also note: Nik\u0161i\u0107 is the last reliable fuel stop before Durmitor \u2014 fill up there."
     }
   },
   "destCards": {

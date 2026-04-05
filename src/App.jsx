@@ -32,10 +32,7 @@ import {
   Menu,
   X,
   MessageCircle,
-  Award,
-  TrendingUp,
 } from 'lucide-react';
-import { useRef, useCallback } from 'react';
 import config from './siteConfig';
 import './App.css';
 
@@ -322,60 +319,33 @@ function TrustStrip() {
 }
 
 /* ─── STAT COUNTERS ────────────────────────────────────── */
-function useCountUp(end, duration = 1.8) {
-  const [count, setCount] = useState(0);
-  const ref = useRef(null);
-  const started = useRef(false);
-
-  const onView = useCallback((entry) => {
-    if (entry[0]?.isIntersecting && !started.current) {
-      started.current = true;
-      const start = performance.now();
-      const tick = (now) => {
-        const progress = Math.min((now - start) / (duration * 1000), 1);
-        const eased = 1 - Math.pow(1 - progress, 3);
-        setCount(Math.round(eased * end));
-        if (progress < 1) requestAnimationFrame(tick);
-      };
-      requestAnimationFrame(tick);
-    }
-  }, [end, duration]);
-
-  useEffect(() => {
-    const obs = new IntersectionObserver(onView, { threshold: 0.3 });
-    if (ref.current) obs.observe(ref.current);
-    return () => obs.disconnect();
-  }, [onView]);
-
-  return [count, ref];
-}
-
-function StatCounters() {
-  const { t } = useTranslation();
-  const [years, yearsRef] = useCountUp(18);
-  const [rentals, rentalsRef] = useCountUp(2000);
-  const [locations, locsRef] = useCountUp(30);
-
-  const stats = [
-    { value: `${years}+`, label: t('stats.years'), icon: <Award size={22} />, ref: yearsRef },
-    { value: rentals >= 2000 ? '2,000+' : rentals.toLocaleString(), label: t('stats.rentals'), icon: <TrendingUp size={22} />, ref: rentalsRef },
-    { value: '4.8/5', label: t('stats.rating'), icon: <Star size={22} fill="currentColor" />, ref: null },
-    { value: `${locations}+`, label: t('stats.locations'), icon: <MapPin size={22} />, ref: locsRef },
-  ];
-
+/* ─── MOUNTAIN ROUTES (PODGORICA UNIQUE) ──────────────── */
+function MountainRoutes() {
   return (
-    <section className="stats-section">
+    <section className="section" id="mountain-routes">
       <div className="container">
-        <div className="stats-grid">
-          {stats.map((s, i) => (
-            <div
-              key={s.label}
-              className="stat-card reveal-item"
-              ref={s.ref}
-            >
-              <div className="stat-card__icon">{s.icon}</div>
-              <div className="stat-card__value">{s.value}</div>
-              <div className="stat-card__label">{s.label}</div>
+        <div className="section-header">
+          <span className="section-label">Mountain Drives</span>
+          <h2 className="section-title">Routes from the Capital</h2>
+          <p className="section-subtitle">Podgorica sits at the crossroads of coast and mountains. These are the drives our customers book for.</p>
+        </div>
+        <div className="mountain-grid">
+          {[
+            { title: 'Durmitor & \u017dabljak', desc: 'UNESCO national park at 1,450 m. Black Lake, Tara Bridge, winter skiing at Savin Kuk. Fill up in Nik\u0161i\u0107 — fuel is scarce beyond.', distance: '170 km', time: '2.5 hours', image: '/img/durmitor-mountains.webp' },
+            { title: 'Mora\u010Da Canyon', desc: 'Vertical limestone gorge with a 13th-century monastery tucked inside. The road clings to the cliff face — one of Europe\'s most dramatic drives.', distance: '65 km', time: '1 hour', image: '/img/moraca-canyon.webp' },
+            { title: 'Ostrog Monastery', desc: 'Cliff-carved Orthodox monastery — Montenegro\'s most visited pilgrimage site. The upper monastery is built into a sheer rock face at 900 m.', distance: '50 km', time: '45 min', image: '/img/ostrog-monastery.webp' },
+            { title: 'Lake Skadar Wine Trail', desc: 'Boat through lily pads, taste Vranac reds at lakeside vineyards in Crmnica. The Balkans\' largest lake is just 30 minutes south.', distance: '30 km', time: '30 min', image: '/img/lake-skadar.webp' },
+          ].map((route) => (
+            <div key={route.title} className="mountain-card reveal-item">
+              <div className="mountain-card__img" style={{ backgroundImage: `url(${route.image})` }} />
+              <div className="mountain-card__body">
+                <h3 className="mountain-card__title">{route.title}</h3>
+                <p className="mountain-card__desc">{route.desc}</p>
+                <div className="mountain-card__meta">
+                  <span><MapPin size={14} /> {route.distance}</span>
+                  <span><Clock size={14} /> {route.time}</span>
+                </div>
+              </div>
             </div>
           ))}
         </div>
@@ -414,35 +384,6 @@ function HowItWorks() {
   );
 }
 
-/* ─── BRAND LOGOS ──────────────────────────────────────── */
-const CAR_BRANDS = [
-  { name: 'Toyota',     logo: '/img/logo-toyota.png' },
-  { name: 'Fiat',       logo: '/img/logo-fiat.png' },
-  { name: 'Volkswagen', logo: '/img/logo-volkswagen.png' },
-  { name: 'Peugeot',    logo: '/img/logo-peugeot.png' },
-  { name: 'Renault',    logo: '/img/logo-renault.png' },
-  { name: 'Hyundai',    logo: '/img/logo-hyundai.png' },
-  { name: 'Citroën',    logo: '/img/logo-citroen.png' },
-  { name: 'Suzuki',     logo: '/img/logo-suzuki.png' },
-  { name: 'Ford',       logo: '/img/logo-ford.png' },
-  { name: 'Dacia',      logo: '/img/logo-dacia.png' },
-];
-
-function BrandLogos() {
-  const { t } = useTranslation();
-  return (
-    <section className="brands-section">
-      <div className="container">
-        <p className="brands-label">{t("brands.label")}</p>
-        <div className="brands-row">
-          {CAR_BRANDS.map((brand) => (
-            <img key={brand.name} className="brand-logo" src={brand.logo} alt={brand.name} loading="lazy" />
-          ))}
-        </div>
-      </div>
-    </section>
-  );
-}
 
 /* ─── DESTINATIONS ──────────────────────────────────────── */
 function Destinations() {
@@ -689,9 +630,9 @@ function FAQ() {
         </div>
 
         <div className="faq-list">
-          {[0, 6].map(start => (
+          {[0, 5].map(start => (
             <div key={start} className="faq-column">
-              {[0, 1, 2, 3, 4, 5].map(offset => {
+              {Array.from({ length: start === 0 ? 5 : 4 }, (_, i) => i).map(offset => {
                 const i = start + offset;
                 const isOpen = open === i;
                 return (
@@ -844,14 +785,12 @@ export default function App() {
           <Hero />
           <TrustStrip />
         </div>
+        <Features />
         <Fleet />
         <Reviews />
-        <TrustpilotBanner />
         <HowItWorks />
-        <StatCounters />
-        <BrandLogos />
+        <MountainRoutes />
         <Destinations />
-        <Features />
         <FAQ />
         <CTABanner />
       </main>
