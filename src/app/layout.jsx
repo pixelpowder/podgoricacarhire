@@ -9,9 +9,9 @@ import { LanguageContext } from '@/src/i18n/LanguageContext';
 import { DEFAULT_LANG } from '@/src/i18n/languages';
 
 export const metadata = {
-  title: 'Podgorica Car Hire — Airport Pickup, Drive Montenegro',
+  title: 'Podgorica Car Hire — Budget Flights, Open Roads',
   description:
-    'Rent a car in Podgorica from \u20AC13/day. Pick up at Podgorica Airport (TGD) and drive to Durmitor, Lake Skadar, Kotor, and the coast. Free cancellation, full insurance, no hidden fees.',
+    'Fly Ryanair or Wizz into TGD, grab a car from \u20AC13/day, and reach Lake Skadar in 30 min or Durmitor in 2.5 hrs. 200+ vehicles, free cancellation, full insurance.',
   metadataBase: new URL('https://www.podgoricacarhire.com'),
 };
 

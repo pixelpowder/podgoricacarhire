@@ -95,8 +95,8 @@
   },
   "book": {
     "title": "Find Your Car",
-    "seoTitle": "Book a Car",
-    "seoDesc": "Search and book rental cars in Podgorica. Real-time availability, instant confirmation, free cancellation."
+    "seoTitle": "Book from Podgorica — 200+ Cars",
+    "seoDesc": "Ryanair and Wizz Air land daily at TGD. Pick from 200+ cars, confirm instantly, and cancel free. Prices start at \u20AC13/day with full insurance."
   },
   "footer": {
     "brandDesc": "Car rentals from Podgorica, Montenegro's capital. Airport pickups, full insurance, and no hidden fees.",
@@ -123,12 +123,12 @@
     "searchCars": "Search Cars"
   },
   "home": {
-    "seoDesc": "Rent a car in Podgorica from \u20AC13/day. Pick up at Podgorica Airport (TGD) and drive to Durmitor, Lake Skadar, Kotor, Budva, and 28+ locations. Free cancellation, full insurance, no hidden fees."
+    "seoDesc": "Fly budget into Montenegro's capital, drive everywhere. Cars from \u20AC13/day at TGD airport. Lake Skadar in 30 min, coast in 1 hr, Durmitor in 2.5 hrs. Free cancellation, full insurance."
   },
   "about": {
     "title": "About Us",
     "subtitle": "Helping travellers explore Montenegro from its capital.",
-    "seoDesc": "About Podgorica Car Hire. Helping travellers explore Montenegro from Podgorica with reliable rental cars, airport delivery, and local expertise.",
+    "seoDesc": "Mountain roads and coastal highways are our specialty. Based at TGD airport since day one, we match Ryanair/Wizz arrivals with the right car for every route in Montenegro.",
     "heading1": "Podgorica Car Hire",
     "p1": "Podgorica Car Hire connects travellers with reliable, affordable rental cars in Montenegro's capital. Whether you're arriving on a budget flight or starting a road trip from the heart of the country, we make it easy to get behind the wheel and explore.",
     "heading2": "Why Podgorica?",
@@ -162,92 +162,92 @@
   "kotor": {
     "title": "Podgorica to Kotor",
     "subtitle": "Drive from the capital to Montenegro's UNESCO jewel in 1.5 hours.",
-    "seoDesc": "Drive from Podgorica to Kotor. Rent a car at Podgorica Airport and reach the UNESCO old town in 90 minutes. Full insurance, no hidden fees."
+    "seoDesc": "The 1.5-hour drive from Podgorica crosses the Lovćen switchbacks with jaw-dropping bay views. Collect at TGD, reach Kotor's medieval walls by lunch."
   },
   "tivat-airport": {
     "title": "Tivat Airport Car Hire",
     "subtitle": "Collect your rental car at arrivals \u2014 we meet you at the gate.",
-    "seoDesc": "Pick up your rental car at Tivat Airport (TIV). We meet you at arrivals with your vehicle ready. Drive to Kotor, Budva, or Porto Montenegro in minutes."
+    "seoDesc": "Tivat Airport (TIV) sits 7 km from Porto Montenegro. We hand you the keys at arrivals — Kotor is 8 min away, Budva 25 min down the coast."
   },
   "budva": {
     "title": "Podgorica to Budva",
     "subtitle": "Reach Montenegro's riviera from the capital in about one hour.",
-    "seoDesc": "Drive from Podgorica to Budva in about 1 hour. Rent a car at Podgorica Airport and reach the beaches, nightlife, and old town charm of the Montenegrin Riviera."
+    "seoDesc": "One hour from TGD to Budva's beaches. Pass Lake Skadar en route, stop at Sveti Stefan on arrival. Collect your car at Podgorica Airport with full insurance."
   },
   "perast": {
     "title": "Podgorica to Perast",
     "subtitle": "A baroque gem on the Bay of Kotor, under 2 hours from the capital.",
-    "seoDesc": "Drive from Podgorica to Perast in under 2 hours. Rent a car and visit this baroque jewel on the Bay of Kotor at your own pace."
+    "seoDesc": "Under 2 hours from TGD airport to Perast's baroque waterfront. Park up and take a boat to Our Lady of the Rocks island. Full insurance included."
   },
   "podgorica": {
     "title": "Car Hire in Podgorica",
     "subtitle": "Montenegro's capital \u2014 rivers, bridges, and gateway to everything.",
-    "seoDesc": "Car hire in Podgorica, Montenegro's capital. Explore Lake Skadar, Ostrog Monastery, Cetinje, and Durmitor with a rental car. Airport pickup available."
+    "seoDesc": "Podgorica sits where rivers meet mountains. Use the capital as your base for Lake Skadar, Ostrog, Cetinje, and Durmitor — all within a morning's drive."
   },
   "podgorica-airport": {
     "title": "Podgorica Airport Car Hire",
     "subtitle": "Montenegro's capital airport \u2014 budget airline hub for Ryanair and Wizz Air.",
-    "seoDesc": "Collect your rental car at Podgorica Airport (TGD). We deliver your vehicle to arrivals. Drive to Lake Skadar, the coast, or Durmitor National Park."
+    "seoDesc": "TGD handles Ryanair, Wizz Air, and seasonal charters. We meet every flight at arrivals with your car ready — 10-min handover, zero shuttle waits."
   },
   "dubrovnik-airport": {
     "title": "Dubrovnik Airport Car Hire",
     "subtitle": "Fly into Croatia, drive into Montenegro.",
-    "seoDesc": "Rent a car at Dubrovnik Airport and drive into Montenegro. Cross the border in under an hour. Full insurance and green card included."
+    "seoDesc": "Dubrovnik Airport is 2 hrs from Podgorica via the coast road. Cross at Debeli Brijeg, green card insurance sorted. A scenic alternative entry to Montenegro."
   },
   "tivat": {
     "title": "Car Hire in Tivat",
     "subtitle": "Montenegro's marina town on the Bay of Kotor.",
-    "seoDesc": "Hire a car in Tivat, home of Porto Montenegro marina. Explore nearby beaches, Kotor, and the Bay of Kotor with affordable car rental."
+    "seoDesc": "Porto Montenegro superyachts aside, Tivat is your coastal launchpad. Cars from \u20AC13/day \u2014 Kotor 8 min, Budva 25 min, Herceg Novi 35 min."
   },
   "lake-skadar": {
     "title": "Podgorica to Lake Skadar",
     "subtitle": "The Balkans' largest lake \u2014 just 30 minutes from the capital.",
-    "seoDesc": "Drive from Podgorica to Lake Skadar National Park in 30 minutes. Rent a car and explore the largest lake in the Balkans with pelicans, boat trips, and lakeside villages."
+    "seoDesc": "Just 30 min from TGD: 400 km\u00B2 of wetland, Dalmatian pelicans, boat tours from Virpazar, and wine villages along the shore. A car unlocks the lake's quieter spots."
   },
   "cetinje": {
     "title": "Podgorica to Cetinje",
     "subtitle": "Montenegro's old royal capital in the mountains \u2014 35 minutes from Podgorica.",
-    "seoDesc": "Drive from Podgorica to Cetinje in 35 minutes. Explore Montenegro's former royal capital, its monasteries, museums, and mountain setting."
+    "seoDesc": "35-minute mountain drive from Podgorica to Montenegro's former royal capital. Visit the Cetinje Monastery, the National Museum, and Lov\u0107en peak above."
   },
   "durmitor": {
     "title": "Podgorica to Durmitor",
     "subtitle": "UNESCO mountain national park \u2014 2.5 hours from the capital.",
-    "seoDesc": "Drive from Podgorica to Durmitor National Park in 2.5 hours. Rent a car and explore Zabljak, Black Lake, Tara Canyon, and Montenegro's mountain wilderness."
+    "seoDesc": "2.5 hrs north from TGD to Durmitor's UNESCO peaks. Black Lake, Tara Canyon (1,300 m deep), and \u017Dabljak ski town await. SUVs and snow chains available."
   },
   "ostrog-monastery": {
     "title": "Podgorica to Ostrog Monastery",
     "subtitle": "Montenegro's most visited pilgrimage site \u2014 carved into a cliff face.",
-    "seoDesc": "Drive from Podgorica to Ostrog Monastery in 45 minutes. Rent a car and visit Montenegro's most famous cliff monastery, a major Orthodox pilgrimage site."
+    "seoDesc": "45 min from Podgorica to a monastery carved into sheer cliff. Ostrog draws a million pilgrims a year \u2014 arrive early, park at the lower lot, walk up."
   },
   "niksic": {
     "title": "Podgorica to Niksic",
     "subtitle": "Montenegro's second city and gateway to the north \u2014 1 hour from Podgorica.",
-    "seoDesc": "Drive from Podgorica to Niksic in about 1 hour. Explore Montenegro's second-largest city, Niksic brewery, and the gateway to Durmitor and the north."
+    "seoDesc": "Hour-long drive to Montenegro's beer capital. Tour the Trebjesa brewery, then continue north to Durmitor. Niksic makes a smart overnight stop."
   },
   "montenegro": {
-    "title": "Montenegro Car Hire & Travel Guide",
-    "subtitle": "Everything you need to know about driving in Montenegro.",
-    "seoDesc": "Complete guide to driving in Montenegro. Road rules, speed limits, fuel prices, and the best scenic routes from coast to mountains."
+    "title": "Montenegro Driving Guide from Podgorica",
+    "subtitle": "Mountain roads, altitude changes, and winter conditions from the capital.",
+    "seoDesc": "Mountain passes, altitude changes, and winter conditions \u2014 what to expect driving from Podgorica. Speed limits, fuel stops, and toll-free roads explained."
   },
   "border-crossing": {
-    "title": "Balkans Border Crossing Guide",
-    "subtitle": "Everything you need to know about driving your rental car across borders.",
-    "seoDesc": "Guide to crossing borders from Montenegro by rental car. Green card insurance, required documents, and tips for Croatia, Bosnia, Albania, and Serbia."
+    "title": "Border Crossings from Inland Montenegro",
+    "subtitle": "Serbia, Kosovo, and Albania borders are all under 90 min from Podgorica.",
+    "seoDesc": "Podgorica sits near Serbia, Kosovo, and Albania borders. Green card docs, queue times, and which crossings to avoid on weekends \u2014 all covered here."
   },
   "privacy": {
     "title": "Privacy Policy",
     "subtitle": "How we handle your information.",
-    "seoDesc": "Privacy policy for Podgorica Car Hire. How we collect, use, and protect your personal data when you search for rental cars."
+    "seoDesc": "How Podgorica Car Hire handles your data. We explain what we collect during booking, how it is stored, and your rights under GDPR."
   },
   "terms": {
     "title": "Terms & Conditions",
     "subtitle": "Terms of use for our website.",
-    "seoDesc": "Terms and conditions for using Podgorica Car Hire. Learn about our booking process, rental partner, pricing, and liability."
+    "seoDesc": "Booking terms for Podgorica Car Hire. Covers payment, cancellation windows, rental partner obligations, and liability limits."
   },
   "cookie-policy": {
     "title": "Cookie Policy",
     "subtitle": "How we use cookies on this website.",
-    "seoDesc": "Cookie policy for Podgorica Car Hire. Learn what cookies we use, how the booking widget stores preferences, and how to manage them."
+    "seoDesc": "Cookies on podgoricacarhire.com: what the booking widget stores, which analytics we run, and how to opt out."
   },
   "featureCards": {
     "airportPickup": {
