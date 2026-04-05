@@ -14,6 +14,7 @@ export default function Durmitor() {
       <p>{t('durmitorBody.hikingText')}</p>
       <h3>{t('durmitorBody.raftingTitle')}</h3>
       <p>{t('durmitorBody.raftingText')}</p>
+      <img src="/img/moraca-canyon.webp" alt="Tara Canyon" loading="lazy" />
       <h3>{t('durmitorBody.winterTitle')}</h3>
       <p>{t('durmitorBody.winterText')}</p>
       <h2>{t('durmitorBody.blackLakeTitle')}</h2>

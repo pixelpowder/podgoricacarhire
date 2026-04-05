@@ -19,7 +19,7 @@ export default function Montenegro() {
       <ul><li>{t('montenegroBody.rule1')}</li><li>{t('montenegroBody.rule2')}</li><li>{t('montenegroBody.rule3')}</li><li>{t('montenegroBody.rule4')}</li></ul>
       <h3>{t('montenegroBody.keyRulesTitle')}</h3>
       <ul><li>{t('montenegroBody.keyRule1')}</li><li>{t('montenegroBody.keyRule2')}</li><li>{t('montenegroBody.keyRule3')}</li><li>{t('montenegroBody.keyRule4')}</li></ul>
-      <img src="/img/moraca-canyon.webp" alt="Montenegro canyon road" loading="lazy" />
+      <img src="/img/moraca-canyon.webp" alt="Canyon road in Montenegro" loading="lazy" />
       <h2>{t('montenegroBody.conditionsTitle')}</h2>
       <p>{t('montenegroBody.conditionsText')}</p>
       <h2>{t('montenegroBody.routesTitle')}</h2>

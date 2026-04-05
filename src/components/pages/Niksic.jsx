@@ -11,6 +11,7 @@ export default function Niksic() {
       <p>{t('niksicBody.p2')}</p>
       <h2>{t('niksicBody.breweryTitle')}</h2>
       <p>{t('niksicBody.breweryText')}</p>
+      <img src="/img/mountain-road.webp" alt="Mountain road near Niksic" loading="lazy" />
       <h2>{t('niksicBody.lakeTitle')}</h2>
       <p>{t('niksicBody.lakeText')}</p>
       <h2>{t('niksicBody.fortressTitle')}</h2>

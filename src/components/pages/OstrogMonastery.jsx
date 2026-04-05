@@ -9,6 +9,7 @@ export default function OstrogMonastery() {
       <h2>{t('ostrogBody.h1')}</h2>
       <p>{t('ostrogBody.p1')}</p>
       <p>{t('ostrogBody.p2')}</p>
+      <img src="/img/mountain-road.webp" alt="Cliff road to Ostrog" loading="lazy" />
       <h2>{t('ostrogBody.upperTitle')}</h2>
       <p>{t('ostrogBody.upperText')}</p>
       <h2>{t('ostrogBody.lowerTitle')}</h2>

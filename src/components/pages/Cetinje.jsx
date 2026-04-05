@@ -11,6 +11,7 @@ export default function Cetinje() {
       <p>{t('cetinjeBody.p2')}</p>
       <h2>{t('cetinjeBody.monasteryTitle')}</h2>
       <p>{t('cetinjeBody.monasteryText')}</p>
+      <img src="/img/mountain-road.webp" alt="Mountain road to Cetinje" loading="lazy" />
       <h2>{t('cetinjeBody.museumsTitle')}</h2>
       <h3>{t('cetinjeBody.kingPalaceTitle')}</h3>
       <p>{t('cetinjeBody.kingPalaceText')}</p>
