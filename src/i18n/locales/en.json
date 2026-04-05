@@ -30,11 +30,11 @@
   },
   "trust": {
     "noHiddenFees": "No Hidden Fees",
-    "noHiddenFeesDesc": "The price you see covers everything",
+    "noHiddenFeesDesc": "Total cost shown before you book — airport fees and taxes all included",
     "fullInsurance": "Full Insurance",
-    "fullInsuranceDesc": "Zero excess option on every vehicle",
-    "fastPickup": "10-Min Pickup",
-    "fastPickupDesc": "We meet you right at arrivals"
+    "fullInsuranceDesc": "Every vehicle includes CDW, with zero-excess cover for mountain and motorway trips",
+    "fastPickup": "TGD Airport",
+    "fastPickupDesc": "Your car is parked at Podgorica Airport — collect and go in minutes"
   },
   "stats": {
     "years": "Years Experience",
