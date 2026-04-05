@@ -4,8 +4,8 @@ import ContentPage from '../../ContentPage';
 export default function Cetinje() {
   const { t } = useTranslation();
   return (
-    <ContentPage title={t("cetinje.title")} subtitle={t("cetinje.subtitle")} description={t("cetinje.seoDesc")} image="/img/pexels-5668157.jpg">
-      <img src="/img/pexels-27151410.jpg" alt="Cetinje" loading="lazy" />
+    <ContentPage title={t("cetinje.title")} subtitle={t("cetinje.subtitle")} description={t("cetinje.seoDesc")} image="/img/cetinje-town.webp">
+      <img src="/img/cetinje-town.webp" alt="Cetinje" loading="lazy" />
       <h2>{t('cetinjeBody.h1')}</h2>
       <p>{t('cetinjeBody.p1')}</p>
       <p>{t('cetinjeBody.p2')}</p>

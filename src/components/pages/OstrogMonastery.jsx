@@ -4,8 +4,8 @@ import ContentPage from '../../ContentPage';
 export default function OstrogMonastery() {
   const { t } = useTranslation();
   return (
-    <ContentPage title={t("ostrog-monastery.title")} subtitle={t("ostrog-monastery.subtitle")} description={t("ostrog-monastery.seoDesc")} image="/img/pexels-9526646.jpg">
-      <img src="/img/pexels-4264818.jpg" alt="Ostrog Monastery" loading="lazy" />
+    <ContentPage title={t("ostrog-monastery.title")} subtitle={t("ostrog-monastery.subtitle")} description={t("ostrog-monastery.seoDesc")} image="/img/ostrog-monastery.webp">
+      <img src="/img/ostrog-monastery.webp" alt="Ostrog Monastery" loading="lazy" />
       <h2>{t('ostrogBody.h1')}</h2>
       <p>{t('ostrogBody.p1')}</p>
       <p>{t('ostrogBody.p2')}</p>

@@ -4,8 +4,8 @@ import ContentPage from '../../ContentPage';
 export default function Perast() {
   const { t } = useTranslation();
   return (
-    <ContentPage title={t("perast.title")} subtitle={t("perast.subtitle")} description={t("perast.seoDesc")} image="/img/pexels-29904099.jpg">
-      <img src="/img/pexels-27821472.jpg" alt="Perast and the islands" loading="lazy" />
+    <ContentPage title={t("perast.title")} subtitle={t("perast.subtitle")} description={t("perast.seoDesc")} image="/img/moraca-canyon.webp">
+      <img src="/img/moraca-canyon.webp" alt="Perast and the islands" loading="lazy" />
       <h2>{t('perastBody.h1')}</h2>
       <p>{t('perastBody.p1')}</p>
       <p>{t('perastBody.p2')}</p>
@@ -14,7 +14,7 @@ export default function Perast() {
       <p>{t('perastBody.stGeorgeText')}</p>
       <h3>{t('perastBody.ladyOfRocksTitle')}</h3>
       <p>{t('perastBody.ladyOfRocksText')}</p>
-      <img src="/img/pexels-7510133.jpg" alt="Bay of Kotor landscape" loading="lazy" />
+      <img src="/img/mountain-road.webp" alt="Bay of Kotor landscape" loading="lazy" />
       <h2>{t('perastBody.historicTitle')}</h2>
       <p>{t('perastBody.historicText')}</p>
       <h3>{t('perastBody.monasteryTitle')}</h3>

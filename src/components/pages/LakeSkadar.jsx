@@ -4,8 +4,8 @@ import ContentPage from '../../ContentPage';
 export default function LakeSkadar() {
   const { t } = useTranslation();
   return (
-    <ContentPage title={t("lake-skadar.title")} subtitle={t("lake-skadar.subtitle")} description={t("lake-skadar.seoDesc")} image="/img/pexels-28674522.jpg">
-      <img src="/img/pexels-4264818.jpg" alt="Lake Skadar" loading="lazy" />
+    <ContentPage title={t("lake-skadar.title")} subtitle={t("lake-skadar.subtitle")} description={t("lake-skadar.seoDesc")} image="/img/lake-skadar.webp">
+      <img src="/img/lake-skadar.webp" alt="Lake Skadar" loading="lazy" />
       <h2>{t('lakeSkadarBody.h1')}</h2>
       <p>{t('lakeSkadarBody.p1')}</p>
       <p>{t('lakeSkadarBody.p2')}</p>
