@@ -21,7 +21,7 @@
     },
     "search": "Search",
     "pickupLocation": "Pick-up location",
-    "searchLocation": "Search location\u2026",
+    "searchLocation": "Search location…",
     "pickupDate": "Pick-up date",
     "pickupTime": "Time",
     "dropoffDate": "Drop-off date",
@@ -96,7 +96,7 @@
   "book": {
     "title": "Find Your Car",
     "seoTitle": "Book from Podgorica — 200+ Cars",
-    "seoDesc": "Ryanair and Wizz Air land daily at TGD. Grab from 200+ cars, lock in instantly, cancel free. From \u20AC13/day with full insurance — then point the bonnet towards Durmitor."
+    "seoDesc": "Ryanair and Wizz Air land daily at TGD. Grab from 200+ cars, lock in instantly, cancel free. From €13/day with full insurance — then point the bonnet towards Durmitor."
   },
   "footer": {
     "brandDesc": "Car hire from Podgorica — Montenegro's mountain gateway. Airport handovers, full insurance, zero hidden fees.",
@@ -123,7 +123,7 @@
     "searchCars": "Search Cars"
   },
   "home": {
-    "seoDesc": "Fly budget into Montenegro's mountain capital, drive everywhere. Cars from \u20AC13/day at TGD. Lake Skadar in 30 min, Tara Canyon in 2.5 hrs, Adriatic coast in 1 hr. Free cancellation, full insurance."
+    "seoDesc": "Fly budget into Montenegro's mountain capital, drive everywhere. Cars from €13/day at TGD. Lake Skadar in 30 min, Tara Canyon in 2.5 hrs, Adriatic coast in 1 hr. Free cancellation, full insurance."
   },
   "about": {
     "title": "About Us",
@@ -161,8 +161,8 @@
   },
   "kotor": {
     "title": "Podgorica to Kotor",
-    "subtitle": "Trade the capital's 40\u00B0C heat for the cool shade of medieval walls — 1.5 hours over the Lov\u0107en switchbacks.",
-    "seoDesc": "The 1.5-hour drive from Podgorica crosses 25 hairpin bends on Lov\u0107en with jaw-dropping bay views. Collect at TGD, reach Kotor's UNESCO walls by lunch."
+    "subtitle": "Trade the capital's 40°C heat for the cool shade of medieval walls — 1.5 hours over the Lovćen switchbacks.",
+    "seoDesc": "The 1.5-hour drive from Podgorica crosses 25 hairpin bends on Lovćen with jaw-dropping bay views. Collect at TGD, reach Kotor's UNESCO walls by lunch."
   },
   "tivat-airport": {
     "title": "Tivat Airport Car Hire",
@@ -197,22 +197,22 @@
   "tivat": {
     "title": "Car Hire in Tivat",
     "subtitle": "Superyacht marina meets mountain access on the Bay of Kotor.",
-    "seoDesc": "Porto Montenegro superyachts aside, Tivat is the coastal trailhead. Cars from \u20AC13/day — Kotor 8 min, Budva 25 min, Herceg Novi 35 min."
+    "seoDesc": "Porto Montenegro superyachts aside, Tivat is the coastal trailhead. Cars from €13/day — Kotor 8 min, Budva 25 min, Herceg Novi 35 min."
   },
   "lake-skadar": {
     "title": "Podgorica to Lake Skadar",
-    "subtitle": "391 km\u00B2 of wetland wilderness — pelicans, wine villages, and hidden beaches just 30 minutes south.",
-    "seoDesc": "30 min from TGD: 391 km\u00B2 of wetland, Dalmatian pelicans, 270 bird species, Crmnica wine region, and boat tours from Virpazar. A car unlocks the lake's quieter coves."
+    "subtitle": "391 km² of wetland wilderness — pelicans, wine villages, and hidden beaches just 30 minutes south.",
+    "seoDesc": "30 min from TGD: 391 km² of wetland, Dalmatian pelicans, 270 bird species, Crmnica wine region, and boat tours from Virpazar. A car unlocks the lake's quieter coves."
   },
   "cetinje": {
     "title": "Podgorica to Cetinje",
     "subtitle": "Montenegro's former royal capital at 670 m altitude — 35 minutes into the clouds.",
-    "seoDesc": "35-min mountain climb from Podgorica to Cetinje, Montenegro's capital from 1878 to 1918. Cetinje Monastery, King Nikola's Palace, then Njegos Mausoleum on Lov\u0107en above."
+    "seoDesc": "35-min mountain climb from Podgorica to Cetinje, Montenegro's capital from 1878 to 1918. Cetinje Monastery, King Nikola's Palace, then Njegos Mausoleum on Lovćen above."
   },
   "durmitor": {
     "title": "Podgorica to Durmitor",
     "subtitle": "UNESCO peaks, glacial lakes, and the world's second-deepest canyon — 2.5 hours north.",
-    "seoDesc": "2.5 hrs from TGD through Mora\u010Da Canyon to Durmitor's 2,522 m peaks. Black Lake trail, Tara Canyon (1,300 m deep), and \u017Dabljak at 1,456 m. SUVs and snow chains available."
+    "seoDesc": "2.5 hrs from TGD through Morača Canyon to Durmitor's 2,522 m peaks. Black Lake trail, Tara Canyon (1,300 m deep), and Žabljak at 1,456 m. SUVs and snow chains available."
   },
   "ostrog-monastery": {
     "title": "Podgorica to Ostrog Monastery",
@@ -220,9 +220,9 @@
     "seoDesc": "45 min from Podgorica to a monastery embedded in sheer rock at 900 m. Ostrog draws 2 million pilgrims annually — arrive at dawn, skip the crowds, drive the switchbacks."
   },
   "niksic": {
-    "title": "Podgorica to Nik\u0161i\u0107",
+    "title": "Podgorica to Nikšić",
     "subtitle": "Beer, fortress ruins, and the last fuel stop before Durmitor — 1 hour from Podgorica.",
-    "seoDesc": "One-hour drive to Montenegro's second city and brewing capital. Tour Trebjesa, fill the tank, then push north into Durmitor's peaks. Nik\u0161i\u0107 makes a smart overnight base."
+    "seoDesc": "One-hour drive to Montenegro's second city and brewing capital. Tour Trebjesa, fill the tank, then push north into Durmitor's peaks. Nikšić makes a smart overnight base."
   },
   "montenegro": {
     "title": "Montenegro Driving Guide from Podgorica",
@@ -252,88 +252,88 @@
   "featureCards": {
     "airportPickup": {
       "title": "Airport Handover",
-      "desc": "We meet you at TGD arrivals, keys in hand. No shuttle bus, no waiting in line."
+      "desc": "Keys in hand within 10 minutes of landing at TGD. The mountains are waiting."
     },
     "fullInsurance": {
       "title": "Mountain-Grade Insurance",
-      "desc": "Full coverage with zero excess option — because canyon roads deserve confidence."
+      "desc": "Full coverage with zero excess option — built for mountain switchbacks, canyon roads, and everything in between."
     },
     "support": {
       "title": "24/7 Roadside Backup",
-      "desc": "Flat tyre on a mountain pass at midnight? We pick up the phone, always."
+      "desc": "Snowed in above Žabljak? We've seen it before. Call any time."
     },
     "noHiddenFees": {
       "title": "No Hidden Fees",
-      "desc": "Fuel policy, mileage, tax, tolls info — everything baked into the price you see."
+      "desc": "Winter extras like snow chains are priced upfront, never added at the counter. What you see is what you pay."
     },
     "freeCancellation": {
       "title": "Free Cancellation",
-      "desc": "Storms over Durmitor? Plans shift. Cancel up to 24 hours before for a full refund."
+      "desc": "Ryanair rescheduled? Mountain pass closed by snow? Cancel up to 24 hours before for a full refund."
     },
     "crossBorder": {
       "title": "Cross-Border Ready",
-      "desc": "Croatia, Bosnia, Albania, Kosovo, Serbia — Green Card sorted, just tell us at booking."
+      "desc": "Serbia (Prijepolje, 2 hrs), Albania (Shkodra, 1.5 hrs), Kosovo (Peć, 3 hrs) — Green Card included, just tell us at booking."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Flew Ryanair from Stansted into TGD, had the Jeep in 10 minutes. Drove straight through Mora\u010Da Canyon to Durmitor — the mountain roads were incredible and the car handled every switchback."
+      "text": "We flew into TGD specifically to hike Durmitor and walk the rim of Tara Canyon. The 4x4 was ready in minutes and handled the mountain roads to Žabljak without a single complaint. Booking was simple and the price was better than anything we found back home."
     },
     "1": {
-      "text": "We used Podgorica as basecamp for a full week. Lake Skadar one day, Ostrog Monastery the next, then the coast. The Octavia was spotless and the price was half what we'd pay at Tivat."
+      "text": "Solo road trip from Podgorica Airport up through Morača Canyon to Ostrog Monastery — one of the most dramatic drives I've ever done. The car was immaculate and picking it up at TGD took less than 10 minutes. I'll use this service every time I fly Wizz Air into Montenegro."
     },
     "2": {
-      "text": "Arrived on Wizz Air from Vienna, picked up at TGD, drove to Cetinje and then over Lov\u0107en to Kotor. The 25 hairpins were terrifying and beautiful in equal measure. Brilliant car, smooth booking."
+      "text": "We booked a beach trip but ended up spending two days exploring Lake Skadar wine villages and somehow found ourselves on a mountain road above Cetinje at sunset. Best accidental detour ever. The car made it all possible and the booking was completely stress-free."
     }
   },
   "faqItems": {
     "0": {
       "q": "What documents do I need?",
-      "a": "A valid driving licence (must show Latin script details), a foreign passport, and a physical credit card in the main driver's name. International Driving Permit recommended if your licence is only valid in its country of origin. Copies or electronic licences are not accepted."
+      "a": "A valid driving licence showing Latin-script details, your passport, and a physical credit card issued in the main driver's name. If your licence was issued outside the EU, an International Driving Permit is strongly recommended alongside your national licence. Photocopies and digital licences stored on a phone are not accepted at pickup."
     },
     "1": {
-      "q": "Can I drive to Croatia or Albania?",
-      "a": "Yes! If you plan to travel outside Montenegro, notify the rental agent in advance so they can complete the required documents. Cross-border travel to neighbouring countries is permitted."
+      "q": "Can I drive to Serbia or Albania?",
+      "a": "Yes — cross-border travel is permitted to Serbia, Albania, Kosovo, Bosnia, and Croatia. The main border crossings near Podgorica are Dračenovac for Serbia and Hani i Hotit for Albania. Let us know at booking so we can prepare the Green Card and any additional paperwork in advance."
     },
     "2": {
       "q": "Is there a minimum age?",
-      "a": "The minimum age and driving experience requirements vary by vehicle. These details are shown when you search for available cars."
+      "a": "The minimum rental age is 21, with at least 2 years of driving experience. Drivers aged 21–24 pay a young driver supplement; the exact rate depends on the vehicle category and is shown clearly during the search before you confirm anything."
     },
     "3": {
       "q": "What's included in the price?",
-      "a": "All vehicles come with insurance \u2014 most include Third Party Liability and Collision Damage Waiver (CDW) in the base price. VAT, equipment kits (first aid, warning triangle, visibility vest), and a transparent fuel policy are also included. Mileage terms vary by vehicle. Extended coverage options are available for an additional fee."
+      "a": "All vehicles include third-party liability insurance, and most include CDW (Collision Damage Waiver) in the base rate. VAT, the mandatory equipment kit (first aid, warning triangle, reflective vest), and a clearly stated fuel policy are all included. Mileage terms vary by vehicle and are shown before booking. Zero-excess upgrades are available as an add-on."
     },
     "4": {
-      "q": "How does pickup work?",
-      "a": "Choose your pickup time and location during booking \u2014 options vary depending on the rental agent and destination. The agent will arrange to meet you at the agreed location. For precise meeting point details, contact the agent directly after booking."
+      "q": "How does pickup work at TGD?",
+      "a": "Podgorica Airport (TGD) is a compact single-terminal building — arrivals are straightforward. Our agent meets you in the arrivals hall holding a board with your name. The car is parked just outside the terminal. From wheels-down to driving away typically takes under 10 minutes."
     },
     "5": {
       "q": "Can I drop off at a different location?",
-      "a": "Yes \u2014 one-way rentals are supported across 28 cities and towns in Montenegro. Simply choose different pickup and dropoff locations during booking."
+      "a": "Yes — one-way rentals are available across 28 destinations in Montenegro. Choose your preferred pickup and dropoff points during booking. One-way fees, where they apply, are shown transparently before you confirm."
     },
     "6": {
       "q": "What is the cancellation policy?",
-      "a": "Free cancellation up to 7 days before the rental start date. For luxury cars and convertibles, free cancellation is available up to 30 days before. A 6% payment service fee applies to all cancellations."
+      "a": "Standard vehicles: free cancellation up to 7 days before pickup. Luxury cars and convertibles: free cancellation up to 30 days before. A 6% payment processing fee applies to all cancellations regardless of timing. If a mountain pass closure or severe weather forces a change of plans, contact us — we'll do what we can."
     },
     "7": {
       "q": "Is a deposit required?",
-      "a": "Deposit amounts vary by vehicle \u2014 some cars are available with no deposit. If required, the deposit must be on a physical credit card in the main driver's name and is refunded upon return of the vehicle in good condition."
+      "a": "Deposit requirements at TGD vary between zero and €300 depending on the vehicle tier. The deposit must be blocked on a physical credit card (not debit or prepaid) in the main driver's name at the time of pickup, and is fully released once the car is returned undamaged. The exact amount for your chosen vehicle is shown in the booking summary."
     },
     "8": {
       "q": "What happens if I exceed the mileage limit?",
-      "a": "Vehicles with mileage restrictions are charged per kilometre over the limit. Rates are shown in the vehicle details before you book."
+      "a": "Vehicles with a kilometre cap charge a per-km rate for any distance above the agreed limit. The rate is listed in the vehicle terms before you book. If you're planning long mountain drives — Durmitor, Tara Canyon, the Albanian border — check the mileage terms carefully or look for an unlimited-mileage option."
     },
     "9": {
-      "q": "Do I need snow chains for Durmitor?",
-      "a": "From November to March, snow chains or winter tyres are mandatory on mountain roads above 1,000 m. If you are heading to Durmitor or \u017Dabljak in winter, let us know at booking and we will equip the car accordingly."
+      "q": "Do I need snow chains for mountain roads?",
+      "a": "From November to March, snow chains or winter tyres are legally required on mountain roads above 1,000 m in Montenegro. This includes the road to Žabljak and Durmitor National Park. If you're heading into the mountains in winter, let us know at booking and we'll equip the car accordingly. Also note: Nikšić is the last reliable fuel stop before Durmitor — fill up there."
     },
     "10": {
       "q": "How much do I pay upfront?",
-      "a": "Only 15\u201320% of the total is required to confirm your booking. The remainder is paid directly to the rental agent at pickup."
+      "a": "A deposit of 15–20% of the total rental cost is charged at booking to secure your reservation. The remaining balance is settled directly with the rental agent at TGD pickup. No surprise charges at the counter — the split is shown clearly before you confirm."
     },
     "11": {
       "q": "Can I rent without a credit card?",
-      "a": "Some vehicles are available without a credit card. Check availability when searching \u2014 card-free options are clearly marked."
+      "a": "A small number of vehicles in our fleet are available to renters without a credit card — these are clearly marked in the search results. For most vehicles, however, a physical credit card in the driver's name is required for the security deposit at pickup."
     }
   },
   "destCards": {
@@ -345,7 +345,7 @@
     "lake-skadar": {
       "name": "Lake Skadar",
       "tag": "30 Minutes",
-      "desc": "391 km\u00B2 of wetland, pelicans, wine villages, and hidden coves."
+      "desc": "391 km² of wetland, pelicans, wine villages, and hidden coves."
     },
     "cetinje": {
       "name": "Cetinje",
@@ -373,7 +373,7 @@
       "desc": "Orthodox shrine carved into a 900 m cliff face — 2 million visitors a year."
     },
     "niksic": {
-      "name": "Nik\u0161i\u0107",
+      "name": "Nikšić",
       "tag": "1 Hour",
       "desc": "Brewery town and last fuel stop before the Durmitor ascent."
     }
@@ -382,9 +382,9 @@
     "h1": "Born at the Airport Gate",
     "p1": "Podgorica Car Hire started with a simple observation: budget airlines dump travellers at TGD, and there is no easy way to get from the flat, sun-baked capital into the mountains that make Montenegro extraordinary. We fixed that. Today we match every Ryanair arrival from Stansted, every Wizz Air touchdown from Vienna, with a car that is ready at arrivals before the seatbelt sign goes off.",
     "h2": "Why Podgorica Is the Smartest Starting Line",
-    "p2": "Podgorica sits at just 44 metres elevation where the Mora\u010Da and Ribnica rivers converge. It is not a postcard town — it is a launchpad. The brutalist apartment blocks and Ottoman laneways of the capital give way to wild countryside within 15 minutes of driving in any direction. Lake Skadar is 30 minutes south. The cliff-carved Ostrog Monastery is 45 minutes north-west. The Adriatic coast is about an hour through the Sozina tunnel. And Durmitor's 2,522-metre peaks are just 2.5 hours up the Mora\u010Da Canyon road. No other city in Montenegro puts you this close to this much variety.",
+    "p2": "Podgorica sits at just 44 metres elevation where the Morača and Ribnica rivers converge. It is not a postcard town — it is a launchpad. The brutalist apartment blocks and Ottoman laneways of the capital give way to wild countryside within 15 minutes of driving in any direction. Lake Skadar is 30 minutes south. The cliff-carved Ostrog Monastery is 45 minutes north-west. The Adriatic coast is about an hour through the Sozina tunnel. And Durmitor's 2,522-metre peaks are just 2.5 hours up the Morača Canyon road. No other city in Montenegro puts you this close to this much variety.",
     "h3": "What We Actually Do",
-    "p3": "We aggregate 200+ cars from trusted local partners across Podgorica Airport, the city centre, and 28 other pickup points in Montenegro. Compact hatchbacks for narrow canyon roads. Mid-size estates for families hauling ski gear. Rugged SUVs for the gravel tracks above \u017Dabljak. Every vehicle comes fully insured with a zero-excess option, and every price includes tax, mileage, and equipment kits — no surprises at the counter.",
+    "p3": "We aggregate 200+ cars from trusted local partners across Podgorica Airport, the city centre, and 28 other pickup points in Montenegro. Compact hatchbacks for narrow canyon roads. Mid-size estates for families hauling ski gear. Rugged SUVs for the gravel tracks above Žabljak. Every vehicle comes fully insured with a zero-excess option, and every price includes tax, mileage, and equipment kits — no surprises at the counter.",
     "promiseTitle": "The Explorer's Guarantee",
     "promise1": "Full insurance with zero excess — even for unpaved mountain tracks",
     "promise2": "Airport meet-and-greet: your car waits at TGD arrivals, tank full, engine cold",
@@ -399,7 +399,7 @@
   },
   "kotorBody": {
     "h1": "The Drive That Earns Every View",
-    "p1": "The road from Podgorica to Kotor is not just transport — it is the headline act. You climb from the capital's 44-metre river plain up and over the Lov\u0107en massif, carving through 25 numbered hairpin bends with the Bay of Kotor slowly unfolding below. On a clear morning, the water glows turquoise against the limestone cliffs. The descent into the bay is one of Europe's great driving experiences.",
+    "p1": "The road from Podgorica to Kotor is not just transport — it is the headline act. You climb from the capital's 44-metre river plain up and over the Lovćen massif, carving through 25 numbered hairpin bends with the Bay of Kotor slowly unfolding below. On a clear morning, the water glows turquoise against the limestone cliffs. The descent into the bay is one of Europe's great driving experiences.",
     "p2": "Kotor itself is a medieval walled city wedged between the bay and the steep flanks of Mount St. John. UNESCO listed the old town and its natural setting together, and once you arrive the reason is obvious. Narrow limestone streets open into tiny squares, cats sleep on windowsills, and fortress walls zigzag 1,200 metres up the mountainside above.",
     "landmarksTitle": "Inside the Walls",
     "stJohnTitle": "St. John Fortress",
@@ -414,7 +414,7 @@
   "budvaBody": {
     "h1": "From River Valley to Riviera in 60 Minutes",
     "p1": "The fastest route from Podgorica to Budva punches through the Sozina tunnel — 4.2 km of mountain bored out in 2005, toll EUR 2.50 each way. You emerge on the southern slopes above Lake Skadar, drop through olive groves, and hit the Adriatic coast within an hour. Budva's 2,500-year-old walled town and 21 km of riviera beaches are your reward.",
-    "p2": "Budva runs hotter than the capital in summer, which is saying something when Podgorica already pushes past 40\u00B0C. The upside is warm sea swimming well into October. The old town walls trap the day's heat and release it into the evening, making the waterfront bar terraces some of the most pleasant spots on the Montenegrin coast after dark.",
+    "p2": "Budva runs hotter than the capital in summer, which is saying something when Podgorica already pushes past 40°C. The upside is warm sea swimming well into October. The old town walls trap the day's heat and release it into the evening, making the waterfront bar terraces some of the most pleasant spots on the Montenegrin coast after dark.",
     "beachesTitle": "Beaches Worth the Drive",
     "beachesIntro": "The Budva Riviera runs 21 km, and a car lets you cherry-pick the best stretches:",
     "mogren": "Two sheltered pebble coves connected by a tunnel through the cliff, walking distance from the old town walls",
@@ -426,14 +426,14 @@
     "dayTripsTitle": "Day Trips from Budva",
     "svetiStefanTrip": "Drive 6 km south for the most photographed view in Montenegro — the fortified island village of Sveti Stefan, now an Aman resort. The public viewpoint above and the mainland beach below are both free.",
     "kotorTrip": "Head 30 minutes north through a mountain tunnel and you drop into the Bay of Kotor — the UNESCO-listed old town and 1,350 steps to the fortress await.",
-    "lovcenTrip": "Turn inland for the winding ascent to Lov\u0107en National Park. The Njegos Mausoleum sits at 1,657 m with views across four countries on a clear day. The road itself, carved into limestone switchbacks, is half the adventure.",
+    "lovcenTrip": "Turn inland for the winding ascent to Lovćen National Park. The Njegos Mausoleum sits at 1,657 m with views across four countries on a clear day. The road itself, carved into limestone switchbacks, is half the adventure.",
     "gettingAroundTitle": "Parking and Getting Around",
-    "gettingAroundText": "The old town is pedestrian-only, but several car parks line the approach roads. Arrive before 10 AM in July and August to secure a spot without circling. A rental car is essential for beach-hopping along the riviera and for reaching inland attractions like Lov\u0107en, Cetinje, and Lake Skadar."
+    "gettingAroundText": "The old town is pedestrian-only, but several car parks line the approach roads. Arrive before 10 AM in July and August to secure a spot without circling. A rental car is essential for beach-hopping along the riviera and for reaching inland attractions like Lovćen, Cetinje, and Lake Skadar."
   },
   "perastBody": {
     "h1": "Perast — Baroque Village on Still Water",
     "p1": "Perast is a single cobblestone street stretched along the Bay of Kotor, less than 20 minutes north of Kotor town. It has roughly 850 residents, 16 churches, and 17 former palaces — a ratio that tells you everything about its Venetian heyday. From 1420 to 1797 Perast belonged to the Republic of Venice and produced master shipbuilders and navigators who sailed the entire Mediterranean.",
-    "p2": "Driving from Podgorica, you cross Lov\u0107en and descend the switchbacks into the bay, then follow the shore road north. The approach is spectacular — the narrow road hugs the waterline, baroque bell towers rising on one side, the bay opening towards two tiny islands on the other.",
+    "p2": "Driving from Podgorica, you cross Lovćen and descend the switchbacks into the bay, then follow the shore road north. The approach is spectacular — the narrow road hugs the waterline, baroque bell towers rising on one side, the bay opening towards two tiny islands on the other.",
     "islandsTitle": "The Islands",
     "stGeorgeTitle": "St. George Island",
     "stGeorgeText": "A natural cypress-covered island just offshore, home to the Benedictine monastery of St. George since the 12th century. The island is closed to visitors but its dark silhouette against the bay is one of the most photographed scenes in Montenegro.",
@@ -447,10 +447,10 @@
   "tivatBody": {
     "h1": "Tivat — Where Superyachts Meet Mountain Trails",
     "p1": "Tivat is the newer, glossier face of the Bay of Kotor — a town built around a marina that attracts superyachts worth more than some country's GDP. Porto Montenegro transformed a former naval shipyard into a luxury waterfront, and the restaurants and boutiques followed. But step 200 metres from the marina and Tivat is still a working Montenegrin town of 13,000 people with local bakeries, fish markets, and old men playing chess on the waterfront.",
-    "p2": "For drivers coming from Podgorica, Tivat is about 1 hour 45 minutes via the scenic Lov\u0107en route or around 1 hour 20 minutes through the Sozina tunnel and coast road. The town also has its own airport (TIV) which handles charter flights and seasonal low-cost carriers, making it an alternative arrival point for the Bay of Kotor.",
+    "p2": "For drivers coming from Podgorica, Tivat is about 1 hour 45 minutes via the scenic Lovćen route or around 1 hour 20 minutes through the Sozina tunnel and coast road. The town also has its own airport (TIV) which handles charter flights and seasonal low-cost carriers, making it an alternative arrival point for the Bay of Kotor.",
     "beachesTitle": "Beaches",
     "beachesText": "Tivat has 17 beaches along 3 km of coastline. The best ones:",
-    "beach1": "Plavi Horizonti (Blue Horizons): white sand and shallow, clear water on the Lu\u0161tica peninsula — the best family beach on the bay",
+    "beach1": "Plavi Horizonti (Blue Horizons): white sand and shallow, clear water on the Luštica peninsula — the best family beach on the bay",
     "beach2": "Przno Beach on Sveti Marko Island: a former resort island now reclaimed by nature, accessible by small boat from Tivat harbour",
     "portoTitle": "Porto Montenegro",
     "portoText": "The 450-berth marina complex is the centrepiece of modern Tivat — yacht chandlers, designer boutiques, waterfront restaurants, a pool club, and a Naval Heritage Collection housed in the old arsenale. Even if superyachts are not your thing, the boardwalk is one of the best sunset walks on the bay.",
@@ -458,7 +458,7 @@
     "monasteryTitle": "St. Michael Archangel",
     "monasteryText": "10th-century monastery ruins on the Prevlaka peninsula at the tip of the bay. Archaeological work is ongoing, and the setting — surrounded by water on three sides — is hauntingly beautiful.",
     "churchTitle": "Church of Sveti Antun Padovanski",
-    "churchText": "Built in 1734 on a hillside above the town, this church holds religious paintings and offers sweeping views over the bay and the mountains of Lov\u0107en behind.",
+    "churchText": "Built in 1734 on a hillside above the town, this church holds religious paintings and offers sweeping views over the bay and the mountains of Lovćen behind.",
     "museumText": "The Maritime Museum in Kotor, just a 10-minute drive along the bay, charts the region's seafaring history from Venetian traders to Napoleonic battles."
   },
   "tivatAirportBody": {
@@ -478,17 +478,17 @@
   },
   "podgoricaBody": {
     "h1": "Podgorica — Concrete, Rivers, and a Running Start",
-    "p1": "Podgorica is not pretty in the conventional sense, and that is part of its charm. Montenegro's capital sits at just 44 metres elevation on a flat river plain where six waterways converge: the Mora\u010Da, Ribnica, Zeta, Sitnica, Mare\u017Ea, and Cijevna. In summer the thermometer regularly smashes past 40\u00B0C, making it one of the hottest capitals in Europe. The locals retreat to riverside cafes and wait for evening. Visitors with a rental car do something smarter — they drive somewhere cooler.",
-    "p2": "The cityscape is an unlikely collage. Communist-era brutalist apartment blocks — all poured concrete and angular balconies — stand alongside the cobbled lanes of Stara Varo\u0161, the Ottoman old quarter. The gleaming cable-stayed Millennium Bridge (2005) spans the Mora\u010Da, connecting the old and new halves of the city. And the enormous Cathedral of the Resurrection of Christ, completed in 2013 after two decades of construction, dominates the skyline with its pale stone and gold crosses.",
+    "p1": "Podgorica is not pretty in the conventional sense, and that is part of its charm. Montenegro's capital sits at just 44 metres elevation on a flat river plain where six waterways converge: the Morača, Ribnica, Zeta, Sitnica, Mareža, and Cijevna. In summer the thermometer regularly smashes past 40°C, making it one of the hottest capitals in Europe. The locals retreat to riverside cafes and wait for evening. Visitors with a rental car do something smarter — they drive somewhere cooler.",
+    "p2": "The cityscape is an unlikely collage. Communist-era brutalist apartment blocks — all poured concrete and angular balconies — stand alongside the cobbled lanes of Stara Varoš, the Ottoman old quarter. The gleaming cable-stayed Millennium Bridge (2005) spans the Morača, connecting the old and new halves of the city. And the enormous Cathedral of the Resurrection of Christ, completed in 2013 after two decades of construction, dominates the skyline with its pale stone and gold crosses.",
     "p3": "With 200,000 residents and growing, Podgorica is the economic engine of Montenegro. But for travellers, its real value is position. The capital is the geographic centre of the country, and every major destination is within a morning's drive. The airport handles budget carriers from across Europe, the road network radiates in every direction, and fuel is cheaper here than on the coast.",
     "seeTitle": "What to See Before You Leave Town",
-    "seeText": "Walk across the Millennium Bridge at sunset when the cables light up and the Mora\u010Da turns gold. Wander through Stara Varo\u0161 and its Ottoman clock tower. Visit the Cathedral of the Resurrection — love it or hate it, the interior mosaics are extraordinary. Then sit down at Pod Volat for the best grilled meat in the capital, or Lanterna for fresh fish. Buda Bar on the riverbank is where Podgorica's nightlife starts. The Ribnica fortress ruins, where the city was originally founded, are a 10-minute walk from the centre.",
+    "seeText": "Walk across the Millennium Bridge at sunset when the cables light up and the Morača turns gold. Wander through Stara Varoš and its Ottoman clock tower. Visit the Cathedral of the Resurrection — love it or hate it, the interior mosaics are extraordinary. Then sit down at Pod Volat for the best grilled meat in the capital, or Lanterna for fresh fish. Buda Bar on the riverbank is where Podgorica's nightlife starts. The Ribnica fortress ruins, where the city was originally founded, are a 10-minute walk from the centre.",
     "dayTripsTitle": "Day Trips from the Capital",
     "skadarTitle": "Lake Skadar",
-    "skadarText": "Thirty minutes south on the E65 and you reach the largest lake in the Balkans — 391 km\u00B2 of wetland straddling the Albanian border. Dalmatian pelicans nest on the islands, 270 bird species have been recorded, and the lakeside village of Virpazar is the starting point for boat tours and wine tastings in the Crmnica region.",
+    "skadarText": "Thirty minutes south on the E65 and you reach the largest lake in the Balkans — 391 km² of wetland straddling the Albanian border. Dalmatian pelicans nest on the islands, 270 bird species have been recorded, and the lakeside village of Virpazar is the starting point for boat tours and wine tastings in the Crmnica region.",
     "danilovgradTitle": "Ostrog Monastery",
-    "danilovgradText": "Forty-five minutes north-west on the Nik\u0161i\u0107 road, a switchback mountain track climbs to a monastery embedded in a 900-metre cliff face. Saint Basil's relics rest in the upper church. Two million people visit each year — arrive before 9 AM to park at the upper lot and avoid the pilgrim traffic.",
-    "zabljak": "Durmitor National Park is 2.5 hours north through the Mora\u010Da Canyon — one of the wildest road trips in Europe. The town of \u017Dabljak at 1,456 m is the gateway. Walk the 3.5 km loop around Black Lake, raft the Tara River through the world's second-deepest canyon at 1,300 m, or just stand on the \u0110ur\u0111evica Tara Bridge and stare into the abyss."
+    "danilovgradText": "Forty-five minutes north-west on the Nikšić road, a switchback mountain track climbs to a monastery embedded in a 900-metre cliff face. Saint Basil's relics rest in the upper church. Two million people visit each year — arrive before 9 AM to park at the upper lot and avoid the pilgrim traffic.",
+    "zabljak": "Durmitor National Park is 2.5 hours north through the Morača Canyon — one of the wildest road trips in Europe. The town of Žabljak at 1,456 m is the gateway. Walk the 3.5 km loop around Black Lake, raft the Tara River through the world's second-deepest canyon at 1,300 m, or just stand on the Đurđevica Tara Bridge and stare into the abyss."
   },
   "podgoricaAirportBody": {
     "h1": "Your Adventure Starts at Gate 1",
@@ -527,10 +527,10 @@
     "p1": "Montenegro is a country where you can start the morning in a scorching river-valley capital at 44 metres elevation and finish the afternoon at a glacial lake surrounded by 2,500-metre peaks dusted in snow. The altitude swings define the driving experience — roads climb, twist, and drop through canyon gorges, mountain passes, and coastal switchbacks that make the GPS estimated arrival time a work of fiction.",
     "p2": "A rental car from Podgorica is the only practical way to see most of the country. Public transport connects the main cities but skips the wild interior entirely. With four wheels and a sense of adventure, you reach cliff monasteries, hidden lakes, medieval towns, and canyon viewpoints that bus passengers never see.",
     "startTitle": "Starting from the Capital",
-    "startText": "Podgorica Airport is the logical launch point — Ryanair from Stansted and Charleroi, Wizz Air from Vienna and Dortmund. From the terminal car park, Lake Skadar is 30 minutes south, Cetinje is 35 minutes into the mountains, the coast is an hour through the Sozina tunnel (4.2 km, toll EUR 2.50), and Durmitor is 2.5 hours north through the Mora\u010Da Canyon.",
+    "startText": "Podgorica Airport is the logical launch point — Ryanair from Stansted and Charleroi, Wizz Air from Vienna and Dortmund. From the terminal car park, Lake Skadar is 30 minutes south, Cetinje is 35 minutes into the mountains, the coast is an hour through the Sozina tunnel (4.2 km, toll EUR 2.50), and Durmitor is 2.5 hours north through the Morača Canyon.",
     "timesTitle": "Real Driving Times",
     "timesText1": "Ignore the Google Maps estimate — it assumes you will not stop. Mountain switchbacks, livestock crossings, lorries on single-lane canyon roads, and the sheer visual drama of the scenery all add time. Budget 50% more than the map says, and treat the extra as a feature, not a bug.",
-    "timesText2": "From Podgorica: Lake Skadar 30 min, Cetinje 35 min, Ostrog 45 min, Budva 1 hr, Kotor 1.5 hrs, Nik\u0161i\u0107 1 hr, Durmitor/\u017Dabljak 2.5 hrs. Between coastal towns: typically 30 min to 1 hr.",
+    "timesText2": "From Podgorica: Lake Skadar 30 min, Cetinje 35 min, Ostrog 45 min, Budva 1 hr, Kotor 1.5 hrs, Nikšić 1 hr, Durmitor/Žabljak 2.5 hrs. Between coastal towns: typically 30 min to 1 hr.",
     "rulesTitle": "Driving Rules You Need to Know",
     "rulesIntro": "Police checkpoints are common and usually routine. Have these ready:",
     "rule1": "Valid driving licence (International Driving Permit accepted)",
@@ -543,12 +543,12 @@
     "keyRule3": "Alcohol: zero tolerance — any trace and you lose the car",
     "keyRule4": "Speed limits enforced aggressively, especially near tunnels",
     "conditionsTitle": "Road Conditions and Seasonal Warnings",
-    "conditionsText": "The main highway corridors are well-maintained. Mountain roads above 1,000 m are a different story: narrow, no guardrails in places, and sometimes no phone signal. The Platije gorge section north of Podgorica is single-lane in stretches with sheer drops. In winter (November to March), snow and ice close the highest passes — snow chains or winter tyres are mandatory above 1,000 m. The Durmitor approach road can be impassable after heavy snowfall. Summer brings the opposite extreme: road surfaces soften in 40\u00B0C+ heat, and tyres on hot asphalt need more braking distance.",
+    "conditionsText": "The main highway corridors are well-maintained. Mountain roads above 1,000 m are a different story: narrow, no guardrails in places, and sometimes no phone signal. The Platije gorge section north of Podgorica is single-lane in stretches with sheer drops. In winter (November to March), snow and ice close the highest passes — snow chains or winter tyres are mandatory above 1,000 m. The Durmitor approach road can be impassable after heavy snowfall. Summer brings the opposite extreme: road surfaces soften in 40°C+ heat, and tyres on hot asphalt need more braking distance.",
     "routesTitle": "Key Routes",
     "e65Title": "E65 — The Spine",
     "e65Text": "The main route connecting Podgorica to the coast via Cetinje or the Sozina tunnel, continuing along the bay through Kotor, Perast, Tivat, and Herceg Novi. This is the road most visitors drive first, and it delivers the signature views of the Bay of Kotor.",
     "e762Title": "E762 — The Mountain Corridor",
-    "e762Text": "Runs west from Podgorica through Nik\u0161i\u0107 towards Bosnia. The road climbs steadily through farmland and forest, passing Trebjesa hill above Nik\u0161i\u0107 before entering the mountain interior. Use this as the first leg of a Durmitor expedition.",
+    "e762Text": "Runs west from Podgorica through Nikšić towards Bosnia. The road climbs steadily through farmland and forest, passing Trebjesa hill above Nikšić before entering the mountain interior. Use this as the first leg of a Durmitor expedition.",
     "borderTitle": "Border Crossings",
     "borderText": "Montenegro shares borders with five countries, and Podgorica is within 90 minutes of most crossing points. Green Card insurance is essential. Summer weekend queues at the Croatian coastal crossing (Debeli Brijeg) can stretch to 2 hours — cross early morning or late evening. Inland crossings towards Serbia and Kosovo are typically faster.",
     "nationTitle": "A Country Still Being Discovered",
@@ -570,19 +570,19 @@
     "doc4": "Green Card insurance certificate",
     "doc5": "Vehicle registration document (kept in the car)",
     "crossingsTitle": "Border Crossings from Montenegro",
-    "croatiaTitle": "Montenegro \u2192 Croatia",
+    "croatiaTitle": "Montenegro → Croatia",
     "croatiaText": "The main tourist crossing is Debeli Brijeg on the coastal E65 between Herceg Novi and Dubrovnik. In July and August, weekend afternoon queues stretch to 1-2 hours. The crossing is straightforward but slow when cruise ships disgorge day-trippers into rental cars.",
-    "croatiaTip": "Cross before 8 AM or after 8 PM. Weekday mornings are dramatically quieter than weekends. The inland crossing at Sitnica (near Nik\u0161i\u0107) is almost always empty.",
+    "croatiaTip": "Cross before 8 AM or after 8 PM. Weekday mornings are dramatically quieter than weekends. The inland crossing at Sitnica (near Nikšić) is almost always empty.",
     "croatiaFerry": "The Kamenari-Lepetane car ferry shortcuts across the Bay of Kotor — saves 45 minutes of bay-road driving and costs a few euros per car. Runs every 10 minutes in summer.",
-    "albaniaTitle": "Montenegro \u2192 Albania",
+    "albaniaTitle": "Montenegro → Albania",
     "albaniaText": "Two main options: Sukobin/Muriqan on the coast (near Ulcinj) or Hani i Hotit inland near Lake Skadar. The coastal crossing is faster and more traveller-friendly. From Podgorica, Hani i Hotit is about 1 hour south.",
     "albaniaNote": "Albanian road quality drops noticeably after the border. Slow down, watch for unmarked hazards, and fill your tank on the Montenegrin side.",
-    "bosniaTitle": "Montenegro \u2192 Bosnia & Herzegovina",
-    "bosniaText": "The main crossing is \u0160\u0107epan Polje near Fo\u010Da (for rafting trips on the Tara), or Vilusi from the Nik\u0161i\u0107 side. Both are quiet crossings with minimal wait times outside July-August.",
-    "serbiaTitle": "Montenegro \u2192 Serbia",
+    "bosniaTitle": "Montenegro → Bosnia & Herzegovina",
+    "bosniaText": "The main crossing is Šćepan Polje near Foča (for rafting trips on the Tara), or Vilusi from the Nikšić side. Both are quiet crossings with minimal wait times outside July-August.",
+    "serbiaTitle": "Montenegro → Serbia",
     "serbiaText": "Cross at Dobrakovo on the E65 north of Bijelo Polje. This connects to the Serbian motorway network towards Belgrade. The road through northern Montenegro is scenic but slow — allow 5-6 hours total for Podgorica to Belgrade.",
-    "kosovoTitle": "Montenegro \u2192 Kosovo",
-    "kosovoText": "The Kula crossing near Ro\u017Eaje connects to Peja/Pe\u0107 in western Kosovo. Check that Kosovo is explicitly listed on your Green Card — some rental policies exclude it. The mountain road on the Kosovo side is rough but passable.",
+    "kosovoTitle": "Montenegro → Kosovo",
+    "kosovoText": "The Kula crossing near Rožaje connects to Peja/Peć in western Kosovo. Check that Kosovo is explicitly listed on your Green Card — some rental policies exclude it. The mountain road on the Kosovo side is rough but passable.",
     "tipsTitle": "Tips for Smooth Crossings",
     "tip1": "Have every document in hand before you reach the window — shuffling through the glovebox while cars queue behind you is not fun",
     "tip2": "Kill the engine while waiting — border guards notice and appreciate it",
@@ -598,15 +598,15 @@
     "law4": "Serbia: zero alcohol tolerance, motorway vignette required",
     "law5": "Kosovo: drive on the right, International Driving Permit recommended",
     "popularTitle": "Popular Cross-Border Routes from Podgorica",
-    "route1": "Podgorica \u2192 Dubrovnik: ~3 hrs via the coast. One border crossing, stunning bay scenery",
-    "route2": "Podgorica \u2192 Mostar (Bosnia): ~3 hrs via Nik\u0161i\u0107. See the famous Stari Most bridge",
-    "route3": "Podgorica \u2192 Shkod\u00EBr (Albania): ~1.5 hrs via Hani i Hotit. Quick cross-border day trip",
-    "route4": "Podgorica \u2192 Belgrade (Serbia): 5-6 hrs via E65 north through mountain scenery",
+    "route1": "Podgorica → Dubrovnik: ~3 hrs via the coast. One border crossing, stunning bay scenery",
+    "route2": "Podgorica → Mostar (Bosnia): ~3 hrs via Nikšić. See the famous Stari Most bridge",
+    "route3": "Podgorica → Shkodër (Albania): ~1.5 hrs via Hani i Hotit. Quick cross-border day trip",
+    "route4": "Podgorica → Belgrade (Serbia): 5-6 hrs via E65 north through mountain scenery",
     "ctaText": "Need cross-border documentation sorted before you land? Search our fleet, tick the countries you plan to visit, and the Green Card is arranged before you arrive."
   },
   "lakeSkadarBody": {
     "h1": "The Balkans' Largest Lake — 30 Minutes from Your Hotel",
-    "p1": "Lake Skadar sprawls across 391 km\u00B2 of wetland along the Montenegro-Albania border, making it the largest lake in the Balkans and one of the most significant bird habitats in Europe. From Podgorica, the drive south on the E65 takes barely 30 minutes — you leave a concrete capital baking at 40\u00B0C and arrive at a waterscape of lily pads, reed beds, and mountains reflected in still green water.",
+    "p1": "Lake Skadar sprawls across 391 km² of wetland along the Montenegro-Albania border, making it the largest lake in the Balkans and one of the most significant bird habitats in Europe. From Podgorica, the drive south on the E65 takes barely 30 minutes — you leave a concrete capital baking at 40°C and arrive at a waterscape of lily pads, reed beds, and mountains reflected in still green water.",
     "p2": "The lake is a National Park on the Montenegrin side, and the conservation status shows. Dalmatian pelicans — one of the world's rarest pelican species — breed on the islands. Over 270 bird species have been recorded here across the seasons: pygmy cormorants, ferruginous ducks, glossy ibises, whiskered terns. Birdwatchers come from across Europe with long lenses and early alarms.",
     "wildlifeTitle": "Wildlife and Seasons",
     "wildlifeText": "Spring and early summer bring the water lilies — vast floating carpets of white and yellow blooms that cover entire inlets. This is also peak nesting season for the pelican colonies and herons. Autumn draws migrating birds in huge numbers. Winter is quieter but the lake levels rise, flooding the surrounding meadows and creating a mirror landscape of water and mountains. Kayaking and stand-up paddleboarding are popular from May to October, threading through reed channels where motorboats cannot reach.",
@@ -623,32 +623,32 @@
   "cetinjeBody": {
     "h1": "Cetinje — Where a Kingdom Lived at 670 Metres",
     "p1": "Cetinje is one of Europe's most unlikely former capitals. Perched at 670 metres altitude in a limestone valley ringed by mountains, this small town of 15,000 people served as the capital of Montenegro from 1878 to 1918 — the seat of a kingdom that was recognised by every great power and maintained embassies from Russia, Britain, France, Austria-Hungary, and the Ottoman Empire. The embassies still stand along the wide boulevards, converted into museums and music schools, lending the town a faded grandeur that no other place in Montenegro can match.",
-    "p2": "The drive from Podgorica takes 35 minutes, climbing steadily from the capital's 44-metre river plain into the mountains. The road is modern and well-maintained. Alternatively, Cetinje is connected to the coast via the legendary 25-hairpin road from Kotor — one of the most spectacular mountain drives in Europe, carved into the limestone face of Mount Lov\u0107en.",
+    "p2": "The drive from Podgorica takes 35 minutes, climbing steadily from the capital's 44-metre river plain into the mountains. The road is modern and well-maintained. Alternatively, Cetinje is connected to the coast via the legendary 25-hairpin road from Kotor — one of the most spectacular mountain drives in Europe, carved into the limestone face of Mount Lovćen.",
     "monasteryTitle": "Cetinje Monastery",
-    "monasteryText": "Founded in 1484 by Ivan Crnojevi\u0107 and rebuilt in 1786 after Ottoman destruction, the monastery is the spiritual heart of Montenegrin Orthodoxy. It houses several extraordinary relics: what is believed to be the hand of John the Baptist, a fragment of the True Cross, and the crown of King Stefan De\u010Danski. The monastery is still active — monks live and worship here — and visitors are welcome during opening hours. Dress modestly: shoulders and knees covered.",
+    "monasteryText": "Founded in 1484 by Ivan Crnojević and rebuilt in 1786 after Ottoman destruction, the monastery is the spiritual heart of Montenegrin Orthodoxy. It houses several extraordinary relics: what is believed to be the hand of John the Baptist, a fragment of the True Cross, and the crown of King Stefan Dečanski. The monastery is still active — monks live and worship here — and visitors are welcome during opening hours. Dress modestly: shoulders and knees covered.",
     "museumsTitle": "Royal Cetinje",
     "kingPalaceTitle": "King Nikola's Palace",
     "kingPalaceText": "Built in 1871 as the residence of Montenegro's only king, the palace is now a museum displaying original furnishings, royal portraits, military decorations, and gifts from foreign heads of state. The billiard room is a highlight — a reminder that even in a mountain kingdom, the aristocracy kept up European fashions.",
     "nationalMuseumTitle": "National Museum of Montenegro",
     "nationalMuseumText": "Housed in the former Parliament building, the museum covers Montenegrin history from the medieval Zeta state through Ottoman occupation, the kingdom era, Yugoslav socialism, and the 2006 independence vote. The art gallery wing holds a significant icon collection, including the reportedly miraculous Our Lady of Philermos, brought from Rhodes by the Knights of St. John.",
-    "lovcenTitle": "Lov\u0107en and the Njegos Mausoleum",
-    "lovcenText": "From Cetinje, a 30-minute drive through dense beech and pine forest brings you to the summit area of Mount Lov\u0107en. At 1,657 metres, the Njegos Mausoleum crowns the peak — a granite and marble monument to Petar II Petrovi\u0107-Njego\u0161, Montenegro's greatest poet and ruler. Climb 461 steps from the car park to the entrance. On a clear day, the panorama spans from the Adriatic islands to the Albanian alps to the Durmitor massif. On the way back down, stop at the village of Njegu\u0161i for the famous smoked ham (pr\u0161ut) and cheese — made from sheep that graze these mountain meadows."
+    "lovcenTitle": "Lovćen and the Njegos Mausoleum",
+    "lovcenText": "From Cetinje, a 30-minute drive through dense beech and pine forest brings you to the summit area of Mount Lovćen. At 1,657 metres, the Njegos Mausoleum crowns the peak — a granite and marble monument to Petar II Petrović-Njegoš, Montenegro's greatest poet and ruler. Climb 461 steps from the car park to the entrance. On a clear day, the panorama spans from the Adriatic islands to the Albanian alps to the Durmitor massif. On the way back down, stop at the village of Njeguši for the famous smoked ham (pršut) and cheese — made from sheep that graze these mountain meadows."
   },
   "durmitorBody": {
     "h1": "Durmitor — Where Montenegro Goes Vertical",
-    "p1": "Durmitor National Park is a UNESCO World Heritage Site covering 390 km\u00B2 of raw mountain wilderness in northern Montenegro. The park contains 48 peaks above 2,000 metres — the highest being Bobotov Kuk at 2,522 m — along with 18 glacial lakes, ancient pine forests, and the Tara River Canyon, the deepest canyon in Europe and the second deepest in the world at 1,300 metres. This is the big one. This is why you rented a car in Podgorica.",
-    "p2": "The gateway town of \u017Dabljak sits at 1,456 metres, making it one of the highest settlements in the Balkans. In winter, temperatures drop to -20\u00B0C and snow blankets everything. In summer, wildflower meadows run up to the treeline and the glacial lakes glow turquoise against dark pine. The altitude swing from Podgorica (44 m) to the Durmitor peaks (2,522 m) happens in just 2.5 hours of driving — a vertical gain that changes the entire world outside your windscreen.",
+    "p1": "Durmitor National Park is a UNESCO World Heritage Site covering 390 km² of raw mountain wilderness in northern Montenegro. The park contains 48 peaks above 2,000 metres — the highest being Bobotov Kuk at 2,522 m — along with 18 glacial lakes, ancient pine forests, and the Tara River Canyon, the deepest canyon in Europe and the second deepest in the world at 1,300 metres. This is the big one. This is why you rented a car in Podgorica.",
+    "p2": "The gateway town of Žabljak sits at 1,456 metres, making it one of the highest settlements in the Balkans. In winter, temperatures drop to -20°C and snow blankets everything. In summer, wildflower meadows run up to the treeline and the glacial lakes glow turquoise against dark pine. The altitude swing from Podgorica (44 m) to the Durmitor peaks (2,522 m) happens in just 2.5 hours of driving — a vertical gain that changes the entire world outside your windscreen.",
     "activitiesTitle": "What to Do",
     "hikingTitle": "Hiking",
     "hikingText": "The 3.5 km loop around Black Lake (Crno Jezero) is the gateway hike — flat, forested, and stunningly beautiful. For something harder, the full-day ascent of Bobotov Kuk (2,522 m) takes 8-10 hours round trip and demands mountain experience, proper boots, and an early start. Between these extremes, dozens of marked trails cross alpine meadows, glacial moraines, and ridgelines with views that stretch to Albania.",
     "raftingTitle": "Tara River Rafting",
-    "raftingText": "Rafting the Tara Canyon is Montenegro's signature adventure. The standard 18 km route starts upstream and passes through the deepest section of the gorge, with Grade III-IV rapids, cliff faces rising 1,300 m on both sides, waterfalls pouring from side valleys, and the iconic \u0110ur\u0111evica Tara Bridge arching 150 m above the river. Trips run May to October, last most of the day, and include lunch on a riverside gravel bar.",
+    "raftingText": "Rafting the Tara Canyon is Montenegro's signature adventure. The standard 18 km route starts upstream and passes through the deepest section of the gorge, with Grade III-IV rapids, cliff faces rising 1,300 m on both sides, waterfalls pouring from side valleys, and the iconic Đurđevica Tara Bridge arching 150 m above the river. Trips run May to October, last most of the day, and include lunch on a riverside gravel bar.",
     "winterTitle": "Winter Sports",
-    "winterText": "\u017Dabljak becomes a ski town from December to March. Slopes on Savin Kuk (2,313 m) and Javorova\u010Da offer uncrowded runs, cheap lift passes, and reliable snow cover. The resort is small and uncommercial — no glitz, just good skiing with extraordinary views. Cross-country trails and snowshoeing routes extend into the park for those who prefer silence to chairlifts.",
+    "winterText": "Žabljak becomes a ski town from December to March. Slopes on Savin Kuk (2,313 m) and Javorovača offer uncrowded runs, cheap lift passes, and reliable snow cover. The resort is small and uncommercial — no glitz, just good skiing with extraordinary views. Cross-country trails and snowshoeing routes extend into the park for those who prefer silence to chairlifts.",
     "blackLakeTitle": "Black Lake",
-    "blackLakeText": "The most visited spot in the park — a glacial lake in a natural amphitheatre of pine forest and mountain walls, a 15-minute walk from the centre of \u017Dabljak. The water is dark green and mirror-still on calm mornings, reflecting Me\u0111ed peak above. The 3.5 km walking trail around the shore is flat and family-friendly. In summer, swimming is possible for the brave — water temperature rarely climbs above 18\u00B0C even in August.",
+    "blackLakeText": "The most visited spot in the park — a glacial lake in a natural amphitheatre of pine forest and mountain walls, a 15-minute walk from the centre of Žabljak. The water is dark green and mirror-still on calm mornings, reflecting Međed peak above. The 3.5 km walking trail around the shore is flat and family-friendly. In summer, swimming is possible for the brave — water temperature rarely climbs above 18°C even in August.",
     "drivingTitle": "The Drive from Podgorica",
-    "drivingText": "Allow 2.5 hours via the E65 north. The road follows the Mora\u010Da river, then enters the Mora\u010Da Canyon — a jaw-dropping stretch where the road is carved into cliff faces above a deep gorge. Stop at Mora\u010Da Monastery (13th century, still active) about halfway. After Kola\u0161in, the road climbs to \u017Dabljak across a high plateau. In winter, snow chains or winter tyres are mandatory — the passes above 1,000 m can be treacherous. Check conditions before setting out between November and April."
+    "drivingText": "Allow 2.5 hours via the E65 north. The road follows the Morača river, then enters the Morača Canyon — a jaw-dropping stretch where the road is carved into cliff faces above a deep gorge. Stop at Morača Monastery (13th century, still active) about halfway. After Kolašin, the road climbs to Žabljak across a high plateau. In winter, snow chains or winter tyres are mandatory — the passes above 1,000 m can be treacherous. Check conditions before setting out between November and April."
   },
   "ostrogBody": {
     "h1": "Ostrog — A Monastery in the Sky",
@@ -661,20 +661,20 @@
     "practicalTitle": "Visiting Tips",
     "practicalText": "Entry is free. Modest dress is strictly required — shoulders and knees covered for both men and women. Photography is restricted inside the churches. The site is busiest on weekends and religious holidays. Arriving before 9 AM or after 4 PM on weekdays gives you the best chance of a contemplative visit rather than a crowded one. There is a small cafe at the lower monastery but no restaurant — bring water and snacks.",
     "drivingTitle": "The Drive from Podgorica",
-    "drivingText": "Take the E762 north-west towards Nik\u0161i\u0107 for about 30 minutes, then follow the signed turnoff for Ostrog. The final 15 minutes involve a narrow mountain road with switchbacks and limited passing points. Drive confidently but carefully — you will share the road with tour buses and pilgrim coaches. In wet weather, the surface can be slippery. The reward at the top is worth every hairpin."
+    "drivingText": "Take the E762 north-west towards Nikšić for about 30 minutes, then follow the signed turnoff for Ostrog. The final 15 minutes involve a narrow mountain road with switchbacks and limited passing points. Drive confidently but carefully — you will share the road with tour buses and pilgrim coaches. In wet weather, the surface can be slippery. The reward at the top is worth every hairpin."
   },
   "niksicBody": {
-    "h1": "Nik\u0161i\u0107 — Beer, Fortress, and the Last Stop Before the Wild",
-    "p1": "Nik\u0161i\u0107 is Montenegro's second city — 56,000 people spread across a wide mountain plain at 630 metres elevation, about an hour's drive from Podgorica. It is the kind of town that tourists drive through on their way to Durmitor, which is a mistake. Stop here. Fill the tank, tour the brewery, climb to the hilltop fortress, and eat at one of the local grill restaurants before the road north leaves civilisation behind.",
-    "p2": "The city has a different energy from the coast — less glamour, more grit. Nik\u0161i\u0107 is an industrial town with a proud identity, best known across the Balkans as the home of Nik\u0161i\u010Dko beer. The surrounding landscape is all open plateau, distant mountain ridges, and sheep farms — a preview of the vast, sparsely populated north that lies ahead.",
+    "h1": "Nikšić — Beer, Fortress, and the Last Stop Before the Wild",
+    "p1": "Nikšić is Montenegro's second city — 56,000 people spread across a wide mountain plain at 630 metres elevation, about an hour's drive from Podgorica. It is the kind of town that tourists drive through on their way to Durmitor, which is a mistake. Stop here. Fill the tank, tour the brewery, climb to the hilltop fortress, and eat at one of the local grill restaurants before the road north leaves civilisation behind.",
+    "p2": "The city has a different energy from the coast — less glamour, more grit. Nikšić is an industrial town with a proud identity, best known across the Balkans as the home of Nikšičko beer. The surrounding landscape is all open plateau, distant mountain ridges, and sheep farms — a preview of the vast, sparsely populated north that lies ahead.",
     "breweryTitle": "Trebjesa Brewery",
-    "breweryText": "Nik\u0161i\u010Dko has been brewed here since 1896 on the slopes of Trebjesa hill. The brewery offers tours and tastings — a cold pint of Nik\u0161i\u010Dko Tamno (the dark lager) after an hour's mountain driving is one of life's simple pleasures. The brewery terrace has views over the city and the Nik\u0161i\u0107 plain stretching to the mountains beyond.",
+    "breweryText": "Nikšičko has been brewed here since 1896 on the slopes of Trebjesa hill. The brewery offers tours and tastings — a cold pint of Nikšičko Tamno (the dark lager) after an hour's mountain driving is one of life's simple pleasures. The brewery terrace has views over the city and the Nikšić plain stretching to the mountains beyond.",
     "lakeTitle": "Krupac Lake",
     "lakeText": "An artificial lake on the northern edge of town, surrounded by walking paths, picnic spots, and a small beach. In summer, locals swim, fish, and barbecue along the shores. The water is clear and the mountain backdrop is dramatic — a surprisingly pleasant spot for a town that does not feature in any tourist brochure.",
     "fortressTitle": "Bedem Fortress",
-    "fortressText": "The ancient hilltop fortress overlooks the entire Nik\u0161i\u0107 plain from a rocky promontory. Originally Roman, rebuilt by the Ottomans, and now a summer venue for concerts and cultural events. The climb takes about 15 minutes and the 360-degree panorama from the walls is the best view in the region — agricultural plains in the foreground, mountain ridges stacking up to the horizon in every direction.",
+    "fortressText": "The ancient hilltop fortress overlooks the entire Nikšić plain from a rocky promontory. Originally Roman, rebuilt by the Ottomans, and now a summer venue for concerts and cultural events. The climb takes about 15 minutes and the 360-degree panorama from the walls is the best view in the region — agricultural plains in the foreground, mountain ridges stacking up to the horizon in every direction.",
     "gatewayTitle": "Gateway to Durmitor",
-    "gatewayText": "Nik\u0161i\u0107 is the natural staging point for Durmitor National Park. From here, the road north enters increasingly wild territory — farmland gives way to forest, the mountains close in, and by the time you reach \u0160avnik the landscape is pure highland wilderness. Fill your fuel tank in Nik\u0161i\u0107. The next reliable petrol station is in \u017Dabljak, over an hour of mountain driving away.",
+    "gatewayText": "Nikšić is the natural staging point for Durmitor National Park. From here, the road north enters increasingly wild territory — farmland gives way to forest, the mountains close in, and by the time you reach Šavnik the landscape is pure highland wilderness. Fill your fuel tank in Nikšić. The next reliable petrol station is in Žabljak, over an hour of mountain driving away.",
     "drivingTitle": "Getting Here from Podgorica",
     "drivingText": "The drive takes about 1 hour via the E762. The road is well-maintained dual carriageway for most of the route, climbing gradually from Podgorica's river plain through farmland and light forest. Watch for the Ostrog Monastery turnoff about 30 minutes in — you can combine both stops in one day trip."
   }

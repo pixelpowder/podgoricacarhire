@@ -196,89 +196,89 @@
   },
   "featureCards": {
     "airportPickup": {
-      "title": "Flughafenabholung",
-      "desc": "Holen Sie Ihr Auto am Flughafen Podgorica ab. Kein Shuttle, kein Warten."
+      "title": "Flughafenübergabe",
+      "desc": "Schlüssel in der Hand innerhalb von 10 Minuten nach der Landung am TGD. Die Berge warten."
     },
     "fullInsurance": {
-      "title": "Vollversicherung",
-      "desc": "Umfassender Schutz mit Null-Selbstbeteiligung-Option. Fahren Sie völlig sorgenfrei."
+      "title": "Berggerechte Vollversicherung",
+      "desc": "Vollschutz mit Null-Selbstbeteiligung — gemacht für Bergkurven, Schluchtenstraßen und alles dazwischen."
     },
     "support": {
-      "title": "24/7 Support",
-      "desc": "Pannenhilfe und Kundenservice rund um die Uhr, jeden Tag."
+      "title": "24/7 Pannenhilfe",
+      "desc": "Im Schnee oberhalb von Žabljak festgesteckt? Das kennen wir. Wir sind jederzeit erreichbar."
     },
     "noHiddenFees": {
       "title": "Keine versteckten Kosten",
-      "desc": "Tankpolitik, Kilometerstand, Steuern — alles ist im angezeigten Preis enthalten."
+      "desc": "Winterausrüstung wie Schneeketten wird vorab im Preis ausgewiesen, nie an der Anmietstation hinzugefügt."
     },
     "freeCancellation": {
       "title": "Kostenlose Stornierung",
-      "desc": "Pläne ändern sich. Stornieren Sie bis 24 Stunden vor Abholung für eine volle Rückerstattung."
+      "desc": "Ryanair hat umgebucht? Bergpass durch Schnee gesperrt? Bis 24 Stunden vorher kostenlos stornieren."
     },
     "crossBorder": {
       "title": "Grenzüberschreitend",
-      "desc": "Fahren Sie nach Croatia, Bosnia, Albania oder Kosovo. Grenzüberschreitendes Reisen erlaubt."
+      "desc": "Serbien (Prijepolje, 2 Std.), Albanien (Shkodra, 1,5 Std.), Kosovo (Peć, 3 Std.) — Green Card inklusive, einfach bei der Buchung angeben."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Einen makellosen Octavia am Flughafen Tivat in unter 5 Minuten abgeholt. Die gesamte Küste bis nach Ulcinj gefahren. Unglaubliches Preis-Leistungs-Verhältnis."
+      "text": "Wir flogen extra nach TGD, um den Durmitor zu wandern und den Tara-Canyon zu erkunden. Das Geländefahrzeug war in Minuten abholbereit und meisterte die Bergstraßen nach Žabljak problemlos. Die Buchung war unkompliziert und der Preis besser als alles, was wir zuhause gefunden hatten."
     },
     "1": {
-      "text": "Der BMW war in perfektem Zustand und die Grenzübertrittsdokumente für Croatia waren bei unserer Ankunft bereit. Sehr empfehlenswert."
+      "text": "Allein-Roadtrip vom Flughafen Podgorica durch die Morača-Schlucht zum Ostrog-Kloster — eine der eindrucksvollsten Fahrten meines Lebens. Das Auto war makellos, die Abholung am TGD dauerte keine 10 Minuten. Diesen Anbieter buche ich bei jedem Wizz-Air-Flug nach Montenegro."
     },
     "2": {
-      "text": "Wir haben Montenegro zwei Wochen lang erkundet. Der Jeep meisterte Bergstraßen perfekt. Die beste Mietwagen-Erfahrung, die wir je hatten."
+      "text": "Wir hatten eigentlich einen Strandurlaub gebucht, verbrachten aber zwei Tage in den Weinberfdörfern am Skutarisee und fanden uns bei Sonnenuntergang auf einer Bergstraße oberhalb von Cetinje wieder. Die beste unerwartete Umleitung ever. Das Auto machte alles möglich."
     }
   },
   "faqItems": {
     "0": {
-      "q": "Welche Dokumente werden benötigt?",
-      "a": "Führerschein in lateinischer Schrift, Reisepass und eine Kreditkarte, die auf den Namen des Hauptfahrers ausgestellt ist. Ein internationaler Führerschein wird benötigt, wenn der Führerschein nur nationale Gültigkeit hat. Dokumentkopien und Dokumente in elektronischer Form werden nicht anerkannt."
+      "q": "Welche Dokumente benötige ich?",
+      "a": "Ein gültiger Führerschein mit lateinischen Schriftzeichen, Ihr Reisepass und eine physische Kreditkarte auf den Namen des Hauptfahrers. Bei Führerscheinen aus Nicht-EU-Ländern wird zusätzlich ein Internationaler Führerschein empfohlen. Kopien und digitale Führerscheine auf dem Smartphone werden bei der Fahrzeugübergabe nicht akzeptiert."
     },
     "1": {
-      "q": "Sind Fahrten nach Kroatien oder Albanien erlaubt?",
-      "a": "Ja! Informieren Sie den Vermieter vorab über Ihre Reiseabsichten ins Ausland, damit dieser die benötigten Dokumente vorbereiten kann. Grenzüberschreitende Reisen in die benachbarten Länder sind erlaubt."
+      "q": "Darf ich nach Serbien oder Albanien fahren?",
+      "a": "Ja — Grenzübertritte sind nach Serbien, Albanien, Kosovo, Bosnien und Kroatien erlaubt. Die wichtigsten Grenzübergänge in der Nähe von Podgorica sind Dračenovac für Serbien und Hani i Hotit für Albanien. Bitte bei der Buchung angeben, damit wir die Grüne Karte und alle weiteren Unterlagen vorbereiten können."
     },
     "2": {
       "q": "Gibt es ein Mindestalter?",
-      "a": "Die Voraussetzungen variieren je nach Fahrzeug und werden bei den Suchergebnissen angezeigt."
+      "a": "Das Mindestalter beträgt 21 Jahre, mit mindestens 2 Jahren Fahrerfahrung. Fahrer zwischen 21 und 24 Jahren zahlen einen Jungfahrerzuschlag; der genaue Betrag hängt vom Fahrzeugkategorie ab und wird vor der Buchungsbestätigung angezeigt."
     },
     "3": {
       "q": "Was ist im Preis enthalten?",
-      "a": "Eine Haftpflichtversicherung ist für alle Fahrzeuge im Preis enthalten. Viele Angebote beinhalten im Grundpreis auch eine Kaskoversicherung (CDW, engl. Collision Damage Waiver). Ebenso im Preis enthalten sind Mehrwertsteuer, Notfall- und Pannenausrüstung (Verbandkasten, Warndreieck, Sicherheitsweste) und eine transparente Kraftstoffrichtlinie. Vereinbarungen zur Kilometerlaufleistung variieren je nach Fahrzeug. Weitere Versicherungsoptionen sind gegen Aufpreis erhältlich."
+      "a": "Alle Fahrzeuge sind haftpflichtversichert, die meisten enthalten im Grundpreis auch eine Kaskoversicherung (CDW). Mehrwertsteuer, das vorgeschriebene Notfallset (Verbandskasten, Warndreieck, Warnweste) und eine klar formulierte Kraftstoffpolitik sind ebenfalls enthalten. Kilometerbedingungen variieren je nach Fahrzeug und werden vor der Buchung angezeigt. Null-Selbstbehalt-Upgrades sind als Zusatzoption buchbar."
     },
     "4": {
-      "q": "Wie funktioniert die Abholung?",
-      "a": "Die Angebote für eine Abholung mit dem Mietfahrzeug variieren je nach Anbieter und Reiseziel. Geben Sie bei der Buchung den gewünschten Ort und Zeitpunkt an, um ein Treffen vor Ort zu arrangieren. Für genauere Vereinbarungen zum Treffpunkt kontaktieren Sie bitte das Vermietunternehmen direkt im Anschluss an Ihre Buchung."
+      "q": "Wie läuft die Abholung am TGD ab?",
+      "a": "Der Flughafen Podgorica (TGD) ist ein kompaktes Einterminalgebäude — die Ankunft ist übersichtlich. Unser Mitarbeiter empfängt Sie in der Ankunftshalle mit einem Schild mit Ihrem Namen. Das Fahrzeug steht direkt vor dem Terminal. Von der Landung bis zum Losfahren dauert es in der Regel unter 10 Minuten."
     },
     "5": {
-      "q": "Ist eine Rückgabe an einem anderen Ort möglich?",
-      "a": "Ja — Einwegmieten werden für 28 Ziele in Montenegro angeboten. Wählen Sie hierzu bei der Buchung einfach Ihre gewünschten Abhol- und Rückgabeorte aus."
+      "q": "Kann ich das Fahrzeug an einem anderen Ort zurückgeben?",
+      "a": "Ja — Einwegmieten sind an 28 Standorten in Montenegro möglich. Wählen Sie bei der Buchung einfach verschiedene Abhol- und Rückgabeorte. Einweggebühren werden, falls anfallend, vor der Buchungsbestätigung transparent ausgewiesen."
     },
     "6": {
-      "q": "Kann ich meine Buchung stornieren?",
-      "a": "Eine Stornierung ist bis zu sieben Tage vor Beginn des Mietzeitraums kostenfrei möglich. Für Premiumfahrzeuge und Cabriolets ist die Stornierung bis zu 30 Tage vor Beginn des Mietzeitraums kostenfrei möglich. Für alle Stornierungen fällt eine Zahlungsgebühr von 6% des Mietpreises an."
+      "q": "Wie lautet die Stornierungsbedingung?",
+      "a": "Standardfahrzeuge: kostenlose Stornierung bis 7 Tage vor Mietbeginn. Luxusfahrzeuge und Cabrios: kostenlose Stornierung bis 30 Tage vorher. Bei allen Stornierungen fällt eine Zahlungsbearbeitungsgebühr von 6 % an. Falls ein Bergpasssperrung oder extremes Wetter eine Planänderung erzwingt, kontaktieren Sie uns — wir helfen, soweit es geht."
     },
     "7": {
-      "q": "Ist eine Mietkaution erforderlich?",
-      "a": "Die Höhe der Kaution variiert je nach Fahrzeug — einige Fahrzeuge können auch kautionsfrei gemietet werden. Für die Kautionszahlung wird eine physische Kreditkarte im Namen des Hauptfahrers benötigt. Der Kautionsbetrag wird bei Rückgabe des unbeschädigten Fahrzeuges zurückgezahlt."
+      "q": "Ist eine Kaution erforderlich?",
+      "a": "Die Kautionsanforderungen am TGD liegen je nach Fahrzeugkategorie zwischen null und 300 €. Die Kaution muss bei der Fahrzeugübergabe auf einer physischen Kreditkarte (keine Debit- oder Prepaid-Karte) des Hauptfahrers hinterlegt werden und wird nach schadensfreier Rückgabe vollständig freigegeben. Den genauen Betrag für Ihr Wunschfahrzeug sehen Sie in der Buchungsübersicht."
     },
     "8": {
-      "q": "Was passiert bei Überschreitung der Kilometerlaufleistung?",
-      "a": "Für Fahrzeuge mit beschränkter Kilometerlaufleistung fällt oberhalb der vereinbarten Grenze eine Zusatzgebühr pro gefahrenen Mehrkilometer an. Die Rate ist den Mietbedingungen für das Fahrzeug zu entnehmen."
+      "q": "Was passiert bei Überschreitung des Kilometerlimits?",
+      "a": "Bei Fahrzeugen mit Kilometerbegrenzung wird jeder zusätzliche Kilometer über das vereinbarte Limit berechnet. Der Tarif ist in den Fahrzeugbedingungen vor der Buchung angegeben. Wenn Sie längere Bergtouren planen — Durmitor, Tara-Canyon, albanische Grenze — prüfen Sie die Kilometerbedingungen sorgfältig oder wählen Sie ein Fahrzeug mit unbegrenzten Kilometern."
     },
     "9": {
-      "q": "Gibt es versteckte Kosten?",
-      "a": "Der Endpreis für die Miete beinhaltet alle Steuern und Gebühren; versteckte Kosten sind nicht enthalten."
+      "q": "Brauche ich Schneeketten für Bergstraßen?",
+      "a": "Von November bis März sind Schneeketten oder Winterreifen auf montenegrinischen Bergstraßen über 1.000 m gesetzlich vorgeschrieben. Dies betrifft auch die Straße nach Žabljak und den Durmitor-Nationalpark. Wenn Sie im Winter in die Berge fahren, teilen Sie uns das bei der Buchung mit, und wir rüsten das Fahrzeug entsprechend aus. Hinweis: Nikšić ist die letzte zuverlässige Tankstelle vor dem Durmitor — unbedingt dort volltanken."
     },
     "10": {
-      "q": "Wie hoch ist die Anzahlung?",
-      "a": "Für die Bestätigung Ihrer Buchung fällt eine Anzahlung von 15–20% an. Den offenen Restbetrag begleichen Sie mit dem Vermietunternehmen bei der Abholung vor Ort."
+      "q": "Wie viel zahle ich im Voraus?",
+      "a": "Bei der Buchung werden 15–20 % des Gesamtmietpreises als Anzahlung zur Reservierungssicherung erhoben. Der Restbetrag wird direkt bei der Fahrzeugübergabe am TGD mit dem Mietanbieter abgerechnet. Keine Überraschungskosten am Schalter — die Aufteilung ist vor der Bestätigung klar ersichtlich."
     },
     "11": {
-      "q": "Können Fahrzeuge ohne Kreditkarte gemietet werden?",
-      "a": "Einige Fahrzeuge können auch ohne Kreditkarte gemietet werden — verfügbare Angebote sind in der Fahrzeugsuche entsprechend markiert."
+      "q": "Kann ich ohne Kreditkarte mieten?",
+      "a": "Eine kleine Auswahl an Fahrzeugen ist auch ohne Kreditkarte verfügbar — diese sind in den Suchergebnissen deutlich gekennzeichnet. Für die meisten Fahrzeuge ist jedoch eine physische Kreditkarte auf den Namen des Fahrers für die Sicherheitskaution bei der Übergabe erforderlich."
     }
   },
   "destCards": {
