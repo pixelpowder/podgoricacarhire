@@ -14,7 +14,7 @@ export default function Budva() {
       <ul><li><strong>Mogren:</strong> {t('budvaBody.mogren')}</li><li><strong>Jaz:</strong> {t('budvaBody.jaz')}</li><li><strong>Sveti Stefan:</strong> {t('budvaBody.svetiStefan')}</li><li><strong>Becici:</strong> {t('budvaBody.becici')}</li></ul>
       <h2>{t('budvaBody.oldTownTitle')}</h2>
       <p>{t('budvaBody.oldTownText')}</p>
-      <img src="/img/budva-coast.webp" alt="Budva coastline" loading="lazy" />
+      <img src="/img/budva-old-town.webp" alt="Budva Old Town peninsula" loading="lazy" />
       <h2>{t('budvaBody.dayTripsTitle')}</h2>
       <p>{t('budvaBody.svetiStefanTrip')}</p>
       <p>{t('budvaBody.kotorTrip')}</p>

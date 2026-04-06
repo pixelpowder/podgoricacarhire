@@ -4,14 +4,14 @@ import ContentPage from '../../ContentPage';
 export default function Cetinje() {
   const { t } = useTranslation();
   return (
-    <ContentPage title={t("cetinje.title")} subtitle={t("cetinje.subtitle")} description={t("cetinje.seoDesc")} image="/img/cetinje-town.webp">
-      <img src="/img/cetinje-town.webp" alt="Cetinje" loading="lazy" />
+    <ContentPage title={t("cetinje.title")} subtitle={t("cetinje.subtitle")} description={t("cetinje.seoDesc")} image="/img/lovcen-viewpoint.webp">
+      <img src="/img/lovcen-viewpoint.webp" alt="Lovćen National Park viewpoint above the clouds" loading="lazy" />
       <h2>{t('cetinjeBody.h1')}</h2>
       <p>{t('cetinjeBody.p1')}</p>
       <p>{t('cetinjeBody.p2')}</p>
       <h2>{t('cetinjeBody.monasteryTitle')}</h2>
       <p>{t('cetinjeBody.monasteryText')}</p>
-      <img src="/img/mountain-road.webp" alt="Mountain road to Cetinje" loading="lazy" />
+      <img src="/img/cetinje-village.webp" alt="Montenegrin village near Cetinje" loading="lazy" />
       <h2>{t('cetinjeBody.museumsTitle')}</h2>
       <h3>{t('cetinjeBody.kingPalaceTitle')}</h3>
       <p>{t('cetinjeBody.kingPalaceText')}</p>
