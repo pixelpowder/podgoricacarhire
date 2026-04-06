@@ -2,7 +2,7 @@
 import useTranslation from '../../i18n/useTranslation';
 import ContentPage from '../../ContentPage';
 export default function Podgorica() {
-  const { t } = useTranslation();
+  const { t, localePath } = useTranslation();
   return (
     <ContentPage title={t("podgorica.title")} subtitle={t("podgorica.subtitle")} description={t("podgorica.seoDesc")} image="/img/podgorica-city.webp">
       <img src="/img/podgorica-city.webp" alt="Podgorica" loading="lazy" />
@@ -19,7 +19,7 @@ export default function Podgorica() {
       <h3>{t('podgoricaBody.danilovgradTitle')}</h3>
       <p>{t('podgoricaBody.danilovgradText')}</p>
       <h3>Durmitor</h3>
-      <p>{t('podgoricaBody.zabljak')}</p>
+      <p>{t('podgoricaBody.zabljak')} See our <a href={localePath('/durmitor')}>Durmitor National Park guide</a> for hiking and skiing routes.</p>
     </ContentPage>
   );
 }

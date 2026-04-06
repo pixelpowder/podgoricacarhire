@@ -2,7 +2,7 @@
 import useTranslation from '../../i18n/useTranslation';
 import ContentPage from '../../ContentPage';
 export default function LakeSkadar() {
-  const { t } = useTranslation();
+  const { t, localePath } = useTranslation();
   return (
     <ContentPage title={t("lake-skadar.title")} subtitle={t("lake-skadar.subtitle")} description={t("lake-skadar.seoDesc")} image="/img/lake-skadar.webp">
       <img src="/img/lake-skadar.webp" alt="Lake Skadar" loading="lazy" />
@@ -20,7 +20,7 @@ export default function LakeSkadar() {
       <h2>{t('lakeSkadarBody.wineTitle')}</h2>
       <p>{t('lakeSkadarBody.wineText')}</p>
       <h2>{t('lakeSkadarBody.drivingTitle')}</h2>
-      <p>{t('lakeSkadarBody.drivingText')}</p>
+      <p>{t('lakeSkadarBody.drivingText')} Combine with a visit to the <a href={localePath('/cetinje')}>historic royal capital of Cetinje</a>, 30 minutes away.</p>
     </ContentPage>
   );
 }
