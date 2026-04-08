@@ -254,6 +254,9 @@
     <priority>0.7</priority>
   </url>
 
+  <!-- Contact -->
+  <url><loc>https://www.podgoricacarhire.com/contact</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+
   <!-- Privacy Policy -->
   <url>
     <loc>https://www.podgoricacarhire.com/privacy</loc>
