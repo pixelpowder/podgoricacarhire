@@ -356,7 +356,9 @@
     "dayTripsTitle": "Jednodnevni Izleti iz Kotora",
     "perastTrip": "Smještena u obližnjem Perastu, ova crkva se nalazi na vještačkom ostrvu u Bokokotorskom zalivu. Ribari tamo bacaju kamenje svake godine od 1452., postepeno proširujući ostrvo. Prevoz trajektom košta oko 1 Euro; privatni čamci koštaju oko 5 Eura. Vožnja iz Kotora traje manje od 30 minuta putem E65/E80 na sjever.",
     "cetinjeTrip": "Sagrađen 1701. godine, manastir čuva ruku Jovana Krstitelja. Odlikuje se bogatom dekoracijom i pravoslavnom umjetnošću. Vožnja iz Kotora traje približno jedan sat kroz slikovite planinske puteve.",
-    "royalCourtText": "Crnogorska kraljevska palata iz 1871. godine, u kojoj su izloženi umjetnički predmeti, artefakti i fotografije iz kraljevske istorije zemlje. Nalazi se pored manastira u nekadašnjoj kraljevskoj prijestonici."
+    "royalCourtText": "Crnogorska kraljevska palata iz 1871. godine, u kojoj su izloženi umjetnički predmeti, artefakti i fotografije iz kraljevske istorije zemlje. Nalazi se pored manastira u nekadašnjoj kraljevskoj prijestonici.",
+    "tivatLinkText": "Iznajmljivanje automobila sa aerodroma Tivat",
+    "tivatLinkPost": " je najbrži način da stignete do zaliva."
   },
   "budvaBody": {
     "h1": "Budva -- Srce Crnogorske Rivijere",
@@ -421,7 +423,10 @@
     "facilitiesText": "Aerodrom nudi kafiće, javne telefone, suvenirnice i bescarinsku kupovinu. Autobuske linije povezuju Herceg Novi i Budvu, a taksi usluge su takođe dostupne ispred terminala.",
     "whyTitle": "Zašto Iznajmiti na Aerodromu Tivat?",
     "whyText": "Aerodrom Tivat je najbliži aerodrom najpopularnijim primorskim destinacijama u Crnoj Gori. U roku od nekoliko minuta nakon slijetanja, možete voziti duž Bokokotorskog zaliva prema srednjovjekovnom utvrđenom gradu, ili se uputiti na jug prema plažama Budve. Preuzimanje automobila na Tivtu znači bez transfera, bez čekanja na autobuse — direktno od terminala do otvorenog puta.",
-    "meetText": "Dočekujemo vas u hali za dolaske sa vašim imenom na tabli. Vaš automobil je parkiran odmah ispred. Ukupno vrijeme od slijetanja do vožnje: oko 10 minuta."
+    "meetText": "Dočekujemo vas u hali za dolaske sa vašim imenom na tabli. Vaš automobil je parkiran odmah ispred. Ukupno vrijeme od slijetanja do vožnje: oko 10 minuta.",
+    "budvaLinkPre": "Krenite na jug i stignite do ",
+    "budvaLinkText": "plaža Budve",
+    "budvaLinkPost": " za 30 minuta."
   },
   "podgoricaBody": {
     "h1": "Podgorica -- Glavni Grad",
@@ -435,7 +440,11 @@
     "skadarText": "Potencijalno najljepše jezero u Evropi, smješteno na crnogorsko-albanskoj granici kao Nacionalni park. Dom milionima pelikana, to je najveće jezero na Balkanu i obavezna destinacija za ljubitelje prirode.",
     "danilovgradTitle": "Danilovgrad",
     "danilovgradText": "Slikovit riječni grad približno trideset minuta zapadno od Podgorice, koji nudi riječne plaže, vožnje čamcem, galerije i obližnji manastir Zdrebaonik.",
-    "zabljak": "Alpski grad u planinskom regionu Durmitora, na 1.500 metara nadmorske visine i 170 kilometara od Podgorice. Cjelogodišnja destinacija koja nudi skijanje zimi te planinarenje, rafting i brdski biciklizam ljeti."
+    "zabljak": "Alpski grad u planinskom regionu Durmitora, na 1.500 metara nadmorske visine i 170 kilometara od Podgorice. Cjelogodišnja destinacija koja nudi skijanje zimi te planinarenje, rafting i brdski biciklizam ljeti.",
+    "durmitorTitle": "Durmitor",
+    "durmitorLinkPre": "Pogledajte naš ",
+    "durmitorLinkText": "vodič za Nacionalni park Durmitor",
+    "durmitorLinkPost": " za staze za planinarenje i skijanje."
   },
   "podgoricaAirportBody": {
     "h1": "Iznajmljivanje Automobila na Aerodromu Podgorica (TGD)",
@@ -462,6 +471,9 @@
     "p3": "Iznajmljivanje automobila za putovanje u Crnu Goru je odlična ideja. Omogućava posjetiocima da vide ovaj dio svijeta pod sopstvenim uslovima, u sopstvenom tempu. Saobraćaj između zemalja u ovom regionu je uobičajen, pa su granični prelazi generalno jednostavni.",
     "borderTitle": "Savjeti za Prelazak Granice",
     "borderText": "Tokom turističke sezone, Crna Gora biva preplavljena posjetiocima i dugo čekanje na prelazak granice nije neuobičajeno. Prelazak rano ujutru ili kasno noću je jedan od načina da izbjegnete gužve. Obavezno provjerite da vam je kompanija za iznajmljivanje obezbijedila Zelenu kartu za prekogranično osiguranje.",
+    "borderLinkPre": "Naš ",
+    "borderLinkText": "vodič za dokumentaciju pri prelasku granice",
+    "borderLinkPost": " sadrži sve što vam je potrebno.",
     "facilitiesTitle": "Sadržaji Aerodroma",
     "facilitiesText1": "Aerodrom Dubrovnik ima modernu terminalnu zgradu smještenu na manje od pola sata vožnje od grada Dubrovnika na E65. Aerodrom ima ograničen parking, sa automatima koji primaju plaćanje gotovinom i kreditnim karticama. Budući da je parking ograničen — posebno u sezoni — posjetioci bi trebali unaprijed rezervisati svoja mjesta ako je moguće. Postoji popust za unaprijed rezervisanje.",
     "facilitiesText2": "Unutar aerodroma nalazi se mjenjačnica, banka i pošta. Takođe su dostupni mali restorani, kafići, bescarinska prodavnica i kiosk sa novinama.",
@@ -475,6 +487,8 @@
     "p2": "Iako kompaktna po veličini, Crna Gora zahtijeva duža vremena vožnje nego što mape sugerišu. Planinske serpentine, uske obalne ceste i slikovite rute ohrabruju česte zaustavljanja. Putnici dobijaju slobodu da dožive i putovanje i odredište — krstarenje zaljevima nalik fjordovima, istorijskim gradovima i planinskim vidikovcima sopstvenim tempom.",
     "startTitle": "Početak Putovanja",
     "startText": "Mnogi posjetioci preuzimaju svoj iznajmljeni automobil na jednom od crnogorskih aerodroma ili na aerodromu Dubrovnik u Hrvatskoj, u zavisnosti od dostupnosti letova. Aerodrom Tivat je najbliži obali — samo 10 minuta od Kotora i 20 minuta od Budve. Aerodrom Podgorica opslužuje glavni grad i unutrašnjost. Aerodrom Dubrovnik ostaje popularan jer često ima više dostupnih međunarodnih letova.",
+    "tivatLinkText": "Iznajmite automobil na aerodromu Tivat",
+    "tivatLinkPost": " za neposredan pristup obali.",
     "timesTitle": "Vremena Vožnje",
     "timesText1": "Stvarna vremena vožnje redovno premašuju ono što mape pokazuju. Planinske serpentine, nazubljene obalne ceste, ruralne prepreke (uključujući stoku) i zimski snijeg na planinama doprinose dužim putovanjima. Slikovito obalno i pejzažno iskustvo više nego opravdava produženo vrijeme putovanja.",
     "timesText2": "Putovanje između primorskih gradova obično traje od trideset minuta do jednog sata. Vožnja od Herceg-Novog do Podgorice putem E65/E80 traje približno dva sata.",
@@ -521,6 +535,9 @@
     "croatiaText": "Najpopularniji prelaz za turiste. Glavni kontrolni punkt je na Debelom Brijegu na obalnom putu (E65) između Herceg Novog i Dubrovnika. Ovaj prelaz postaje izuzetno prometan ljeti — očekujte redove od 1-2 sata tokom sezone (jul-avgust).",
     "croatiaTip": "Najbolja vremena za prelazak: rano ujutru (prije 8h) ili kasno uveče (poslije 20h). Radnim danima ujutru je znatno mirnije nego vikendom.",
     "croatiaFerry": "Postoji i trajektna prečica Kamenari-Lepetane preko Bokokotorskog zaliva koja izbjegava vožnju oko čitavog zaliva — štedi oko 45 minuta.",
+    "croatiaFerryLinkPre": "Većina posjetilaca započinje ovu rutu sa ",
+    "croatiaFerryLinkText": "aerodroma Dubrovnik",
+    "croatiaFerryLinkPost": ".",
     "albaniaTitle": "Crna Gora → Albanija",
     "albaniaText": "Dva glavna prelaza: Sukobin/Muriqan (obalni, blizu Ulcinja) i Hani i Hotit (kopneni, blizu Skadarskog jezera). Obalni prelaz je pogodniji za putnike i obično ima kraća vremena čekanja.",
     "albaniaNote": "Napomena: Albanski putevi se značajno razlikuju od crnogorskih. Vozite oprezno, posebno na ruralnim putevima.",
@@ -550,6 +567,11 @@
     "route3": "Budva → Skadar (Albanija): 2,5 sata preko obalnog prelaza kod Ulcinja",
     "route4": "Podgorica → Beograd (Srbija): 5-6 sati putem E65 na sjever",
     "ctaText": "Trebate automobil sa prekograničnom dokumentacijom? Pretražite našu flotu — samo odaberite odredišne zemlje pri rezervaciji i mi ćemo urediti Zelenu kartu."
+  },
+  "lakeSkadarBody": {
+    "cetinjeLinkPre": "Kombinujte sa posjetom ",
+    "cetinjeLinkText": "istorijskoj kraljevskoj prijestonici Cetinju",
+    "cetinjeLinkPost": ", udaljenoj samo 30 minuta."
   },
 
   "blogIndex": {

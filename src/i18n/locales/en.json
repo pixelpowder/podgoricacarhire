@@ -395,7 +395,9 @@
     "dayTripsTitle": "Side Trips from Kotor",
     "perastTrip": "Perast is 20 minutes north along the bay — a single-street baroque village with two island churches offshore. A boat to Our Lady of the Rocks costs about EUR 5 return. Fishermen have been dropping rocks to build the island since 1452, and the tradition continues every July 22nd.",
     "cetinjeTrip": "Drive back up the switchbacks and continue south to Cetinje, Montenegro's former royal capital. The route takes about an hour through dense mountain forest and opens into a wide valley at 670 metres. The monastery houses a relic believed to be the hand of John the Baptist.",
-    "royalCourtText": "King Nikola's Palace sits next to the monastery — built in 1871, it displays the furnishings and photographs of Montenegro's brief era as a kingdom. The National Museum across the street covers everything from medieval icons to the 2006 independence vote."
+    "royalCourtText": "King Nikola's Palace sits next to the monastery — built in 1871, it displays the furnishings and photographs of Montenegro's brief era as a kingdom. The National Museum across the street covers everything from medieval icons to the 2006 independence vote.",
+    "tivatLinkText": "Car hire from Tivat Airport",
+    "tivatLinkPost": " is the quickest way to reach the bay."
   },
   "budvaBody": {
     "h1": "From River Valley to Riviera in 60 Minutes",
@@ -460,7 +462,10 @@
     "facilitiesText": "A compact single-terminal airport with cafes, duty-free, and car hire desks. Bus connections serve Herceg Novi and Budva, though a rental car is by far the fastest way to start exploring.",
     "whyTitle": "Why Collect a Car at TIV?",
     "whyText": "Tivat is the closest airport to Kotor, Budva, and the entire Bay of Kotor riviera. Within 10 minutes of landing you can be driving through the old town approaches of Kotor, or heading south along the coast towards Budva's beaches. No shuttle bus, no transfer wait — straight from the terminal into your adventure.",
-    "meetText": "We meet you in the arrivals hall, name board in hand. Your car is parked right outside. From wheels down to driving: roughly 10 minutes."
+    "meetText": "We meet you in the arrivals hall, name board in hand. Your car is parked right outside. From wheels down to driving: roughly 10 minutes.",
+    "budvaLinkPre": "Head south to reach ",
+    "budvaLinkText": "Budva's beaches",
+    "budvaLinkPost": " in 30 minutes."
   },
   "podgoricaBody": {
     "h1": "Podgorica — Concrete, Rivers, and a Running Start",
@@ -474,7 +479,11 @@
     "skadarText": "Thirty minutes south on the E65 and you reach the largest lake in the Balkans — 391 km² of wetland straddling the Albanian border. Dalmatian pelicans nest on the islands, 270 bird species have been recorded, and the lakeside village of Virpazar is the starting point for boat tours and wine tastings in the Crmnica region.",
     "danilovgradTitle": "Ostrog Monastery",
     "danilovgradText": "Forty-five minutes north-west on the Nikšić road, a switchback mountain track climbs to a monastery embedded in a 900-metre cliff face. Saint Basil's relics rest in the upper church. Two million people visit each year — arrive before 9 AM to park at the upper lot and avoid the pilgrim traffic.",
-    "zabljak": "Durmitor National Park is 2.5 hours north through the Morača Canyon — one of the wildest road trips in Europe. The town of Žabljak at 1,456 m is the gateway. Walk the 3.5 km loop around Black Lake, raft the Tara River through the world's second-deepest canyon at 1,300 m, or just stand on the Đurđevica Tara Bridge and stare into the abyss."
+    "zabljak": "Durmitor National Park is 2.5 hours north through the Morača Canyon — one of the wildest road trips in Europe. The town of Žabljak at 1,456 m is the gateway. Walk the 3.5 km loop around Black Lake, raft the Tara River through the world's second-deepest canyon at 1,300 m, or just stand on the Đurđevica Tara Bridge and stare into the abyss.",
+    "durmitorTitle": "Durmitor",
+    "durmitorLinkPre": "See our ",
+    "durmitorLinkText": "Durmitor National Park guide",
+    "durmitorLinkPost": " for hiking and skiing routes."
   },
   "podgoricaAirportBody": {
     "h1": "Your Adventure Starts at Gate 1",
@@ -501,6 +510,9 @@
     "p3": "This route is especially popular with travellers who want to combine Dubrovnik and Montenegro in one trip. Spend a day in the Croatian walled city, then drive south through the bay, over the mountains, and into a completely different country.",
     "borderTitle": "Border Crossing: Debeli Brijeg",
     "borderText": "The coastal checkpoint between Croatia and Montenegro sits on the E65 near Herceg Novi. In summer, queues of 1-2 hours are common on weekend afternoons. Cross early morning (before 8 AM) or late evening (after 8 PM) to skip the worst delays. Make sure your rental company has provided a Green Card for cross-border insurance — without it, the border guards will turn you around.",
+    "borderLinkPre": "Our ",
+    "borderLinkText": "border crossing documentation guide",
+    "borderLinkPost": " has everything you need.",
     "facilitiesTitle": "Airport Facilities",
     "facilitiesText1": "Dubrovnik Airport has a modern terminal on the E65, about 20 km south of the city. Parking is limited and expensive in peak season — pre-booking is recommended. Payment by cash or card at the machines.",
     "facilitiesText2": "Inside: bureau de change, bank, post office, restaurants, duty-free, and a newsstand. All the essentials for a quick turnaround before heading south.",
@@ -514,6 +526,8 @@
     "p2": "A rental car from Podgorica is the only practical way to see most of the country. Public transport connects the main cities but skips the wild interior entirely. With four wheels and a sense of adventure, you reach cliff monasteries, hidden lakes, medieval towns, and canyon viewpoints that bus passengers never see.",
     "startTitle": "Starting from the Capital",
     "startText": "Podgorica Airport is the logical launch point — Ryanair from Stansted and Charleroi, Wizz Air from Vienna and Dortmund. From the terminal car park, Lake Skadar is 30 minutes south, Cetinje is 35 minutes into the mountains, the coast is an hour through the Sozina tunnel (4.2 km, toll EUR 2.50), and Durmitor is 2.5 hours north through the Morača Canyon.",
+    "tivatLinkText": "Rent a car at Tivat Airport",
+    "tivatLinkPost": " for immediate coastal access.",
     "timesTitle": "Real Driving Times",
     "timesText1": "Ignore the Google Maps estimate — it assumes you will not stop. Mountain switchbacks, livestock crossings, lorries on single-lane canyon roads, and the sheer visual drama of the scenery all add time. Budget 50% more than the map says, and treat the extra as a feature, not a bug.",
     "timesText2": "From Podgorica: Lake Skadar 30 min, Cetinje 35 min, Ostrog 45 min, Budva 1 hr, Kotor 1.5 hrs, Nikšić 1 hr, Durmitor/Žabljak 2.5 hrs. Between coastal towns: typically 30 min to 1 hr.",
@@ -560,6 +574,9 @@
     "croatiaText": "The main tourist crossing is Debeli Brijeg on the coastal E65 between Herceg Novi and Dubrovnik. In July and August, weekend afternoon queues stretch to 1-2 hours. The crossing is straightforward but slow when cruise ships disgorge day-trippers into rental cars.",
     "croatiaTip": "Cross before 8 AM or after 8 PM. Weekday mornings are dramatically quieter than weekends. The inland crossing at Sitnica (near Nikšić) is almost always empty.",
     "croatiaFerry": "The Kamenari-Lepetane car ferry shortcuts across the Bay of Kotor — saves 45 minutes of bay-road driving and costs a few euros per car. Runs every 10 minutes in summer.",
+    "croatiaFerryLinkPre": "Most visitors start this route from ",
+    "croatiaFerryLinkText": "Dubrovnik Airport",
+    "croatiaFerryLinkPost": ".",
     "albaniaTitle": "Montenegro → Albania",
     "albaniaText": "Two main options: Sukobin/Muriqan on the coast (near Ulcinj) or Hani i Hotit inland near Lake Skadar. The coastal crossing is faster and more traveller-friendly. From Podgorica, Hani i Hotit is about 1 hour south.",
     "albaniaNote": "Albanian road quality drops noticeably after the border. Slow down, watch for unmarked hazards, and fill your tank on the Montenegrin side.",
@@ -604,7 +621,10 @@
     "wineTitle": "Wine Country",
     "wineText": "The Crmnica wine region occupies the hillsides above the lake's southern shore. The indigenous Vranac grape thrives here in the warm microclimate — producing deep, full-bodied reds that hold their own against any Balkan wine. Several family wineries along the lake road between Virpazar and Godinje offer tastings, cellar tours, and bottles at farm-gate prices. Combine a morning boat trip with an afternoon wine tasting for one of the best day trips in Montenegro.",
     "drivingTitle": "Getting There from Podgorica",
-    "drivingText": "Take the E65 south towards Bar. The Virpazar turnoff is clearly signed after about 25 km. The road is good-quality dual carriageway the whole way. If you have time, continue past Virpazar to Rijeka Crnojevica on the winding lakeside road — slower but spectacularly scenic. Allow 30 minutes to Virpazar, 45 minutes to Rijeka Crnojevica."
+    "drivingText": "Take the E65 south towards Bar. The Virpazar turnoff is clearly signed after about 25 km. The road is good-quality dual carriageway the whole way. If you have time, continue past Virpazar to Rijeka Crnojevica on the winding lakeside road — slower but spectacularly scenic. Allow 30 minutes to Virpazar, 45 minutes to Rijeka Crnojevica.",
+    "cetinjeLinkPre": "Combine with a visit to the ",
+    "cetinjeLinkText": "historic royal capital of Cetinje",
+    "cetinjeLinkPost": ", 30 minutes away."
   },
   "cetinjeBody": {
     "h1": "Cetinje — Where a Kingdom Lived at 670 Metres",

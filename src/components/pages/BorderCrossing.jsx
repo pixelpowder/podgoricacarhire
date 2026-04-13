@@ -18,7 +18,7 @@ export default function BorderCrossing() {
       <h3>{t('borderCrossingBody.croatiaTitle')}</h3>
       <p>{t('borderCrossingBody.croatiaText')}</p>
       <p>{t('borderCrossingBody.croatiaTip')}</p>
-      <p>{t('borderCrossingBody.croatiaFerry')} Most visitors start this route from <a href={localePath('/dubrovnik-airport')}>Dubrovnik Airport</a>.</p>
+      <p>{t('borderCrossingBody.croatiaFerry')} {t('borderCrossingBody.croatiaFerryLinkPre')}<a href={localePath('/dubrovnik-airport')}>{t('borderCrossingBody.croatiaFerryLinkText')}</a>{t('borderCrossingBody.croatiaFerryLinkPost')}</p>
       <h3>{t('borderCrossingBody.albaniaTitle')}</h3>
       <p>{t('borderCrossingBody.albaniaText')}</p>
       <p>{t('borderCrossingBody.albaniaNote')}</p>
