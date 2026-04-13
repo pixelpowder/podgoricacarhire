@@ -573,7 +573,6 @@
     "cetinjeLinkText": "istorijskoj kraljevskoj prijestonici Cetinju",
     "cetinjeLinkPost": ", udaljenoj samo 30 minuta."
   },
-
   "blogIndex": {
     "breadcrumbBlog": "Blog",
     "heroTitle": "Vodiči za vožnju iz Podgorice",
@@ -598,7 +597,6 @@
     "card_airport_title": "Aerodrom do obale: opcije ruta",
     "card_airport_excerpt": "Četiri rute od podgoričkog aerodroma do Jadrana — Budva kroz tunel Sozina, Bar uz Skadarsko jezero, Kotor preko planina ili Ulcinj na jugu."
   },
-
   "blogCityGuide": {
     "title": "Podgorica izvan presjedanja: šta većina turista propušta",
     "subtitle": "Osmanske ruševine, šetnje uz rijeku i gastronomska scena koja nagrađuje svakoga ko se zadrži duže od presjedanja.",
@@ -639,7 +637,6 @@
     "glanceBestFor": "Najbolje za",
     "glanceBestForVal": "Hrana, šetnje, rijeka"
   },
-
   "blogOstrog": {
     "title": "Vožnja do manastira Ostrog: put usječen u stijenu",
     "subtitle": "Manastir na litici 900 metara iznad Zetske ravnice — i jedna od najupečatljivijih kratkih vožnji na Balkanu.",
@@ -676,7 +673,6 @@
     "glanceEntry": "Ulaznica",
     "glanceEntryVal": "Besplatno (donacije dobrodošle)"
   },
-
   "blogDurmitor": {
     "title": "Podgorica do Durmitora: trosatna planinska vožnja",
     "subtitle": "Dvije rute do Crnog jezera, Mosta na Tari i najvišeg nacionalnog parka Crne Gore — preko Nikšića ili kanjonom Morače.",
@@ -717,7 +713,6 @@
     "glanceBestCar": "Najbolji auto",
     "glanceBestCarVal": "SUV ili visoki klirens"
   },
-
   "blogCetinje": {
     "title": "Jednodnevni izlet na Cetinje: kraljevska i duhovna prijestolnica Crne Gore",
     "subtitle": "Trideset pet minuta od Podgorice u planine — ambasade pretvorene u muzeje, manastir sa svetim relikvijama i grad zaustavljen u mirnijem vijeku.",
@@ -756,7 +751,6 @@
     "glanceBestFor": "Najbolje za",
     "glanceBestForVal": "Istorija, muzeji, mirne šetnje"
   },
-
   "blogSkadar": {
     "title": "Virpazar i Skadarsko jezero iz Podgorice autom",
     "subtitle": "Najveće jezero Balkana je 30 minuta južno — vožnje čamcem kroz lokvanje, vino Crmnice i oronula tvrđava iznad luke.",
@@ -793,7 +787,6 @@
     "glanceEntry": "Ulaz u park",
     "glanceEntryVal": "4 eura po osobi"
   },
-
   "blogNiksic": {
     "title": "Nikšić, vodopadi Kapino i jezero Krupac",
     "subtitle": "Drugi crnogorski grad pravi nacionalno pivo, krije vodopad u šumi i nudi glacijalno jezero za kupanje — sve u roku od sat vremena od prijestolnice.",
@@ -832,7 +825,6 @@
     "glanceBestFor": "Najbolje za",
     "glanceBestForVal": "Hrana, priroda, kupanje"
   },
-
   "blogMoraca": {
     "title": "Kanjon Morače: najdramatičniji autoput Crne Gore",
     "subtitle": "Vertikalni krečnjački zidovi, manastir iz XIII vijeka u klisurama i put usječen u stijenu — cesta na sjever iz Podgorice.",
@@ -869,7 +861,6 @@
     "glanceBestCar": "Najbolji auto",
     "glanceBestCarVal": "Bilo koji — put je dobro održavan"
   },
-
   "blogBiogradska": {
     "title": "Biogradska gora: vožnja do posljednje prašume Evrope",
     "subtitle": "Praiskonska šuma netaknuta vjekovima, omotana oko glacijalnog jezera na 1094 metra — ruta kanjonom Morače.",
@@ -906,7 +897,6 @@
     "glanceBestFor": "Najbolje za",
     "glanceBestForVal": "Planinarenje, fotografija, priroda"
   },
-
   "blogAirportCoast": {
     "title": "Od podgoričkog aerodroma do obale: poređenje ruta",
     "subtitle": "Četiri rute od TGD-a do Jadrana — Budva kroz tunel Sozina, Bar uz jezero, Kotor preko planina ili Ulcinj na jugu.",
@@ -944,11 +934,93 @@
     "compareUlcinj": "Do Ulcinja (preko Bara)",
     "compareUlcinjVal": "1,5 sat, 80 km, bez putarine"
   },
-
   "blogHome": {
     "sectionLabel": "Vodiči",
     "sectionTitle": "Vodiči za vožnju iz Podgorice",
     "sectionSubtitle": "Planinski putevi, skriveni manastiri i kanjonske rute iz crnogorske prijestolnice.",
     "viewAll": "Svi vodiči"
+  },
+  "lake-skadar": {
+    "title": "Od Podgorice do Skadarskog jezera",
+    "subtitle": "391 km² močvarnog divljeg područja — pelikani, vinska sela i skrivene plaže samo 30 minuta južno.",
+    "seoDesc": "30 min od TGD: 391 km² močvara, kudravi pelikani, 270 vrsta ptica, crmničko vinsko područje i izleti brodom iz Virpazara. Automobil otvara tiše uvale jezera."
+  },
+  "cetinje": {
+    "title": "Od Podgorice do Cetinja",
+    "subtitle": "Nekadašnja crnogorska prijestonica na 670 m nadmorske visine — 35 minuta do oblaka.",
+    "seoDesc": "35-minutni uspon od Podgorice do Cetinja, crnogorske prijestolnice od 1878. do 1918. Cetinjski manastir, Dvorac kralja Nikole, pa Njegošev mauzolej na Lovćenu."
+  },
+  "durmitor": {
+    "title": "Od Podgorice do Durmitora",
+    "subtitle": "UNESCO vrhovi, glečerska jezera i drugi najdublji kanjon na svijetu — 2,5 sata na sjever.",
+    "seoDesc": "2,5 sata od TGD kroz kanjon Morače do vrhova Durmitora (2.522 m). Crno jezero, kanjon Tare (1.300 m dubine) i Žabljak na 1.456 m. Terenska vozila i lanci za snijeg dostupni."
+  },
+  "ostrog-monastery": {
+    "title": "Od Podgorice do manastira Ostrog",
+    "subtitle": "Manastir iz 17. vijeka uklesan u stijenu na 900 m — 2 miliona posjetilaca godišnje ne mogu griješiti.",
+    "seoDesc": "45 min od Podgorice do manastira ugrađenog u stijenu na 900 m. Ostrog privlači 2 miliona hodočasnika godišnje — stignite u zoru da izbjegnete gužvu."
+  },
+  "niksic": {
+    "title": "Od Podgorice do Nikšića",
+    "subtitle": "Pivo, ruševine tvrđave i poslednja pumpa prije Durmitora — 1 sat od Podgorice.",
+    "seoDesc": "Sat vremena vožnje do drugog crnogorskog grada i pivske prijestolnice. Obilazak Trebjese, punjenje gorivom, pa na sjever ka vrhovima Durmitora. Nikšić je pametan izbor za noćenje."
+  },
+  "cetinjeBody": {
+    "h1": "Cetinje — đe je kraljevstvo živjelo na 670 metara",
+    "p1": "Cetinje je jedna od najnevjerovatnijih nekadašnjih prijestolnica Evrope. Smješteno na 670 metara nadmorske visine u krečnjačkoj dolini okruženoj planinama, ovo malo mjesto od 15.000 stanovnika bilo je prijestolnica Crne Gore od 1878. do 1918. — sjedište kraljevstva koje su priznavale sve velike sile i u kojem su postojala poslanstva Rusije, Velike Britanije, Francuske, Austro-Ugarske i Osmanskog carstva. Poslanstva još stoje duž širokih bulevara, pretvorena u muzeje i muzičke škole, dajući gradu izblijedjeli sjaj koji nijedno drugo mjesto u Crnoj Gori ne može da ponudi.",
+    "p2": "Vožnja od Podgorice traje 35 minuta, uz stalni uspon sa riječne ravnice prijestolnice na 44 metra u planine. Put je moderan i dobro održavan. Alternativno, Cetinje je povezano sa obalom legendarnom cestom sa 25 oštrica serpentina iz Kotora — jednom od najspektakularnijih planinskih cesta u Evropi, usječenom u krečnjačku stranu planine Lovćen.",
+    "monasteryTitle": "Cetinjski manastir",
+    "monasteryText": "Osnovan 1484. godine od strane Ivana Crnojevića i obnovljen 1786. nakon osmanskog razaranja, manastir je duhovno srce crnogorskog pravoslavlja. Čuva nekoliko izvanrednih relikvija: ono što se vjeruje da je ruka Jovana Krstitelja, fragment Časnog Krsta i kruna kralja Stefana Dečanskog. Manastir je još aktivan — monasi tu žive i mole se — posjetioci su dobrodošli tokom radnog vremena. Pristojno se obucite: ramena i koljena pokrivena.",
+    "museumsTitle": "Kraljevsko Cetinje",
+    "kingPalaceTitle": "Dvorac kralja Nikole",
+    "kingPalaceText": "Izgrađen 1871. kao rezidencija jedinog crnogorskog kralja, dvorac je sada muzej sa originalnim namještajem, kraljevskim portretima, vojnim odlikovanjima i poklonima stranih šefova država. Biljar-sala je poseban detalj — podsjetnik da je i u planinskom kraljevstvu aristokratija pratila evropsku modu.",
+    "nationalMuseumTitle": "Narodni muzej Crne Gore",
+    "nationalMuseumText": "Smješten u nekadašnjoj zgradi Skupštine, muzej pokriva crnogorsku istoriju od srednjovjekovne Zete kroz osmansku okupaciju, kraljevsku eru, jugoslovenski socijalizam i glasanje za nezavisnost 2006. Krilo galerije umjetnosti čuva značajnu kolekciju ikona, uključujući navodno čudotvornu Bogorodicu Filermosku, donijetu sa Rodosa od strane Vitezova Svetog Jovana.",
+    "lovcenTitle": "Lovćen i Njegošev mauzolej",
+    "lovcenText": "Iz Cetinja, 30-minutna vožnja kroz gustu bukovu i borovu šumu vodi ka vršnom području planine Lovćen. Na 1.657 metara, Njegošev mauzolej kruni vrh — granitno-mramorni spomenik Petru II Petroviću-Njegošu, najvećem crnogorskom pjesniku i vladaru. Popnite se na 461 stepenicu od parkinga do ulaza. Po vedrom danu, panorama se pruža od jadranskih ostrva do albanskih Alpa i masiva Durmitora. Na povratku, stanite u selu Njeguši po čuveni dimljeni pršut i sir — od ovaca koje pasu na ovim planinskim livadama."
+  },
+  "durmitorBody": {
+    "h1": "Durmitor — đe Crna Gora ide u vertikalu",
+    "p1": "Nacionalni park Durmitor je UNESCO lokalitet svetske baštine koji pokriva 390 km² divlje planinske prirode na sjeveru Crne Gore. Park sadrži 48 vrhova iznad 2.000 metara — najviši je Bobotov Kuk sa 2.522 m — uz 18 glečerskih jezera, drevne borove šume i kanjon rijeke Tare, najdublji kanjon u Evropi i drugi najdublji na svijetu sa 1.300 metara. Ovo je to. Zbog ovoga ste iznajmili auto u Podgorici.",
+    "p2": "Kapija Durmitora, Žabljak, leži na 1.456 metara, što ga čini jednim od najviše naseljenih mjesta na Balkanu. Zimi temperature padaju na -20°C i sve pokriva snijeg. Ljeti, livade divljeg cvijeća sežu do granice šume, a glečerska jezera sijaju tirkizno na pozadini tamnog bora. Visinska razlika od Podgorice (44 m) do vrhova Durmitora (2.522 m) prevaziđe se za samo 2,5 sata vožnje — vertikalni uspon koji potpuno mijenja svijet iza prozora.",
+    "activitiesTitle": "Šta raditi",
+    "hikingTitle": "Pješačenje",
+    "hikingText": "Krug od 3,5 km oko Crnog jezera je ulazna tura — ravna, šumovita i zapanjujuće lijepa. Za nešto teže, cjelodnevni uspon na Bobotov Kuk (2.522 m) traje 8-10 sati u oba smjera i zahtijeva planinsko iskustvo, čvrste cipele i rani start. Između ova dva ekstrema, desetine označenih staza prelaze alpske livade, glečerske morene i grebene sa pogledima do Albanije.",
+    "raftingTitle": "Rafting na Tari",
+    "raftingText": "Rafting na kanjonu Tare je zaštitni znak crnogorske avanture. Standardna trasa od 18 km prolazi kroz najdublji dio kanjona: brzaci III-IV kategorije, stijene visoke 1.300 m sa obje strane, vodopadi iz bočnih dolina i ikonični most Đurđevića na 150 m iznad rijeke. Ture se organizuju od maja do oktobra, traju skoro cijeli dan i uključuju ručak na riječnoj šljunkovitoj obali.",
+    "winterTitle": "Zimski sport",
+    "winterText": "Od decembra do marta Žabljak postaje skijalište. Staze na Savinom Kuku (2.313 m) i Javorovači nude nenapučene staze, jeftine ski-karte i pouzdanu snježnu podlogu. Skijalište je malo i nekomercijalno — bez glamura, samo dobro skijanje sa izvanrednim pogledima. Staze za trčanje na skijama i staze za krplje vode dublje u park za one koji preferiraju tišinu.",
+    "blackLakeTitle": "Crno jezero",
+    "blackLakeText": "Najposjećenije mjesto u parku — glečersko jezero u prirodnom amfiteatru borove šume i planinskih zidova, 15 minuta hoda od centra Žabljaka. Voda je tamnozelena i ogledalno mirna tihih jutara, odražavajući vrh Međed. Staza od 3,5 km oko obale je ravna i pogodna za porodice. Ljeti je kupanje moguće za hrabre — temperatura vode rijetko prelazi 18°C čak i u avgustu.",
+    "drivingTitle": "Vožnja od Podgorice",
+    "drivingText": "Računajte na 2,5 sata preko E65 na sjever. Put prati rijeku Moraču, zatim ulazi u kanjon Morače — zapanjujući dio đe je put usječen u stijene iznad dubokog kanjona. Stanite na pola puta kod manastira Morača (13. vijek, još aktivan). Nakon Kolašina, put se penje ka Žabljaku preko visoravni. Zimi su lanci ili zimske gume obavezni — prevoji iznad 1.000 m mogu biti opasni. Provjerite uslove prije polaska od novembra do aprila."
+  },
+  "ostrogBody": {
+    "h1": "Ostrog — manastir u nebu",
+    "p1": "Ostrog je mjesto koje tjera čovjeka da se zapita kako je izgrađeno. Gornji manastir nije samo na litici — on je u litici, ugrađen u dvije prirodne pećine na 900 metara nadmorske visine sa okomitom stijenom ispod. Izdaleka izgleda kao bijeli miraž naslikan na sivoj stijeni. Izbliza, to je jedno od najzapanjujućih sakralnih zdanja na svijetu.",
+    "p2": "Manastir prima oko 2 miliona posjetilaca godišnje — pravoslavne hodočasnike, katoličke turiste, muslimanske putnike i bekpekere koji su za njega čuli u hostelu. To je najposjećenija crnogorska znamenitost bilo koje vrste. Vožnja od Podgorice traje oko 45 minuta, a poslednji dio uskim serpentinskim putem je sam po sebi avantura.",
+    "upperTitle": "Gornji manastir",
+    "upperText": "Izgrađen u 17. vijeku od strane Svetog Vasilija Ostroškog, gornji manastir je uklesan u dvije pećine visoko u liticama. Crkva Vavedenja čuva freske iz 17. vijeka naslikane direktno na pećinskoj stijeni. Crkva Svetog Krsta čuva mošti Svetog Vasilija — njegovo tijelo je u srebrnom kivotu i predstavlja hodočasničko mjesto za vjernike. Prilaz je strmim, vijugavim putem — ljeti se gornji parking puni rano i možda ćete morati pješačiti poslednji kilometar od donjeg parkinga. Šetnja se isplati: pogled na dolinu je izvanredan.",
+    "lowerTitle": "Donji manastir",
+    "lowerText": "U podnožju litice, donji manastir nudi crkvu, smještaj za hodočasnike, izvor za koji se vjeruje da ima iscjeliteljska svojstva i prodavnicu sa ikonama i svijećama. Mnogi posjetioci prelaze put između donjeg i gornjeg manastira kao hodočašće — strma staza traje oko 20 minuta kroz šumu i otvorene stijene.",
+    "practicalTitle": "Savjeti za posjetioce",
+    "practicalText": "Ulaz je besplatan. Pristojno odijevanje je strogo obavezno — ramena i koljena pokrivena za muškarce i žene. Fotografisanje je ograničeno unutar crkava. Najgužva je vikendom i na vjerske praznike. Dolazak prije 9 ujutro ili poslije 16 časova radnim danima pruža najbolju šansu za miran obilazak. Kod donjeg manastira postoji mali kafić, ali ne i restoran — ponesite vodu i grickalice.",
+    "drivingTitle": "Vožnja od Podgorice",
+    "drivingText": "Vozite E762 na sjeverozapad ka Nikšiću oko 30 minuta, zatim pratite oznake za Ostrog. Poslednjih 15 minuta je uzak planinski put sa serpentinama i ograničenim mjestima za mimoilaženje. Vozite samopouzdano, ali oprezno — dijelite put sa turističkim autobusima i hodočasničkim prevozima. Po kiši podloga može biti klizava. Nagrada na vrhu vrijedi svakog zavoja."
+  },
+  "niksicBody": {
+    "h1": "Nikšić — pivo, tvrđava i poslednja stanica prije divljine",
+    "p1": "Nikšić je drugi crnogorski grad — 56.000 stanovnika na širokoj planinskoj ravnici na 630 metara nadmorske visine, oko sat vremena vožnje od Podgorice. To je grad kroz koji turisti prolaze na putu ka Durmitoru, što je greška. Stanite. Natočite gorivo, obiđite pivaru, popnite se do tvrđave na brdu i jedite u jednom od lokalnih roštilj-restorana prije nego što put na sjever ostavi civilizaciju iza vas.",
+    "p2": "Grad ima drugačiju energiju od primorja — manje glamura, više karaktera. Nikšić je industrijski grad sa ponosnim identitetom, na Balkanu najpoznatiji kao dom piva Nikšičko. Okolni pejzaž je otvorena visoravan, daleki planinski grebeni i ovčje farme — predukus prostranog, rijetko naseljenog sjevera koji predstoji.",
+    "breweryTitle": "Pivara Trebjesa",
+    "breweryText": "Nikšičko se ovdje vari od 1896. na padinama brda Trebjesa. Pivara nudi ture i degustacije — hladno pivo Nikšičko Tamno (tamni lager) nakon sat vremena planinske vožnje je jedan od jednostavnih životnih užitaka. Sa terase pivare pruža se pogled na grad i nikšićku ravnicu do planina u daljini.",
+    "lakeTitle": "Krupačko jezero",
+    "lakeText": "Vještačko jezero na sjevernom kraju grada, okruženo šetačkim stazama, piknik prostorom i malom plažom. Ljeti mještani plivaju, pecaju i roštiljaju na obalama. Voda je bistra, a planinska pozadina dramatična — iznenađujuće prijatno mjesto za grad koji se ne pojavljuje ni u jednom turističkom vodiču.",
+    "fortressTitle": "Tvrđava Bedem",
+    "fortressText": "Drevna tvrđava na brdu nadgleda čitavu nikšićku ravnicu sa stijenovitog rta. Prvobitno rimska, obnovljena od Osmanlija, sada ljetnja pozornica za koncerte i kulturne događaje. Uspon traje oko 15 minuta, a panorama od 360 stepeni sa zidina je najbolji pogled u regionu — poljoprivredne ravnice u prvom planu, planinski grebeni koji se nižu ka horizontu u svim pravcima.",
+    "gatewayTitle": "Kapija Durmitora",
+    "gatewayText": "Nikšić je prirodna polazna tačka za Nacionalni park Durmitor. Odavde put na sjever ulazi u sve divljiji teren — njive ustupaju mjesto šumi, planine se stišću, i kad stignete u Šavnik, pejzaž je čista visokoplaninska divljina. Natočite gorivo u Nikšiću. Sledeća pouzdana pumpa je u Žabljaku, više od sat vremena planinske vožnje.",
+    "drivingTitle": "Vožnja od Podgorice",
+    "drivingText": "Vožnja traje oko 1 sat preko E762. Put je dobro održavana dvotračna cesta većim dijelom trase, postepeno se penjući od riječne ravnice Podgorice kroz poljoprivredno zemljište i rijetku šumu. Obratite pažnju na skretanje ka manastiru Ostrog oko 30 minuta od polaska — možete kombinovati obje destinacije u jednodnevni izlet."
   }
 }

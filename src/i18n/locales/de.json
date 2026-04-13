@@ -573,7 +573,6 @@
     "cetinjeLinkText": "historischen Königshauptstadt Cetinje",
     "cetinjeLinkPost": ", nur 30 Minuten entfernt."
   },
-
   "blogIndex": {
     "breadcrumbBlog": "Blog",
     "heroTitle": "Fahrguides rund um Podgorica",
@@ -598,7 +597,6 @@
     "card_airport_title": "Flughafen zur Kueste: Routenoptionen",
     "card_airport_excerpt": "Vier Routen vom Flughafen Podgorica zur Adria -- Budva durch den Sozina-Tunnel, Bar entlang des Skutarisees, Kotor ueber die Berge oder Ulcinj entlang der Suedkueste."
   },
-
   "blogCityGuide": {
     "title": "Podgorica jenseits des Zwischenstopps: Was die meisten Touristen verpassen",
     "subtitle": "Osmanische Ruinen, Spaziergaenge am Fluss und eine Gastronomieszene, die jeden belohnt, der laenger als eine Zwischenlandung bleibt.",
@@ -639,7 +637,6 @@
     "glanceBestFor": "Ideal fuer",
     "glanceBestForVal": "Essen, Spaziergaenge, Fluss"
   },
-
   "blogOstrog": {
     "title": "Mit dem Auto zum Kloster Ostrog: Die in den Fels gehauene Strasse",
     "subtitle": "Ein Felswand-Kloster 900 Meter ueber dem Zeta-Tal -- und eine der einpraegsamstenKurzfahrten auf dem Balkan.",
@@ -676,7 +673,6 @@
     "glanceEntry": "Eintritt",
     "glanceEntryVal": "Kostenlos (Spenden willkommen)"
   },
-
   "blogDurmitor": {
     "title": "Podgorica nach Durmitor: Die 3-stuendige Bergfahrt",
     "subtitle": "Zwei Routen zum Schwarzen See, zur Tara-Bruecke und zu Montenegros hoechstem Nationalpark -- ueber Niksic oder durch die Moraca-Schlucht.",
@@ -717,7 +713,6 @@
     "glanceBestCar": "Bestes Auto",
     "glanceBestCarVal": "SUV oder hohe Bodenfreiheit"
   },
-
   "blogCetinje": {
     "title": "Tagesausflug nach Cetinje: Montenegros koenigliche und geistliche Hauptstadt",
     "subtitle": "Fuenfunddreissig Minuten von Podgorica in die Berge -- Botschaften als Museen, ein Kloster mit heiligen Reliquien und eine Stadt, die in einem ruhigeren Jahrhundert verharrt.",
@@ -756,7 +751,6 @@
     "glanceBestFor": "Ideal fuer",
     "glanceBestForVal": "Geschichte, Museen, ruhige Spaziergaenge"
   },
-
   "blogSkadar": {
     "title": "Virpazar und der Skutarisee von Podgorica mit dem Auto",
     "subtitle": "Der groesste See des Balkans liegt 30 Minuten suedlich -- Bootsfahrten durch Seerosen, Crmnica-Wein und eine verfallene Festung ueber dem Hafen.",
@@ -793,7 +787,6 @@
     "glanceEntry": "Parkeintritt",
     "glanceEntryVal": "4 Euro pro Person"
   },
-
   "blogNiksic": {
     "title": "Niksic, Kapino-Wasserfaelle und der Krupac-See",
     "subtitle": "Montenegros zweitgroesste Stadt braut das Nationalbier, verbirgt einen Wasserfall im Wald und bietet einen Gletschersee zum Baden -- alles innerhalb einer Stunde von der Hauptstadt.",
@@ -832,7 +825,6 @@
     "glanceBestFor": "Ideal fuer",
     "glanceBestForVal": "Essen, Natur, Schwimmen"
   },
-
   "blogMoraca": {
     "title": "Die Moraca-Schluchtstrasse: Montenegros dramatischste Autobahn",
     "subtitle": "Senkrechte Kalksteinwaende, ein Kloster aus dem 13. Jahrhundert in der Schlucht und eine in den Fels gehauene Strasse -- die Fahrt noerdlich von Podgorica.",
@@ -869,7 +861,6 @@
     "glanceBestCar": "Bestes Auto",
     "glanceBestCarVal": "Jedes -- Strasse ist gut gepflegt"
   },
-
   "blogBiogradska": {
     "title": "Biogradska Gora: Fahrt zu Europas letztem Regenwald",
     "subtitle": "Ein urzeitlicher Wald, seit Jahrhunderten unberuehrt, rund um einen Gletschersee auf 1.094 Metern -- erreichbar ueber die Moraca-Schlucht.",
@@ -906,7 +897,6 @@
     "glanceBestFor": "Ideal fuer",
     "glanceBestForVal": "Wandern, Fotografie, Natur"
   },
-
   "blogAirportCoast": {
     "title": "Flughafen Podgorica zur Kueste: Routenoptionen im Vergleich",
     "subtitle": "Vier Routen vom TGD zur Adria -- Budva durch den Sozina-Tunnel, Bar entlang des Sees, Kotor ueber die Berge oder Ulcinj Richtung Sueden.",
@@ -944,11 +934,93 @@
     "compareUlcinj": "Nach Ulcinj (ueber Bar)",
     "compareUlcinjVal": "1,5 Std., 80 km, keine Maut"
   },
-
   "blogHome": {
     "sectionLabel": "Reiseguides",
     "sectionTitle": "Fahrguides ab Podgorica",
     "sectionSubtitle": "Bergstrassen, versteckte Kloester und Schluchtenfahrten ab Montenegros Hauptstadt.",
     "viewAll": "Alle Guides ansehen"
+  },
+  "lake-skadar": {
+    "title": "Von Podgorica zum Skadarsee",
+    "subtitle": "391 km² Feuchtgebiet — Pelikane, Weindörfer und versteckte Strände, nur 30 Minuten südlich.",
+    "seoDesc": "30 Min. ab TGD: 391 km² Feuchtgebiet, Krauskopfpelikane, 270 Vogelarten, Crmnica-Weinregion und Bootstouren ab Virpazar. Ein Mietwagen erschließt die ruhigeren Buchten des Sees."
+  },
+  "cetinje": {
+    "title": "Von Podgorica nach Cetinje",
+    "subtitle": "Montenegros einstige Königshauptstadt auf 670 m Höhe — 35 Minuten in die Wolken.",
+    "seoDesc": "35-minütige Bergfahrt von Podgorica nach Cetinje, Montenegros Hauptstadt von 1878 bis 1918. Cetinje-Kloster, König-Nikola-Palast, dann Njegoš-Mausoleum auf dem Lovćen."
+  },
+  "durmitor": {
+    "title": "Von Podgorica zum Durmitor",
+    "subtitle": "UNESCO-Gipfel, Gletscherseen und die zweittiefste Schlucht der Welt — 2,5 Stunden nach Norden.",
+    "seoDesc": "2,5 Std. ab TGD durch die Morača-Schlucht zu Durmitors 2.522-m-Gipfeln. Schwarzer See, Tara-Schlucht (1.300 m tief) und Žabljak auf 1.456 m. SUVs und Schneeketten verfügbar."
+  },
+  "ostrog-monastery": {
+    "title": "Von Podgorica zum Kloster Ostrog",
+    "subtitle": "Ein Kloster aus dem 17. Jahrhundert, in eine 900-m-Felswand gehauen — 2 Millionen Besucher jährlich irren nicht.",
+    "seoDesc": "45 Min. von Podgorica zu einem in den Felsen eingebetteten Kloster auf 900 m Höhe. Ostrog zieht jährlich 2 Mio. Pilger an — bei Morgengrauen ankommen, Menschenmassen umgehen."
+  },
+  "niksic": {
+    "title": "Von Podgorica nach Nikšić",
+    "subtitle": "Bier, Festungsruinen und der letzte Tankstopp vor dem Durmitor — 1 Stunde ab Podgorica.",
+    "seoDesc": "Eine Stunde Fahrt zu Montenegros zweitgrößter Stadt und Brauereihauptstadt. Trebjesa besichtigen, tanken, dann weiter nach Norden zu Durmitors Gipfeln. Nikšić als kluge Zwischenübernachtung."
+  },
+  "cetinjeBody": {
+    "h1": "Cetinje — Wo ein Königreich auf 670 Metern lebte",
+    "p1": "Cetinje ist eine der unwahrscheinlichsten ehemaligen Hauptstädte Europas. Auf 670 Metern Höhe in einem von Bergen umgebenen Kalksteintal gelegen, diente diese Kleinstadt mit 15.000 Einwohnern von 1878 bis 1918 als Hauptstadt Montenegros — Sitz eines Königreichs, das von allen Großmächten anerkannt wurde und Botschaften aus Russland, Großbritannien, Frankreich, Österreich-Ungarn und dem Osmanischen Reich unterhielt. Die Botschaften stehen noch heute entlang der breiten Boulevards, umgewandelt in Museen und Musikschulen, und verleihen der Stadt eine verblasste Pracht, die kein anderer Ort in Montenegro bieten kann.",
+    "p2": "Die Fahrt von Podgorica dauert 35 Minuten und führt stetig bergauf von der 44-Meter-Flussebene der Hauptstadt in die Berge. Die Straße ist modern und gut ausgebaut. Alternativ ist Cetinje über die legendäre 25-Kehren-Straße von Kotor erreichbar — eine der spektakulärsten Bergstraßen Europas, in die Kalksteinflanke des Lovćen gehauen.",
+    "monasteryTitle": "Kloster Cetinje",
+    "monasteryText": "Das 1484 von Ivan Crnojević gegründete und 1786 nach osmanischer Zerstörung wiederaufgebaute Kloster ist das geistliche Herz der montenegrinischen Orthodoxie. Es beherbergt mehrere außergewöhnliche Reliquien: die angebliche Hand Johannes des Täufers, ein Fragment des Wahren Kreuzes und die Krone König Stefan Dečanskis. Das Kloster ist noch aktiv — Mönche leben und beten hier — und Besucher sind während der Öffnungszeiten willkommen. Angemessene Kleidung: Schultern und Knie bedeckt.",
+    "museumsTitle": "Das königliche Cetinje",
+    "kingPalaceTitle": "König-Nikola-Palast",
+    "kingPalaceText": "Der 1871 als Residenz des einzigen Königs von Montenegro erbaute Palast ist heute ein Museum mit Originalmöbeln, königlichen Porträts, militärischen Auszeichnungen und Geschenken ausländischer Staatsoberhäupter. Das Billardzimmer ist ein Höhepunkt — eine Erinnerung daran, dass selbst in einem Bergkönigreich die Aristokratie europäischen Moden folgte.",
+    "nationalMuseumTitle": "Nationalmuseum von Montenegro",
+    "nationalMuseumText": "Im ehemaligen Parlamentsgebäude untergebracht, umfasst das Museum die montenegrinische Geschichte vom mittelalterlichen Staat Zeta über die osmanische Besetzung, die Königszeit, den jugoslawischen Sozialismus bis zur Unabhängigkeitsabstimmung 2006. Der Kunstgalerieflügel beherbergt eine bedeutende Ikonensammlung, darunter die angeblich wundertätige Muttergottes von Philermos, die von den Johannitern aus Rhodos gebracht wurde.",
+    "lovcenTitle": "Lovćen und das Njegoš-Mausoleum",
+    "lovcenText": "Von Cetinje aus führt eine 30-minütige Fahrt durch dichten Buchen- und Kiefernwald zum Gipfelbereich des Lovćen. Auf 1.657 Metern krönt das Njegoš-Mausoleum den Gipfel — ein Granit- und Marmordenkmal für Petar II. Petrović-Njegoš, Montenegros größten Dichter und Herrscher. Erklimmen Sie 461 Stufen vom Parkplatz zum Eingang. An klaren Tagen reicht das Panorama von den adriatischen Inseln über die albanischen Alpen bis zum Durmitor-Massiv. Auf dem Rückweg halten Sie im Dorf Njeguši für den berühmten Räucherschinken (Pršut) und Käse — hergestellt von Schafen, die auf diesen Bergwiesen grasen."
+  },
+  "durmitorBody": {
+    "h1": "Durmitor — Wo Montenegro in die Vertikale geht",
+    "p1": "Der Nationalpark Durmitor ist UNESCO-Welterbe und umfasst 390 km² unberührte Bergwildnis in Nordmontenegro. Der Park enthält 48 Gipfel über 2.000 Meter — der höchste ist der Bobotov Kuk mit 2.522 m — dazu 18 Gletscherseen, uralte Kiefernwälder und die Tara-Schlucht, die tiefste Schlucht Europas und die zweittiefste der Welt mit 1.300 Metern. Das ist das Highlight. Dafür haben Sie in Podgorica ein Auto gemietet.",
+    "p2": "Die Torstadt Žabljak liegt auf 1.456 Metern und ist damit eine der höchstgelegenen Siedlungen auf dem Balkan. Im Winter fallen die Temperaturen auf -20°C und Schnee bedeckt alles. Im Sommer erstrecken sich Wildblumenwiesen bis zur Baumgrenze und die Gletscherseen leuchten türkis vor dunklem Kieferngrün. Der Höhenunterschied von Podgorica (44 m) zu den Durmitor-Gipfeln (2.522 m) wird in nur 2,5 Stunden Fahrt überwunden — ein vertikaler Anstieg, der die Welt vor Ihrem Fenster komplett verändert.",
+    "activitiesTitle": "Aktivitäten",
+    "hikingTitle": "Wandern",
+    "hikingText": "Die 3,5-km-Runde um den Schwarzen See (Crno Jezero) ist die Einstiegswanderung — flach, bewaldet und atemberaubend schön. Für Anspruchsvollere dauert die Ganztagesbesteigung des Bobotov Kuk (2.522 m) 8-10 Stunden hin und zurück und erfordert Bergerfahrung, feste Schuhe und einen frühen Start. Dazwischen führen Dutzende markierter Wege über Almwiesen, Gletschermoränen und Gratlinien mit Blick bis nach Albanien.",
+    "raftingTitle": "Rafting auf der Tara",
+    "raftingText": "Das Tara-Canyon-Rafting ist Montenegros Signature-Abenteuer. Die Standardstrecke von 18 km führt durch den tiefsten Abschnitt der Schlucht — mit Wildwasser Grad III-IV, 1.300 m hohen Felswänden, Wasserfällen aus Seitentälern und der ikonischen Đurđevica-Tara-Brücke, die 150 m über dem Fluss thront. Touren laufen von Mai bis Oktober, dauern fast den ganzen Tag und beinhalten ein Mittagessen an einer Kiesbank am Fluss.",
+    "winterTitle": "Wintersport",
+    "winterText": "Von Dezember bis März wird Žabljak zum Skiort. Die Pisten am Savin Kuk (2.313 m) und Javorovača bieten leere Abfahrten, günstige Skipässe und zuverlässige Schneedecke. Das Gebiet ist klein und unkommerziell — kein Glamour, einfach gutes Skifahren mit außergewöhnlicher Aussicht. Langlaufloipen und Schneeschuhrouten führen in den Park für alle, die Stille dem Sessellift vorziehen.",
+    "blackLakeTitle": "Schwarzer See",
+    "blackLakeText": "Der meistbesuchte Ort im Park — ein Gletschersee in einem natürlichen Amphitheater aus Kiefernwald und Bergwänden, 15 Gehminuten vom Zentrum Žabljaks entfernt. Das Wasser ist dunkelgrün und spiegelglatt an ruhigen Morgen, den Međed-Gipfel darüber reflektierend. Der 3,5-km-Uferrundweg ist flach und familienfreundlich. Im Sommer ist Schwimmen für Mutige möglich — die Wassertemperatur steigt selbst im August selten über 18°C.",
+    "drivingTitle": "Die Fahrt von Podgorica",
+    "drivingText": "Planen Sie 2,5 Stunden über die E65 nach Norden ein. Die Straße folgt der Morača und tritt dann in die Morača-Schlucht ein — ein atemberaubender Abschnitt, in dem die Straße in Felswände über einer tiefen Schlucht gehauen ist. Halten Sie etwa auf halber Strecke am Kloster Morača (13. Jh., noch aktiv). Nach Kolašin steigt die Straße über ein Hochplateau nach Žabljak. Im Winter sind Schneeketten oder Winterreifen Pflicht — die Pässe über 1.000 m können tückisch sein. Prüfen Sie die Bedingungen vor der Abfahrt zwischen November und April."
+  },
+  "ostrogBody": {
+    "h1": "Ostrog — Ein Kloster im Himmel",
+    "p1": "Ostrog ist ein Ort, der einen an der Baukunst zweifeln lässt. Das Oberkloster sitzt nicht nur auf einer Klippe — es befindet sich in der Klippe, eingebettet in zwei natürliche Höhlen auf 900 Metern Höhe mit einer senkrechten Felswand darunter. Von weitem sieht es aus wie eine weiße Fata Morgana auf grauem Stein. Aus der Nähe ist es eines der erstaunlichsten sakralen Bauwerke der Welt.",
+    "p2": "Das Kloster empfängt jährlich rund 2 Millionen Besucher — orthodoxe Pilger, katholische Touristen, muslimische Reisende und Rucksacktouristen, die in einem Hostel davon gehört haben. Es ist Montenegros meistbesuchte Sehenswürdigkeit jeder Art. Die Fahrt von Podgorica dauert etwa 45 Minuten, und die letzte Etappe über eine enge Serpentinenstraße ist schon ein Abenteuer für sich.",
+    "upperTitle": "Das Oberkloster",
+    "upperText": "Im 17. Jahrhundert vom Heiligen Basilius von Ostrog (Sveti Vasilije Ostroski) erbaut, ist das Oberkloster in zwei Höhlen hoch in der Felswand gehauen. Die Kirche der Darstellung des Herrn beherbergt Fresken aus dem 17. Jahrhundert, direkt auf den Höhlenfels gemalt. Die Kirche des Heiligen Kreuzes enthält die Reliquien des Heiligen Basilius — sein Leichnam ruht in einem silbernen Reliquienschrein und ist ein Wallfahrtsort für Gläubige. Der Zugang erfolgt über eine steile, kurvenreiche Straße — im Sommer füllt sich der obere Parkplatz früh und man muss eventuell den letzten Kilometer vom unteren Parkplatz zu Fuß gehen. Der Spaziergang lohnt sich: Die Aussicht über das Tal ist außergewöhnlich.",
+    "lowerTitle": "Das Unterkloster",
+    "lowerText": "Am Fuß der Klippe bietet das Unterkloster eine Kirche, Pilgerunterkünfte, eine Quelle mit angeblich heilenden Eigenschaften und einen Geschenkladen mit Ikonen und Kerzen. Viele Besucher gehen den Weg zwischen Unter- und Oberkloster als Pilgerweg — der steile Pfad dauert etwa 20 Minuten und führt durch Wald und offene Felsabschnitte.",
+    "practicalTitle": "Besuchertipps",
+    "practicalText": "Der Eintritt ist frei. Angemessene Kleidung ist streng erforderlich — Schultern und Knie bei Männern und Frauen bedeckt. Fotografieren ist in den Kirchen eingeschränkt. Am Wochenende und an religiösen Feiertagen ist es am vollsten. Ankunft vor 9 Uhr oder nach 16 Uhr an Wochentagen bietet die besten Chancen auf einen besinnlichen Besuch. Es gibt ein kleines Café am Unterkloster, aber kein Restaurant — nehmen Sie Wasser und Snacks mit.",
+    "drivingTitle": "Die Fahrt von Podgorica",
+    "drivingText": "Nehmen Sie die E762 Richtung Nordwesten nach Nikšić für etwa 30 Minuten, dann folgen Sie der ausgeschilderten Abzweigung nach Ostrog. Die letzten 15 Minuten führen über eine enge Bergstraße mit Serpentinen und begrenzten Ausweichstellen. Fahren Sie selbstsicher, aber vorsichtig — Sie teilen die Straße mit Reisebussen und Pilgerfahrzeugen. Bei nassem Wetter kann die Fahrbahn rutschig sein. Die Belohnung oben ist jede Haarnadelkurve wert."
+  },
+  "niksicBody": {
+    "h1": "Nikšić — Bier, Festung und der letzte Stopp vor der Wildnis",
+    "p1": "Nikšić ist Montenegros zweitgrößte Stadt — 56.000 Einwohner auf einer weiten Hochebene auf 630 Metern Höhe, etwa eine Autostunde von Podgorica entfernt. Es ist die Art von Stadt, die Touristen auf dem Weg zum Durmitor durchfahren, was ein Fehler ist. Halten Sie an. Tanken Sie, besichtigen Sie die Brauerei, steigen Sie zur Hügelfestung hinauf und essen Sie in einem der lokalen Grillrestaurants, bevor die Straße nach Norden die Zivilisation hinter sich lässt.",
+    "p2": "Die Stadt hat eine andere Atmosphäre als die Küste — weniger Glamour, mehr Charakter. Nikšić ist eine Industriestadt mit stolzer Identität, auf dem Balkan vor allem als Heimat des Nikšičko-Biers bekannt. Die Umgebung besteht aus offener Hochebene, entfernten Gebirgskämmen und Schaffarmen — ein Vorgeschmack auf den weiten, dünn besiedelten Norden.",
+    "breweryTitle": "Brauerei Trebjesa",
+    "breweryText": "Nikšičko wird hier seit 1896 an den Hängen des Trebjesa-Hügels gebraut. Die Brauerei bietet Führungen und Verkostungen an — ein kühles Nikšičko Tamno (das dunkle Lager) nach einer Stunde Bergfahrt ist einer der einfachen Genüsse des Lebens. Die Brauereiterrasse bietet Blick über die Stadt und die Nikšić-Ebene bis zu den Bergen.",
+    "lakeTitle": "Krupac-See",
+    "lakeText": "Ein Stausee am nördlichen Stadtrand, umgeben von Spazierwegen, Picknickplätzen und einem kleinen Strand. Im Sommer schwimmen, angeln und grillen Einheimische am Ufer. Das Wasser ist klar und die Bergkulisse dramatisch — ein überraschend angenehmer Ort für eine Stadt, die in keinem Reiseführer vorkommt.",
+    "fortressTitle": "Festung Bedem",
+    "fortressText": "Die alte Hügelfestung überblickt die gesamte Nikšić-Ebene von einem felsigen Vorsprung. Ursprünglich römisch, von den Osmanen umgebaut und heute Sommerveranstaltungsort für Konzerte und kulturelle Events. Der Aufstieg dauert etwa 15 Minuten und das 360-Grad-Panorama von den Mauern ist die beste Aussicht der Region — landwirtschaftliche Ebenen im Vordergrund, Gebirgskämme, die sich in jede Richtung zum Horizont staffeln.",
+    "gatewayTitle": "Tor zum Durmitor",
+    "gatewayText": "Nikšić ist der natürliche Ausgangspunkt für den Nationalpark Durmitor. Von hier führt die Straße nach Norden in zunehmend wilde Landschaft — Ackerland weicht Wald, die Berge rücken näher, und wenn Sie Šavnik erreichen, ist die Landschaft reine Hochgebirgswildnis. Tanken Sie in Nikšić. Die nächste zuverlässige Tankstelle ist in Žabljak, über eine Stunde Bergfahrt entfernt.",
+    "drivingTitle": "Die Fahrt von Podgorica",
+    "drivingText": "Die Fahrt dauert etwa 1 Stunde über die E762. Die Straße ist größtenteils gut ausgebaute Schnellstraße und steigt allmählich von Podgoricas Flussebene durch Ackerland und lichten Wald an. Achten Sie auf die Abzweigung zum Kloster Ostrog etwa 30 Minuten nach Abfahrt — Sie können beide Ziele an einem Tagesausflug kombinieren."
   }
 }
