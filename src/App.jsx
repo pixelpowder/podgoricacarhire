@@ -832,7 +832,7 @@ export default function App() {
         </div>
         <Features />
         <Fleet />
-        <Reviews />
+        {/* <Reviews /> */}
         <HowItWorks />
         <BlogCards />
         <MountainRoutes />
