@@ -3,7 +3,8 @@
     "book": "Buchen",
     "destinations": "Reiseziele",
     "about": "Über uns",
-    "blog": "Blog"
+    "blog": "Blog",
+    "contact": "Kontakt"
   },
   "common": {
     "home": "Startseite",
@@ -27,7 +28,8 @@
     "pickupDate": "Abholdatum",
     "pickupTime": "Uhrzeit",
     "dropoffDate": "Rückgabedatum",
-    "dropoffTime": "Uhrzeit"
+    "dropoffTime": "Uhrzeit",
+    "selectDates": "Daten wählen"
   },
   "trust": {
     "noHiddenFees": "Keine versteckten Kosten",
@@ -92,7 +94,9 @@
     "bookText": "Echtzeit-Verfügbarkeit und Preise in ganz Montenegro durchsuchen.",
     "helpTitle": "Brauchen Sie Hilfe?",
     "helpText": "Unser Team ist per WhatsApp, Viber oder Telefon erreichbar.",
-    "popularDest": "Beliebte Reiseziele"
+    "popularDest": "Beliebte Reiseziele",
+    "tivatAirport": "Flughafen Tivat",
+    "dubrovnikAirport": "Flughafen Dubrovnik"
   },
   "book": {
     "title": "Finden Sie Ihr Auto",
@@ -114,7 +118,10 @@
     "searchCars": "Autos suchen",
     "privacyPolicy": "Datenschutzrichtlinie",
     "terms": "Allgemeine Geschäftsbedingungen",
-    "cookiePolicy": "Cookie-Richtlinie"
+    "cookiePolicy": "Cookie-Richtlinie",
+    "testimonials": "Bewertungen",
+    "sitemap": "Sitemap",
+    "tivatAirport": "Flughafen Tivat"
   },
   "notFound": {
     "code": "404",
@@ -129,7 +136,36 @@
   "about": {
     "title": "Über uns",
     "subtitle": "Wir helfen Reisenden seit 2007, Montenegro zu entdecken.",
-    "seoDesc": "Über Podgorica Car Hire. Seit 2007 helfen wir Reisenden, Montenegro mit zuverlässigen Mietwagen, Flughafenzustellung und lokaler Expertise zu entdecken."
+    "seoDesc": "Über Podgorica Car Hire. Seit 2007 helfen wir Reisenden, Montenegro mit zuverlässigen Mietwagen, Flughafenzustellung und lokaler Expertise zu entdecken.",
+    "heading1": "Autovermietung Podgorica",
+    "p1": "Autovermietung Podgorica verbindet Abenteuerlustige Reisende mit zuverlässigen Mietwagen, um schnell ins wilde Innere Montenegros zu gelangen. Wir sind ein unabhängiger Partner, der mit vertrauenswürdigen lokalen Vermietungsunternehmen zusammenarbeitet, landen Sie mit einem günstigen Flug, holen Sie die Schlüssel am Terminal ab, und innerhalb einer Stunde können Sie die Serpentinen hinauf zu den Dinarischen Alpen fahren oder die Ufer des Skadar-Sees entlanggleiten.",
+    "heading2": "Warum Podgorica?",
+    "p2": "Ryanair fliegt von Stansted und Charleroi. Wizz Air verbindet Wien und Dortmund. Diese Flüge sind spottbillig und landen alle auf TGD, einem kleinen, schnellen Flughafen 12 km südlich der Hauptstadt. Vom Terminal-Parkplatz öffnet sich das ganze Land: Ostrog-Kloster in 45 Minuten, die Adriatic in einer Stunde, die Tara-Schlucht am frühen Nachmittag.",
+    "heading3": "Unser Angebot",
+    "p3a": "Wir bieten Autovermietung vom",
+    "p3Link1": "Flughafen Podgorica",
+    "p3b": ", dem Stadtzentrum und weiteren Standorten in",
+    "p3Link2": "Montenegro",
+    "p3c": ".",
+    "p3Link3": "",
+    "p3d": "",
+    "promiseTitle": "Unser Versprechen",
+    "promise1": "Vollversicherung mit Selbstbeteiligungsoption Null, auch auf Bergstraßen",
+    "promise2": "Flughafen-Abholung: Ihr Auto wartet am Terminal, Motor kalt, Tank voll",
+    "promise3": "Keine versteckten Gebühren, der Preis, den Sie sehen, ist der Preis, den Sie zahlen, immer",
+    "promise4": "Grenzübergang nach Kroatien, Bosnien, Albanien, Serbien und Kosovo",
+    "promise5": "Kostenlose Stornierung, denn das Wetter in den Bergen ändert Pläne",
+    "promise6": "24/7 Pannenhilfe von der Adriatic bis zur Grenze Albaniens",
+    "localTitle": "Lokales Wissen",
+    "localText": "Mit Sitz in Podgorica kennen wir jede Straße von der Hauptstadt zur Küste. Ob Sie zum",
+    "localLink1": "Skadar-See",
+    "localMid": "fahren, um durch Seerosenfelder zu paddeln, oder hinauf zum felsengemeißelten",
+    "localLink2": "Ostrog-Kloster",
+    "localMid2": "klettern, oder die Bergstraße Platije Richtung",
+    "localLink3": "Durmitor",
+    "localEnd": "Nationalpark navigieren, wir vermitteln Ihnen das richtige Auto und die beste Route.",
+    "contactTitle": "Kontakt",
+    "contactText": "Fragen zu Schneeketten, Bergpässen oder welcher SUV die Durmitor-Straße am besten meistert? Wir sind auf WhatsApp, Viber und Telefon erreichbar. Suchen Sie die Flotte online und buchen Sie in Minuten, oder schreiben Sie uns eine Nachricht und wir planen Ihre Route gemeinsam."
   },
   "kotor": {
     "title": "Mietwagen in Kotor",
@@ -571,7 +607,21 @@
   "lakeSkadarBody": {
     "cetinjeLinkPre": "Kombinieren Sie es mit einem Besuch der ",
     "cetinjeLinkText": "historischen Königshauptstadt Cetinje",
-    "cetinjeLinkPost": ", nur 30 Minuten entfernt."
+    "cetinjeLinkPost": ", nur 30 Minuten entfernt.",
+    "h1": "Der größte See des Balkans, 30 Minuten von Ihrem Hotel",
+    "p1": "Der Skadar-See erstreckt sich über 391 km² Feuchtgebiet entlang der montenegrinisch-albanischen Grenze und ist damit der größte See des Balkans und einer der bedeutendsten Vogellebensräume Europas. Von Podgorica aus dauert die Fahrt südlich auf der E65 kaum 30 Minuten. Sie verlassen eine betonerne Hauptstadt in 40°C Hitze und erreichen eine Wasserlandschaft aus Seerosenblättern, Schilfbeständen und Bergen, die sich im stillen grünen Wasser spiegeln.",
+    "p2": "Der See ist auf montenegrinischer Seite ein Nationalpark, und der Schutzstatus zeigt sich überall. Dalmatinische Pelikane, eine der seltensten Pelikanarten der Welt, brüten auf den Inseln. Über 270 Vogelarten wurden hier im Jahresverlauf beobachtet: Zwergscharben, Sumpfadler, Sichler, Bartseeschwalben. Vogelbeobachter kommen mit langen Objektiven und frühen Alarmen aus ganz Europa.",
+    "wildlifeTitle": "Tierwelt und Jahreszeiten",
+    "wildlifeText": "Frühling und Frühsommer bringen die Seerosen, riesige schwimmende Teppiche aus weißen und gelben Blüten, die ganze Buchten bedecken. Dies ist auch die Hochsaison für Nist- und Reiherkolonien. Der Herbst lockt wandernde Vögel in großer Zahl an. Der Winter ist ruhiger, aber der Wasserspiegel steigt und überschwemmt die umliegenden Wiesen und schafft eine Spiegellandschaft aus Wasser und Bergen. Kayaking und Stand-Up-Paddleboarding sind von Mai bis Oktober beliebt und führen durch Schilfkanäle, die Motorboote nicht erreichen können.",
+    "villagesTitle": "Dörfer am See",
+    "virpazarTitle": "Virpazar",
+    "virpazarText": "Das Haupttor zum See, ein winziges Dorf um eine Steinbrücke und einen Hafen voller Ausflugsboote. Bootsfahrten kosten ab EUR 15 pro Person für eine 2-stündige Fahrt durch die Pelikannistplätze. Der Samstagmorgenmarkt verkauft lokalen Honig, getrocknete Feigen, Olivenöl und Flaschen Crmnica-Wein. Mehrere Restaurants am Ufer servieren frische Seekarpfen, geräucherten Aal und Blitva (Mangold mit Kartoffeln), montenegrinisches Soul Food.",
+    "rijekaTitle": "Rijeka Crnojevica",
+    "rijekaText": "Bekannt für die hufeisenvormige Flussschleife, die von der Anhöhe oben fotografiert wird. Eines der ikonischsten Landschaftsfotos Montenegros. Das Dorf selbst ist kleiner und ruhiger als Virpazar, mit einer alten Steinbrücke und Bootsbetreibern, die durch Seerosenkanäle zum offenen See fahren. Weniger touristisch, mehr atmosphärisch.",
+    "wineTitle": "Weinregion",
+    "wineText": "Die Crmnica-Weinregion erstreckt sich über die Hügel oberhalb des südlichen Seeufers. Die einheimische Vranac-Traube gedeiht hier in dem warmen Mikroklima und erzeugt tiefe, vollmundige Rotweine, die sich gegen jeden Balkan-Wein behaupten. Mehrere Familienweingüter entlang der Seestraße zwischen Virpazar und Godinje bieten Verkostungen, Kellertouren und Flaschen zu Hofpreisen an. Verbinden Sie eine Morgenbootsfahrt mit einer Nachmittags-Weinverkostung für einen der besten Tagesausflüge in Montenegro.",
+    "drivingTitle": "Anreise von Podgorica",
+    "drivingText": "Nehmen Sie die E65 in Richtung Süden nach Bar. Die Ausfahrt zu Virpazar ist nach etwa 25 km deutlich beschildert. Die Straße ist die ganze Strecke über eine hochwertige Doppelfahrbahn. Wenn Sie Zeit haben, fahren Sie an Virpazar vorbei nach Rijeka Crnojevica auf der kurvenreichen Seestraße, langsamer aber spektakulär landschaftlich. Rechnen Sie mit 30 Minuten nach Virpazar, 45 Minuten nach Rijeka Crnojevica."
   },
   "blogIndex": {
     "breadcrumbBlog": "Blog",
@@ -1022,5 +1072,31 @@
     "gatewayText": "Nikšić ist der natürliche Ausgangspunkt für den Nationalpark Durmitor. Von hier führt die Straße nach Norden in zunehmend wilde Landschaft — Ackerland weicht Wald, die Berge rücken näher, und wenn Sie Šavnik erreichen, ist die Landschaft reine Hochgebirgswildnis. Tanken Sie in Nikšić. Die nächste zuverlässige Tankstelle ist in Žabljak, über eine Stunde Bergfahrt entfernt.",
     "drivingTitle": "Die Fahrt von Podgorica",
     "drivingText": "Die Fahrt dauert etwa 1 Stunde über die E762. Die Straße ist größtenteils gut ausgebaute Schnellstraße und steigt allmählich von Podgoricas Flussebene durch Ackerland und lichten Wald an. Achten Sie auf die Abzweigung zum Kloster Ostrog etwa 30 Minuten nach Abfahrt — Sie können beide Ziele an einem Tagesausflug kombinieren."
+  },
+  "contentPage": {
+    "youMightAlsoLike": "Das könnte Sie auch interessieren",
+    "readyCta": "Bereit, ein Auto in Podgorica zu mieten?",
+    "searchCars": "Autos durchsuchen"
+  },
+  "relatedGuides": {
+    "secretChurches": "Verborgene Ecken",
+    "vrmacRidge": "Malerische Fahrten",
+    "swimmingSpots": "Beste Badestellen"
+  },
+  "navTop": {
+    "carRental": "Autovermietung",
+    "destinations": "Ziele",
+    "travelGuides": "Reiseführer",
+    "bokaBayRentals": "Hauptstadt und TGD"
+  },
+  "cookieBanner": {
+    "title": "Cookie-Richtlinie",
+    "text": "Wir verwenden Cookies, um Ihr Erlebnis zu verbessern. Wenn Sie diese Website weiter nutzen, stimmen Sie unserer Richtlinie zu",
+    "accept": "Akzeptieren",
+    "decline": "Ablehnen"
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "seoDesc": "Kontaktieren Sie Podgorica Car Hire. E-Mail, WhatsApp und Kontaktformular."
   }
 }

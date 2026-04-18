@@ -1,0 +1,42 @@
+{
+  "enKeyCount": 886,
+  "missing": {
+    "de": [],
+    "fr": [],
+    "it": [],
+    "ru": [],
+    "me": []
+  },
+  "englishCopied": {
+    "de": [
+      "about.p3Link2",
+      "tivatBody.portoTitle",
+      "borderCrossingBody.kosovoTitle",
+      "lakeSkadarBody.rijekaTitle",
+      "blogNiksic.glanceHighlights"
+    ],
+    "fr": [
+      "nav.destinations",
+      "footer.destinations",
+      "tivatBody.portoTitle",
+      "lakeSkadarBody.rijekaTitle",
+      "blogCityGuide.glancePopulation",
+      "blogDurmitor.glanceDistanceVal",
+      "navTop.destinations"
+    ],
+    "it": [
+      "about.p3Link2",
+      "tivatBody.portoTitle",
+      "borderCrossingBody.albaniaTitle",
+      "borderCrossingBody.serbiaTitle",
+      "borderCrossingBody.kosovoTitle",
+      "lakeSkadarBody.rijekaTitle"
+    ],
+    "ru": [
+      "tivatBody.portoTitle"
+    ],
+    "me": [
+      "lakeSkadarBody.rijekaTitle"
+    ]
+  }
+}

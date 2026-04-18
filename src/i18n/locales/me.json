@@ -3,7 +3,8 @@
     "book": "Rezerviši",
     "blog": "Blog",
     "destinations": "Destinacije",
-    "about": "O Nama"
+    "about": "O Nama",
+    "contact": "Kontakt"
   },
   "common": {
     "home": "Početna",
@@ -27,7 +28,8 @@
     "pickupDate": "Datum preuzimanja",
     "pickupTime": "Vrijeme",
     "dropoffDate": "Datum vraćanja",
-    "dropoffTime": "Vrijeme"
+    "dropoffTime": "Vrijeme",
+    "selectDates": "Odaberite datume"
   },
   "trust": {
     "noHiddenFees": "Bez Skrivenih Troškova",
@@ -92,7 +94,9 @@
     "bookText": "Pretražite dostupnost i cijene u realnom vremenu širom Crne Gore.",
     "helpTitle": "Trebate Pomoć?",
     "helpText": "Naš tim je dostupan putem WhatsApp, Viber ili telefona.",
-    "popularDest": "Popularne Destinacije"
+    "popularDest": "Popularne Destinacije",
+    "tivatAirport": "Aerodrom Tivat",
+    "dubrovnikAirport": "Aerodrom Dubrovnik"
   },
   "book": {
     "title": "Pronađite Vaš Auto",
@@ -114,7 +118,10 @@
     "searchCars": "Pretraži Auta",
     "privacyPolicy": "Politika Privatnosti",
     "terms": "Uslovi Korišćenja",
-    "cookiePolicy": "Politika Kolačića"
+    "cookiePolicy": "Politika Kolačića",
+    "testimonials": "Iskustva putnika",
+    "sitemap": "Mapa sajta",
+    "tivatAirport": "Aerodrom Tivat"
   },
   "notFound": {
     "code": "404",
@@ -129,7 +136,36 @@
   "about": {
     "title": "O Nama",
     "subtitle": "Pomažemo putnicima da istraže Crnu Goru od 2007.",
-    "seoDesc": "O Crna Gora Car Hire. Od 2007. pomažemo putnicima da istraže Crnu Goru sa pouzdanim automobilima, isporukom na aerodrom i lokalnom ekspertizom."
+    "seoDesc": "O Crna Gora Car Hire. Od 2007. pomažemo putnicima da istraže Crnu Goru sa pouzdanim automobilima, isporukom na aerodrom i lokalnom ekspertizom.",
+    "heading1": "Iznajmljivanje automobila Podgorica",
+    "p1": "Iznajmljivanje automobila Podgorica povezuje avanturističke putnika sa pouzdanim automobilima kako bi brzo dostigli divlji enterijer Crne Gore. Predstavljamo nezavisne partnere sa pouzdanim lokalnim rentera, što znači: sletite na budžetski let, preuzmi ključeve pri dolasku i za sat vremena možete biti na serpentinama prema Durmitoru ili na obali Skadarskog jezera.",
+    "heading2": "Zašto Podgorica?",
+    "p2": "Ryanair leti sa Stansteda i Charleroia. Wizz Air povezuje Beč i Dortmund. Ove cijene su izuzetno niske i sve slijeću na TGD, mali i brz aerodrom 12 km južno od glavnog grada. Iz prostora parkinga, cijela zemlja se otvara: Manastir Ostrog za 45 minuta, Jadran za sat vremena, Taraova kanjona do podneva.",
+    "heading3": "Šta nudimo",
+    "p3a": "Pružamo usluge iznajmljivanja automobila sa",
+    "p3Link1": "Aerodroma Podgorica",
+    "p3b": ", gradskog centra i lokacija širom",
+    "p3Link2": "Crne Gore",
+    "p3c": ".",
+    "p3Link3": "",
+    "p3d": "",
+    "promiseTitle": "Naša obaveza",
+    "promise1": "Potpuno osiguranje bez odbitve, čak i za planinske puteve",
+    "promise2": "Doček na aerodromu: vaš automobil vas čeka pri dolasku, motor hladan, rezervoar pun",
+    "promise3": "Bez skrivenih naknada, cijena koju vidite je cijena koju plaćate, uvijek",
+    "promise4": "Prelazak granice u Hrvatsku, Bosnu, Albaniju, Srbiju i Kosovo",
+    "promise5": "Besplatna otkazivanja, jer se vremenske prilike u planinama mijenjaju",
+    "promise6": "Pomoć na putu 24/7 od Jadrana do albanske granice",
+    "localTitle": "Lokalno znanje",
+    "localText": "Sa sjedištem u Podgorici, poznajemo svaki put od glavnog grada do obale. Bilo da vozite do",
+    "localLink1": "Skadarskog jezera",
+    "localMid": "da kajačite kroz lopoče, penjete se prema isklesanoj litici",
+    "localLink2": "Manastira Ostrog",
+    "localMid2": ", ili se krećete cestom gornjega Platija prema",
+    "localLink3": "Nacionalnom parku Durmitor",
+    "localEnd": ", mi vas upućujemo sa pravim automobilom i najboljom rutom.",
+    "contactTitle": "Kontaktirajte nas",
+    "contactText": "Pitanja o lancima za snijeg, planinskim prelazima ili koji terenac je najbolji za cestu Durmitora? Na raspolaganju smo putem WhatsAppa, Vibera i telefona. Pretražite flotu na internetu i rezervirajte za nekoliko minuta, ili nam napišite poruku i zajedno ćemo izplanirati vašu rutu."
   },
   "kotor": {
     "title": "Rent a Car Kotor",
@@ -571,7 +607,21 @@
   "lakeSkadarBody": {
     "cetinjeLinkPre": "Kombinujte sa posjetom ",
     "cetinjeLinkText": "istorijskoj kraljevskoj prijestonici Cetinju",
-    "cetinjeLinkPost": ", udaljenoj samo 30 minuta."
+    "cetinjeLinkPost": ", udaljenoj samo 30 minuta.",
+    "h1": "Najveće jezero Balkana - 30 minuta od vašeg hotela",
+    "p1": "Skadarsko jezero se prostire na 391 km² močvare duž granice Crne Gore i Albanije, što ga čini najvećim jezerom na Balkanu i jednom od najznačajnijih staništa ptica u Evropi. Od Podgorice, vožnja prema jugu E65 putanjom traje jedva 30 minuta: napuštate betonski glavni grad za 40°C i stižete u vodenu površinu od lopoča, trstike i planina koje se reflektuju u mirnoj zelenkastoj vodi.",
+    "p2": "Jezero je Nacionalni park na crnogorskoj strani, a status zaštite pokazuje razliku. Dalmatinski pelikani, jedna od najrijetkih vrsta pelikana u svijetu, gnijezde na otocima. Preko 270 vrsta ptica zabilježeno je ovdje kroz sve sezone: patuljasti kormorani, željezni patovi, sjajne ibise, brkataste terne. Ornitolozi dolaze iz cijele Evrope sa dugim objektivima i ranim budnjima.",
+    "wildlifeTitle": "Divljina i godišnja doba",
+    "wildlifeText": "Proljeće i početak ljeta donose lopoče, ogromne plutajuće tepihe bijelih i žutih cvijetova koji pokrivaju cijele zaljeve. To je i vrijeme vršnog légla za kolonije pelikana i čaplje. Jesen dovlači veliki broj migratornih ptica. Zima je tišnja, ali nivoi vode rastu, poplavljajući okolne livade i stvarajući pejzaž kao ogledalo vode i planina. Kajaking i stand-up paddleboarding su popularni od maja do oktobra, prevlačenjem kroz kanale od trske gdje motorne barke ne mogu pristići.",
+    "villagesTitle": "Sela uz jablanu",
+    "virpazarTitle": "Virpazar",
+    "virpazarText": "Glavna kapija do jezera, malo selo izgrađeno oko kamenog mosta i luke pune turističkih brodova. Brojaške ture počinju od 15 EUR po osobi za 2-satnu krstarenje kroz légla pelikana. Subotnji jutarnji bazar prodaje lokalnog meda, sušene smokve, maslinovog ulja i flašica vina Crmnica. Nekoliko restorana na obali služe svježu jezersku šarana, dimljeni jegulja i blitvu, crnogorsku duhovnu hranu.",
+    "rijekaTitle": "Rijeka Crnojevica",
+    "rijekaText": "Poznata po potkovici rijeke fotografirane sa brežuljka gore, jednoga od najpoznatijih pejzažnih snimaka Crne Gore. Samo selo je manje i tiše od Virpazara, sa starim kamenskim mostom i brojarima koji navigiraju kroz kanale od lopočâ do otvorenog jezera. Manje turističko, više atmosfersko.",
+    "wineTitle": "Vinorodna regija",
+    "wineText": "Crmnica vinorodna regija zauzima brežuljke iznad južne obale jezera. Domaća sorta Vranac uspijeva ovdje u toploj mikroklimi, proizvodeći duboke, teške crvene vinimoga koja se ne boje suđenja bilo kojem balkanskom vinu. Nekoliko porodičnih vinarija duž jezerske ceste između Virpazara i Godinja nude degustacije, turneje podruma i boce po cijenama od farme. Kombinirajte jutarnju krstarenje sa popodnevnom degustacijom vina za jednu od najboljih dnevnih tura u Crnoj Gori.",
+    "drivingTitle": "Kako doći iz Podgorice",
+    "drivingText": "Uzmite E65 prema jugu prema Baru. Virpazarski izlaz je jasno označen nakon oko 25 km. Cesta je kvalitetna sa dvostrukim trakom cijeli put. Ako imate vremena, nastavite prošlost Virpazara do Rijeke Crnojevice na vijugavoj jezerskoj cesti, sporije ali spektakularno slikovito. Dovolite 30 minuta do Virpazara, 45 minuta do Rijeke Crnojevice."
   },
   "blogIndex": {
     "breadcrumbBlog": "Blog",
@@ -1022,5 +1072,31 @@
     "gatewayText": "Nikšić je prirodna polazna tačka za Nacionalni park Durmitor. Odavde put na sjever ulazi u sve divljiji teren — njive ustupaju mjesto šumi, planine se stišću, i kad stignete u Šavnik, pejzaž je čista visokoplaninska divljina. Natočite gorivo u Nikšiću. Sledeća pouzdana pumpa je u Žabljaku, više od sat vremena planinske vožnje.",
     "drivingTitle": "Vožnja od Podgorice",
     "drivingText": "Vožnja traje oko 1 sat preko E762. Put je dobro održavana dvotračna cesta većim dijelom trase, postepeno se penjući od riječne ravnice Podgorice kroz poljoprivredno zemljište i rijetku šumu. Obratite pažnju na skretanje ka manastiru Ostrog oko 30 minuta od polaska — možete kombinovati obje destinacije u jednodnevni izlet."
+  },
+  "contentPage": {
+    "youMightAlsoLike": "Možda bi vam se svidjelo",
+    "readyCta": "Spremni da vozite iz Podgorice?",
+    "searchCars": "Pretražite automobiles"
+  },
+  "relatedGuides": {
+    "secretChurches": "Skriveni uglovi",
+    "vrmacRidge": "Scenski voždenja",
+    "swimmingSpots": "Najbolje kupališta"
+  },
+  "navTop": {
+    "carRental": "Rent automobila",
+    "destinations": "Odredišta",
+    "travelGuides": "Vodiči putovanja",
+    "bokaBayRentals": "Prestonica i TGD"
+  },
+  "cookieBanner": {
+    "title": "Politika kolačića",
+    "text": "Koristimo kolačiće da poboljšamo vašu iskustvo. Nastavkom korištenja ovog sajta pristajete našem",
+    "accept": "Prihvati",
+    "decline": "Odbij"
+  },
+  "contact": {
+    "title": "Kontaktirajte nas",
+    "seoDesc": "Kontaktirajte Podgorica Car Hire. Email, WhatsApp i obrazac za kontakt."
   }
 }
