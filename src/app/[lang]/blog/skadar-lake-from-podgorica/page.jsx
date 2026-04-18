@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogSkadar.title') + ' | Podgorica Car Hire',
     description: t(lang, 'blogSkadar.description'),
-    alternates: buildAlternates('blog/skadar-lake-from-podgorica'),
+    alternates: buildAlternates('blog/skadar-lake-from-podgorica', lang),
   };
 }
 

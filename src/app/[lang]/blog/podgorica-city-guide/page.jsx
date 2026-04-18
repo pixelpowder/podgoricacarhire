@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogCityGuide.title') + ' | Podgorica Car Hire',
     description: t(lang, 'blogCityGuide.description'),
-    alternates: buildAlternates('blog/podgorica-city-guide'),
+    alternates: buildAlternates('blog/podgorica-city-guide', lang),
   };
 }
 

@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'durmitor.title') + ' | Podgorica Car Hire',
     description: t(lang, 'durmitor.seoDesc'),
-    alternates: buildAlternates('durmitor'),
+    alternates: buildAlternates('durmitor', lang),
   };
 }
 

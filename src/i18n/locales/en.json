@@ -3,7 +3,8 @@
     "book": "Book",
     "blog": "Blog",
     "destinations": "Destinations",
-    "about": "About"
+    "about": "About",
+    "contact": "Contact"
   },
   "common": {
     "home": "Home",
@@ -93,7 +94,9 @@
     "bookText": "Live prices from Podgorica. SUVs, hatchbacks, automatics — pick your weapon.",
     "helpTitle": "Need Help?",
     "helpText": "Reach us on WhatsApp, Viber, or old-fashioned phone.",
-    "popularDest": "Popular Destinations"
+    "popularDest": "Popular Destinations",
+    "tivatAirport": "Tivat Airport",
+    "dubrovnikAirport": "Dubrovnik Airport"
   },
   "book": {
     "title": "Find Your Car",
@@ -115,7 +118,10 @@
     "searchCars": "Search Cars",
     "privacyPolicy": "Privacy Policy",
     "terms": "Terms & Conditions",
-    "cookiePolicy": "Cookie Policy"
+    "cookiePolicy": "Cookie Policy",
+    "testimonials": "Testimonials",
+    "sitemap": "Sitemap",
+    "tivatAirport": "Tivat Airport"
   },
   "notFound": {
     "code": "404",
@@ -684,7 +690,6 @@
     "drivingTitle": "Getting Here from Podgorica",
     "drivingText": "The drive takes about 1 hour via the E762. The road is well-maintained dual carriageway for most of the route, climbing gradually from Podgorica's river plain through farmland and light forest. Watch for the Ostrog Monastery turnoff about 30 minutes in — you can combine both stops in one day trip."
   },
-
   "blogIndex": {
     "breadcrumbBlog": "Blog",
     "heroTitle": "Podgorica Driving Guides",
@@ -709,7 +714,6 @@
     "card_airport_title": "Airport to Coast: Route Options",
     "card_airport_excerpt": "Four routes from Podgorica Airport to the Adriatic — Budva via the Sozina tunnel, Bar along Lake Skadar, Kotor through the mountains, or Ulcinj along the south."
   },
-
   "blogCityGuide": {
     "title": "Podgorica Beyond the Stopover: What Most Tourists Miss",
     "subtitle": "Ottoman ruins, riverside walks, and a food scene that rewards anyone who stays longer than a layover.",
@@ -750,7 +754,6 @@
     "glanceBestFor": "Best For",
     "glanceBestForVal": "Food, walking, river"
   },
-
   "blogOstrog": {
     "title": "Driving to Ostrog Monastery: The Road Carved into Rock",
     "subtitle": "A cliff-face monastery 900 metres above the Zeta valley — and one of the most memorable short drives in the Balkans.",
@@ -787,7 +790,6 @@
     "glanceEntry": "Entry Fee",
     "glanceEntryVal": "Free (donations welcome)"
   },
-
   "blogDurmitor": {
     "title": "Podgorica to Durmitor: The 3-Hour Mountain Drive",
     "subtitle": "Two routes to Black Lake, Tara Bridge, and Montenegro's highest national park — via Nikšić or through the Morača Canyon.",
@@ -828,7 +830,6 @@
     "glanceBestCar": "Best Car",
     "glanceBestCarVal": "SUV or high-clearance"
   },
-
   "blogCetinje": {
     "title": "Cetinje Day Trip: Montenegro's Royal and Spiritual Capital",
     "subtitle": "Thirty-five minutes from Podgorica into the mountains — embassies turned museums, a monastery holding sacred relics, and a town paused in a quieter century.",
@@ -867,7 +868,6 @@
     "glanceBestFor": "Best For",
     "glanceBestForVal": "History, museums, quiet walks"
   },
-
   "blogSkadar": {
     "title": "Virpazar and Lake Skadar from Podgorica by Car",
     "subtitle": "The Balkans' largest lake is 30 minutes south — boat trips through water lilies, Crmnica wine, and a crumbling fortress above the harbour.",
@@ -904,7 +904,6 @@
     "glanceEntry": "Park Entry",
     "glanceEntryVal": "€4 per person"
   },
-
   "blogNiksic": {
     "title": "Nikšić, Kapino Waterfalls, and Lake Krupac",
     "subtitle": "Montenegro's second city brews the national beer, hides a waterfall in the forest, and offers a glacial swimming lake — all within an hour of the capital.",
@@ -943,7 +942,6 @@
     "glanceBestFor": "Best For",
     "glanceBestForVal": "Food, nature, swimming"
   },
-
   "blogMoraca": {
     "title": "The Morača Canyon Road: Montenegro's Most Dramatic Highway",
     "subtitle": "Vertical limestone walls, a 13th-century monastery in the gorge, and a road carved into the cliff — the drive north from Podgorica.",
@@ -980,7 +978,6 @@
     "glanceBestCar": "Best Car",
     "glanceBestCarVal": "Any — road is well-maintained"
   },
-
   "blogBiogradska": {
     "title": "Biogradska Gora: Driving to Europe's Last Rainforest",
     "subtitle": "A primeval forest untouched for centuries, wrapped around a glacial lake at 1,094 metres — reached via the Morača Canyon.",
@@ -1017,7 +1014,6 @@
     "glanceBestFor": "Best For",
     "glanceBestForVal": "Hiking, photography, nature"
   },
-
   "blogAirportCoast": {
     "title": "Podgorica Airport to the Coast: Route Options Compared",
     "subtitle": "Four routes from TGD to the Adriatic — Budva through the Sozina tunnel, Bar along the lake, Kotor via the mountains, or Ulcinj down south.",
@@ -1055,11 +1051,36 @@
     "compareUlcinj": "To Ulcinj (via Bar)",
     "compareUlcinjVal": "1.5 hrs, 80 km, no toll"
   },
-
   "blogHome": {
     "sectionLabel": "Travel Guides",
     "sectionTitle": "Driving Guides from Podgorica",
     "sectionSubtitle": "Mountain roads, hidden monasteries, and canyon drives from Montenegro's capital.",
     "viewAll": "View all guides"
+  },
+  "contentPage": {
+    "youMightAlsoLike": "You might also like",
+    "readyCta": "Ready to drive Podgorica?",
+    "searchCars": "Search Cars"
+  },
+  "relatedGuides": {
+    "secretChurches": "Hidden Corners",
+    "vrmacRidge": "Scenic Drives",
+    "swimmingSpots": "Best Swimming Spots"
+  },
+  "navTop": {
+    "carRental": "Car Rental",
+    "destinations": "Destinations",
+    "travelGuides": "Travel Guides",
+    "bokaBayRentals": "Capital & TGD"
+  },
+  "cookieBanner": {
+    "title": "Cookie Policy",
+    "text": "We use cookies to improve your experience. By continuing to use this site you agree to our",
+    "accept": "Accept",
+    "decline": "Decline"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "seoDesc": "Get in touch with Podgorica Car Hire. Email, WhatsApp, and contact form."
   }
 }

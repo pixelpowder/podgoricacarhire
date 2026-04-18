@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogCetinje.title') + ' | Podgorica Car Hire',
     description: t(lang, 'blogCetinje.description'),
-    alternates: buildAlternates('blog/cetinje-royal-capital'),
+    alternates: buildAlternates('blog/cetinje-royal-capital', lang),
   };
 }
 

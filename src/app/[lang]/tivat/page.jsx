@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'tivat.title') + ' | Podgorica Car Hire',
     description: t(lang, 'tivat.seoDesc'),
-    alternates: buildAlternates('tivat'),
+    alternates: buildAlternates('tivat', lang),
   };
 }
 

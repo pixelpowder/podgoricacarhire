@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogBiogradska.title') + ' | Podgorica Car Hire',
     description: t(lang, 'blogBiogradska.description'),
-    alternates: buildAlternates('blog/podgorica-to-biogradska'),
+    alternates: buildAlternates('blog/podgorica-to-biogradska', lang),
   };
 }
 

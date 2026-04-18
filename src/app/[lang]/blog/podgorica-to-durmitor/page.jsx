@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogDurmitor.title') + ' | Podgorica Car Hire',
     description: t(lang, 'blogDurmitor.description'),
-    alternates: buildAlternates('blog/podgorica-to-durmitor'),
+    alternates: buildAlternates('blog/podgorica-to-durmitor', lang),
   };
 }
 

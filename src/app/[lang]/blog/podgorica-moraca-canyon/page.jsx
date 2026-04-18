@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogMoraca.title') + ' | Podgorica Car Hire',
     description: t(lang, 'blogMoraca.description'),
-    alternates: buildAlternates('blog/podgorica-moraca-canyon'),
+    alternates: buildAlternates('blog/podgorica-moraca-canyon', lang),
   };
 }
 

@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'ostrog-monastery.title') + ' | Podgorica Car Hire',
     description: t(lang, 'ostrog-monastery.seoDesc'),
-    alternates: buildAlternates('ostrog-monastery'),
+    alternates: buildAlternates('ostrog-monastery', lang),
   };
 }
 

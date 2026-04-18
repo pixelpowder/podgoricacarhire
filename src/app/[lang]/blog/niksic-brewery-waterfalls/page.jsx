@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogNiksic.title') + ' | Podgorica Car Hire',
     description: t(lang, 'blogNiksic.description'),
-    alternates: buildAlternates('blog/niksic-brewery-waterfalls'),
+    alternates: buildAlternates('blog/niksic-brewery-waterfalls', lang),
   };
 }
 
