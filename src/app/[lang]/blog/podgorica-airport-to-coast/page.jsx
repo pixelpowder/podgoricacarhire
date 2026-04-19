@@ -14,8 +14,8 @@ export default function LangPodgoricaAirportToCoastRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogAirportCoast.title'),
-    "description": t('en', 'blogAirportCoast.description'),
+    "headline": t(lang, 'blogAirportCoast.title'),
+    "description": t(lang, 'blogAirportCoast.description'),
     "image": "https://www.podgoricacarhire.com/img/blog-podgorica-airport-to-coast.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

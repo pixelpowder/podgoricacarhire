@@ -14,8 +14,8 @@ export default function LangPodgoricaToOstrogRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogOstrog.title'),
-    "description": t('en', 'blogOstrog.description'),
+    "headline": t(lang, 'blogOstrog.title'),
+    "description": t(lang, 'blogOstrog.description'),
     "image": "https://www.podgoricacarhire.com/img/blog-podgorica-to-ostrog.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

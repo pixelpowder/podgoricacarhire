@@ -14,8 +14,8 @@ export default function LangPodgoricaToBiogradskaRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogBiogradska.title'),
-    "description": t('en', 'blogBiogradska.description'),
+    "headline": t(lang, 'blogBiogradska.title'),
+    "description": t(lang, 'blogBiogradska.description'),
     "image": "https://www.podgoricacarhire.com/img/blog-podgorica-to-biogradska.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

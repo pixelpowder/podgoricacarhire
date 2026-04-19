@@ -14,8 +14,8 @@ export default function LangPodgoricaCityGuideRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogCityGuide.title'),
-    "description": t('en', 'blogCityGuide.description'),
+    "headline": t(lang, 'blogCityGuide.title'),
+    "description": t(lang, 'blogCityGuide.description'),
     "image": "https://www.podgoricacarhire.com/img/blog-podgorica-city-guide.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

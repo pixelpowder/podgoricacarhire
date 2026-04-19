@@ -14,8 +14,8 @@ export default function LangCetinjeRoyalCapitalRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogCetinje.title'),
-    "description": t('en', 'blogCetinje.description'),
+    "headline": t(lang, 'blogCetinje.title'),
+    "description": t(lang, 'blogCetinje.description'),
     "image": "https://www.podgoricacarhire.com/img/blog-cetinje-royal-capital.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

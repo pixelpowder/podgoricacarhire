@@ -14,8 +14,8 @@ export default function LangPodgoricaMoracaCanyonRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogMoraca.title'),
-    "description": t('en', 'blogMoraca.description'),
+    "headline": t(lang, 'blogMoraca.title'),
+    "description": t(lang, 'blogMoraca.description'),
     "image": "https://www.podgoricacarhire.com/img/blog-podgorica-moraca-canyon.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

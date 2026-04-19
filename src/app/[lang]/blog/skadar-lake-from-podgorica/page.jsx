@@ -14,8 +14,8 @@ export default function LangSkadarLakeFromPodgoricaRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogSkadar.title'),
-    "description": t('en', 'blogSkadar.description'),
+    "headline": t(lang, 'blogSkadar.title'),
+    "description": t(lang, 'blogSkadar.description'),
     "image": "https://www.podgoricacarhire.com/img/blog-skadar-lake-from-podgorica.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

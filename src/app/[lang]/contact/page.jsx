@@ -4,8 +4,8 @@ import { t, buildAlternates } from '@/src/app/metadata';
 export async function generateMetadata({ params }) {
   const { lang } = await params;
   return {
-    title: 'Contact Us | Podgorica Car Hire',
-    description: 'Get in touch with Podgorica Car Hire.',
+    title: t(lang, 'contact.title') + ' | Podgorica Car Hire',
+    description: t(lang, 'contact.seoDesc'),
     alternates: buildAlternates('contact', lang),
   };
 }

@@ -14,8 +14,8 @@ export default function LangPodgoricaToDurmitorRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogDurmitor.title'),
-    "description": t('en', 'blogDurmitor.description'),
+    "headline": t(lang, 'blogDurmitor.title'),
+    "description": t(lang, 'blogDurmitor.description'),
     "image": "https://www.podgoricacarhire.com/img/blog-podgorica-to-durmitor.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

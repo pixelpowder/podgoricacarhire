@@ -3,7 +3,7 @@
     "book": "Buchen",
     "destinations": "Reiseziele",
     "about": "Über uns",
-    "blog": "Blog",
+    "blog": "Ratgeber",
     "contact": "Kontakt"
   },
   "common": {
@@ -1097,6 +1097,8 @@
   },
   "contact": {
     "title": "Kontaktieren Sie uns",
-    "seoDesc": "Kontaktieren Sie Podgorica Car Hire. E-Mail, WhatsApp und Kontaktformular."
+    "seoDesc": "Kontaktieren Sie Podgorica Car Hire. E-Mail, WhatsApp und Kontaktformular.",
+    "heading": "Kontaktieren Sie uns",
+    "intro": "Haben Sie eine Frage zur Automiete in Podgorica? Kontaktieren Sie uns, und wir helfen Ihnen, das passende Fahrzeug für Ihre Reise zu finden."
   }
 }

@@ -14,8 +14,8 @@ export default function LangNiksicBreweryWaterfallsRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogNiksic.title'),
-    "description": t('en', 'blogNiksic.description'),
+    "headline": t(lang, 'blogNiksic.title'),
+    "description": t(lang, 'blogNiksic.description'),
     "image": "https://www.podgoricacarhire.com/img/blog-niksic-brewery-waterfalls.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",
