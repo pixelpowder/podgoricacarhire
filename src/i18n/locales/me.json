@@ -48,18 +48,18 @@
   "howItWorks": {
     "label": "Kako Funkcioniše",
     "title": "Na Putu u 3 Koraka",
-    "subtitle": "Jednostavna rezervacija. Trenutna potvrda. Bez čekanja na aerodromu.",
+    "subtitle": "Rezervišite online. Sletite u TGD. Krenite u planine prije ručka.",
     "step1Title": "Izaberite Lokaciju",
-    "step1Desc": "Birajte između aerodroma, Kotora, Budve, Perasta i drugih tačaka za preuzimanje širom Crne Gore i šire.",
+    "step1Desc": "Aerodrom Podgorica, centar grada ili više od 28 mjesta širom Crne Gore. Vaša avantura počinje tamo gdje sletite.",
     "step2Title": "Izaberite Auto",
-    "step2Desc": "Pregledajte našu flotu od ekonomičnih gradskih automobila do premium SUV-ova. Filtrirajte po veličini, mjenjaču ili budžetu.",
+    "step2Desc": "Okretni gradski hečbek modeli za kanjonske puteve, robusni SUV za snježne staze Durmitora. Filtrirajte prema veličini, mjenjaču ili dnevnom budžetu.",
     "step3Title": "Vozite Crnom Gorom",
-    "step3Desc": "Dočekujemo vas na izlazu. Vaš auto je spreman. Istražite obalu, planine i istorijske gradove."
+    "step3Desc": "Predajemo Vam ključeve na dolascima. Skadarsko jezero za 30 minutes, kanjon Tare za 2.5 hours, obala za jedan sat. Krenite."
   },
   "fleet": {
     "label": "Naša Flota",
     "title": "Izaberite Vaše Vozilo",
-    "subtitle": "Pregledajte dostupnost i cijene u realnom vremenu, rezervišite direktno."
+    "subtitle": "Cijene u realnom vremenu, trenutna potvrda, rezervišite automobil koji odgovara Vašoj ruti."
   },
   "brands": {
     "label": "Provjereni brendovi u našoj floti"
@@ -77,7 +77,7 @@
   "reviews": {
     "label": "Recenzije",
     "title": "Omiljeni Među Putnicima",
-    "subtitle": "Stvarna iskustva stvarnih korisnika širom Crne Gore."
+    "subtitle": "Prave priče putnika koji su Podgoricu koristili kao baznu tačku."
   },
   "faq": {
     "label": "FAQ",
@@ -86,7 +86,7 @@
   },
   "cta": {
     "title": "Spremni za istraživanje iz Podgorice?",
-    "subtitle": "Rezervišite za nekoliko minuta. Preuzmite na aerodromu. Vozite cijelom jadranskom obalom sopstvenim tempom.",
+    "subtitle": "Ryanair Vas ostavlja u Podgorici. Mi Vam predajemo ključeve. Vrhovi Durmitora, brzaci Tare, zalasci sunca na Skadarskom jezeru i jadranska obala, sve je na jednoj jutarnjoj vožnji.",
     "browseFleet": "Pregledaj Flotu"
   },
   "sidebar": {
@@ -126,7 +126,7 @@
   "notFound": {
     "code": "404",
     "title": "Pogrešno Skretanje",
-    "text": "Izgleda da ste skrenuli s puta. Ova cesta ne vodi nikuda, ali najbolje rute Crne Gore su na jedan klik.",
+    "text": "Ova staza ne vodi nikuda, ali najdivljiji putevi Crne Gore su jedan klik daleko. Preračunajte rutu ispod.",
     "backHome": "Nazad na Početnu",
     "searchCars": "Pretraži Auta"
   },
@@ -363,22 +363,22 @@
   },
   "aboutBody": {
     "h1": "Rent a car Crna Gora",
-    "p1": "Od 2007. godine, Crna Gora Car Hire povezuje putnike sa pouzdanim i pristupačnim rent-a-car vozilima širom Crna Gora. Ono što je počelo kao jednostavna ideja, olakšati posjetiocima istraživanje ovog zadivljujućeg kutka Adriatic, izraslo je u jednu od najpouzdanijih usluga iznajmljivanja vozila u zemlji.",
+    "p1": "Podgorica Car Hire je nezavisni afilijat koji putnike niskobudžetnih aviokompanija povezuje sa pouzdanim iznajmljenim vozilima u TGD. Ryanair i Wizz Air dovode posjetioce na aerodrom glavnog grada, a odatle su planine koje čine Crnu Goru posebnom udaljene samo kratku vožnju. Sarađujemo sa pouzdanim lokalnim iznajmljivačima kako bi automobil bio spreman na dolascima čim sletite.",
     "h2": "Zašto smo počeli",
-    "p2": "Crna Gora je zemlja koja se najbolje doživljava sopstvenim tempom. Vijugavi obalni putevi, skrivena planinska sela i gradovi pod zaštitom UNESCO-a teško su dostupni javnim prevozom. Prepoznali smo priliku da putnicima pružimo slobodu da otkriju Crna Gora na svoj način, bez rasporeda turističkih autobusa, bez propuštenih vidikovaca, bez kompromisa.",
+    "p2": "Podgorica leži na samo 44 metra nadmorske visine, gdje se rijeke Morača i Ribnica spajaju. To nije grad sa razglednice, to je rampa za polazak. Brutalistički stambeni blokovi i osmanske uličice prestonice ustupaju mjesto divljoj prirodi u roku od 15 minuta vožnje u svakom pravcu. Skadarsko jezero je 30 minutes južno. Manastir Ostrog uklesan u liticu je 45 minuta sjeverozapadno. Jadranska obala je oko sat vremena kroz tunel Sozina. A vrhovi Durmitora visine 2,522 metra su samo 2.5 hours uz kanjon Morače. Nijedan drugi grad u Crnoj Gori Vas ne stavlja tako blizu toliko različitosti.",
     "h3": "Šta nudimo",
-    "p3": "Pružamo usluge iznajmljivanja vozila širom Crna Gora, sa preuzimanjem i vraćanjem na aerodromu Tivat, aerodromu Podgorica, kao i na lokacijama duž obale i u unutrašnjosti. Naša flota obuhvata sve, od kompaktnih gradskih automobila do prostranih SUV vozila, sa potpunim osiguranjem i bez skrivenih troškova.",
+    "p3": "Okupljamo više od 200 vozila provjerenih lokalnih partnera na aerodromu Podgorica, u centru grada i na još 28 mjesta preuzimanja širom Crne Gore. Kompaktni hečbek modeli za uske kanjonske puteve. Karavani srednje veličine za porodice sa skijaškom opremom. Robusni SUV za šljunkovite staze iznad Žabljaka. Svako vozilo dolazi sa punim osiguranjem i opcijom bez učešća u šteti, a svaka cijena uključuje takse, kilometražu i komplete opreme, bez iznenađenja na šalteru.",
     "promiseTitle": "Naše obećanje",
     "promise1": "Potpuno osiguranje sa opcijom nulte franšize",
-    "promise2": "Doček na aerodromu, donosimo automobil direktno do sale za dolaske",
-    "promise3": "Bez skrivenih troškova, cijena koju vidite je cijena koju plaćate",
-    "promise4": "Dozvoljena prekogranična putovanja u Hrvatsku, Bosnu, Albaniju, Srbiju i Kosovo",
+    "promise2": "Dočekivanje na aerodromu: Vaš automobil čeka na dolascima u TGD, puni rezervoar, hladan motor",
+    "promise3": "Bez skrivenih troškova, broj na ekranu je broj koji plaćate",
+    "promise4": "Prekogranična putovanja u Hrvatsku, Bosnu, Albaniju, Srbiju i Kosovo uključena",
     "promise5": "Besplatno otkazivanje za većinu rezervacija",
     "promise6": "Pomoć na putu 24/7 tokom cijelog putovanja",
     "h4": "Lokalno znanje",
-    "p4": "Sa sjedištem u Crna Gora, poznajemo puteve, najbolje rute i skrivene dragulje koje turistički vodiči ne pominju. Bilo da vozite sa aerodroma Tivat do srednjovjekovnog starog grada Kotor, idete slikovitom rutom kroz Boku Kotorsku do Perast, ili se upućujete u unutrašnjost ka Nacionalnom parku Durmitor, možemo vam pomoći da isplanirate savršeno putovanje.",
+    "p4": "Naš tim vozi ove rute svake nedjelje. Znamo da dionica kroz klisuru Platije sjeverno od Podgorice nema zaštitne ograde ni signala mobilne mreže. Znamo da putarina u tunelu Sozina iznosi EUR 2.50 i da skraćuje vožnju do Budve za 30 minuta. Znamo da Pod Volat sprema najbolju jagnjetinu sa roštilja u Podgorici i da je Lanterna mjesto gdje mještani idu na ribu. Pitajte nas za savjete o ruti, izradićemo Vaš itinerer zajedno putem WhatsApp aplikacije prije nego što se uopšte ukrcate na let.",
     "h5": "Kontaktirajte nas",
-    "p5": "Imate pitanje o iznajmljivanju automobila u Crna Gora? Dostupni smo putem telefona, WhatsApp i Viber. Pregledajte našu flotu online i rezervišite za nekoliko minuta, ili nam se javite i pomoći ćemo vam da pronađete savršen automobil za vaše putovanje."
+    "p5": "Pretražite flotu, rezervišite cijenu, otkažite besplatno ako se planovi promijene. Ili nam napišite na WhatsApp sa datumima i spiskom želja, kanjoni, manastiri, plaže, skijaške staze, pa ćemo Vam preporučiti pravi automobil, pravu rutu i restorane uz put koji zaslužuju zaustavljanje."
   },
   "kotorBody": {
     "h1": "Kotor -- Lokalitet pod Zastitom UNESCO-a",

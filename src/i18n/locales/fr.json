@@ -48,18 +48,18 @@
   "howItWorks": {
     "label": "Comment Ça Marche",
     "title": "Sur la Route en 3 Étapes",
-    "subtitle": "Réservation simple. Confirmation instantanée. Aucune file d'attente à l'aéroport.",
+    "subtitle": "Réservez en ligne. Atterrissez à TGD. Partez en montagne avant le déjeuner.",
     "step1Title": "Choisissez Votre Lieu",
-    "step1Desc": "Sélectionnez parmi les aéroports, Kotor, Budva, Perast et d'autres points de prise en charge à travers le Monténégro et au-delà.",
+    "step1Desc": "Aéroport de Podgorica, centre ville, ou plus de 28 points au Monténégro. Votre aventure commence là où vous atterrissez.",
     "step2Title": "Choisissez Votre Voiture",
-    "step2Desc": "Parcourez notre flotte, des citadines économiques aux SUV premium. Filtrez par taille, transmission ou budget.",
+    "step2Desc": "Citadines agiles pour les routes de canyon, SUV robustes pour les pistes enneigées du Durmitor. Filtrez par taille, boîte de vitesses ou budget journalier.",
     "step3Title": "Conduisez au Monténégro",
-    "step3Desc": "Nous vous accueillons aux arrivées. Votre voiture est prête. Explorez la côte, les montagnes et les villes historiques."
+    "step3Desc": "Nous vous remettons les clés aux arrivées. Le lac de Skadar en 30 minutes, le canyon de la Tara en 2.5 hours, la côte en une. C'est parti."
   },
   "fleet": {
     "label": "Notre Flotte",
     "title": "Choisissez Votre Véhicule",
-    "subtitle": "Consultez la disponibilité et les prix en temps réel, réservez directement."
+    "subtitle": "Tarifs en direct, confirmation immédiate, réservez la voiture qui correspond à votre itinéraire."
   },
   "brands": {
     "label": "Marques de confiance dans notre flotte"
@@ -77,7 +77,7 @@
   "reviews": {
     "label": "Avis",
     "title": "Plébiscité par les Voyageurs",
-    "subtitle": "Des expériences authentiques de vrais clients à travers le Monténégro."
+    "subtitle": "Vrais récits de voyageurs qui ont fait de Podgorica leur camp de base."
   },
   "faq": {
     "label": "FAQ",
@@ -86,7 +86,7 @@
   },
   "cta": {
     "title": "Prêt à explorer depuis Podgorica ?",
-    "subtitle": "Réservez en quelques minutes. Récupérez à l'aéroport. Parcourez toute la côte adriatique à votre rythme.",
+    "subtitle": "Ryanair vous dépose à Podgorica. Nous vous remettons les clés. Les sommets du Durmitor, les rapides de la Tara, les couchers de soleil sur le lac de Skadar et la côte adriatique sont tous à une matinée de route.",
     "browseFleet": "Parcourir la Flotte"
   },
   "sidebar": {
@@ -126,7 +126,7 @@
   "notFound": {
     "code": "404",
     "title": "Mauvais Virage",
-    "text": "On dirait que vous avez fait un détour. Cette route ne mène nulle part, mais les plus belles routes du Monténégro sont à un clic.",
+    "text": "Cette piste ne mène nulle part, mais les routes les plus sauvages du Monténégro sont à un clic. Recalculez votre itinéraire ci dessous.",
     "backHome": "Retour à l'Accueil",
     "searchCars": "Rechercher"
   },
@@ -365,20 +365,20 @@
     "h1": "Location de Voitures au Montenegro",
     "p1": "Depuis 2007, Podgorica Car Hire met en relation les voyageurs avec des voitures de location fiables et abordables à travers tout le Montenegro. Ce qui a commencé comme une idée simple, faciliter l'exploration de ce magnifique coin de l'Adriatic pour les visiteurs, est devenu l'un des services de location de voitures les plus fiables du pays.",
     "h2": "Pourquoi nous avons commencé",
-    "p2": "Le Montenegro est un pays qui se découvre à son propre rythme. Les routes côtières sinueuses, les villages de montagne cachés et les villes classées au patrimoine de l'UNESCO sont difficilement accessibles en transports en commun. Nous avons vu l'opportunité d'offrir aux voyageurs la liberté de découvrir le Montenegro à leur façon, pas d'horaires de bus touristiques, pas de points de vue manqués, aucun compromis.",
+    "p2": "Podgorica se trouve à seulement 44 mètres d'altitude, là où les rivières Morača et Ribnica se rejoignent. Ce n'est pas une ville de carte postale, c'est une rampe de lancement. Les immeubles brutalistes et les ruelles ottomanes de la capitale laissent place à une campagne sauvage en 15 minutes de route dans n'importe quelle direction. Le lac de Skadar est à 30 minutes au sud. Le monastère d'Ostrog taillé dans la falaise est à 45 minutes au nord ouest. La côte adriatique est à environ une heure par le tunnel de Sozina. Et les sommets de 2,522 mètres du Durmitor sont à seulement 2.5 hours de route par le canyon de la Morača. Aucune autre ville du Monténégro ne vous met aussi près d'une telle diversité.",
     "h3": "Ce que nous proposons",
-    "p3": "Nous proposons des services de location de voitures dans tout le Montenegro, avec prise en charge et restitution à l'aéroport de Tivat, à l'aéroport de Podgorica, ainsi que dans plusieurs points le long de la côte et à l'intérieur du pays. Notre flotte va des citadines compactes aux SUV spacieux, tous entièrement assurés et sans frais cachés.",
+    "p3": "Nous regroupons plus de 200 voitures de partenaires locaux de confiance à l'aéroport de Podgorica, au centre ville et dans 28 autres points de prise en charge au Monténégro. Citadines compactes pour les routes étroites des canyons. Breaks de taille moyenne pour les familles chargées d'équipement de ski. SUV robustes pour les pistes gravillonnées au dessus de Žabljak. Chaque véhicule est entièrement assuré avec une option sans franchise, et chaque tarif inclut taxes, kilométrage et kits d'équipement, sans surprise au comptoir.",
     "promiseTitle": "Notre engagement",
     "promise1": "Assurance tous risques avec option zéro franchise",
-    "promise2": "Accueil personnalisé à l'aéroport, nous amenons la voiture directement aux arrivées",
+    "promise2": "Accueil à l'aéroport: votre voiture attend aux arrivées de TGD, réservoir plein, moteur froid",
     "promise3": "Aucun frais caché, le prix affiché est le prix final",
-    "promise4": "Voyages transfrontaliers autorisés vers la Croatie, la Bosnie, l'Albanie, la Serbie et le Kosovo",
-    "promise5": "Annulation gratuite sur la plupart des réservations",
-    "promise6": "Assistance routière 24h/24 et 7j/7 pendant toute la durée de votre voyage",
+    "promise4": "Déplacements transfrontaliers vers la Croatie, la Bosnie, l'Albanie, la Serbie et le Kosovo inclus",
+    "promise5": "Annulation gratuite, parce qu'une tempête sur le Durmitor peut réécrire n'importe quel itinéraire",
+    "promise6": "Assistance routière 24h/24 et 7j/7, du littoral adriatique à la frontière albanaise",
     "h4": "Connaissance locale",
-    "p4": "Basés au Montenegro, nous connaissons les routes, les meilleurs itinéraires et les trésors cachés que les guides touristiques ne mentionnent pas. Que vous conduisiez de l'aéroport de Tivat jusqu'à la vieille ville médiévale de Kotor, que vous empruntiez la route panoramique à travers les bouches de Kotor jusqu'à Perast, ou que vous vous dirigiez vers l'intérieur des terres jusqu'au parc national du Durmitor, nous pouvons vous aider à planifier le road trip parfait.",
+    "p4": "Notre équipe emprunte ces routes chaque semaine. Nous savons que la section des gorges de Platije au nord de Podgorica n'a ni glissières ni signal de téléphone. Nous savons que le péage du tunnel de Sozina est de EUR 2.50 et qu'il fait gagner 30 minutes sur le trajet de Budva. Nous savons que Pod Volat fait le meilleur agneau grillé de Podgorica et que Lanterna est l'adresse des habitants pour le poisson. Demandez nous des conseils d'itinéraire, nous construirons votre feuille de route avec vous par WhatsApp avant même que vous embarquiez.",
     "h5": "Contactez-nous",
-    "p5": "Vous avez une question sur la location de voiture au Montenegro ? Nous sommes joignables par téléphone, WhatsApp et Viber. Parcourez notre flotte en ligne et réservez en quelques minutes, ou contactez-nous et nous vous aiderons à trouver la voiture idéale pour votre voyage."
+    "p5": "Parcourez la flotte, bloquez un tarif, annulez gratuitement si vos plans changent. Ou écrivez nous sur WhatsApp avec vos dates et vos envies, canyons, monastères, plages, pistes de ski, et nous recommanderons la bonne voiture, le bon itinéraire et les restaurants qui méritent un arrêt en chemin."
   },
   "kotorBody": {
     "h1": "Kotor, Site du patrimoine mondial de l'UNESCO",

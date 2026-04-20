@@ -48,13 +48,13 @@
   "howItWorks": {
     "label": "So funktioniert's",
     "title": "In 3 Schritten unterwegs",
-    "subtitle": "Einfache Buchung. Sofortige Bestätigung. Kein Anstehen am Flughafen.",
+    "subtitle": "Online buchen. In TGD landen. Noch vor dem Mittag in die Berge fahren.",
     "step1Title": "Wählen Sie Ihren Abholort",
-    "step1Desc": "Wählen Sie aus Flughäfen, Kotor, Budva, Perast und weiteren Abholpunkten in ganz Montenegro und darüber hinaus.",
+    "step1Desc": "Flughafen Podgorica, Stadtzentrum oder mehr als 28 Standorte in Montenegro. Ihr Abenteuer beginnt dort, wo Sie landen.",
     "step2Title": "Wählen Sie Ihr Auto",
-    "step2Desc": "Entdecken Sie unsere Flotte von sparsamen Kleinwagen bis zu Premium-SUVs. Filtern Sie nach Größe, Getriebe oder Budget.",
+    "step2Desc": "Wendige Kompaktwagen für Canyonstraßen, robuste SUVs für die verschneiten Pisten des Durmitor. Filtern Sie nach Größe, Getriebe oder Tagesbudget.",
     "step3Title": "Fahren Sie durch Montenegro",
-    "step3Desc": "Wir empfangen Sie am Ankunftsbereich. Ihr Auto steht bereit. Entdecken Sie Küste, Berge und historische Städte."
+    "step3Desc": "Wir übergeben Ihnen die Schlüssel bei der Ankunft. Der Skadar-See in 30 minutes, der Tara-Canyon in 2.5 hours, die Küste in einer Stunde. Auf geht es."
   },
   "fleet": {
     "label": "Unsere Flotte",
@@ -77,7 +77,7 @@
   "reviews": {
     "label": "Bewertungen",
     "title": "Von Reisenden geliebt",
-    "subtitle": "Echte Erfahrungen von echten Kunden in ganz Montenegro."
+    "subtitle": "Echte Geschichten von Reisenden, die Podgorica als Basislager genutzt haben."
   },
   "faq": {
     "label": "FAQ",
@@ -86,7 +86,7 @@
   },
   "cta": {
     "title": "Bereit, von Podgorica aus zu entdecken?",
-    "subtitle": "In wenigen Minuten buchen. Am Flughafen abholen. Die gesamte Adriatic-Küste in Ihrem eigenen Tempo erkunden.",
+    "subtitle": "Ryanair bringt Sie nach Podgorica. Wir übergeben Ihnen die Schlüssel. Die Gipfel des Durmitor, die Stromschnellen der Tara, die Sonnenuntergänge am Skadar-See und die Adriaküste sind alle eine Morgenfahrt entfernt.",
     "browseFleet": "Flotte ansehen"
   },
   "sidebar": {
@@ -126,7 +126,7 @@
   "notFound": {
     "code": "404",
     "title": "Falsch abgebogen",
-    "text": "Es sieht so aus, als hätten Sie einen Umweg genommen. Diese Straße führt nirgendwohin, aber Montenegros beste Routen sind nur einen Klick entfernt.",
+    "text": "Dieser Pfad führt ins Nichts, aber die wildesten Straßen Montenegros sind nur einen Klick entfernt. Berechnen Sie Ihre Route unten neu.",
     "backHome": "Zurück zur Startseite",
     "searchCars": "Autos suchen"
   },
@@ -365,20 +365,20 @@
     "h1": "Podgorica Autovermietung",
     "p1": "Seit 2007 verbindet Podgorica Car Hire Reisende mit zuverlässigen und erschwinglichen Mietwagen in ganz Montenegro. Was als einfache Idee begann, Besuchern die Erkundung dieser atemberaubenden Ecke der Adriatic zu erleichtern, hat sich zu einem der vertrauenswürdigsten Mietwagenservices des Landes entwickelt.",
     "h2": "Warum wir angefangen haben",
-    "p2": "Montenegro ist ein Land, das man am besten in eigenem Tempo erlebt. Die kurvigen Küstenstraßen, versteckten Bergdörfer und UNESCO-Welterbestätten sind mit öffentlichen Verkehrsmitteln nur schwer erreichbar. Wir sahen die Möglichkeit, Reisenden die Freiheit zu geben, Montenegro auf eigene Faust zu entdecken, keine Reisebusfahrpläne, keine verpassten Aussichtspunkte, keine Kompromisse.",
+    "p2": "Podgorica liegt auf nur 44 Metern Höhe, dort wo die Flüsse Morača und Ribnica zusammenfließen. Es ist keine Postkartenstadt, es ist eine Startrampe. Die brutalistischen Wohnblocks und osmanischen Gassen der Hauptstadt weichen innerhalb von 15 Minuten Fahrt in jede Richtung einer wilden Landschaft. Der Skadar-See liegt 30 minutes südlich. Das in den Fels gehauene Kloster Ostrog ist 45 Minuten nordwestlich. Die Adriaküste ist rund eine Stunde durch den Sozina-Tunnel entfernt. Und die 2,522 m hohen Gipfel des Durmitor liegen nur 2.5 hours die Morača-Canyon-Straße hinauf. Keine andere Stadt Montenegros bringt Sie so nah an so viel Vielfalt.",
     "h3": "Was wir anbieten",
-    "p3": "Wir bieten Mietwagenservices in ganz Montenegro an, mit Abholung und Rückgabe am Tivat Airport, Podgorica Airport sowie an Standorten entlang der Küste und im Landesinneren. Unsere Flotte reicht von kompakten Stadtwagen bis zu geräumigen SUVs, alle vollversichert und ohne versteckte Gebühren.",
+    "p3": "Wir bündeln über 200 Fahrzeuge vertrauenswürdiger lokaler Partner am Flughafen Podgorica, im Stadtzentrum und an 28 weiteren Abholpunkten in Montenegro. Kompakte Kleinwagen für enge Canyonstraßen. Mittelgroße Kombis für Familien mit Skiausrüstung. Robuste SUVs für die Schotterpisten oberhalb von Žabljak. Jedes Fahrzeug ist vollständig versichert mit einer Selbstbeteiligung-null-Option, und jeder Preis enthält Steuern, Kilometer und Ausstattungssets, keine Überraschungen am Schalter.",
     "promiseTitle": "Unser Versprechen",
-    "promise1": "Vollkaskoversicherung mit Option auf null Selbstbeteiligung",
-    "promise2": "Persönliche Begrüßung am Flughafen, wir bringen das Auto direkt zur Ankunftshalle",
-    "promise3": "Keine versteckten Gebühren, der angezeigte Preis ist der Endpreis",
-    "promise4": "Grenzüberschreitende Fahrten nach Kroatien, Bosnien, Albanien, Serbien und Kosovo erlaubt",
+    "promise1": "Vollversicherung mit null Selbstbeteiligung, auch für unbefestigte Bergpisten",
+    "promise2": "Meet-and-Greet am Flughafen: Ihr Fahrzeug wartet bei der Ankunft in TGD, Tank voll, Motor kalt",
+    "promise3": "Keine versteckten Gebühren, die Summe auf dem Bildschirm ist die Summe, die Sie zahlen",
+    "promise4": "Grenzüberschreitende Fahrten nach Kroatien, Bosnien, Albanien, Serbien und Kosovo inbegriffen",
     "promise5": "Kostenlose Stornierung bei den meisten Buchungen",
     "promise6": "24/7 Pannenhilfe während Ihrer gesamten Reise",
     "h4": "Lokales Wissen",
-    "p4": "Wir sind in Montenegro ansässig und kennen die Straßen, die besten Routen und die versteckten Schätze, die in keinem Reiseführer stehen. Ob Sie vom Tivat Airport zur mittelalterlichen Altstadt von Kotor fahren, die malerische Route durch die Bucht von Kotor nach Perast nehmen oder ins Landesinnere zum Durmitor-Nationalpark aufbrechen, wir helfen Ihnen, den perfekten Roadtrip zu planen.",
+    "p4": "Unser Team fährt diese Routen jede Woche. Wir wissen, dass der Platije-Schluchtabschnitt nördlich von Podgorica keine Leitplanken und kein Handysignal hat. Wir wissen, dass die Maut im Sozina-Tunnel EUR 2.50 beträgt und dass er 30 Minuten von der Fahrt nach Budva spart. Wir wissen, dass Pod Volat das beste gegrillte Lamm in Podgorica macht und dass die Einheimischen für Fisch zum Lanterna gehen. Fragen Sie uns nach Routenberatung, wir bauen Ihre Reiseroute per WhatsApp mit Ihnen auf, noch bevor Sie in Ihr Flugzeug steigen.",
     "h5": "Kontaktieren Sie uns",
-    "p5": "Haben Sie Fragen zur Autovermietung in Montenegro? Wir sind per Telefon, WhatsApp und Viber erreichbar. Durchsuchen Sie unsere Flotte online und buchen Sie in wenigen Minuten, oder kontaktieren Sie uns und wir finden das perfekte Auto für Ihre Reise."
+    "p5": "Durchsuchen Sie die Flotte, sichern Sie sich einen Preis, stornieren Sie kostenlos, wenn sich Ihre Pläne ändern. Oder schreiben Sie uns per WhatsApp mit Ihren Daten und Wünschen, Canyons, Klöster, Strände, Skipisten, und wir empfehlen Ihnen das richtige Fahrzeug, die richtige Route und die Restaurants, an denen sich ein Halt lohnt."
   },
   "kotorBody": {
     "h1": "Kotor, UNESCO-Weltkulturerbe",
@@ -1091,7 +1091,7 @@
   },
   "cookieBanner": {
     "title": "Cookie-Richtlinie",
-    "text": "Wir verwenden Cookies, um Ihr Erlebnis zu verbessern. Wenn Sie diese Website weiter nutzen, stimmen Sie unserer Richtlinie zu",
+    "text": "Wir verwenden Cookies, um Ihr Erlebnis zu verbessern. Durch die weitere Nutzung dieser Website stimmen Sie unserer",
     "accept": "Akzeptieren",
     "decline": "Ablehnen"
   },

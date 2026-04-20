@@ -48,18 +48,18 @@
   "howItWorks": {
     "label": "Come Funziona",
     "title": "In Strada in 3 Passi",
-    "subtitle": "Prenotazione semplice. Conferma immediata. Nessuna coda in aeroporto.",
+    "subtitle": "Prenoti online. Atterri a TGD. Guidi verso le montagne prima di pranzo.",
     "step1Title": "Scegli il Luogo",
-    "step1Desc": "Scegli tra aeroporti, Kotor, Budva, Perast e altri punti di ritiro in tutto il Montenegro e oltre.",
+    "step1Desc": "Aeroporto di Podgorica, centro città, oppure oltre 28 punti in Montenegro. La Sua avventura inizia dove atterra.",
     "step2Title": "Scegli la Tua Auto",
-    "step2Desc": "Sfoglia la nostra flotta dalle utilitarie ai SUV premium. Filtra per dimensione, cambio o budget.",
+    "step2Desc": "Utilitarie agili per le strade dei canyon, SUV robusti per le piste innevate del Durmitor. Filtri per dimensioni, cambio o budget giornaliero.",
     "step3Title": "Guida in Montenegro",
-    "step3Desc": "Ti accogliamo agli arrivi. La tua auto è pronta. Esplora la costa, le montagne e le città storiche."
+    "step3Desc": "Le consegnamo le chiavi agli arrivi. Lago di Skadar in 30 minutes, canyon della Tara in 2.5 hours, la costa in un'ora. Si parte."
   },
   "fleet": {
     "label": "La Nostra Flotta",
     "title": "Scegli la Tua Auto",
-    "subtitle": "Consulta disponibilità e prezzi in tempo reale, prenota direttamente."
+    "subtitle": "Prezzi in tempo reale, conferma immediata, prenoti l'auto che corrisponde al Suo itinerario."
   },
   "brands": {
     "label": "Marchi affidabili nella nostra flotta"
@@ -77,7 +77,7 @@
   "reviews": {
     "label": "Recensioni",
     "title": "Amato dai Viaggiatori",
-    "subtitle": "Esperienze reali di clienti reali in tutto il Montenegro."
+    "subtitle": "Storie vere di viaggiatori che hanno usato Podgorica come loro campo base."
   },
   "faq": {
     "label": "FAQ",
@@ -86,7 +86,7 @@
   },
   "cta": {
     "title": "Pronti a esplorare da Podgorica?",
-    "subtitle": "Prenota in pochi minuti. Ritira in aeroporto. Percorri tutta la costa adriatica al tuo ritmo.",
+    "subtitle": "Ryanair La lascia a Podgorica. Noi Le consegnamo le chiavi. Le vette del Durmitor, le rapide della Tara, i tramonti sul lago di Skadar e la costa adriatica sono tutti a una mattinata di guida.",
     "browseFleet": "Sfoglia la Flotta"
   },
   "sidebar": {
@@ -126,7 +126,7 @@
   "notFound": {
     "code": "404",
     "title": "Strada Sbagliata",
-    "text": "Sembra che tu abbia preso una deviazione. Questa strada non porta da nessuna parte, ma le migliori rotte del Montenegro sono a un solo clic.",
+    "text": "Questo sentiero non porta da nessuna parte, ma le strade più selvagge del Montenegro sono a un clic di distanza. Ricalcoli il Suo percorso qui sotto.",
     "backHome": "Torna alla Home",
     "searchCars": "Cerca Auto"
   },
@@ -365,20 +365,20 @@
     "h1": "Noleggio Auto Podgorica",
     "p1": "Dal 2007, Podgorica Car Hire mette in contatto i viaggiatori con auto a noleggio affidabili e convenienti in tutto il Montenegro. Quella che è nata come una semplice idea, rendere più facile per i visitatori esplorare questo splendido angolo dell'Adriatic, è diventata uno dei servizi di autonoleggio più affidabili del Paese.",
     "h2": "Perché abbiamo iniziato",
-    "p2": "Il Montenegro è un Paese che si vive meglio al proprio ritmo. Le tortuose strade costiere, i villaggi di montagna nascosti e le città patrimonio UNESCO sono difficili da raggiungere con i mezzi pubblici. Abbiamo colto l'opportunità di offrire ai viaggiatori la libertà di scoprire il Montenegro alle proprie condizioni, niente orari di pullman turistici, niente panorami persi, nessun compromesso.",
+    "p2": "Podgorica si trova ad appena 44 metri di altitudine, dove i fiumi Morača e Ribnica si incontrano. Non è una città da cartolina, è una rampa di lancio. I blocchi brutalisti e i vicoli ottomani della capitale cedono il passo alla campagna selvaggia nell'arco di 15 minuti di guida in qualsiasi direzione. Il lago di Skadar è a 30 minutes a sud. Il monastero di Ostrog scavato nella roccia è a 45 minuti a nord ovest. La costa adriatica è a circa un'ora attraverso il tunnel di Sozina. E le vette di 2,522 metri del Durmitor sono a sole 2.5 hours lungo la strada del canyon della Morača. Nessun'altra città del Montenegro La mette così vicino a così tanta varietà.",
     "h3": "Cosa offriamo",
-    "p3": "Offriamo servizi di autonoleggio in tutto il Montenegro, con ritiro e riconsegna presso l'aeroporto di Tivat, l'aeroporto di Podgorica e in diverse località lungo la costa e nell'entroterra. La nostra flotta spazia dalle auto compatte per la città ai SUV spaziosi, tutti con assicurazione completa e senza costi nascosti.",
+    "p3": "Raccogliamo oltre 200 auto di partner locali di fiducia all'aeroporto di Podgorica, in centro città e in altri 28 punti di ritiro in Montenegro. Utilitarie compatte per le strade strette dei canyon. Station wagon di medie dimensioni per famiglie con attrezzatura da sci. SUV robusti per le piste sterrate sopra Žabljak. Ogni veicolo è completamente assicurato con un'opzione senza franchigia, e ogni prezzo include tasse, chilometraggio e kit di equipaggiamento, senza sorprese al banco.",
     "promiseTitle": "La nostra promessa",
-    "promise1": "Assicurazione completa con opzione franchigia zero",
-    "promise2": "Accoglienza in aeroporto, portiamo l'auto direttamente all'area arrivi",
-    "promise3": "Nessun costo nascosto, il prezzo che vedi è il prezzo che paghi",
-    "promise4": "Viaggi transfrontalieri consentiti verso Croazia, Bosnia, Albania, Serbia e Kosovo",
-    "promise5": "Cancellazione gratuita sulla maggior parte delle prenotazioni",
-    "promise6": "Assistenza stradale 24/7 per tutta la durata del viaggio",
+    "promise1": "Assicurazione completa con franchigia zero, anche per le piste di montagna non asfaltate",
+    "promise2": "Accoglienza in aeroporto: la Sua auto L'attende agli arrivi di TGD, serbatoio pieno, motore freddo",
+    "promise3": "Nessun costo nascosto, la cifra che vede sullo schermo è la cifra che paga",
+    "promise4": "Viaggi transfrontalieri verso Croazia, Bosnia, Albania, Serbia e Kosovo inclusi",
+    "promise5": "Cancellazione gratuita, perché una tempesta sul Durmitor può riscrivere qualsiasi itinerario",
+    "promise6": "Assistenza stradale 24 ore su 24, dalla costa adriatica fino al confine albanese",
     "h4": "Conoscenza locale",
-    "p4": "Con sede in Montenegro, conosciamo le strade, i percorsi migliori e le perle nascoste che le guide non menzionano. Che stiate guidando dall'aeroporto di Tivat al centro storico medievale di Kotor, percorrendo la strada panoramica attraverso le Bocche di Kotor fino a Perast, o dirigendovi verso l'entroterra fino al Parco Nazionale del Durmitor, possiamo aiutarvi a pianificare il viaggio in auto perfetto.",
+    "p4": "Il nostro team percorre queste strade ogni settimana. Sappiamo che il tratto della gola di Platije a nord di Podgorica non ha guardrail né segnale telefonico. Sappiamo che il pedaggio del tunnel di Sozina è di EUR 2.50 e che fa risparmiare 30 minuti sulla tratta per Budva. Sappiamo che Pod Volat fa il miglior agnello alla griglia di Podgorica e che Lanterna è dove vanno i locali per il pesce. Ci chieda consigli sul percorso, costruiremo il Suo itinerario insieme via WhatsApp prima ancora che salga sull'aereo.",
     "h5": "Contattaci",
-    "p5": "Hai domande sul noleggio auto in Montenegro? Siamo raggiungibili via telefono, WhatsApp e Viber. Sfoglia la nostra flotta online e prenota in pochi minuti, oppure contattaci e ti aiuteremo a trovare l'auto perfetta per il tuo viaggio."
+    "p5": "Scorra la flotta, blocchi un prezzo, cancelli gratuitamente se i piani cambiano. Oppure ci scriva su WhatsApp con le Sue date e i Suoi desideri, canyon, monasteri, spiagge, piste da sci, e Le consiglieremo l'auto giusta, il percorso giusto e i ristoranti che vale la pena raggiungere lungo la via."
   },
   "kotorBody": {
     "h1": "Kotor, Patrimonio Mondiale dell'UNESCO",
@@ -1091,7 +1091,7 @@
   },
   "cookieBanner": {
     "title": "Politica dei Cookie",
-    "text": "Utilizziamo i cookie per migliorare la tua esperienza. Continuando a utilizzare questo sito accetti la nostra",
+    "text": "Utilizziamo cookie per migliorare la Sua esperienza. Continuando a usare questo sito, Lei accetta la nostra",
     "accept": "Accetta",
     "decline": "Rifiuta"
   },
