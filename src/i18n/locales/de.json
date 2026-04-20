@@ -59,7 +59,7 @@
   "fleet": {
     "label": "Unsere Flotte",
     "title": "Wählen Sie Ihr Fahrzeug",
-    "subtitle": "Verfügbarkeit und Preise in Echtzeit — direkt buchen."
+    "subtitle": "Verfügbarkeit und Preise in Echtzeit, direkt buchen."
   },
   "brands": {
     "label": "Vertrauenswürdige Marken in unserer Flotte"
@@ -67,7 +67,7 @@
   "destinations": {
     "label": "Top-Reiseziele",
     "title": "Von Podgorica aus entdecken",
-    "subtitle": "Vom Skadar-See bis zum Durmitor und zur Küste — jede Reise beginnt hier."
+    "subtitle": "Vom Skadar-See bis zum Durmitor und zur Küste, jede Reise beginnt hier."
   },
   "features": {
     "label": "Warum wir",
@@ -101,7 +101,7 @@
   "book": {
     "title": "Finden Sie Ihr Auto",
     "seoTitle": "Auto buchen",
-    "seoDesc": "Reservieren Sie einen Mietwagen in Podgorica in Sekunden. Flughafenübergabe TGD 11 km vom Zentrum, sofortige Bestätigung und kostenlose Stornierung bei den meisten Tagessätzen."
+    "seoDesc": "Reservieren Sie einen Mietwagen in Podgorica in Sekunden. Flughafenübergabe TGD 11 km vom Zentrum, sofortige Bestätigung und kostenlose Stornierung bei"
   },
   "footer": {
     "brandDesc": "Mietwagen in Podgorica für Ryanair und Wizz Air Ankünfte am TGD. Berglandkompetenz, Durmitor-Pass routiniert, und pauschal faire Flughafengebühren mit Vollversicherung.",
@@ -126,17 +126,17 @@
   "notFound": {
     "code": "404",
     "title": "Falsch abgebogen",
-    "text": "Es sieht so aus, als hätten Sie einen Umweg genommen. Diese Straße führt nirgendwohin — aber Montenegros beste Routen sind nur einen Klick entfernt.",
+    "text": "Es sieht so aus, als hätten Sie einen Umweg genommen. Diese Straße führt nirgendwohin, aber Montenegros beste Routen sind nur einen Klick entfernt.",
     "backHome": "Zurück zur Startseite",
     "searchCars": "Autos suchen"
   },
   "home": {
-    "seoDesc": "Mietwagen in Podgorica ab €13 pro Tag am Flughafen TGD, 11 km von der Hauptstadt. Der Skadarsee in 30 Min, Durmitor in 2,5 Std, die Küste in unter einer Stunde."
+    "seoDesc": "Mietwagen in Podgorica ab €13 pro Tag am Flughafen TGD, 11 km von der Hauptstadt. Der Skadarsee in 30 Min, Durmitor in 2,5 Std, die Küste in unter einer"
   },
   "about": {
     "title": "Über uns",
     "subtitle": "Wir helfen Reisenden seit 2007, Montenegro zu entdecken.",
-    "seoDesc": "Flughafen-Mietwagen-Spezialisten in Podgorica für Budget-Fluggäste. Wir kennen die Straßen zum Ostrog Kloster, die Brücken der Tara-Schlucht und die Nebenstraßen am Skadarsee wie unsere Westentasche.",
+    "seoDesc": "Flughafen-Mietwagen-Spezialisten in Podgorica für Budget-Fluggäste. Wir kennen die Straßen zum Ostrog Kloster, die Brücken der Tara-Schlucht und die",
     "heading1": "Autovermietung Podgorica",
     "p1": "Autovermietung Podgorica verbindet Abenteuerlustige Reisende mit zuverlässigen Mietwagen, um schnell ins wilde Innere Montenegros zu gelangen. Wir sind ein unabhängiger Partner, der mit vertrauenswürdigen lokalen Vermietungsunternehmen zusammenarbeitet, landen Sie mit einem günstigen Flug, holen Sie die Schlüssel am Terminal ab, und innerhalb einer Stunde können Sie die Serpentinen hinauf zu den Dinarischen Alpen fahren oder die Ufer des Skadar-Sees entlanggleiten.",
     "heading2": "Warum Podgorica?",
@@ -170,32 +170,32 @@
   "kotor": {
     "title": "Mietwagen in Kotor",
     "subtitle": "Entdecken Sie Montenegros UNESCO-Juwel in Ihrem eigenen Tempo.",
-    "seoDesc": "Mietwagen in Kotor, Montenegro. Entdecken Sie die UNESCO-Altstadt, die Bucht von Kotor und das nahe Perast mit günstiger Autovermietung und kostenloser Flughafenzustellung."
+    "seoDesc": "Mietwagen in Kotor, Montenegro. Entdecken Sie die UNESCO-Altstadt, die Bucht von Kotor und das nahe Perast mit günstiger Autovermietung und kostenloser"
   },
   "tivat-airport": {
     "title": "Mietwagen am Flughafen Tivat",
     "subtitle": "Holen Sie Ihren Mietwagen am Ankunftsbereich ab.",
-    "seoDesc": "Mietwagen am Flughafen Tivat (TIV) abholen. Wir treffen Sie am Ankunftsbereich mit Ihrem Fahrzeug. Fahren Sie in wenigen Minuten nach Kotor, Budva oder Porto Montenegro."
+    "seoDesc": "Mietwagen am Flughafen Tivat (TIV) abholen. Wir treffen Sie am Ankunftsbereich mit Ihrem Fahrzeug. Fahren Sie in wenigen Minuten nach Kotor, Budva oder"
   },
   "budva": {
     "title": "Mietwagen in Budva",
-    "subtitle": "Montenegros Riviera — Strände, Nachtleben und Altstadtcharme.",
+    "subtitle": "Montenegros Riviera, Strände, Nachtleben und Altstadtcharme.",
     "seoDesc": "Mietwagen in Budva, Montenegro. Fahren Sie zum Mogren-Strand, Sveti Stefan und zum besten Nachtleben der Riviera. Vollkasko, keine versteckten Kosten."
   },
   "perast": {
     "title": "Mietwagen in Perast",
     "subtitle": "Ein barockes Juwel an der Bay of Kotor.",
-    "seoDesc": "Mieten Sie ein Auto und besuchen Sie Perast, ein barockes Juwel an der Bucht von Kotor. Sehen Sie die Insel Unserer Lieben Frau vom Felsen und beeindruckende Uferpaläste."
+    "seoDesc": "Mieten Sie ein Auto und besuchen Sie Perast, ein barockes Juwel an der Bucht von Kotor. Sehen Sie die Insel Unserer Lieben Frau vom Felsen und"
   },
   "podgorica": {
     "title": "Mietwagen in Podgorica",
-    "subtitle": "Montenegros Hauptstadt — Kultur, Flüsse und moderner Charme.",
-    "seoDesc": "Podgorica liegt auf 44 m Höhe dort, wo fünf Flüsse auf die Berge treffen. Nutzen Sie die Hauptstadt als Basis für den Skadarsee, Ostrog, Cetinje und Durmitor."
+    "subtitle": "Montenegros Hauptstadt, Kultur, Flüsse und moderner Charme.",
+    "seoDesc": "Podgorica liegt auf 44 m Höhe dort, wo fünf Flüsse auf die Berge treffen. Nutzen Sie die Hauptstadt als Basis für den Skadarsee, Ostrog, Cetinje und"
   },
   "podgorica-airport": {
     "title": "Mietwagen am Flughafen Podgorica",
     "subtitle": "Montenegros wichtigstes internationales Tor.",
-    "seoDesc": "Mietwagen am Flughafen Podgorica (TGD) abholen. Wir liefern Ihr Fahrzeug zum Ankunftsbereich. Fahren Sie zur Küste, zum Skadarsee oder zum Nationalpark Durmitor."
+    "seoDesc": "Mietwagen am Flughafen Podgorica (TGD) abholen. Wir liefern Ihr Fahrzeug zum Ankunftsbereich. Fahren Sie zur Küste, zum Skadarsee oder zum Nationalpark"
   },
   "dubrovnik-airport": {
     "title": "Mietwagen am Flughafen Dubrovnik",
@@ -210,12 +210,12 @@
   "montenegro": {
     "title": "Mietwagen & Reiseführer Montenegro",
     "subtitle": "Alles, was Sie über das Autofahren in Montenegro wissen müssen.",
-    "seoDesc": "Kompletter Leitfaden zum Autofahren in Montenegro. Verkehrsregeln, Geschwindigkeitsbegrenzungen, Kraftstoffpreise und die schönsten Routen von der Küste bis zu den Bergen."
+    "seoDesc": "Kompletter Leitfaden zum Autofahren in Montenegro. Verkehrsregeln, Geschwindigkeitsbegrenzungen, Kraftstoffpreise und die schönsten Routen von der Küste"
   },
   "border-crossing": {
     "title": "Balkan-Grenzübergangsführer",
     "subtitle": "Alles, was Sie über das Fahren mit Ihrem Mietwagen über Grenzen wissen müssen.",
-    "seoDesc": "Leitfaden für Grenzübertritte von Montenegro mit dem Mietwagen. Grüne Karte Versicherung, erforderliche Dokumente und Tipps für Kroatien, Bosnien, Albanien und Serbien."
+    "seoDesc": "Leitfaden für Grenzübertritte von Montenegro mit dem Mietwagen. Grüne Karte Versicherung, erforderliche Dokumente und Tipps für Kroatien, Bosnien"
   },
   "privacy": {
     "title": "Datenschutzrichtlinie",
@@ -230,7 +230,7 @@
   "cookie-policy": {
     "title": "Cookie-Richtlinie",
     "subtitle": "Wie wir Cookies auf dieser Website verwenden.",
-    "seoDesc": "Cookie-Richtlinie von Podgorica Car Hire. Erfahren Sie, welche Cookies wir verwenden, wie das Buchungs-Widget Einstellungen speichert und wie Sie sie verwalten."
+    "seoDesc": "Cookie-Richtlinie von Podgorica Car Hire. Erfahren Sie, welche Cookies wir verwenden, wie das Buchungs-Widget Einstellungen speichert und wie Sie sie"
   },
   "featureCards": {
     "airportPickup": {
@@ -239,7 +239,7 @@
     },
     "fullInsurance": {
       "title": "Berggerechte Vollversicherung",
-      "desc": "Vollschutz mit Null-Selbstbeteiligung — gemacht für Bergkurven, Schluchtenstraßen und alles dazwischen."
+      "desc": "Vollschutz mit Null-Selbstbeteiligung, gemacht für Bergkurven, Schluchtenstraßen und alles dazwischen."
     },
     "support": {
       "title": "24/7 Pannenhilfe",
@@ -255,7 +255,7 @@
     },
     "crossBorder": {
       "title": "Grenzüberschreitend",
-      "desc": "Serbien (Prijepolje, 2 Std.), Albanien (Shkodra, 1,5 Std.), Kosovo (Peć, 3 Std.) — Green Card inklusive, einfach bei der Buchung angeben."
+      "desc": "Serbien (Prijepolje, 2 Std.), Albanien (Shkodra, 1,5 Std.), Kosovo (Peć, 3 Std.), Green Card inklusive, einfach bei der Buchung angeben."
     }
   },
   "testimonials": {
@@ -263,7 +263,7 @@
       "text": "Wir flogen extra nach TGD, um den Durmitor zu wandern und den Tara-Canyon zu erkunden. Das Geländefahrzeug war in Minuten abholbereit und meisterte die Bergstraßen nach Žabljak problemlos. Die Buchung war unkompliziert und der Preis besser als alles, was wir zuhause gefunden hatten."
     },
     "1": {
-      "text": "Allein-Roadtrip vom Flughafen Podgorica durch die Morača-Schlucht zum Ostrog-Kloster — eine der eindrucksvollsten Fahrten meines Lebens. Das Auto war makellos, die Abholung am TGD dauerte keine 10 Minuten. Diesen Anbieter buche ich bei jedem Wizz-Air-Flug nach Montenegro."
+      "text": "Allein-Roadtrip vom Flughafen Podgorica durch die Morača-Schlucht zum Ostrog-Kloster, eine der eindrucksvollsten Fahrten meines Lebens. Das Auto war makellos, die Abholung am TGD dauerte keine 10 Minuten. Diesen Anbieter buche ich bei jedem Wizz-Air-Flug nach Montenegro."
     },
     "2": {
       "text": "Wir hatten eigentlich einen Strandurlaub gebucht, verbrachten aber zwei Tage in den Weinberfdörfern am Skutarisee und fanden uns bei Sonnenuntergang auf einer Bergstraße oberhalb von Cetinje wieder. Die beste unerwartete Umleitung ever. Das Auto machte alles möglich."
@@ -276,7 +276,7 @@
     },
     "1": {
       "q": "Darf ich nach Serbien oder Albanien fahren?",
-      "a": "Ja — Grenzübertritte sind nach Serbien, Albanien, Kosovo, Bosnien und Kroatien erlaubt. Die wichtigsten Grenzübergänge in der Nähe von Podgorica sind Dračenovac für Serbien und Hani i Hotit für Albanien. Bitte bei der Buchung angeben, damit wir die Grüne Karte und alle weiteren Unterlagen vorbereiten können."
+      "a": "Ja, Grenzübertritte sind nach Serbien, Albanien, Kosovo, Bosnien und Kroatien erlaubt. Die wichtigsten Grenzübergänge in der Nähe von Podgorica sind Dračenovac für Serbien und Hani i Hotit für Albanien. Bitte bei der Buchung angeben, damit wir die Grüne Karte und alle weiteren Unterlagen vorbereiten können."
     },
     "2": {
       "q": "Gibt es ein Mindestalter?",
@@ -288,15 +288,15 @@
     },
     "4": {
       "q": "Wie läuft die Abholung am TGD ab?",
-      "a": "Der Flughafen Podgorica (TGD) ist ein kompaktes Einterminalgebäude — die Ankunft ist übersichtlich. Unser Mitarbeiter empfängt Sie in der Ankunftshalle mit einem Schild mit Ihrem Namen. Das Fahrzeug steht direkt vor dem Terminal. Von der Landung bis zum Losfahren dauert es in der Regel unter 10 Minuten."
+      "a": "Der Flughafen Podgorica (TGD) ist ein kompaktes Einterminalgebäude, die Ankunft ist übersichtlich. Unser Mitarbeiter empfängt Sie in der Ankunftshalle mit einem Schild mit Ihrem Namen. Das Fahrzeug steht direkt vor dem Terminal. Von der Landung bis zum Losfahren dauert es in der Regel unter 10 Minuten."
     },
     "5": {
       "q": "Kann ich das Fahrzeug an einem anderen Ort zurückgeben?",
-      "a": "Ja — Einwegmieten sind an 28 Standorten in Montenegro möglich. Wählen Sie bei der Buchung einfach verschiedene Abhol- und Rückgabeorte. Einweggebühren werden, falls anfallend, vor der Buchungsbestätigung transparent ausgewiesen."
+      "a": "Ja, Einwegmieten sind an 28 Standorten in Montenegro möglich. Wählen Sie bei der Buchung einfach verschiedene Abhol- und Rückgabeorte. Einweggebühren werden, falls anfallend, vor der Buchungsbestätigung transparent ausgewiesen."
     },
     "6": {
       "q": "Wie lautet die Stornierungsbedingung?",
-      "a": "Standardfahrzeuge: kostenlose Stornierung bis 7 Tage vor Mietbeginn. Luxusfahrzeuge und Cabrios: kostenlose Stornierung bis 30 Tage vorher. Bei allen Stornierungen fällt eine Zahlungsbearbeitungsgebühr von 6 % an. Falls ein Bergpasssperrung oder extremes Wetter eine Planänderung erzwingt, kontaktieren Sie uns — wir helfen, soweit es geht."
+      "a": "Standardfahrzeuge: kostenlose Stornierung bis 7 Tage vor Mietbeginn. Luxusfahrzeuge und Cabrios: kostenlose Stornierung bis 30 Tage vorher. Bei allen Stornierungen fällt eine Zahlungsbearbeitungsgebühr von 6 % an. Falls ein Bergpasssperrung oder extremes Wetter eine Planänderung erzwingt, kontaktieren Sie uns, wir helfen, soweit es geht."
     },
     "7": {
       "q": "Ist eine Kaution erforderlich?",
@@ -304,19 +304,19 @@
     },
     "8": {
       "q": "Was passiert bei Überschreitung des Kilometerlimits?",
-      "a": "Bei Fahrzeugen mit Kilometerbegrenzung wird jeder zusätzliche Kilometer über das vereinbarte Limit berechnet. Der Tarif ist in den Fahrzeugbedingungen vor der Buchung angegeben. Wenn Sie längere Bergtouren planen — Durmitor, Tara-Canyon, albanische Grenze — prüfen Sie die Kilometerbedingungen sorgfältig oder wählen Sie ein Fahrzeug mit unbegrenzten Kilometern."
+      "a": "Bei Fahrzeugen mit Kilometerbegrenzung wird jeder zusätzliche Kilometer über das vereinbarte Limit berechnet. Der Tarif ist in den Fahrzeugbedingungen vor der Buchung angegeben. Wenn Sie längere Bergtouren planen, Durmitor, Tara-Canyon, albanische Grenze, prüfen Sie die Kilometerbedingungen sorgfältig oder wählen Sie ein Fahrzeug mit unbegrenzten Kilometern."
     },
     "9": {
       "q": "Brauche ich Schneeketten für Bergstraßen?",
-      "a": "Von November bis März sind Schneeketten oder Winterreifen auf montenegrinischen Bergstraßen über 1.000 m gesetzlich vorgeschrieben. Dies betrifft auch die Straße nach Žabljak und den Durmitor-Nationalpark. Wenn Sie im Winter in die Berge fahren, teilen Sie uns das bei der Buchung mit, und wir rüsten das Fahrzeug entsprechend aus. Hinweis: Nikšić ist die letzte zuverlässige Tankstelle vor dem Durmitor — unbedingt dort volltanken."
+      "a": "Von November bis März sind Schneeketten oder Winterreifen auf montenegrinischen Bergstraßen über 1.000 m gesetzlich vorgeschrieben. Dies betrifft auch die Straße nach Žabljak und den Durmitor-Nationalpark. Wenn Sie im Winter in die Berge fahren, teilen Sie uns das bei der Buchung mit, und wir rüsten das Fahrzeug entsprechend aus. Hinweis: Nikšić ist die letzte zuverlässige Tankstelle vor dem Durmitor, unbedingt dort volltanken."
     },
     "10": {
       "q": "Wie viel zahle ich im Voraus?",
-      "a": "Bei der Buchung werden 15–20 % des Gesamtmietpreises als Anzahlung zur Reservierungssicherung erhoben. Der Restbetrag wird direkt bei der Fahrzeugübergabe am TGD mit dem Mietanbieter abgerechnet. Keine Überraschungskosten am Schalter — die Aufteilung ist vor der Bestätigung klar ersichtlich."
+      "a": "Bei der Buchung werden 15-20 % des Gesamtmietpreises als Anzahlung zur Reservierungssicherung erhoben. Der Restbetrag wird direkt bei der Fahrzeugübergabe am TGD mit dem Mietanbieter abgerechnet. Keine Überraschungskosten am Schalter, die Aufteilung ist vor der Bestätigung klar ersichtlich."
     },
     "11": {
       "q": "Kann ich ohne Kreditkarte mieten?",
-      "a": "Eine kleine Auswahl an Fahrzeugen ist auch ohne Kreditkarte verfügbar — diese sind in den Suchergebnissen deutlich gekennzeichnet. Für die meisten Fahrzeuge ist jedoch eine physische Kreditkarte auf den Namen des Fahrers für die Sicherheitskaution bei der Übergabe erforderlich."
+      "a": "Eine kleine Auswahl an Fahrzeugen ist auch ohne Kreditkarte verfügbar, diese sind in den Suchergebnissen deutlich gekennzeichnet. Für die meisten Fahrzeuge ist jedoch eine physische Kreditkarte auf den Namen des Fahrers für die Sicherheitskaution bei der Übergabe erforderlich."
     }
   },
   "destCards": {
@@ -348,40 +348,40 @@
     "durmitor": {
       "name": "Durmitor",
       "tag": "2,5 Stunden",
-      "desc": "UNESCO-Nationalpark — Berge, Seen und Schluchten."
+      "desc": "UNESCO-Nationalpark, Berge, Seen und Schluchten."
     },
     "ostrog-monastery": {
       "name": "Kloster Ostrog",
       "tag": "45 Minuten",
-      "desc": "In den Fels gehauenes Kloster — Montenegros Pilgerstätte."
+      "desc": "In den Fels gehauenes Kloster, Montenegros Pilgerstätte."
     },
     "niksic": {
       "name": "Nikšić",
       "tag": "1 Stunde",
-      "desc": "Montenegros zweitgrößte Stadt — Tor zum Norden."
+      "desc": "Montenegros zweitgrößte Stadt, Tor zum Norden."
     }
   },
   "aboutBody": {
     "h1": "Podgorica Autovermietung",
-    "p1": "Seit 2007 verbindet Podgorica Car Hire Reisende mit zuverlässigen und erschwinglichen Mietwagen in ganz Montenegro. Was als einfache Idee begann — Besuchern die Erkundung dieser atemberaubenden Ecke der Adriatic zu erleichtern — hat sich zu einem der vertrauenswürdigsten Mietwagenservices des Landes entwickelt.",
+    "p1": "Seit 2007 verbindet Podgorica Car Hire Reisende mit zuverlässigen und erschwinglichen Mietwagen in ganz Montenegro. Was als einfache Idee begann, Besuchern die Erkundung dieser atemberaubenden Ecke der Adriatic zu erleichtern, hat sich zu einem der vertrauenswürdigsten Mietwagenservices des Landes entwickelt.",
     "h2": "Warum wir angefangen haben",
-    "p2": "Montenegro ist ein Land, das man am besten in eigenem Tempo erlebt. Die kurvigen Küstenstraßen, versteckten Bergdörfer und UNESCO-Welterbestätten sind mit öffentlichen Verkehrsmitteln nur schwer erreichbar. Wir sahen die Möglichkeit, Reisenden die Freiheit zu geben, Montenegro auf eigene Faust zu entdecken — keine Reisebusfahrpläne, keine verpassten Aussichtspunkte, keine Kompromisse.",
+    "p2": "Montenegro ist ein Land, das man am besten in eigenem Tempo erlebt. Die kurvigen Küstenstraßen, versteckten Bergdörfer und UNESCO-Welterbestätten sind mit öffentlichen Verkehrsmitteln nur schwer erreichbar. Wir sahen die Möglichkeit, Reisenden die Freiheit zu geben, Montenegro auf eigene Faust zu entdecken, keine Reisebusfahrpläne, keine verpassten Aussichtspunkte, keine Kompromisse.",
     "h3": "Was wir anbieten",
-    "p3": "Wir bieten Mietwagenservices in ganz Montenegro an, mit Abholung und Rückgabe am Tivat Airport, Podgorica Airport sowie an Standorten entlang der Küste und im Landesinneren. Unsere Flotte reicht von kompakten Stadtwagen bis zu geräumigen SUVs — alle vollversichert und ohne versteckte Gebühren.",
+    "p3": "Wir bieten Mietwagenservices in ganz Montenegro an, mit Abholung und Rückgabe am Tivat Airport, Podgorica Airport sowie an Standorten entlang der Küste und im Landesinneren. Unsere Flotte reicht von kompakten Stadtwagen bis zu geräumigen SUVs, alle vollversichert und ohne versteckte Gebühren.",
     "promiseTitle": "Unser Versprechen",
     "promise1": "Vollkaskoversicherung mit Option auf null Selbstbeteiligung",
-    "promise2": "Persönliche Begrüßung am Flughafen — wir bringen das Auto direkt zur Ankunftshalle",
-    "promise3": "Keine versteckten Gebühren — der angezeigte Preis ist der Endpreis",
+    "promise2": "Persönliche Begrüßung am Flughafen, wir bringen das Auto direkt zur Ankunftshalle",
+    "promise3": "Keine versteckten Gebühren, der angezeigte Preis ist der Endpreis",
     "promise4": "Grenzüberschreitende Fahrten nach Kroatien, Bosnien, Albanien, Serbien und Kosovo erlaubt",
     "promise5": "Kostenlose Stornierung bei den meisten Buchungen",
     "promise6": "24/7 Pannenhilfe während Ihrer gesamten Reise",
     "h4": "Lokales Wissen",
-    "p4": "Wir sind in Montenegro ansässig und kennen die Straßen, die besten Routen und die versteckten Schätze, die in keinem Reiseführer stehen. Ob Sie vom Tivat Airport zur mittelalterlichen Altstadt von Kotor fahren, die malerische Route durch die Bucht von Kotor nach Perast nehmen oder ins Landesinnere zum Durmitor-Nationalpark aufbrechen — wir helfen Ihnen, den perfekten Roadtrip zu planen.",
+    "p4": "Wir sind in Montenegro ansässig und kennen die Straßen, die besten Routen und die versteckten Schätze, die in keinem Reiseführer stehen. Ob Sie vom Tivat Airport zur mittelalterlichen Altstadt von Kotor fahren, die malerische Route durch die Bucht von Kotor nach Perast nehmen oder ins Landesinnere zum Durmitor-Nationalpark aufbrechen, wir helfen Ihnen, den perfekten Roadtrip zu planen.",
     "h5": "Kontaktieren Sie uns",
-    "p5": "Haben Sie Fragen zur Autovermietung in Montenegro? Wir sind per Telefon, WhatsApp und Viber erreichbar. Durchsuchen Sie unsere Flotte online und buchen Sie in wenigen Minuten — oder kontaktieren Sie uns und wir finden das perfekte Auto für Ihre Reise."
+    "p5": "Haben Sie Fragen zur Autovermietung in Montenegro? Wir sind per Telefon, WhatsApp und Viber erreichbar. Durchsuchen Sie unsere Flotte online und buchen Sie in wenigen Minuten, oder kontaktieren Sie uns und wir finden das perfekte Auto für Ihre Reise."
   },
   "kotorBody": {
-    "h1": "Kotor — UNESCO-Weltkulturerbe",
+    "h1": "Kotor, UNESCO-Weltkulturerbe",
     "p1": "Kotor ist eine der schönsten Küstenstädte Montenegros und bietet herrliche Strände, den historischen Charme der Altstadt sowie mittelalterliche Mauern, hinter denen sich Kunstgalerien, Cafés und ausgezeichnete Restaurants verbergen. Als UNESCO-Weltkulturerbe konzentrieren sich die Sehenswürdigkeiten der Stadt in der wunderschön erhaltenen Altstadt.",
     "p2": "Mit einem Mietwagen in Kotor haben Sie die Freiheit, lokale Sehenswürdigkeiten sowie nahegelegene montenegrinische Städte und Naturgebiete in Ihrem eigenen Tempo zu erkunden.",
     "landmarksTitle": "Sehenswürdigkeiten",
@@ -394,12 +394,12 @@
     "cetinjeTrip": "Das 1701 erbaute Kloster beherbergt die Hand Johannes des Täufers. Die Fahrt von Kotor dauert etwa eine Stunde durch malerische Bergstraßen.",
     "royalCourtText": "Montenegros königlicher Palast von 1871 in der ehemaligen königlichen Hauptstadt.",
     "tivatLinkText": "Mietwagen ab Flughafen Tivat",
-    "tivatLinkPost": " ist der schnellste Weg zur Bucht."
+    "tivatLinkPost": "ist der schnellste Weg zur Bucht."
   },
   "budvaBody": {
-    "h1": "Budva — Das Herz der Montenegrinischen Riviera",
+    "h1": "Budva, Das Herz der Montenegrinischen Riviera",
     "p1": "Budva ist Montenegros beliebtestes Strandziel und zieht Besucher aus ganz Europa an seine atemberaubende Küste, sein pulsierendes Nachtleben und seine wunderschön erhaltene mittelalterliche Altstadt. Mit einem Mietwagen liegt die gesamte Budva-Riviera und darüber hinaus direkt vor Ihrer Haustür.",
-    "p2": "Die Stadt liegt etwa 20 Minuten südlich des Flughafens Tivat und ist damit eines der am einfachsten erreichbaren Küstenziele nach der Landung. Budva vereint 2.500 Jahre Geschichte mit einer durch und durch modernen Urlaubsatmosphäre — tagsüber antike Stadtmauern, nachts lebhafte Strandbars.",
+    "p2": "Die Stadt liegt etwa 20 Minuten südlich des Flughafens Tivat und ist damit eines der am einfachsten erreichbaren Küstenziele nach der Landung. Budva vereint 2.500 Jahre Geschichte mit einer durch und durch modernen Urlaubsatmosphäre, tagsüber antike Stadtmauern, nachts lebhafte Strandbars.",
     "beachesTitle": "Strände",
     "beachesIntro": "Die Budva-Riviera erstreckt sich über 21 Kilometer und bietet einige der schönsten Strände an der Adriaküste:",
     "mogren": "Zwei miteinander verbundene Kieselstrände, die durch einen in die Klippen gehauenen Tunnel erreichbar sind, nur wenige Minuten von der Altstadt entfernt",
@@ -416,8 +416,8 @@
     "gettingAroundText": "Während Budvas Altstadt am besten zu Fuß erkundet wird, ist ein Mietwagen unverzichtbar, um die besten Strände, nahegelegene Dörfer und Attraktionen im Landesinneren zu erreichen. Parkplätze sind in der Nähe der Altstadtmauern und auf mehreren öffentlichen Parkplätzen entlang der Hauptstraße vorhanden. Im Hochsommer sichert frühes Ankommen die besten Plätze."
   },
   "perastBody": {
-    "h1": "Perast — Verborgenes Juwel an der Bucht",
-    "p1": "Das kleine Dorf Perast liegt nur eine kurze Autofahrt — weniger als 20 Minuten — von Kotor entfernt. Touristen, die für ihre Montenegro-Rundreise ein Auto mieten, werden sicherlich die Fahrt über die Autobahn E65/E80 unternehmen wollen, um Zeit in diesem reizenden Fischerdorf zu verbringen.",
+    "h1": "Perast, Verborgenes Juwel an der Bucht",
+    "p1": "Das kleine Dorf Perast liegt nur eine kurze Autofahrt, weniger als 20 Minuten, von Kotor entfernt. Touristen, die für ihre Montenegro-Rundreise ein Auto mieten, werden sicherlich die Fahrt über die Autobahn E65/E80 unternehmen wollen, um Zeit in diesem reizenden Fischerdorf zu verbringen.",
     "p2": "Obwohl Perast nur etwa 850 Einwohner hat, überwiegt die lange und farbenfrohe Geschichte des Ortes bei weitem seine geringe Größe. Von 1420 bis 1797 gehörte die Stadt zur Republik Venedig und war bekannt für ihre meisterhaften Schiffsbauer und Seefahrer. Perast besitzt viele wunderschöne Zeugnisse der Vergangenheit und einige hervorragende Beispiele barocker Architektur.",
     "islandsTitle": "Die Inseln",
     "stGeorgeTitle": "Insel St. Georg",
@@ -430,8 +430,8 @@
     "monasteryText": "Das Kloster Banja liegt nördlich von Perast an der Straße nach Risan und beherbergt viele alte religiöse Stücke aus russischen, griechischen und Boka-Dynastien. Um das Kloster zu erreichen, fahren Sie einfach wenige Kilometer weiter nördlich auf der E65/E80."
   },
   "tivatBody": {
-    "h1": "Tivat — Hafenstadt",
-    "p1": "Tivat ist eine der neueren Städte an der montenegrinischen Küste, die vor etwas mehr als einem Jahrhundert erbaut wurde. Die Stadt beherbergt einen von nur zwei öffentlichen Flughäfen in Montenegro — den Flughafen Tivat — was sie zu einem äußerst praktischen Ausgangspunkt für Besucher macht, die mit dem Flugzeug anreisen.",
+    "h1": "Tivat, Hafenstadt",
+    "p1": "Tivat ist eine der neueren Städte an der montenegrinischen Küste, die vor etwas mehr als einem Jahrhundert erbaut wurde. Die Stadt beherbergt einen von nur zwei öffentlichen Flughäfen in Montenegro, den Flughafen Tivat, was sie zu einem äußerst praktischen Ausgangspunkt für Besucher macht, die mit dem Flugzeug anreisen.",
     "p2": "Dieser Badeort hat eine Bevölkerung von rund 13.000 Einwohnern. Besucher können Uferpromenaden genießen, in Restaurants am Wasser speisen und Geschäfte erkunden, die in engen Gassen versteckt sind. Während der Hochsaison vereint die Stadt Ruhe mit lebhafter touristischer Aktivität.",
     "beachesTitle": "Strände",
     "beachesText": "Tivat verfügt über 17 Strände entlang von 3 Kilometern Küstenlinie, die zu den schönsten des Mittelmeerraums zählen. Zu den besten Stränden gehören:",
@@ -458,14 +458,14 @@
     "facilitiesTitle": "Flughafeneinrichtungen",
     "facilitiesText": "Der Flughafen bietet Cafés, öffentliche Telefone, Souvenirgeschäfte und Duty-Free-Shopping. Busverbindungen bestehen nach Herceg Novi und Budva, und vor dem Terminal stehen auch Taxis zur Verfügung.",
     "whyTitle": "Warum am Flughafen Tivat mieten?",
-    "whyText": "Der Flughafen Tivat ist der nächstgelegene Flughafen zu Montenegros beliebtesten Küstenzielen. Innerhalb von Minuten nach der Landung können Sie entlang der Bay of Kotor zur mittelalterlichen ummauerten Stadt fahren oder Richtung Süden zu den Stränden von Budva aufbrechen. Wenn Sie Ihr Auto in Tivat abholen, bedeutet das keine Transfers, kein Warten auf Busse — einfach direkt vom Terminal auf die offene Straße.",
+    "whyText": "Der Flughafen Tivat ist der nächstgelegene Flughafen zu Montenegros beliebtesten Küstenzielen. Innerhalb von Minuten nach der Landung können Sie entlang der Bay of Kotor zur mittelalterlichen ummauerten Stadt fahren oder Richtung Süden zu den Stränden von Budva aufbrechen. Wenn Sie Ihr Auto in Tivat abholen, bedeutet das keine Transfers, kein Warten auf Busse, einfach direkt vom Terminal auf die offene Straße.",
     "meetText": "Wir empfangen Sie in der Ankunftshalle mit Ihrem Namen auf einem Schild. Ihr Auto steht direkt draußen bereit. Gesamtzeit von der Landung bis zur Abfahrt: etwa 10 Minuten.",
-    "budvaLinkPre": "Fahren Sie Richtung Süden und erreichen Sie ",
+    "budvaLinkPre": "Fahren Sie Richtung Süden und erreichen Sie",
     "budvaLinkText": "die Strände von Budva",
-    "budvaLinkPost": " in 30 Minuten."
+    "budvaLinkPost": "in 30 Minuten."
   },
   "podgoricaBody": {
-    "h1": "Podgorica — Die Hauptstadt",
+    "h1": "Podgorica, Die Hauptstadt",
     "p1": "Die meisten Touristen, die nach Montenegro fliegen, beginnen ihre Reise am Flughafen Podgorica (TGD), der 9 km vom Stadtzentrum entfernt liegt. Als Hauptstadt und größte Stadt Montenegros hat Podgorica etwa 170.000 Einwohner und liegt einzigartig an den Ufern von sechs Flüssen: Moraca, Ribnica, Zeta, Sitnica, Mareza und Cijevna.",
     "p2": "Die Architektur der Stadt spiegelt vielfältige historische Einflüsse wider. Die osmanische Herrschaft hat ihre Spuren hinterlassen, während mittelalterliche Bauwerke neben funktionalistischen Gebäuden aus der kommunistischen Ära und modernen Glastürmen stehen. Die Millenniumsbrücke ist zum Symbol der modernen Ästhetik der Stadt geworden.",
     "p3": "Podgorica ist die kulturelle Hauptstadt des Landes. Touristen, die ohne Aufenthalt zu den Badeorten oder Bergen weiterreisen, verpassen mit Sicherheit einen wichtigen Teil Montenegros.",
@@ -478,9 +478,9 @@
     "danilovgradText": "Eine malerische Flussstadt etwa dreißig Minuten westlich von Podgorica, mit Flussstränden, Bootsfahrten, Galerien und dem nahegelegenen Kloster Zdrebaonik.",
     "zabljak": "Eine Alpenstadt in der Gebirgsregion Durmitor, auf 1.500 Metern über dem Meeresspiegel und 170 Kilometer von Podgorica entfernt. Ein Ganzjahresziel, das im Winter Skifahren und im Sommer Wandern, Rafting und Mountainbiken bietet.",
     "durmitorTitle": "Durmitor",
-    "durmitorLinkPre": "Lesen Sie unseren ",
+    "durmitorLinkPre": "Lesen Sie unseren",
     "durmitorLinkText": "Reiseführer zum Nationalpark Durmitor",
-    "durmitorLinkPost": " für Wander- und Skirouten."
+    "durmitorLinkPost": "für Wander- und Skirouten."
   },
   "podgoricaAirportBody": {
     "h1": "Autovermietung am Flughafen Podgorica (TGD)",
@@ -503,28 +503,28 @@
   "dubrovnikAirportBody": {
     "h1": "Autovermietung am Flughafen Dubrovnik (DBV)",
     "p1": "Viele Touristen, die Montenegro besuchen, fliegen zum Flughafen Dubrovnik und mieten ein Auto, um nach Montenegro zu fahren. Der Flughafen liegt nur eine kurze zweistündige Fahrt von den Küstenorten Budva, Perast und Kotor entfernt und ist besser angebunden, da viele Fluggesellschaften noch keine Direktflüge nach Montenegro anbieten.",
-    "p2": "Da dies eine so häufige Route ist, stellt die Grenzüberquerung keine große Schwierigkeit dar — vorausgesetzt, die Besucher haben alle Mietverträge und Reisedokumente in Ordnung.",
+    "p2": "Da dies eine so häufige Route ist, stellt die Grenzüberquerung keine große Schwierigkeit dar, vorausgesetzt, die Besucher haben alle Mietverträge und Reisedokumente in Ordnung.",
     "p3": "Ein Auto für eine Reise nach Montenegro zu mieten ist eine großartige Idee. Es ermöglicht Besuchern, diesen Teil der Welt nach ihren eigenen Vorstellungen und in ihrem eigenen Tempo zu erkunden. Der Verkehr zwischen den Ländern in dieser Region ist üblich, daher sind Grenzübertritte in der Regel unkompliziert.",
     "borderTitle": "Tipps zur Grenzüberquerung",
     "borderText": "Während der Touristensaison wird Montenegro von Besuchern überflutet, und lange Wartezeiten an der Grenze sind keine Seltenheit. Frühmorgens oder spät in der Nacht zu überqueren ist eine Möglichkeit, den Massen auszuweichen. Stellen Sie sicher, dass Ihre Autovermietung Ihnen eine Grüne Karte für die grenzüberschreitende Versicherung ausgestellt hat.",
-    "borderLinkPre": "Unser ",
+    "borderLinkPre": "Unser",
     "borderLinkText": "Leitfaden zur Grenzüberquerung",
-    "borderLinkPost": " enthält alles, was Sie benötigen.",
+    "borderLinkPost": "enthält alles, was Sie benötigen.",
     "facilitiesTitle": "Flughafeneinrichtungen",
-    "facilitiesText1": "Der Flughafen Dubrovnik verfügt über ein modernes Terminalgebäude, das weniger als eine halbe Stunde Fahrt von der Stadt Dubrovnik an der E65 entfernt liegt. Der Flughafen bietet begrenzte Parkmöglichkeiten, wobei Automaten Zahlungen per Bargeld und Kreditkarte akzeptieren. Da die Parkplätze begrenzt sind — besonders in der Hochsaison — sollten Besucher ihre Plätze nach Möglichkeit im Voraus buchen. Für Vorausbuchungen gibt es einen Rabatt.",
+    "facilitiesText1": "Der Flughafen Dubrovnik verfügt über ein modernes Terminalgebäude, das weniger als eine halbe Stunde Fahrt von der Stadt Dubrovnik an der E65 entfernt liegt. Der Flughafen bietet begrenzte Parkmöglichkeiten, wobei Automaten Zahlungen per Bargeld und Kreditkarte akzeptieren. Da die Parkplätze begrenzt sind, besonders in der Hochsaison, sollten Besucher ihre Plätze nach Möglichkeit im Voraus buchen. Für Vorausbuchungen gibt es einen Rabatt.",
     "facilitiesText2": "Im Flughafen befinden sich eine Wechselstube, eine Bank und eine Post. Kleine Restaurants, Cafés, ein Duty-Free-Shop und ein Zeitungskiosk sind ebenfalls vorhanden.",
     "gettingTitle": "Anreise nach Montenegro",
     "gettingText1": "Am Flughafen stehen öffentliche Verkehrsmittel in Form von Taxis vor dem Terminal sowie Busverbindungen und Shuttles zur Verfügung. Reisende, die in die Stadt Dubrovnik möchten, sollten darauf achten, die Busse zu nehmen, die bis ins Stadtzentrum fahren.",
-    "gettingText2": "Die Fahrt vom Flughafen Dubrovnik an die Küste Montenegros führt Sie über eine der landschaftlich schönsten Küstenstraßen Europas. Innerhalb von zwei Stunden passieren Sie die Grenze und erreichen die Bay of Kotor — eine der dramatischsten Annäherungen an ein Reiseziel im gesamten Mittelmeerraum."
+    "gettingText2": "Die Fahrt vom Flughafen Dubrovnik an die Küste Montenegros führt Sie über eine der landschaftlich schönsten Küstenstraßen Europas. Innerhalb von zwei Stunden passieren Sie die Grenze und erreichen die Bay of Kotor, eine der dramatischsten Annäherungen an ein Reiseziel im gesamten Mittelmeerraum."
   },
   "montenegroBody": {
     "h1": "Montenegro mit dem Auto entdecken",
     "p1": "Montenegro zählt zu den lohnendsten Reisezielen Europas für Erkundungen mit dem Mietwagen. Von dramatischen Bergstraßen und ruhigen Dörfern im Landesinneren bis hin zu kurvigen Küstenfahrten entlang der Adria bietet das Land vielfältige Landschaften auf überraschend kurzen Distanzen. Ein Mietwagen ermöglicht den Zugang zu Orten, die weit über die Reichweite öffentlicher Verkehrsmittel hinausgehen.",
-    "p2": "Obwohl Montenegro flächenmäßig kompakt ist, erfordern die Fahrzeiten mehr Zeit, als Karten vermuten lassen. Serpentinen in den Bergen, schmale Küstenstraßen und landschaftlich reizvolle Strecken laden zu häufigen Stopps ein. Reisende gewinnen die Freiheit, sowohl die Fahrt als auch das Ziel zu genießen — fjordähnliche Buchten, historische Städte und Aussichtspunkte im Hochland in ihrem eigenen Tempo zu erkunden.",
+    "p2": "Obwohl Montenegro flächenmäßig kompakt ist, erfordern die Fahrzeiten mehr Zeit, als Karten vermuten lassen. Serpentinen in den Bergen, schmale Küstenstraßen und landschaftlich reizvolle Strecken laden zu häufigen Stopps ein. Reisende gewinnen die Freiheit, sowohl die Fahrt als auch das Ziel zu genießen, fjordähnliche Buchten, historische Städte und Aussichtspunkte im Hochland in ihrem eigenen Tempo zu erkunden.",
     "startTitle": "Erste Schritte",
-    "startText": "Viele Besucher übernehmen ihren Mietwagen an einem der Flughäfen Montenegros oder am Flughafen Dubrovnik in Kroatien, je nach Flugverfügbarkeit. Der Flughafen Tivat liegt am nächsten zur Küste — nur 10 Minuten von Kotor und 20 Minuten von Budva entfernt. Der Flughafen Podgorica bedient die Hauptstadt und das Landesinnere. Der Flughafen Dubrovnik bleibt beliebt, da er oft über ein größeres Angebot an internationalen Flügen verfügt.",
+    "startText": "Viele Besucher übernehmen ihren Mietwagen an einem der Flughäfen Montenegros oder am Flughafen Dubrovnik in Kroatien, je nach Flugverfügbarkeit. Der Flughafen Tivat liegt am nächsten zur Küste, nur 10 Minuten von Kotor und 20 Minuten von Budva entfernt. Der Flughafen Podgorica bedient die Hauptstadt und das Landesinnere. Der Flughafen Dubrovnik bleibt beliebt, da er oft über ein größeres Angebot an internationalen Flügen verfügt.",
     "tivatLinkText": "Mieten Sie ein Auto am Flughafen Tivat",
-    "tivatLinkPost": " für sofortigen Zugang zur Küste.",
+    "tivatLinkPost": "für sofortigen Zugang zur Küste.",
     "timesTitle": "Fahrzeiten",
     "timesText1": "Die tatsächlichen Fahrzeiten übersteigen regelmäßig die Angaben auf Karten. Serpentinen in den Bergen, zerklüftete Küstenstraßen, ländliche Hindernisse (einschließlich Vieh) und Schnee auf den Bergstraßen im Winter tragen alle zu längeren Fahrten bei. Das landschaftliche Erlebnis an der Küste und auf dem Land rechtfertigt die verlängerte Reisezeit mehr als genug.",
     "timesText2": "Fahrten zwischen Küstenstädten dauern in der Regel zwischen dreißig Minuten und einer Stunde. Die Fahrt von Herceg-Novi nach Podgorica über die E65/E80 dauert ungefähr zwei Stunden.",
@@ -537,10 +537,10 @@
     "keyRulesTitle": "Wichtige Regeln",
     "keyRule1": "Sicherheitsgurte sind für alle Insassen Pflicht",
     "keyRule2": "Die Nutzung von Mobiltelefonen während der Fahrt ist verboten",
-    "keyRule3": "Jegliches Trinken und Fahren ist illegal — Null-Toleranz-Grenze",
+    "keyRule3": "Jegliches Trinken und Fahren ist illegal, Null-Toleranz-Grenze",
     "keyRule4": "Geschwindigkeitsbegrenzungen werden streng kontrolliert",
     "conditionsTitle": "Straßenverhältnisse",
-    "conditionsText": "Stadtstraßen sind in akzeptablem Zustand. Bergstraßen können anspruchsvoller sein, mit stellenweise minimalen Leitplanken. Einige Fahrer fahren aggressiv, daher ist im gesamten Land Vorsicht geboten — insbesondere auf Bergpässen und schmalen Küstenabschnitten.",
+    "conditionsText": "Stadtstraßen sind in akzeptablem Zustand. Bergstraßen können anspruchsvoller sein, mit stellenweise minimalen Leitplanken. Einige Fahrer fahren aggressiv, daher ist im gesamten Land Vorsicht geboten, insbesondere auf Bergpässen und schmalen Küstenabschnitten.",
     "routesTitle": "Hauptrouten",
     "e65Title": "E65/E80",
     "e65Text": "Die Hauptküstenroute verbindet Herceg-Novi mit Podgorica und führt durch Kotor, Perast, Tivat und Budva. Dies ist die beliebteste Fahrstrecke und bietet atemberaubende Ausblicke auf die Bucht von Kotor.",
@@ -557,7 +557,7 @@
     "greenCardTitle": "Was ist eine Grüne Karte?",
     "greenCardText": "Eine Grüne Karte ist ein internationales Kfz-Versicherungszertifikat, das nachweist, dass Ihr Fahrzeug in dem Land, in das Sie einreisen, versichert ist. Sie wird an jedem Grenzübergang auf dem Balkan verlangt.",
     "greenCard1": "Kosten: circa 15 Euro für 15 Tage",
-    "greenCard2": "Wo Sie sie erhalten: Ihre Mietwagenfirma kümmert sich darum — bestätigen Sie es einfach bei der Buchung",
+    "greenCard2": "Wo Sie sie erhalten: Ihre Mietwagenfirma kümmert sich darum, bestätigen Sie es einfach bei der Buchung",
     "greenCard3": "Abgedeckte Länder: Kroatien, Bosnien, Albanien, Kosovo, Serbien",
     "greenCardWarn": "Ohne Grüne Karte lassen die Grenzbeamten Sie nicht passieren. Überprüfen Sie immer vor der Abfahrt, dass die Karte alle Länder auf Ihrer geplanten Route abdeckt.",
     "docsTitle": "Dokumente, die Sie an der Grenze benötigen",
@@ -568,10 +568,10 @@
     "doc5": "Fahrzeugschein (wird mit dem Auto bereitgestellt)",
     "crossingsTitle": "Grenzübergänge ab Montenegro",
     "croatiaTitle": "Montenegro → Kroatien",
-    "croatiaText": "Der beliebteste Grenzübergang für Touristen. Der Hauptkontrollpunkt befindet sich bei Debeli Brijeg an der Küstenstraße (E65) zwischen Herceg Novi und Dubrovnik. Dieser Grenzübergang wird im Sommer extrem stark frequentiert — rechnen Sie in der Hochsaison (Juli–August) mit Wartezeiten von 1–2 Stunden.",
+    "croatiaText": "Der beliebteste Grenzübergang für Touristen. Der Hauptkontrollpunkt befindet sich bei Debeli Brijeg an der Küstenstraße (E65) zwischen Herceg Novi und Dubrovnik. Dieser Grenzübergang wird im Sommer extrem stark frequentiert, rechnen Sie in der Hochsaison (Juli, August) mit Wartezeiten von 1-2 Stunden.",
     "croatiaTip": "Beste Zeiten für die Grenzüberquerung: früh morgens (vor 8 Uhr) oder spät abends (nach 20 Uhr). Werktags morgens ist es deutlich ruhiger als an Wochenenden.",
-    "croatiaFerry": "Es gibt auch die Fährverbindung Kamenari–Lepetane als Abkürzung über die Bucht von Kotor, die das Umfahren der gesamten Bucht erspart — das spart etwa 45 Minuten.",
-    "croatiaFerryLinkPre": "Die meisten Besucher beginnen diese Route ab dem ",
+    "croatiaFerry": "Es gibt auch die Fährverbindung Kamenari, Lepetane als Abkürzung über die Bucht von Kotor, die das Umfahren der gesamten Bucht erspart, das spart etwa 45 Minuten.",
+    "croatiaFerryLinkPre": "Die meisten Besucher beginnen diese Route ab dem",
     "croatiaFerryLinkText": "Flughafen Dubrovnik",
     "croatiaFerryLinkPost": ".",
     "albaniaTitle": "Montenegro → Albanien",
@@ -582,13 +582,13 @@
     "serbiaTitle": "Montenegro → Serbien",
     "serbiaText": "Überqueren Sie die Grenze bei Dobrakovo (an der E65 nördlich von Bijelo Polje). Dieser Grenzübergang verbindet direkt mit dem serbischen Autobahnnetz Richtung Belgrad.",
     "kosovoTitle": "Montenegro → Kosovo",
-    "kosovoText": "Der Grenzübergang bei Kula (nahe Rožaje) verbindet mit Peja/Peć im Kosovo. Klären Sie mit Ihrer Mietwagenfirma, ob Kosovo in Ihrer Grünen Karte eingeschlossen ist — einige Policen schließen es aus.",
+    "kosovoText": "Der Grenzübergang bei Kula (nahe Rožaje) verbindet mit Peja/Peć im Kosovo. Klären Sie mit Ihrer Mietwagenfirma, ob Kosovo in Ihrer Grünen Karte eingeschlossen ist, einige Policen schließen es aus.",
     "tipsTitle": "Tipps für reibungslose Grenzüberquerungen",
-    "tip1": "Halten Sie alle Dokumente bereit, bevor Sie den Kontrollpunkt erreichen — suchen Sie nicht erst am Schalter danach",
+    "tip1": "Halten Sie alle Dokumente bereit, bevor Sie den Kontrollpunkt erreichen, suchen Sie nicht erst am Schalter danach",
     "tip2": "Schalten Sie den Motor aus, während Sie in der Schlange warten (die Grenzbeamten wissen das zu schätzen)",
-    "tip3": "Sommerwochenenden sind am schlimmsten — planen Sie wenn möglich eine Überquerung an Werktagen",
+    "tip3": "Sommerwochenenden sind am schlimmsten, planen Sie wenn möglich eine Überquerung an Werktagen",
     "tip4": "Der kroatische Küstenübergang (Debeli Brijeg) ist am stärksten frequentiert; Übergänge im Landesinneren sind ruhiger",
-    "tip5": "Halten Sie etwas Bargeld in Euro bereit — nützlich für Mautgebühren und kleinere Einkäufe auf der anderen Seite",
+    "tip5": "Halten Sie etwas Bargeld in Euro bereit, nützlich für Mautgebühren und kleinere Einkäufe auf der anderen Seite",
     "tip6": "Mobiles Datenroaming: Überprüfen Sie, ob Ihr Tarif das Land abdeckt, in das Sie einreisen",
     "lawsTitle": "Verkehrsregeln, die sich an Grenzen ändern",
     "lawsIntro": "Jedes Land hat leicht unterschiedliche Verkehrsgesetze. Wichtige Unterschiede, die Sie beachten sollten:",
@@ -599,13 +599,13 @@
     "law5": "Kosovo: Es wird auf der rechten Seite gefahren. Ein internationaler Führerschein wird empfohlen",
     "popularTitle": "Beliebte grenzüberschreitende Routen",
     "route1": "Tivat → Dubrovnik: 2 Stunden über die Küsten-E65. Atemberaubende Landschaft, ein Grenzübergang",
-    "route2": "Kotor → Mostar (Bosnien): 3–4 Stunden über Trebinje. Besuchen Sie die berühmte Brücke",
+    "route2": "Kotor → Mostar (Bosnien): 3-4 Stunden über Trebinje. Besuchen Sie die berühmte Brücke",
     "route3": "Budva → Shkodër (Albanien): 2,5 Stunden über den Küstenübergang bei Ulcinj",
-    "route4": "Podgorica → Belgrad (Serbien): 5–6 Stunden über die E65 Richtung Norden",
-    "ctaText": "Benötigen Sie ein Auto mit fertig vorbereiteten Grenzübergangs-Dokumenten? Durchsuchen Sie unsere Flotte — wählen Sie einfach bei der Buchung Ihre Zielländer aus und wir kümmern uns um die Grüne Karte."
+    "route4": "Podgorica → Belgrad (Serbien): 5-6 Stunden über die E65 Richtung Norden",
+    "ctaText": "Benötigen Sie ein Auto mit fertig vorbereiteten Grenzübergangs-Dokumenten? Durchsuchen Sie unsere Flotte, wählen Sie einfach bei der Buchung Ihre Zielländer aus und wir kümmern uns um die Grüne Karte."
   },
   "lakeSkadarBody": {
-    "cetinjeLinkPre": "Kombinieren Sie es mit einem Besuch der ",
+    "cetinjeLinkPre": "Kombinieren Sie es mit einem Besuch der",
     "cetinjeLinkText": "historischen Königshauptstadt Cetinje",
     "cetinjeLinkPost": ", nur 30 Minuten entfernt.",
     "h1": "Der größte See des Balkans, 30 Minuten von Ihrem Hotel",
@@ -992,86 +992,86 @@
   },
   "lake-skadar": {
     "title": "Von Podgorica zum Skadarsee",
-    "subtitle": "391 km² Feuchtgebiet — Pelikane, Weindörfer und versteckte Strände, nur 30 Minuten südlich.",
-    "seoDesc": "30 Min. ab TGD: 391 km² Feuchtgebiet, Krauskopfpelikane, 270 Vogelarten, Crmnica-Weinregion und Bootstouren ab Virpazar. Ein Mietwagen erschließt die ruhigeren Buchten des Sees."
+    "subtitle": "391 km² Feuchtgebiet, Pelikane, Weindörfer und versteckte Strände, nur 30 Minuten südlich.",
+    "seoDesc": "30 Min. ab TGD: 391 km² Feuchtgebiet, Krauskopfpelikane, 270 Vogelarten, Crmnica-Weinregion und Bootstouren ab Virpazar. Ein Mietwagen erschließt die"
   },
   "cetinje": {
     "title": "Von Podgorica nach Cetinje",
-    "subtitle": "Montenegros einstige Königshauptstadt auf 670 m Höhe — 35 Minuten in die Wolken.",
-    "seoDesc": "35-minütige Bergfahrt von Podgorica nach Cetinje, Montenegros Hauptstadt von 1878 bis 1918. Cetinje-Kloster, König-Nikola-Palast, dann Njegoš-Mausoleum auf dem Lovćen."
+    "subtitle": "Montenegros einstige Königshauptstadt auf 670 m Höhe, 35 Minuten in die Wolken.",
+    "seoDesc": "35-minütige Bergfahrt von Podgorica nach Cetinje, Montenegros Hauptstadt von 1878 bis 1918. Cetinje-Kloster, König-Nikola-Palast, dann Njegoš-Mausoleum"
   },
   "durmitor": {
     "title": "Von Podgorica zum Durmitor",
-    "subtitle": "UNESCO-Gipfel, Gletscherseen und die zweittiefste Schlucht der Welt — 2,5 Stunden nach Norden.",
-    "seoDesc": "2,5 Std. ab TGD durch die Morača-Schlucht zu Durmitors 2.522-m-Gipfeln. Schwarzer See, Tara-Schlucht (1.300 m tief) und Žabljak auf 1.456 m. SUVs und Schneeketten verfügbar."
+    "subtitle": "UNESCO-Gipfel, Gletscherseen und die zweittiefste Schlucht der Welt, 2,5 Stunden nach Norden.",
+    "seoDesc": "2,5 Std. ab TGD durch die Morača-Schlucht zu Durmitors 2.522-m-Gipfeln. Schwarzer See, Tara-Schlucht (1.300 m tief) und Žabljak auf 1.456 m. SUVs und"
   },
   "ostrog-monastery": {
     "title": "Von Podgorica zum Kloster Ostrog",
-    "subtitle": "Ein Kloster aus dem 17. Jahrhundert, in eine 900-m-Felswand gehauen — 2 Millionen Besucher jährlich irren nicht.",
-    "seoDesc": "45 Min. von Podgorica zu einem in den Felsen eingebetteten Kloster auf 900 m Höhe. Ostrog zieht jährlich 2 Mio. Pilger an — bei Morgengrauen ankommen, Menschenmassen umgehen."
+    "subtitle": "Ein Kloster aus dem 17. Jahrhundert, in eine 900-m-Felswand gehauen, 2 Millionen Besucher jährlich irren nicht.",
+    "seoDesc": "45 Min. von Podgorica zu einem in den Felsen eingebetteten Kloster auf 900 m Höhe. Ostrog zieht jährlich 2 Mio. Pilger an, bei Morgengrauen ankommen"
   },
   "niksic": {
     "title": "Von Podgorica nach Nikšić",
-    "subtitle": "Bier, Festungsruinen und der letzte Tankstopp vor dem Durmitor — 1 Stunde ab Podgorica.",
-    "seoDesc": "Eine Stunde Fahrt zu Montenegros zweitgrößter Stadt und Brauereihauptstadt. Trebjesa besichtigen, tanken, dann weiter nach Norden zu Durmitors Gipfeln. Nikšić als kluge Zwischenübernachtung."
+    "subtitle": "Bier, Festungsruinen und der letzte Tankstopp vor dem Durmitor, 1 Stunde ab Podgorica.",
+    "seoDesc": "Eine Stunde Fahrt zu Montenegros zweitgrößter Stadt und Brauereihauptstadt. Trebjesa besichtigen, tanken, dann weiter nach Norden zu Durmitors Gipfeln"
   },
   "cetinjeBody": {
-    "h1": "Cetinje — Wo ein Königreich auf 670 Metern lebte",
-    "p1": "Cetinje ist eine der unwahrscheinlichsten ehemaligen Hauptstädte Europas. Auf 670 Metern Höhe in einem von Bergen umgebenen Kalksteintal gelegen, diente diese Kleinstadt mit 15.000 Einwohnern von 1878 bis 1918 als Hauptstadt Montenegros — Sitz eines Königreichs, das von allen Großmächten anerkannt wurde und Botschaften aus Russland, Großbritannien, Frankreich, Österreich-Ungarn und dem Osmanischen Reich unterhielt. Die Botschaften stehen noch heute entlang der breiten Boulevards, umgewandelt in Museen und Musikschulen, und verleihen der Stadt eine verblasste Pracht, die kein anderer Ort in Montenegro bieten kann.",
-    "p2": "Die Fahrt von Podgorica dauert 35 Minuten und führt stetig bergauf von der 44-Meter-Flussebene der Hauptstadt in die Berge. Die Straße ist modern und gut ausgebaut. Alternativ ist Cetinje über die legendäre 25-Kehren-Straße von Kotor erreichbar — eine der spektakulärsten Bergstraßen Europas, in die Kalksteinflanke des Lovćen gehauen.",
+    "h1": "Cetinje, Wo ein Königreich auf 670 Metern lebte",
+    "p1": "Cetinje ist eine der unwahrscheinlichsten ehemaligen Hauptstädte Europas. Auf 670 Metern Höhe in einem von Bergen umgebenen Kalksteintal gelegen, diente diese Kleinstadt mit 15.000 Einwohnern von 1878 bis 1918 als Hauptstadt Montenegros, Sitz eines Königreichs, das von allen Großmächten anerkannt wurde und Botschaften aus Russland, Großbritannien, Frankreich, Österreich-Ungarn und dem Osmanischen Reich unterhielt. Die Botschaften stehen noch heute entlang der breiten Boulevards, umgewandelt in Museen und Musikschulen, und verleihen der Stadt eine verblasste Pracht, die kein anderer Ort in Montenegro bieten kann.",
+    "p2": "Die Fahrt von Podgorica dauert 35 Minuten und führt stetig bergauf von der 44-Meter-Flussebene der Hauptstadt in die Berge. Die Straße ist modern und gut ausgebaut. Alternativ ist Cetinje über die legendäre 25-Kehren-Straße von Kotor erreichbar, eine der spektakulärsten Bergstraßen Europas, in die Kalksteinflanke des Lovćen gehauen.",
     "monasteryTitle": "Kloster Cetinje",
-    "monasteryText": "Das 1484 von Ivan Crnojević gegründete und 1786 nach osmanischer Zerstörung wiederaufgebaute Kloster ist das geistliche Herz der montenegrinischen Orthodoxie. Es beherbergt mehrere außergewöhnliche Reliquien: die angebliche Hand Johannes des Täufers, ein Fragment des Wahren Kreuzes und die Krone König Stefan Dečanskis. Das Kloster ist noch aktiv — Mönche leben und beten hier — und Besucher sind während der Öffnungszeiten willkommen. Angemessene Kleidung: Schultern und Knie bedeckt.",
+    "monasteryText": "Das 1484 von Ivan Crnojević gegründete und 1786 nach osmanischer Zerstörung wiederaufgebaute Kloster ist das geistliche Herz der montenegrinischen Orthodoxie. Es beherbergt mehrere außergewöhnliche Reliquien: die angebliche Hand Johannes des Täufers, ein Fragment des Wahren Kreuzes und die Krone König Stefan Dečanskis. Das Kloster ist noch aktiv, Mönche leben und beten hier, und Besucher sind während der Öffnungszeiten willkommen. Angemessene Kleidung: Schultern und Knie bedeckt.",
     "museumsTitle": "Das königliche Cetinje",
     "kingPalaceTitle": "König-Nikola-Palast",
-    "kingPalaceText": "Der 1871 als Residenz des einzigen Königs von Montenegro erbaute Palast ist heute ein Museum mit Originalmöbeln, königlichen Porträts, militärischen Auszeichnungen und Geschenken ausländischer Staatsoberhäupter. Das Billardzimmer ist ein Höhepunkt — eine Erinnerung daran, dass selbst in einem Bergkönigreich die Aristokratie europäischen Moden folgte.",
+    "kingPalaceText": "Der 1871 als Residenz des einzigen Königs von Montenegro erbaute Palast ist heute ein Museum mit Originalmöbeln, königlichen Porträts, militärischen Auszeichnungen und Geschenken ausländischer Staatsoberhäupter. Das Billardzimmer ist ein Höhepunkt, eine Erinnerung daran, dass selbst in einem Bergkönigreich die Aristokratie europäischen Moden folgte.",
     "nationalMuseumTitle": "Nationalmuseum von Montenegro",
     "nationalMuseumText": "Im ehemaligen Parlamentsgebäude untergebracht, umfasst das Museum die montenegrinische Geschichte vom mittelalterlichen Staat Zeta über die osmanische Besetzung, die Königszeit, den jugoslawischen Sozialismus bis zur Unabhängigkeitsabstimmung 2006. Der Kunstgalerieflügel beherbergt eine bedeutende Ikonensammlung, darunter die angeblich wundertätige Muttergottes von Philermos, die von den Johannitern aus Rhodos gebracht wurde.",
     "lovcenTitle": "Lovćen und das Njegoš-Mausoleum",
-    "lovcenText": "Von Cetinje aus führt eine 30-minütige Fahrt durch dichten Buchen- und Kiefernwald zum Gipfelbereich des Lovćen. Auf 1.657 Metern krönt das Njegoš-Mausoleum den Gipfel — ein Granit- und Marmordenkmal für Petar II. Petrović-Njegoš, Montenegros größten Dichter und Herrscher. Erklimmen Sie 461 Stufen vom Parkplatz zum Eingang. An klaren Tagen reicht das Panorama von den adriatischen Inseln über die albanischen Alpen bis zum Durmitor-Massiv. Auf dem Rückweg halten Sie im Dorf Njeguši für den berühmten Räucherschinken (Pršut) und Käse — hergestellt von Schafen, die auf diesen Bergwiesen grasen."
+    "lovcenText": "Von Cetinje aus führt eine 30-minütige Fahrt durch dichten Buchen- und Kiefernwald zum Gipfelbereich des Lovćen. Auf 1.657 Metern krönt das Njegoš-Mausoleum den Gipfel, ein Granit- und Marmordenkmal für Petar II. Petrović-Njegoš, Montenegros größten Dichter und Herrscher. Erklimmen Sie 461 Stufen vom Parkplatz zum Eingang. An klaren Tagen reicht das Panorama von den adriatischen Inseln über die albanischen Alpen bis zum Durmitor-Massiv. Auf dem Rückweg halten Sie im Dorf Njeguši für den berühmten Räucherschinken (Pršut) und Käse, hergestellt von Schafen, die auf diesen Bergwiesen grasen."
   },
   "durmitorBody": {
-    "h1": "Durmitor — Wo Montenegro in die Vertikale geht",
-    "p1": "Der Nationalpark Durmitor ist UNESCO-Welterbe und umfasst 390 km² unberührte Bergwildnis in Nordmontenegro. Der Park enthält 48 Gipfel über 2.000 Meter — der höchste ist der Bobotov Kuk mit 2.522 m — dazu 18 Gletscherseen, uralte Kiefernwälder und die Tara-Schlucht, die tiefste Schlucht Europas und die zweittiefste der Welt mit 1.300 Metern. Das ist das Highlight. Dafür haben Sie in Podgorica ein Auto gemietet.",
-    "p2": "Die Torstadt Žabljak liegt auf 1.456 Metern und ist damit eine der höchstgelegenen Siedlungen auf dem Balkan. Im Winter fallen die Temperaturen auf -20°C und Schnee bedeckt alles. Im Sommer erstrecken sich Wildblumenwiesen bis zur Baumgrenze und die Gletscherseen leuchten türkis vor dunklem Kieferngrün. Der Höhenunterschied von Podgorica (44 m) zu den Durmitor-Gipfeln (2.522 m) wird in nur 2,5 Stunden Fahrt überwunden — ein vertikaler Anstieg, der die Welt vor Ihrem Fenster komplett verändert.",
+    "h1": "Durmitor, Wo Montenegro in die Vertikale geht",
+    "p1": "Der Nationalpark Durmitor ist UNESCO-Welterbe und umfasst 390 km² unberührte Bergwildnis in Nordmontenegro. Der Park enthält 48 Gipfel über 2.000 Meter, der höchste ist der Bobotov Kuk mit 2.522 m, dazu 18 Gletscherseen, uralte Kiefernwälder und die Tara-Schlucht, die tiefste Schlucht Europas und die zweittiefste der Welt mit 1.300 Metern. Das ist das Highlight. Dafür haben Sie in Podgorica ein Auto gemietet.",
+    "p2": "Die Torstadt Žabljak liegt auf 1.456 Metern und ist damit eine der höchstgelegenen Siedlungen auf dem Balkan. Im Winter fallen die Temperaturen auf -20°C und Schnee bedeckt alles. Im Sommer erstrecken sich Wildblumenwiesen bis zur Baumgrenze und die Gletscherseen leuchten türkis vor dunklem Kieferngrün. Der Höhenunterschied von Podgorica (44 m) zu den Durmitor-Gipfeln (2.522 m) wird in nur 2,5 Stunden Fahrt überwunden, ein vertikaler Anstieg, der die Welt vor Ihrem Fenster komplett verändert.",
     "activitiesTitle": "Aktivitäten",
     "hikingTitle": "Wandern",
-    "hikingText": "Die 3,5-km-Runde um den Schwarzen See (Crno Jezero) ist die Einstiegswanderung — flach, bewaldet und atemberaubend schön. Für Anspruchsvollere dauert die Ganztagesbesteigung des Bobotov Kuk (2.522 m) 8-10 Stunden hin und zurück und erfordert Bergerfahrung, feste Schuhe und einen frühen Start. Dazwischen führen Dutzende markierter Wege über Almwiesen, Gletschermoränen und Gratlinien mit Blick bis nach Albanien.",
+    "hikingText": "Die 3,5-km-Runde um den Schwarzen See (Crno Jezero) ist die Einstiegswanderung, flach, bewaldet und atemberaubend schön. Für Anspruchsvollere dauert die Ganztagesbesteigung des Bobotov Kuk (2.522 m) 8-10 Stunden hin und zurück und erfordert Bergerfahrung, feste Schuhe und einen frühen Start. Dazwischen führen Dutzende markierter Wege über Almwiesen, Gletschermoränen und Gratlinien mit Blick bis nach Albanien.",
     "raftingTitle": "Rafting auf der Tara",
-    "raftingText": "Das Tara-Canyon-Rafting ist Montenegros Signature-Abenteuer. Die Standardstrecke von 18 km führt durch den tiefsten Abschnitt der Schlucht — mit Wildwasser Grad III-IV, 1.300 m hohen Felswänden, Wasserfällen aus Seitentälern und der ikonischen Đurđevica-Tara-Brücke, die 150 m über dem Fluss thront. Touren laufen von Mai bis Oktober, dauern fast den ganzen Tag und beinhalten ein Mittagessen an einer Kiesbank am Fluss.",
+    "raftingText": "Das Tara-Canyon-Rafting ist Montenegros Signature-Abenteuer. Die Standardstrecke von 18 km führt durch den tiefsten Abschnitt der Schlucht, mit Wildwasser Grad III-IV, 1.300 m hohen Felswänden, Wasserfällen aus Seitentälern und der ikonischen Đurđevica-Tara-Brücke, die 150 m über dem Fluss thront. Touren laufen von Mai bis Oktober, dauern fast den ganzen Tag und beinhalten ein Mittagessen an einer Kiesbank am Fluss.",
     "winterTitle": "Wintersport",
-    "winterText": "Von Dezember bis März wird Žabljak zum Skiort. Die Pisten am Savin Kuk (2.313 m) und Javorovača bieten leere Abfahrten, günstige Skipässe und zuverlässige Schneedecke. Das Gebiet ist klein und unkommerziell — kein Glamour, einfach gutes Skifahren mit außergewöhnlicher Aussicht. Langlaufloipen und Schneeschuhrouten führen in den Park für alle, die Stille dem Sessellift vorziehen.",
+    "winterText": "Von Dezember bis März wird Žabljak zum Skiort. Die Pisten am Savin Kuk (2.313 m) und Javorovača bieten leere Abfahrten, günstige Skipässe und zuverlässige Schneedecke. Das Gebiet ist klein und unkommerziell, kein Glamour, einfach gutes Skifahren mit außergewöhnlicher Aussicht. Langlaufloipen und Schneeschuhrouten führen in den Park für alle, die Stille dem Sessellift vorziehen.",
     "blackLakeTitle": "Schwarzer See",
-    "blackLakeText": "Der meistbesuchte Ort im Park — ein Gletschersee in einem natürlichen Amphitheater aus Kiefernwald und Bergwänden, 15 Gehminuten vom Zentrum Žabljaks entfernt. Das Wasser ist dunkelgrün und spiegelglatt an ruhigen Morgen, den Međed-Gipfel darüber reflektierend. Der 3,5-km-Uferrundweg ist flach und familienfreundlich. Im Sommer ist Schwimmen für Mutige möglich — die Wassertemperatur steigt selbst im August selten über 18°C.",
+    "blackLakeText": "Der meistbesuchte Ort im Park, ein Gletschersee in einem natürlichen Amphitheater aus Kiefernwald und Bergwänden, 15 Gehminuten vom Zentrum Žabljaks entfernt. Das Wasser ist dunkelgrün und spiegelglatt an ruhigen Morgen, den Međed-Gipfel darüber reflektierend. Der 3,5-km-Uferrundweg ist flach und familienfreundlich. Im Sommer ist Schwimmen für Mutige möglich, die Wassertemperatur steigt selbst im August selten über 18°C.",
     "drivingTitle": "Die Fahrt von Podgorica",
-    "drivingText": "Planen Sie 2,5 Stunden über die E65 nach Norden ein. Die Straße folgt der Morača und tritt dann in die Morača-Schlucht ein — ein atemberaubender Abschnitt, in dem die Straße in Felswände über einer tiefen Schlucht gehauen ist. Halten Sie etwa auf halber Strecke am Kloster Morača (13. Jh., noch aktiv). Nach Kolašin steigt die Straße über ein Hochplateau nach Žabljak. Im Winter sind Schneeketten oder Winterreifen Pflicht — die Pässe über 1.000 m können tückisch sein. Prüfen Sie die Bedingungen vor der Abfahrt zwischen November und April."
+    "drivingText": "Planen Sie 2,5 Stunden über die E65 nach Norden ein. Die Straße folgt der Morača und tritt dann in die Morača-Schlucht ein, ein atemberaubender Abschnitt, in dem die Straße in Felswände über einer tiefen Schlucht gehauen ist. Halten Sie etwa auf halber Strecke am Kloster Morača (13. Jh., noch aktiv). Nach Kolašin steigt die Straße über ein Hochplateau nach Žabljak. Im Winter sind Schneeketten oder Winterreifen Pflicht, die Pässe über 1.000 m können tückisch sein. Prüfen Sie die Bedingungen vor der Abfahrt zwischen November und April."
   },
   "ostrogBody": {
-    "h1": "Ostrog — Ein Kloster im Himmel",
-    "p1": "Ostrog ist ein Ort, der einen an der Baukunst zweifeln lässt. Das Oberkloster sitzt nicht nur auf einer Klippe — es befindet sich in der Klippe, eingebettet in zwei natürliche Höhlen auf 900 Metern Höhe mit einer senkrechten Felswand darunter. Von weitem sieht es aus wie eine weiße Fata Morgana auf grauem Stein. Aus der Nähe ist es eines der erstaunlichsten sakralen Bauwerke der Welt.",
-    "p2": "Das Kloster empfängt jährlich rund 2 Millionen Besucher — orthodoxe Pilger, katholische Touristen, muslimische Reisende und Rucksacktouristen, die in einem Hostel davon gehört haben. Es ist Montenegros meistbesuchte Sehenswürdigkeit jeder Art. Die Fahrt von Podgorica dauert etwa 45 Minuten, und die letzte Etappe über eine enge Serpentinenstraße ist schon ein Abenteuer für sich.",
+    "h1": "Ostrog, Ein Kloster im Himmel",
+    "p1": "Ostrog ist ein Ort, der einen an der Baukunst zweifeln lässt. Das Oberkloster sitzt nicht nur auf einer Klippe, es befindet sich in der Klippe, eingebettet in zwei natürliche Höhlen auf 900 Metern Höhe mit einer senkrechten Felswand darunter. Von weitem sieht es aus wie eine weiße Fata Morgana auf grauem Stein. Aus der Nähe ist es eines der erstaunlichsten sakralen Bauwerke der Welt.",
+    "p2": "Das Kloster empfängt jährlich rund 2 Millionen Besucher, orthodoxe Pilger, katholische Touristen, muslimische Reisende und Rucksacktouristen, die in einem Hostel davon gehört haben. Es ist Montenegros meistbesuchte Sehenswürdigkeit jeder Art. Die Fahrt von Podgorica dauert etwa 45 Minuten, und die letzte Etappe über eine enge Serpentinenstraße ist schon ein Abenteuer für sich.",
     "upperTitle": "Das Oberkloster",
-    "upperText": "Im 17. Jahrhundert vom Heiligen Basilius von Ostrog (Sveti Vasilije Ostroski) erbaut, ist das Oberkloster in zwei Höhlen hoch in der Felswand gehauen. Die Kirche der Darstellung des Herrn beherbergt Fresken aus dem 17. Jahrhundert, direkt auf den Höhlenfels gemalt. Die Kirche des Heiligen Kreuzes enthält die Reliquien des Heiligen Basilius — sein Leichnam ruht in einem silbernen Reliquienschrein und ist ein Wallfahrtsort für Gläubige. Der Zugang erfolgt über eine steile, kurvenreiche Straße — im Sommer füllt sich der obere Parkplatz früh und man muss eventuell den letzten Kilometer vom unteren Parkplatz zu Fuß gehen. Der Spaziergang lohnt sich: Die Aussicht über das Tal ist außergewöhnlich.",
+    "upperText": "Im 17. Jahrhundert vom Heiligen Basilius von Ostrog (Sveti Vasilije Ostroski) erbaut, ist das Oberkloster in zwei Höhlen hoch in der Felswand gehauen. Die Kirche der Darstellung des Herrn beherbergt Fresken aus dem 17. Jahrhundert, direkt auf den Höhlenfels gemalt. Die Kirche des Heiligen Kreuzes enthält die Reliquien des Heiligen Basilius, sein Leichnam ruht in einem silbernen Reliquienschrein und ist ein Wallfahrtsort für Gläubige. Der Zugang erfolgt über eine steile, kurvenreiche Straße, im Sommer füllt sich der obere Parkplatz früh und man muss eventuell den letzten Kilometer vom unteren Parkplatz zu Fuß gehen. Der Spaziergang lohnt sich: Die Aussicht über das Tal ist außergewöhnlich.",
     "lowerTitle": "Das Unterkloster",
-    "lowerText": "Am Fuß der Klippe bietet das Unterkloster eine Kirche, Pilgerunterkünfte, eine Quelle mit angeblich heilenden Eigenschaften und einen Geschenkladen mit Ikonen und Kerzen. Viele Besucher gehen den Weg zwischen Unter- und Oberkloster als Pilgerweg — der steile Pfad dauert etwa 20 Minuten und führt durch Wald und offene Felsabschnitte.",
+    "lowerText": "Am Fuß der Klippe bietet das Unterkloster eine Kirche, Pilgerunterkünfte, eine Quelle mit angeblich heilenden Eigenschaften und einen Geschenkladen mit Ikonen und Kerzen. Viele Besucher gehen den Weg zwischen Unter- und Oberkloster als Pilgerweg, der steile Pfad dauert etwa 20 Minuten und führt durch Wald und offene Felsabschnitte.",
     "practicalTitle": "Besuchertipps",
-    "practicalText": "Der Eintritt ist frei. Angemessene Kleidung ist streng erforderlich — Schultern und Knie bei Männern und Frauen bedeckt. Fotografieren ist in den Kirchen eingeschränkt. Am Wochenende und an religiösen Feiertagen ist es am vollsten. Ankunft vor 9 Uhr oder nach 16 Uhr an Wochentagen bietet die besten Chancen auf einen besinnlichen Besuch. Es gibt ein kleines Café am Unterkloster, aber kein Restaurant — nehmen Sie Wasser und Snacks mit.",
+    "practicalText": "Der Eintritt ist frei. Angemessene Kleidung ist streng erforderlich, Schultern und Knie bei Männern und Frauen bedeckt. Fotografieren ist in den Kirchen eingeschränkt. Am Wochenende und an religiösen Feiertagen ist es am vollsten. Ankunft vor 9 Uhr oder nach 16 Uhr an Wochentagen bietet die besten Chancen auf einen besinnlichen Besuch. Es gibt ein kleines Café am Unterkloster, aber kein Restaurant, nehmen Sie Wasser und Snacks mit.",
     "drivingTitle": "Die Fahrt von Podgorica",
-    "drivingText": "Nehmen Sie die E762 Richtung Nordwesten nach Nikšić für etwa 30 Minuten, dann folgen Sie der ausgeschilderten Abzweigung nach Ostrog. Die letzten 15 Minuten führen über eine enge Bergstraße mit Serpentinen und begrenzten Ausweichstellen. Fahren Sie selbstsicher, aber vorsichtig — Sie teilen die Straße mit Reisebussen und Pilgerfahrzeugen. Bei nassem Wetter kann die Fahrbahn rutschig sein. Die Belohnung oben ist jede Haarnadelkurve wert."
+    "drivingText": "Nehmen Sie die E762 Richtung Nordwesten nach Nikšić für etwa 30 Minuten, dann folgen Sie der ausgeschilderten Abzweigung nach Ostrog. Die letzten 15 Minuten führen über eine enge Bergstraße mit Serpentinen und begrenzten Ausweichstellen. Fahren Sie selbstsicher, aber vorsichtig, Sie teilen die Straße mit Reisebussen und Pilgerfahrzeugen. Bei nassem Wetter kann die Fahrbahn rutschig sein. Die Belohnung oben ist jede Haarnadelkurve wert."
   },
   "niksicBody": {
-    "h1": "Nikšić — Bier, Festung und der letzte Stopp vor der Wildnis",
-    "p1": "Nikšić ist Montenegros zweitgrößte Stadt — 56.000 Einwohner auf einer weiten Hochebene auf 630 Metern Höhe, etwa eine Autostunde von Podgorica entfernt. Es ist die Art von Stadt, die Touristen auf dem Weg zum Durmitor durchfahren, was ein Fehler ist. Halten Sie an. Tanken Sie, besichtigen Sie die Brauerei, steigen Sie zur Hügelfestung hinauf und essen Sie in einem der lokalen Grillrestaurants, bevor die Straße nach Norden die Zivilisation hinter sich lässt.",
-    "p2": "Die Stadt hat eine andere Atmosphäre als die Küste — weniger Glamour, mehr Charakter. Nikšić ist eine Industriestadt mit stolzer Identität, auf dem Balkan vor allem als Heimat des Nikšičko-Biers bekannt. Die Umgebung besteht aus offener Hochebene, entfernten Gebirgskämmen und Schaffarmen — ein Vorgeschmack auf den weiten, dünn besiedelten Norden.",
+    "h1": "Nikšić, Bier, Festung und der letzte Stopp vor der Wildnis",
+    "p1": "Nikšić ist Montenegros zweitgrößte Stadt, 56.000 Einwohner auf einer weiten Hochebene auf 630 Metern Höhe, etwa eine Autostunde von Podgorica entfernt. Es ist die Art von Stadt, die Touristen auf dem Weg zum Durmitor durchfahren, was ein Fehler ist. Halten Sie an. Tanken Sie, besichtigen Sie die Brauerei, steigen Sie zur Hügelfestung hinauf und essen Sie in einem der lokalen Grillrestaurants, bevor die Straße nach Norden die Zivilisation hinter sich lässt.",
+    "p2": "Die Stadt hat eine andere Atmosphäre als die Küste, weniger Glamour, mehr Charakter. Nikšić ist eine Industriestadt mit stolzer Identität, auf dem Balkan vor allem als Heimat des Nikšičko-Biers bekannt. Die Umgebung besteht aus offener Hochebene, entfernten Gebirgskämmen und Schaffarmen, ein Vorgeschmack auf den weiten, dünn besiedelten Norden.",
     "breweryTitle": "Brauerei Trebjesa",
-    "breweryText": "Nikšičko wird hier seit 1896 an den Hängen des Trebjesa-Hügels gebraut. Die Brauerei bietet Führungen und Verkostungen an — ein kühles Nikšičko Tamno (das dunkle Lager) nach einer Stunde Bergfahrt ist einer der einfachen Genüsse des Lebens. Die Brauereiterrasse bietet Blick über die Stadt und die Nikšić-Ebene bis zu den Bergen.",
+    "breweryText": "Nikšičko wird hier seit 1896 an den Hängen des Trebjesa-Hügels gebraut. Die Brauerei bietet Führungen und Verkostungen an, ein kühles Nikšičko Tamno (das dunkle Lager) nach einer Stunde Bergfahrt ist einer der einfachen Genüsse des Lebens. Die Brauereiterrasse bietet Blick über die Stadt und die Nikšić-Ebene bis zu den Bergen.",
     "lakeTitle": "Krupac-See",
-    "lakeText": "Ein Stausee am nördlichen Stadtrand, umgeben von Spazierwegen, Picknickplätzen und einem kleinen Strand. Im Sommer schwimmen, angeln und grillen Einheimische am Ufer. Das Wasser ist klar und die Bergkulisse dramatisch — ein überraschend angenehmer Ort für eine Stadt, die in keinem Reiseführer vorkommt.",
+    "lakeText": "Ein Stausee am nördlichen Stadtrand, umgeben von Spazierwegen, Picknickplätzen und einem kleinen Strand. Im Sommer schwimmen, angeln und grillen Einheimische am Ufer. Das Wasser ist klar und die Bergkulisse dramatisch, ein überraschend angenehmer Ort für eine Stadt, die in keinem Reiseführer vorkommt.",
     "fortressTitle": "Festung Bedem",
-    "fortressText": "Die alte Hügelfestung überblickt die gesamte Nikšić-Ebene von einem felsigen Vorsprung. Ursprünglich römisch, von den Osmanen umgebaut und heute Sommerveranstaltungsort für Konzerte und kulturelle Events. Der Aufstieg dauert etwa 15 Minuten und das 360-Grad-Panorama von den Mauern ist die beste Aussicht der Region — landwirtschaftliche Ebenen im Vordergrund, Gebirgskämme, die sich in jede Richtung zum Horizont staffeln.",
+    "fortressText": "Die alte Hügelfestung überblickt die gesamte Nikšić-Ebene von einem felsigen Vorsprung. Ursprünglich römisch, von den Osmanen umgebaut und heute Sommerveranstaltungsort für Konzerte und kulturelle Events. Der Aufstieg dauert etwa 15 Minuten und das 360-Grad-Panorama von den Mauern ist die beste Aussicht der Region, landwirtschaftliche Ebenen im Vordergrund, Gebirgskämme, die sich in jede Richtung zum Horizont staffeln.",
     "gatewayTitle": "Tor zum Durmitor",
-    "gatewayText": "Nikšić ist der natürliche Ausgangspunkt für den Nationalpark Durmitor. Von hier führt die Straße nach Norden in zunehmend wilde Landschaft — Ackerland weicht Wald, die Berge rücken näher, und wenn Sie Šavnik erreichen, ist die Landschaft reine Hochgebirgswildnis. Tanken Sie in Nikšić. Die nächste zuverlässige Tankstelle ist in Žabljak, über eine Stunde Bergfahrt entfernt.",
+    "gatewayText": "Nikšić ist der natürliche Ausgangspunkt für den Nationalpark Durmitor. Von hier führt die Straße nach Norden in zunehmend wilde Landschaft, Ackerland weicht Wald, die Berge rücken näher, und wenn Sie Šavnik erreichen, ist die Landschaft reine Hochgebirgswildnis. Tanken Sie in Nikšić. Die nächste zuverlässige Tankstelle ist in Žabljak, über eine Stunde Bergfahrt entfernt.",
     "drivingTitle": "Die Fahrt von Podgorica",
-    "drivingText": "Die Fahrt dauert etwa 1 Stunde über die E762. Die Straße ist größtenteils gut ausgebaute Schnellstraße und steigt allmählich von Podgoricas Flussebene durch Ackerland und lichten Wald an. Achten Sie auf die Abzweigung zum Kloster Ostrog etwa 30 Minuten nach Abfahrt — Sie können beide Ziele an einem Tagesausflug kombinieren."
+    "drivingText": "Die Fahrt dauert etwa 1 Stunde über die E762. Die Straße ist größtenteils gut ausgebaute Schnellstraße und steigt allmählich von Podgoricas Flussebene durch Ackerland und lichten Wald an. Achten Sie auf die Abzweigung zum Kloster Ostrog etwa 30 Minuten nach Abfahrt, Sie können beide Ziele an einem Tagesausflug kombinieren."
   },
   "contentPage": {
     "youMightAlsoLike": "Das könnte Sie auch interessieren",
@@ -1097,7 +1097,7 @@
   },
   "contact": {
     "title": "Kontaktieren Sie uns",
-    "seoDesc": "Ankunft am TGD oder im Inland? Email, WhatsApp oder das Formular unten bringen Ihnen schnelle Angebote und Flughafenübergabeslots, typisch innerhalb von zwei Stunden.",
+    "seoDesc": "Ankunft am TGD oder im Inland? Email, WhatsApp oder das Formular unten bringen Ihnen schnelle Angebote und Flughafenübergabeslots, typisch innerhalb von",
     "heading": "Kontaktieren Sie uns",
     "intro": "Haben Sie eine Frage zur Automiete in Podgorica? Kontaktieren Sie uns, und wir helfen Ihnen, das passende Fahrzeug für Ihre Reise zu finden."
   }

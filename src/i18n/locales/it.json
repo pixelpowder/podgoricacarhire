@@ -59,7 +59,7 @@
   "fleet": {
     "label": "La Nostra Flotta",
     "title": "Scegli la Tua Auto",
-    "subtitle": "Consulta disponibilità e prezzi in tempo reale — prenota direttamente."
+    "subtitle": "Consulta disponibilità e prezzi in tempo reale, prenota direttamente."
   },
   "brands": {
     "label": "Marchi affidabili nella nostra flotta"
@@ -67,7 +67,7 @@
   "destinations": {
     "label": "Destinazioni Principali",
     "title": "Esplora da Podgorica",
-    "subtitle": "Dal Lago di Scutari al Durmitor e alla costa — ogni viaggio parte da qui."
+    "subtitle": "Dal Lago di Scutari al Durmitor e alla costa, ogni viaggio parte da qui."
   },
   "features": {
     "label": "Perché Sceglierci",
@@ -101,7 +101,7 @@
   "book": {
     "title": "Trova la Tua Auto",
     "seoTitle": "Prenota un'Auto",
-    "seoDesc": "Prenota un'auto a noleggio a Podgorica in pochi secondi. Consegna aeroporto TGD a 11 km dal centro, conferma istantanea e cancellazione gratuita sulla maggior parte delle tariffe giornaliere."
+    "seoDesc": "Prenota un'auto a noleggio a Podgorica in pochi secondi. Consegna aeroporto TGD a 11 km dal centro, conferma istantanea e cancellazione gratuita sulla"
   },
   "footer": {
     "brandDesc": "Noleggi a Podgorica per gli arrivi Ryanair e Wizz Air presso TGD. Esperti di strade di montagna interna, passo Durmitor fluente, e tariffe di consegna aeroporto piatte con assicurazione completa.",
@@ -126,17 +126,17 @@
   "notFound": {
     "code": "404",
     "title": "Strada Sbagliata",
-    "text": "Sembra che tu abbia preso una deviazione. Questa strada non porta da nessuna parte — ma le migliori rotte del Montenegro sono a un solo clic.",
+    "text": "Sembra che tu abbia preso una deviazione. Questa strada non porta da nessuna parte, ma le migliori rotte del Montenegro sono a un solo clic.",
     "backHome": "Torna alla Home",
     "searchCars": "Cerca Auto"
   },
   "home": {
-    "seoDesc": "Noleggio auto a Podgorica da €13 al giorno presso l'aeroporto TGD, 11 km dalla capitale. Lago di Skadar in 30 min, Durmitor in 2,5 ore, la costa a meno di un'ora."
+    "seoDesc": "Noleggio auto a Podgorica da €13 al giorno presso l'aeroporto TGD, 11 km dalla capitale. Lago di Skadar in 30 min, Durmitor in 2,5 ore, la costa a meno di"
   },
   "about": {
     "title": "Chi Siamo",
     "subtitle": "Aiutiamo i viaggiatori a esplorare il Montenegro dal 2007.",
-    "seoDesc": "Specialisti di noleggio presso l'Aeroporto di Podgorica per gli arrivi di voli low-cost. Conosciamo le strade del monastero di Ostrog, i ponti del Canyon Tara e le strade secondarie del Lago di Skadar.",
+    "seoDesc": "Specialisti di noleggio presso l'Aeroporto di Podgorica per gli arrivi di voli low-cost. Conosciamo le strade del monastero di Ostrog, i ponti del Canyon",
     "heading1": "Noleggio Auto a Podgorica",
     "p1": "Noleggio Auto a Podgorica connette i viaggiatori avventurosi con auto affidabili per raggiungere l'interno selvaggio del Montenegro rapidamente. Siamo un affiliato indipendente che lavora con partner locali di noleggio fidati: atterra con un volo low-cost, ritira le chiavi all'arrivo, e in un'ora puoi essere alle prese con i tornanti verso Durmitor o navigando la sponda del Lago Skadar.",
     "heading2": "Perché Podgorica?",
@@ -170,37 +170,37 @@
   "kotor": {
     "title": "Noleggio Auto a Kotor",
     "subtitle": "Esplora il gioiello UNESCO del Montenegro al tuo ritmo.",
-    "seoDesc": "Noleggia un'auto a Kotor, Montenegro. Esplora il centro storico UNESCO, le Bocche di Kotor e la vicina Perast con noleggio conveniente e consegna gratuita in aeroporto."
+    "seoDesc": "Noleggia un'auto a Kotor, Montenegro. Esplora il centro storico UNESCO, le Bocche di Kotor e la vicina Perast con noleggio conveniente e consegna gratuita"
   },
   "tivat-airport": {
     "title": "Noleggio Auto Aeroporto Tivat",
     "subtitle": "Ritira la tua auto a noleggio agli arrivi.",
-    "seoDesc": "Ritira la tua auto a noleggio all'aeroporto di Tivat (TIV). Ti aspettiamo agli arrivi con il veicolo pronto. Raggiungi Kotor, Budva o Porto Montenegro in pochi minuti."
+    "seoDesc": "Ritira la tua auto a noleggio all'aeroporto di Tivat (TIV). Ti aspettiamo agli arrivi con il veicolo pronto. Raggiungi Kotor, Budva o Porto Montenegro in"
   },
   "budva": {
     "title": "Noleggio Auto a Budva",
-    "subtitle": "La riviera del Montenegro — spiagge, vita notturna e fascino della città vecchia.",
-    "seoDesc": "Noleggia un'auto a Budva, Montenegro. Raggiungi la spiaggia di Mogren, Sveti Stefan e la migliore vita notturna della riviera. Assicurazione completa, nessun costo nascosto."
+    "subtitle": "La riviera del Montenegro, spiagge, vita notturna e fascino della città vecchia.",
+    "seoDesc": "Noleggia un'auto a Budva, Montenegro. Raggiungi la spiaggia di Mogren, Sveti Stefan e la migliore vita notturna della riviera. Assicurazione completa"
   },
   "perast": {
     "title": "Noleggio Auto a Perast",
     "subtitle": "Un gioiello barocco sulle Bocche di Kotor.",
-    "seoDesc": "Noleggia un'auto e visita Perast, un gioiello barocco sulle Bocche di Kotor. Ammira l'isola della Madonna dello Scalpello e splendidi palazzi sul lungomare al tuo ritmo."
+    "seoDesc": "Noleggia un'auto e visita Perast, un gioiello barocco sulle Bocche di Kotor. Ammira l'isola della Madonna dello Scalpello e splendidi palazzi sul"
   },
   "podgorica": {
     "title": "Noleggio Auto a Podgorica",
-    "subtitle": "La capitale del Montenegro — cultura, fiumi e fascino moderno.",
-    "seoDesc": "Podgorica si trova a 44 m di elevazione dove cinque fiumi incontrano le montagne. Usa la capitale come base per il Lago di Skadar, Ostrog, Cetinje e Durmitor."
+    "subtitle": "La capitale del Montenegro, cultura, fiumi e fascino moderno.",
+    "seoDesc": "Podgorica si trova a 44 m di elevazione dove cinque fiumi incontrano le montagne. Usa la capitale come base per il Lago di Skadar, Ostrog, Cetinje e"
   },
   "podgorica-airport": {
     "title": "Noleggio Auto Aeroporto Podgorica",
     "subtitle": "Il principale gateway internazionale del Montenegro.",
-    "seoDesc": "Ritira la tua auto a noleggio all'aeroporto di Podgorica (TGD). Consegniamo il veicolo agli arrivi. Raggiungi la costa, il Lago di Scutari o il Parco Nazionale Durmitor."
+    "seoDesc": "Ritira la tua auto a noleggio all'aeroporto di Podgorica (TGD). Consegniamo il veicolo agli arrivi. Raggiungi la costa, il Lago di Scutari o il Parco"
   },
   "dubrovnik-airport": {
     "title": "Noleggio Auto Aeroporto Dubrovnik",
     "subtitle": "Vola in Croazia, guida verso il Montenegro.",
-    "seoDesc": "Noleggia un'auto all'aeroporto di Dubrovnik e guida verso il Montenegro. Attraversa il confine in meno di un'ora. Assicurazione completa e carta verde incluse."
+    "seoDesc": "Noleggia un'auto all'aeroporto di Dubrovnik e guida verso il Montenegro. Attraversa il confine in meno di un'ora. Assicurazione completa e carta verde"
   },
   "tivat": {
     "title": "Noleggio Auto a Tivat",
@@ -210,12 +210,12 @@
   "montenegro": {
     "title": "Noleggio Auto e Guida Viaggio Montenegro",
     "subtitle": "Tutto ciò che devi sapere sulla guida in Montenegro.",
-    "seoDesc": "Guida completa alla guida in Montenegro. Regole stradali, limiti di velocità, prezzi del carburante e i migliori percorsi panoramici dalla costa alle montagne."
+    "seoDesc": "Guida completa alla guida in Montenegro. Regole stradali, limiti di velocità, prezzi del carburante e i migliori percorsi panoramici dalla costa alle"
   },
   "border-crossing": {
     "title": "Guida Attraversamento Frontiere Balcani",
     "subtitle": "Tutto sul passaggio delle frontiere con la tua auto a noleggio.",
-    "seoDesc": "Guida all'attraversamento delle frontiere dal Montenegro con auto a noleggio. Assicurazione carta verde, documenti necessari e consigli per Croazia, Bosnia, Albania e Serbia."
+    "seoDesc": "Guida all'attraversamento delle frontiere dal Montenegro con auto a noleggio. Assicurazione carta verde, documenti necessari e consigli per Croazia"
   },
   "privacy": {
     "title": "Informativa sulla Privacy",
@@ -239,7 +239,7 @@
     },
     "fullInsurance": {
       "title": "Assicurazione montagna completa",
-      "desc": "Copertura totale con opzione franchigia zero — pensata per le curve di montagna, le strade dei canyon e tutto il resto."
+      "desc": "Copertura totale con opzione franchigia zero, pensata per le curve di montagna, le strade dei canyon e tutto il resto."
     },
     "support": {
       "title": "Assistenza 24/7",
@@ -255,7 +255,7 @@
     },
     "crossBorder": {
       "title": "Viaggi transfrontalieri",
-      "desc": "Serbia (Prijepolje, 2 ore), Albania (Shkodra, 1,5 ore), Kosovo (Peć, 3 ore) — Carta verde inclusa, indicatelo alla prenotazione."
+      "desc": "Serbia (Prijepolje, 2 ore), Albania (Shkodra, 1,5 ore), Kosovo (Peć, 3 ore), Carta verde inclusa, indicatelo alla prenotazione."
     }
   },
   "testimonials": {
@@ -263,7 +263,7 @@
       "text": "Abbiamo preso l'aereo fino a TGD appositamente per fare trekking nel Durmitor e camminare sul bordo del Canyon di Tara. Il fuoristrada era pronto in pochi minuti e ha percorso senza problemi le strade di montagna verso Žabljak. La prenotazione era semplice e il prezzo migliore di qualsiasi cosa trovassimo a casa."
     },
     "1": {
-      "text": "Road trip in solitaria dall'aeroporto di Podgorica attraverso il Canyon di Morača fino al Monastero di Ostrog — uno dei percorsi più emozionanti della mia vita. L'auto era impeccabile e il ritiro a TGD ha richiesto meno di 10 minuti. Utilizzerò questo servizio ogni volta che volerò con Wizz Air in Montenegro."
+      "text": "Road trip in solitaria dall'aeroporto di Podgorica attraverso il Canyon di Morača fino al Monastero di Ostrog, uno dei percorsi più emozionanti della mia vita. L'auto era impeccabile e il ritiro a TGD ha richiesto meno di 10 minuti. Utilizzerò questo servizio ogni volta che volerò con Wizz Air in Montenegro."
     },
     "2": {
       "text": "Avevamo prenotato per una vacanza al mare ma abbiamo finito per passare due giorni a esplorare i villaggi vinicoli del Lago di Skadar e ci siamo ritrovati al tramonto su una strada di montagna sopra Cetinje. Il miglior detour imprevisto di sempre. L'auto ha reso tutto possibile."
@@ -276,7 +276,7 @@
     },
     "1": {
       "q": "Posso guidare in Serbia o Albania?",
-      "a": "Sì — i viaggi transfrontalieri sono consentiti verso Serbia, Albania, Kosovo, Bosnia e Croazia. I principali valichi di confine vicino a Podgorica sono Dračenovac per la Serbia e Hani i Hotit per l'Albania. Indicatelo alla prenotazione così possiamo preparare la Carta Verde e la documentazione necessaria."
+      "a": "Sì, i viaggi transfrontalieri sono consentiti verso Serbia, Albania, Kosovo, Bosnia e Croazia. I principali valichi di confine vicino a Podgorica sono Dračenovac per la Serbia e Hani i Hotit per l'Albania. Indicatelo alla prenotazione così possiamo preparare la Carta Verde e la documentazione necessaria."
     },
     "2": {
       "q": "C'è un'età minima?",
@@ -288,15 +288,15 @@
     },
     "4": {
       "q": "Come funziona il ritiro a TGD?",
-      "a": "L'aeroporto di Podgorica (TGD) è un edificio compatto a terminal unico — gli arrivi sono facili da orientarsi. Il nostro agente vi accoglie nella sala arrivi con un cartello con il vostro nome. Il veicolo è parcheggiato appena fuori dal terminal. Dall'atterrissaggio alla partenza in auto si impiegano generalmente meno di 10 minuti."
+      "a": "L'aeroporto di Podgorica (TGD) è un edificio compatto a terminal unico, gli arrivi sono facili da orientarsi. Il nostro agente vi accoglie nella sala arrivi con un cartello con il vostro nome. Il veicolo è parcheggiato appena fuori dal terminal. Dall'atterrissaggio alla partenza in auto si impiegano generalmente meno di 10 minuti."
     },
     "5": {
       "q": "Posso riconsegnare il veicolo altrove?",
-      "a": "Sì — i noleggi di sola andata sono disponibili in 28 destinazioni nel Montenegro. Scegliete i luoghi di ritiro e riconsegna durante la prenotazione. Le tariffe per i viaggi di sola andata, dove applicabili, sono indicate in modo trasparente prima della conferma."
+      "a": "Sì, i noleggi di sola andata sono disponibili in 28 destinazioni nel Montenegro. Scegliete i luoghi di ritiro e riconsegna durante la prenotazione. Le tariffe per i viaggi di sola andata, dove applicabili, sono indicate in modo trasparente prima della conferma."
     },
     "6": {
       "q": "Qual è la politica di cancellazione?",
-      "a": "Veicoli standard: cancellazione gratuita fino a 7 giorni prima del ritiro. Auto di lusso e cabriolet: cancellazione gratuita fino a 30 giorni prima. Una commissione di elaborazione del pagamento del 6% si applica a tutte le cancellazioni. Se la chiusura di un passo o condizioni meteorologiche avverse vi costringono a cambiare i piani, contattateci — faremo il possibile."
+      "a": "Veicoli standard: cancellazione gratuita fino a 7 giorni prima del ritiro. Auto di lusso e cabriolet: cancellazione gratuita fino a 30 giorni prima. Una commissione di elaborazione del pagamento del 6% si applica a tutte le cancellazioni. Se la chiusura di un passo o condizioni meteorologiche avverse vi costringono a cambiare i piani, contattateci, faremo il possibile."
     },
     "7": {
       "q": "È richiesto un deposito cauzionale?",
@@ -304,19 +304,19 @@
     },
     "8": {
       "q": "Cosa succede se supero il limite di chilometraggio?",
-      "a": "I veicoli con limite di chilometri addebitano una tariffa per ogni chilometro oltre il limite concordato. La tariffa è indicata nelle condizioni del veicolo prima della prenotazione. Se prevedete lunghi percorsi in montagna — Durmitor, Canyon di Tara, confine albanese — verificate attentamente le condizioni sul chilometraggio o scegliete un'opzione a chilometraggio illimitato."
+      "a": "I veicoli con limite di chilometri addebitano una tariffa per ogni chilometro oltre il limite concordato. La tariffa è indicata nelle condizioni del veicolo prima della prenotazione. Se prevedete lunghi percorsi in montagna, Durmitor, Canyon di Tara, confine albanese, verificate attentamente le condizioni sul chilometraggio o scegliete un'opzione a chilometraggio illimitato."
     },
     "9": {
       "q": "Ho bisogno delle catene da neve per le strade di montagna?",
-      "a": "Da novembre a marzo, le catene da neve o i pneumatici invernali sono obbligatori per legge sulle strade di montagna sopra i 1.000 m in Montenegro. Ciò include la strada per Žabljak e il Parco Nazionale del Durmitor. Se andate in montagna in inverno, indicatelo alla prenotazione e attrezzheremo il veicolo di conseguenza. Nota: Nikšić è l'ultimo punto affidabile per fare benzina prima del Durmitor — fate il pieno lì."
+      "a": "Da novembre a marzo, le catene da neve o i pneumatici invernali sono obbligatori per legge sulle strade di montagna sopra i 1.000 m in Montenegro. Ciò include la strada per Žabljak e il Parco Nazionale del Durmitor. Se andate in montagna in inverno, indicatelo alla prenotazione e attrezzheremo il veicolo di conseguenza. Nota: Nikšić è l'ultimo punto affidabile per fare benzina prima del Durmitor, fate il pieno lì."
     },
     "10": {
       "q": "Quanto pago in anticipo?",
-      "a": "Un acconto del 15–20% del costo totale del noleggio viene addebitato alla prenotazione per garantire la vostra riserva. Il saldo viene saldato direttamente con l'agente di noleggio al ritiro a TGD. Nessuna sorpresa al banco — la ripartizione è mostrata chiaramente prima della conferma."
+      "a": "Un acconto del 15-20% del costo totale del noleggio viene addebitato alla prenotazione per garantire la vostra riserva. Il saldo viene saldato direttamente con l'agente di noleggio al ritiro a TGD. Nessuna sorpresa al banco, la ripartizione è mostrata chiaramente prima della conferma."
     },
     "11": {
       "q": "Posso noleggiare senza carta di credito?",
-      "a": "Un piccolo numero di veicoli della nostra flotta è disponibile senza carta di credito — sono chiaramente segnalati nei risultati di ricerca. Per la maggior parte dei veicoli, tuttavia, è necessaria una carta di credito fisica a nome del conducente per il deposito cauzionale al ritiro."
+      "a": "Un piccolo numero di veicoli della nostra flotta è disponibile senza carta di credito, sono chiaramente segnalati nei risultati di ricerca. Per la maggior parte dei veicoli, tuttavia, è necessaria una carta di credito fisica a nome del conducente per il deposito cauzionale al ritiro."
     }
   },
   "destCards": {
@@ -348,42 +348,42 @@
     "durmitor": {
       "name": "Durmitor",
       "tag": "2,5 Ore",
-      "desc": "Parco nazionale UNESCO — montagne, laghi e canyon."
+      "desc": "Parco nazionale UNESCO, montagne, laghi e canyon."
     },
     "ostrog-monastery": {
       "name": "Monastero di Ostrog",
       "tag": "45 Minuti",
-      "desc": "Monastero scavato nella roccia — il pellegrinaggio più visitato."
+      "desc": "Monastero scavato nella roccia, il pellegrinaggio più visitato."
     },
     "niksic": {
       "name": "Nikšić",
       "tag": "1 Ora",
-      "desc": "Seconda città del Montenegro — porta verso il nord."
+      "desc": "Seconda città del Montenegro, porta verso il nord."
     }
   },
   "aboutBody": {
     "h1": "Noleggio Auto Podgorica",
-    "p1": "Dal 2007, Podgorica Car Hire mette in contatto i viaggiatori con auto a noleggio affidabili e convenienti in tutto il Montenegro. Quella che è nata come una semplice idea — rendere più facile per i visitatori esplorare questo splendido angolo dell'Adriatic — è diventata uno dei servizi di autonoleggio più affidabili del Paese.",
+    "p1": "Dal 2007, Podgorica Car Hire mette in contatto i viaggiatori con auto a noleggio affidabili e convenienti in tutto il Montenegro. Quella che è nata come una semplice idea, rendere più facile per i visitatori esplorare questo splendido angolo dell'Adriatic, è diventata uno dei servizi di autonoleggio più affidabili del Paese.",
     "h2": "Perché abbiamo iniziato",
-    "p2": "Il Montenegro è un Paese che si vive meglio al proprio ritmo. Le tortuose strade costiere, i villaggi di montagna nascosti e le città patrimonio UNESCO sono difficili da raggiungere con i mezzi pubblici. Abbiamo colto l'opportunità di offrire ai viaggiatori la libertà di scoprire il Montenegro alle proprie condizioni — niente orari di pullman turistici, niente panorami persi, nessun compromesso.",
+    "p2": "Il Montenegro è un Paese che si vive meglio al proprio ritmo. Le tortuose strade costiere, i villaggi di montagna nascosti e le città patrimonio UNESCO sono difficili da raggiungere con i mezzi pubblici. Abbiamo colto l'opportunità di offrire ai viaggiatori la libertà di scoprire il Montenegro alle proprie condizioni, niente orari di pullman turistici, niente panorami persi, nessun compromesso.",
     "h3": "Cosa offriamo",
     "p3": "Offriamo servizi di autonoleggio in tutto il Montenegro, con ritiro e riconsegna presso l'aeroporto di Tivat, l'aeroporto di Podgorica e in diverse località lungo la costa e nell'entroterra. La nostra flotta spazia dalle auto compatte per la città ai SUV spaziosi, tutti con assicurazione completa e senza costi nascosti.",
     "promiseTitle": "La nostra promessa",
     "promise1": "Assicurazione completa con opzione franchigia zero",
-    "promise2": "Accoglienza in aeroporto — portiamo l'auto direttamente all'area arrivi",
-    "promise3": "Nessun costo nascosto — il prezzo che vedi è il prezzo che paghi",
+    "promise2": "Accoglienza in aeroporto, portiamo l'auto direttamente all'area arrivi",
+    "promise3": "Nessun costo nascosto, il prezzo che vedi è il prezzo che paghi",
     "promise4": "Viaggi transfrontalieri consentiti verso Croazia, Bosnia, Albania, Serbia e Kosovo",
     "promise5": "Cancellazione gratuita sulla maggior parte delle prenotazioni",
     "promise6": "Assistenza stradale 24/7 per tutta la durata del viaggio",
     "h4": "Conoscenza locale",
     "p4": "Con sede in Montenegro, conosciamo le strade, i percorsi migliori e le perle nascoste che le guide non menzionano. Che stiate guidando dall'aeroporto di Tivat al centro storico medievale di Kotor, percorrendo la strada panoramica attraverso le Bocche di Kotor fino a Perast, o dirigendovi verso l'entroterra fino al Parco Nazionale del Durmitor, possiamo aiutarvi a pianificare il viaggio in auto perfetto.",
     "h5": "Contattaci",
-    "p5": "Hai domande sul noleggio auto in Montenegro? Siamo raggiungibili via telefono, WhatsApp e Viber. Sfoglia la nostra flotta online e prenota in pochi minuti — oppure contattaci e ti aiuteremo a trovare l'auto perfetta per il tuo viaggio."
+    "p5": "Hai domande sul noleggio auto in Montenegro? Siamo raggiungibili via telefono, WhatsApp e Viber. Sfoglia la nostra flotta online e prenota in pochi minuti, oppure contattaci e ti aiuteremo a trovare l'auto perfetta per il tuo viaggio."
   },
   "kotorBody": {
-    "h1": "Kotor — Patrimonio Mondiale dell'UNESCO",
+    "h1": "Kotor, Patrimonio Mondiale dell'UNESCO",
     "p1": "Kotor è una delle città costiere più affascinanti del Montenegro, che offre spiagge magnifiche, il fascino del centro storico e mura medievali che ospitano gallerie d'arte, caffè e ristoranti eccellenti. In quanto Patrimonio Mondiale dell'UNESCO, i monumenti della città sono concentrati nel centro storico splendidamente conservato.",
-    "p2": "Noleggiare un'auto a Kotor vi dà la libertà di esplorare le attrazioni locali e le città e aree naturali montenegrine vicine al vostro ritmo. La disponibilità di parcheggio varia stagionalmente, con il turismo estivo che crea scarsità nel centro — ma ci sono parcheggi più grandi sulle strade di accesso.",
+    "p2": "Noleggiare un'auto a Kotor vi dà la libertà di esplorare le attrazioni locali e le città e aree naturali montenegrine vicine al vostro ritmo. La disponibilità di parcheggio varia stagionalmente, con il turismo estivo che crea scarsità nel centro, ma ci sono parcheggi più grandi sulle strade di accesso.",
     "landmarksTitle": "Monumenti",
     "stJohnTitle": "Fortezza di San Giovanni",
     "stJohnText": "Un'imponente struttura che storicamente proteggeva la città dagli attacchi dei pirati. Caratteristiche degne di nota includono la Torre Contarini e la Chiesa della Madonna della Salute, che offre viste mozzafiato sul centro storico e sulla Baia di Kotor.",
@@ -394,12 +394,12 @@
     "cetinjeTrip": "Costruito nel 1701, il monastero custodisce la mano di Giovanni Battista. Presenta decorazioni ornamentali e arte ortodossa. Il tragitto in auto da Kotor dura circa un'ora attraverso panoramiche strade di montagna.",
     "royalCourtText": "Il palazzo reale del Montenegro del 1871, che espone opere d'arte, manufatti e fotografie della storia reale del paese. Situato accanto al monastero nell'antica capitale reale.",
     "tivatLinkText": "Noleggio auto dall'aeroporto di Tivat",
-    "tivatLinkPost": " è il modo più rapido per raggiungere la baia."
+    "tivatLinkPost": "è il modo più rapido per raggiungere la baia."
   },
   "budvaBody": {
-    "h1": "Budva — Il Cuore della Riviera Montenegrina",
+    "h1": "Budva, Il Cuore della Riviera Montenegrina",
     "p1": "Budva è la destinazione balneare più popolare del Montenegro, che attira visitatori da tutta Europa con la sua splendida costa, la vivace vita notturna e il centro storico medievale splendidamente conservato. Con un'auto a noleggio, l'intera Riviera di Budva e oltre è a portata di mano.",
-    "p2": "La città si trova a circa 20 minuti a sud dell'Aeroporto di Tivat, rendendola una delle destinazioni costiere più facili da raggiungere dopo l'atterraggio. Budva combina 2.500 anni di storia con un'atmosfera vacanziera completamente moderna — antiche mura cittadine di giorno, vivaci bar sulla spiaggia di notte.",
+    "p2": "La città si trova a circa 20 minuti a sud dell'Aeroporto di Tivat, rendendola una delle destinazioni costiere più facili da raggiungere dopo l'atterraggio. Budva combina 2.500 anni di storia con un'atmosfera vacanziera completamente moderna, antiche mura cittadine di giorno, vivaci bar sulla spiaggia di notte.",
     "beachesTitle": "Spiagge",
     "beachesIntro": "La Riviera di Budva si estende per 21 chilometri, offrendo alcune delle più belle spiagge della costa adriatica:",
     "mogren": "Due spiagge di ciottoli collegate, raggiungibili attraverso un tunnel scavato nelle scogliere, a pochi minuti dal centro storico",
@@ -416,8 +416,8 @@
     "gettingAroundText": "Mentre il centro storico di Budva è meglio esplorarlo a piedi, un'auto a noleggio è essenziale per raggiungere le migliori spiagge, i villaggi vicini e le attrazioni dell'entroterra. Il parcheggio è disponibile vicino alle mura del centro storico e in diversi parcheggi pubblici lungo la strada principale. In piena estate, arrivare presto assicura i posti migliori."
   },
   "perastBody": {
-    "h1": "Perast — Gemma Nascosta sulla Baia",
-    "p1": "Il piccolo villaggio di Perast si trova a breve distanza in auto — meno di 20 minuti — da Kotor. I turisti che noleggiano un'auto per il loro tour del Montenegro vorranno certamente percorrere l'autostrada E65/E80 per trascorrere del tempo in questo incantevole villaggio di pescatori.",
+    "h1": "Perast, Gemma Nascosta sulla Baia",
+    "p1": "Il piccolo villaggio di Perast si trova a breve distanza in auto, meno di 20 minuti, da Kotor. I turisti che noleggiano un'auto per il loro tour del Montenegro vorranno certamente percorrere l'autostrada E65/E80 per trascorrere del tempo in questo incantevole villaggio di pescatori.",
     "p2": "Sebbene abbia solo circa 850 abitanti, la lunga e colorata storia di Perast supera certamente le sue piccole dimensioni. Dal 1420 al 1797, la città appartenne alla Repubblica di Venezia ed era nota per i suoi maestri costruttori navali e marinai. Perast possiede molti splendidi ricordi del passato e alcuni eccellenti esempi di architettura barocca.",
     "islandsTitle": "Le Isole",
     "stGeorgeTitle": "Isola di San Giorgio",
@@ -430,8 +430,8 @@
     "monasteryText": "Situato appena a nord di Perast sulla strada per Risan, il Monastero di Banja presenta molti antichi pezzi religiosi provenienti da dinastie russe, greche e di Boka. Per raggiungere il monastero, continuate verso nord sulla E65/E80 per pochi chilometri."
   },
   "tivatBody": {
-    "h1": "Tivat — Città del Porto Turistico",
-    "p1": "Tivat è una delle città più recenti lungo la costa montenegrina, costruita poco più di un secolo fa. La città ospita uno dei soli due aeroporti pubblici del Montenegro — l'Aeroporto di Tivat — rendendola una base incredibilmente comoda per i visitatori che arrivano in aereo.",
+    "h1": "Tivat, Città del Porto Turistico",
+    "p1": "Tivat è una delle città più recenti lungo la costa montenegrina, costruita poco più di un secolo fa. La città ospita uno dei soli due aeroporti pubblici del Montenegro, l'Aeroporto di Tivat, rendendola una base incredibilmente comoda per i visitatori che arrivano in aereo.",
     "p2": "Questa località balneare ha una popolazione di circa 13.000 abitanti. I visitatori possono godersi le passeggiate sul lungomare, cenare nei bistrot fronte mare ed esplorare i negozi nascosti in stretti vicoli. Durante l'alta stagione, la città bilancia la tranquillità con una vivace attività turistica.",
     "beachesTitle": "Spiagge",
     "beachesText": "Tivat vanta 17 spiagge distribuite su 3 chilometri di costa, riconosciute tra le più belle del Mediterraneo. Le spiagge principali includono:",
@@ -458,14 +458,14 @@
     "facilitiesTitle": "Servizi dell'Aeroporto",
     "facilitiesText": "L'aeroporto offre caffetterie, telefoni pubblici, negozi di souvenir e shopping duty-free. I servizi di autobus collegano a Herceg Novi e Budva, con servizio taxi disponibile anche all'esterno del terminal.",
     "whyTitle": "Perché Noleggiare all'Aeroporto di Tivat?",
-    "whyText": "L'Aeroporto di Tivat è l'aeroporto più vicino alle destinazioni costiere più popolari del Montenegro. Pochi minuti dopo l'atterraggio, potrete guidare lungo la Baia di Kotor verso la città medievale fortificata, o dirigervi a sud verso le spiagge di Budva. Ritirare l'auto a Tivat significa nessun trasferimento, nessuna attesa per gli autobus — direttamente dal terminal alla strada aperta.",
+    "whyText": "L'Aeroporto di Tivat è l'aeroporto più vicino alle destinazioni costiere più popolari del Montenegro. Pochi minuti dopo l'atterraggio, potrete guidare lungo la Baia di Kotor verso la città medievale fortificata, o dirigervi a sud verso le spiagge di Budva. Ritirare l'auto a Tivat significa nessun trasferimento, nessuna attesa per gli autobus, direttamente dal terminal alla strada aperta.",
     "meetText": "Vi accogliamo nella sala arrivi con il vostro nome su un cartello. La vostra auto è parcheggiata proprio fuori. Tempo totale dall'atterraggio alla guida: circa 10 minuti.",
-    "budvaLinkPre": "Dirigetevi a sud per raggiungere ",
+    "budvaLinkPre": "Dirigetevi a sud per raggiungere",
     "budvaLinkText": "le spiagge di Budva",
-    "budvaLinkPost": " in 30 minuti."
+    "budvaLinkPost": "in 30 minuti."
   },
   "podgoricaBody": {
-    "h1": "Podgorica — La Capitale",
+    "h1": "Podgorica, La Capitale",
     "p1": "La maggior parte dei turisti che volano in Montenegro inizierà il proprio viaggio all'Aeroporto di Podgorica (TGD), situato a 9 km dal centro città. Essendo sia la capitale che la città più grande del Montenegro, Podgorica ospita circa 170.000 residenti e si trova in posizione unica sulle rive di sei fiumi: la Moraca, la Ribnica, la Zeta, la Sitnica, la Mareza e la Cijevna.",
     "p2": "L'architettura della città riflette diverse influenze storiche. Il dominio ottomano ha lasciato il suo segno, mentre strutture medievali si affiancano a edifici funzionalisti dell'era comunista e moderne torri di vetro. Il Ponte del Millennio è diventato un simbolo dell'estetica moderna della città.",
     "p3": "Podgorica è la capitale culturale del paese. I turisti che si precipitano verso le città balneari o le montagne senza trascorrere del tempo qui perderanno certamente una parte importante del Montenegro.",
@@ -478,9 +478,9 @@
     "danilovgradText": "Una pittoresca città fluviale a circa trenta minuti a ovest di Podgorica, che offre spiagge lungo il fiume, gite in barca, gallerie e il vicino monastero di Zdrebaonik.",
     "zabljak": "Una città alpina nella regione montuosa del Durmitor, situata a 1.500 metri sul livello del mare e a 170 chilometri da Podgorica. Una destinazione per tutto l'anno che offre sci in inverno e escursionismo, rafting e mountain bike in estate.",
     "durmitorTitle": "Durmitor",
-    "durmitorLinkPre": "Consultate la nostra ",
+    "durmitorLinkPre": "Consultate la nostra",
     "durmitorLinkText": "guida al Parco Nazionale del Durmitor",
-    "durmitorLinkPost": " per itinerari escursionistici e sciistici."
+    "durmitorLinkPost": "per itinerari escursionistici e sciistici."
   },
   "podgoricaAirportBody": {
     "h1": "Noleggio Auto all'Aeroporto di Podgorica (TGD)",
@@ -503,28 +503,28 @@
   "dubrovnikAirportBody": {
     "h1": "Noleggio Auto all'Aeroporto di Dubrovnik (DBV)",
     "p1": "Molti turisti che visitano il Montenegro scelgono di volare all'Aeroporto di Dubrovnik e noleggiare un'auto per guidare fino in Montenegro. L'aeroporto si trova a sole due ore di auto dalle località costiere di Budva, Perast e Kotor, ed è meglio collegato con molte compagnie aeree che non offrono ancora un servizio diretto per il Montenegro.",
-    "p2": "Poiché questa è una rotta così comune, attraversare il confine non è un compito difficile — a condizione che i visitatori abbiano tutti i documenti di noleggio e i documenti di viaggio in ordine.",
+    "p2": "Poiché questa è una rotta così comune, attraversare il confine non è un compito difficile, a condizione che i visitatori abbiano tutti i documenti di noleggio e i documenti di viaggio in ordine.",
     "p3": "Noleggiare un'auto per un viaggio in Montenegro è un'ottima idea. Permette ai visitatori di vedere questa parte del mondo alle proprie condizioni, con i propri tempi. Il traffico tra i paesi di questa regione è comune, quindi gli attraversamenti di frontiera sono generalmente semplici.",
     "borderTitle": "Consigli per l'Attraversamento del Confine",
     "borderText": "Durante la stagione turistica, il Montenegro si riempie di visitatori e lunghe attese per attraversare il confine non sono rare. Attraversare la mattina presto o la sera tardi è un modo per evitare la folla. Assicuratevi che la vostra compagnia di noleggio vi abbia fornito una Carta Verde per l'assicurazione transfrontaliera.",
-    "borderLinkPre": "La nostra ",
+    "borderLinkPre": "La nostra",
     "borderLinkText": "guida alla documentazione per l'attraversamento del confine",
-    "borderLinkPost": " contiene tutto ciò di cui avete bisogno.",
+    "borderLinkPost": "contiene tutto ciò di cui avete bisogno.",
     "facilitiesTitle": "Servizi dell'Aeroporto",
-    "facilitiesText1": "L'Aeroporto di Dubrovnik dispone di un moderno edificio terminale situato a meno di mezz'ora di auto dalla città di Dubrovnik sulla E65. L'aeroporto ha parcheggi limitati disponibili, con macchine che elaborano il pagamento in contanti e con carte di credito. Poiché il parcheggio è limitato — specialmente in alta stagione — i visitatori dovrebbero prenotare i loro posti in anticipo se possibile. È disponibile uno sconto per la prenotazione anticipata.",
+    "facilitiesText1": "L'Aeroporto di Dubrovnik dispone di un moderno edificio terminale situato a meno di mezz'ora di auto dalla città di Dubrovnik sulla E65. L'aeroporto ha parcheggi limitati disponibili, con macchine che elaborano il pagamento in contanti e con carte di credito. Poiché il parcheggio è limitato, specialmente in alta stagione, i visitatori dovrebbero prenotare i loro posti in anticipo se possibile. È disponibile uno sconto per la prenotazione anticipata.",
     "facilitiesText2": "All'interno dell'aeroporto si trovano un ufficio di cambio, una banca e un ufficio postale. Sono disponibili anche piccoli ristoranti, caffetterie, un negozio duty-free e un'edicola.",
     "gettingTitle": "Come Raggiungere il Montenegro",
     "gettingText1": "I trasporti pubblici sono disponibili all'aeroporto sotto forma di taxi situati all'esterno del terminal, oltre a servizi di autobus e navette. Per i viaggiatori diretti alla città di Dubrovnik, assicuratevi di prendere gli autobus che arrivano fino al centro città piuttosto che quelli che si fermano a Cavtat, per risparmiare un trasferimento.",
-    "gettingText2": "Il viaggio dall'Aeroporto di Dubrovnik alla costa montenegrina vi porta lungo una delle strade costiere più panoramiche d'Europa. Entro due ore passerete attraverso il confine e arriverete alla Baia di Kotor — uno degli approcci più spettacolari a qualsiasi destinazione nel Mediterraneo."
+    "gettingText2": "Il viaggio dall'Aeroporto di Dubrovnik alla costa montenegrina vi porta lungo una delle strade costiere più panoramiche d'Europa. Entro due ore passerete attraverso il confine e arriverete alla Baia di Kotor, uno degli approcci più spettacolari a qualsiasi destinazione nel Mediterraneo."
   },
   "montenegroBody": {
     "h1": "Esplorare il Montenegro in Auto",
     "p1": "Il Montenegro si distingue come una delle destinazioni europee più gratificanti per l'esplorazione in auto. Dalle spettacolari strade di montagna e i tranquilli villaggi dell'entroterra alle tortuose strade costiere lungo l'Adriatico, il paese offre paesaggi diversificati a distanze sorprendentemente brevi. Noleggiare un'auto fornisce accesso a luoghi ben oltre la portata dei trasporti pubblici.",
-    "p2": "Sebbene compatto nelle dimensioni, il Montenegro richiede tempi di percorrenza più lunghi di quanto le mappe suggeriscano. I tornanti di montagna, le strette strade costiere e i percorsi panoramici incoraggiano soste frequenti. I viaggiatori ottengono la libertà di vivere sia il viaggio che la destinazione — navigando baie simili a fiordi, città storiche e punti panoramici d'altura al proprio ritmo.",
+    "p2": "Sebbene compatto nelle dimensioni, il Montenegro richiede tempi di percorrenza più lunghi di quanto le mappe suggeriscano. I tornanti di montagna, le strette strade costiere e i percorsi panoramici incoraggiano soste frequenti. I viaggiatori ottengono la libertà di vivere sia il viaggio che la destinazione, navigando baie simili a fiordi, città storiche e punti panoramici d'altura al proprio ritmo.",
     "startTitle": "Come Iniziare",
-    "startText": "Molti visitatori ritirano l'auto a noleggio in uno degli aeroporti del Montenegro o all'Aeroporto di Dubrovnik in Croazia, a seconda della disponibilità dei voli. L'Aeroporto di Tivat è il più vicino alla costa — a soli 10 minuti da Kotor e 20 minuti da Budva. L'Aeroporto di Podgorica serve la capitale e l'interno. L'Aeroporto di Dubrovnik rimane popolare in quanto spesso dispone di più voli internazionali.",
+    "startText": "Molti visitatori ritirano l'auto a noleggio in uno degli aeroporti del Montenegro o all'Aeroporto di Dubrovnik in Croazia, a seconda della disponibilità dei voli. L'Aeroporto di Tivat è il più vicino alla costa, a soli 10 minuti da Kotor e 20 minuti da Budva. L'Aeroporto di Podgorica serve la capitale e l'interno. L'Aeroporto di Dubrovnik rimane popolare in quanto spesso dispone di più voli internazionali.",
     "tivatLinkText": "Noleggiate un'auto all'aeroporto di Tivat",
-    "tivatLinkPost": " per un accesso immediato alla costa.",
+    "tivatLinkPost": "per un accesso immediato alla costa.",
     "timesTitle": "Tempi di Percorrenza",
     "timesText1": "I tempi di percorrenza effettivi superano regolarmente quanto indicato dalle mappe. I tornanti di montagna, le strade costiere frastagliate, gli ostacoli rurali (incluso il bestiame) e la neve montana invernale contribuiscono tutti a viaggi più lunghi. L'esperienza panoramica costiera e della campagna giustifica ampiamente il tempo di viaggio prolungato.",
     "timesText2": "Il viaggio tra le città costiere varia tipicamente da trenta minuti a un'ora. Il tragitto da Herceg-Novi a Podgorica attraverso la E65/E80 richiede circa due ore.",
@@ -537,10 +537,10 @@
     "keyRulesTitle": "Regole Principali",
     "keyRule1": "Le cinture di sicurezza sono obbligatorie per tutti i passeggeri",
     "keyRule2": "L'uso del telefono cellulare durante la guida è proibito",
-    "keyRule3": "Bere e guidare è illegale — tolleranza zero",
+    "keyRule3": "Bere e guidare è illegale, tolleranza zero",
     "keyRule4": "I limiti di velocità sono rigorosamente applicati",
     "conditionsTitle": "Condizioni Stradali",
-    "conditionsText": "Le strade cittadine mantengono condizioni discrete. Le strade di montagna possono essere più impegnative, con guardrail minimi in alcuni punti. Alcuni conducenti guidano in modo aggressivo, quindi si consiglia prudenza in tutto il paese — in particolare sui passi di montagna e nei tratti costieri stretti.",
+    "conditionsText": "Le strade cittadine mantengono condizioni discrete. Le strade di montagna possono essere più impegnative, con guardrail minimi in alcuni punti. Alcuni conducenti guidano in modo aggressivo, quindi si consiglia prudenza in tutto il paese, in particolare sui passi di montagna e nei tratti costieri stretti.",
     "routesTitle": "Percorsi Principali",
     "e65Title": "E65/E80",
     "e65Text": "Il principale percorso costiero collega Herceg-Novi a Podgorica, passando per Kotor, Perast, Tivat e Budva. Questo è il percorso di guida più popolare e offre viste mozzafiato sulla Baia di Kotor.",
@@ -557,7 +557,7 @@
     "greenCardTitle": "Cos'è una Carta Verde?",
     "greenCardText": "Una Carta Verde è un certificato internazionale di assicurazione auto che dimostra che il vostro veicolo è assicurato nel paese in cui state entrando. È richiesta ad ogni attraversamento di frontiera nei Balcani.",
     "greenCard1": "Costo: circa 15 Euro per 15 giorni",
-    "greenCard2": "Dove ottenerla: la vostra compagnia di noleggio la organizza — basta confermare al momento della prenotazione",
+    "greenCard2": "Dove ottenerla: la vostra compagnia di noleggio la organizza, basta confermare al momento della prenotazione",
     "greenCard3": "Paesi coperti: Croazia, Bosnia, Albania, Kosovo, Serbia",
     "greenCardWarn": "Senza una Carta Verde, le guardie di frontiera non vi lasceranno passare. Controllate sempre che la carta copra tutti i paesi sul vostro itinerario pianificato prima di partire.",
     "docsTitle": "Documenti Necessari alla Frontiera",
@@ -568,9 +568,9 @@
     "doc5": "Documento di immatricolazione del veicolo (fornito con l'auto)",
     "crossingsTitle": "Attraversamenti di Frontiera dal Montenegro",
     "croatiaTitle": "Montenegro → Croazia",
-    "croatiaText": "L'attraversamento più popolare per i turisti. Il principale posto di blocco si trova a Debeli Brijeg sulla strada costiera (E65) tra Herceg Novi e Dubrovnik. Questo attraversamento diventa estremamente trafficato in estate — aspettatevi code di 1-2 ore durante l'alta stagione (luglio-agosto).",
+    "croatiaText": "L'attraversamento più popolare per i turisti. Il principale posto di blocco si trova a Debeli Brijeg sulla strada costiera (E65) tra Herceg Novi e Dubrovnik. Questo attraversamento diventa estremamente trafficato in estate, aspettatevi code di 1-2 ore durante l'alta stagione (luglio-agosto).",
     "croatiaTip": "Orari migliori per attraversare: la mattina presto (prima delle 8) o la sera tardi (dopo le 20). Le mattine dei giorni feriali sono significativamente più tranquille rispetto ai fine settimana.",
-    "croatiaFerry": "C'è anche la scorciatoia del traghetto Kamenari-Lepetane attraverso la Baia di Kotor che evita di percorrere l'intera baia — fa risparmiare circa 45 minuti.",
+    "croatiaFerry": "C'è anche la scorciatoia del traghetto Kamenari-Lepetane attraverso la Baia di Kotor che evita di percorrere l'intera baia, fa risparmiare circa 45 minuti.",
     "croatiaFerryLinkPre": "La maggior parte dei visitatori inizia questo percorso dall'",
     "croatiaFerryLinkText": "Aeroporto di Dubrovnik",
     "croatiaFerryLinkPost": ".",
@@ -582,13 +582,13 @@
     "serbiaTitle": "Montenegro → Serbia",
     "serbiaText": "Attraversate a Dobrakovo (sulla E65 a nord di Bijelo Polje). Questo attraversamento si collega direttamente al sistema autostradale serbo verso Belgrado.",
     "kosovoTitle": "Montenegro → Kosovo",
-    "kosovoText": "L'attraversamento a Kula (vicino a Rožaje) si collega a Peja/Peć in Kosovo. Verificate con la vostra compagnia di noleggio che il Kosovo sia incluso nella vostra Carta Verde — alcune polizze lo escludono.",
+    "kosovoText": "L'attraversamento a Kula (vicino a Rožaje) si collega a Peja/Peć in Kosovo. Verificate con la vostra compagnia di noleggio che il Kosovo sia incluso nella vostra Carta Verde, alcune polizze lo escludono.",
     "tipsTitle": "Consigli per Attraversamenti di Frontiera Senza Problemi",
-    "tip1": "Tenete tutti i documenti pronti prima di raggiungere il posto di blocco — non cercateli al finestrino",
+    "tip1": "Tenete tutti i documenti pronti prima di raggiungere il posto di blocco, non cercateli al finestrino",
     "tip2": "Spegnete il motore mentre aspettate in coda (le guardie di frontiera lo apprezzano)",
-    "tip3": "I fine settimana estivi sono i peggiori — pianificate di attraversare nei giorni feriali se possibile",
+    "tip3": "I fine settimana estivi sono i peggiori, pianificate di attraversare nei giorni feriali se possibile",
     "tip4": "L'attraversamento costiero croato (Debeli Brijeg) è il più trafficato; gli attraversamenti interni sono più tranquilli",
-    "tip5": "Tenete del contante in Euro — utile per i pedaggi e piccoli acquisti dall'altra parte",
+    "tip5": "Tenete del contante in Euro, utile per i pedaggi e piccoli acquisti dall'altra parte",
     "tip6": "Roaming dati mobile: verificate che il vostro piano copra il paese in cui state entrando",
     "lawsTitle": "Regole Stradali che Cambiano ai Confini",
     "lawsIntro": "Ogni paese ha leggi sul traffico leggermente diverse. Differenze principali da notare:",
@@ -602,10 +602,10 @@
     "route2": "Kotor → Mostar (Bosnia): 3-4 ore via Trebinje. Visitate il famoso ponte",
     "route3": "Budva → Shkodër (Albania): 2,5 ore via l'attraversamento costiero di Ulcinj",
     "route4": "Podgorica → Belgrado (Serbia): 5-6 ore via la E65 nord",
-    "ctaText": "Avete bisogno di un'auto con documentazione transfrontaliera pronta? Cercate nella nostra flotta — selezionate semplicemente i paesi di destinazione alla prenotazione e organizzeremo la Carta Verde."
+    "ctaText": "Avete bisogno di un'auto con documentazione transfrontaliera pronta? Cercate nella nostra flotta, selezionate semplicemente i paesi di destinazione alla prenotazione e organizzeremo la Carta Verde."
   },
   "lakeSkadarBody": {
-    "cetinjeLinkPre": "Combinatelo con una visita alla ",
+    "cetinjeLinkPre": "Combinatelo con una visita alla",
     "cetinjeLinkText": "storica capitale reale di Cetinje",
     "cetinjeLinkPost": ", a 30 minuti di distanza.",
     "h1": "Il Lago Più Grande dei Balcani, 30 Minuti dal Tuo Hotel",
@@ -626,16 +626,16 @@
   "blogIndex": {
     "breadcrumbBlog": "Blog",
     "heroTitle": "Guide alla Guida da Podgorica",
-    "heroSubtitle": "Strade di montagna, monasteri nascosti e percorsi tra canyon dalla capitale del Montenegro — scritte da chi vive qui.",
+    "heroSubtitle": "Strade di montagna, monasteri nascosti e percorsi tra canyon dalla capitale del Montenegro, scritte da chi vive qui.",
     "readGuide": "Leggi la guida",
     "card_cityGuide_title": "Podgorica Oltre lo Scalo",
     "card_cityGuide_excerpt": "La maggior parte dei visitatori tratta Podgorica come un punto di transito. Ecco cosa si perdono: quartieri ottomani, parchi fluviali e una scena gastronomica sorprendentemente eccellente.",
     "card_ostrog_title": "In Auto al Monastero di Ostrog",
-    "card_ostrog_excerpt": "Un monastero scavato nella roccia a 900 metri sopra la valle della Zeta. La strada e ripida, stretta e indimenticabile — e il viaggio dura meno di due ore dalla capitale.",
+    "card_ostrog_excerpt": "Un monastero scavato nella roccia a 900 metri sopra la valle della Zeta. La strada e ripida, stretta e indimenticabile, e il viaggio dura meno di due ore dalla capitale.",
     "card_durmitor_title": "Da Podgorica a Durmitor: 3 Ore verso Nord",
-    "card_durmitor_excerpt": "Due percorsi verso il parco nazionale UNESCO — via Niksic o via il Canyon della Moraca. Lago Nero, Ponte sulla Tara e paesaggi montani che cambiano ogni 20 minuti.",
+    "card_durmitor_excerpt": "Due percorsi verso il parco nazionale UNESCO, via Niksic o via il Canyon della Moraca. Lago Nero, Ponte sulla Tara e paesaggi montani che cambiano ogni 20 minuti.",
     "card_cetinje_title": "Cetinje: La Capitale Reale del Montenegro",
-    "card_cetinje_excerpt": "Trentacinque minuti sulle montagne e si raggiunge l'antica capitale — ambasciate trasformate in musei, il Monastero di Cetinje e una citta ferma nell'eleganza ottocentesca.",
+    "card_cetinje_excerpt": "Trentacinque minuti sulle montagne e si raggiunge l'antica capitale, ambasciate trasformate in musei, il Monastero di Cetinje e una citta ferma nell'eleganza ottocentesca.",
     "card_skadar_title": "Virpazar e il Lago di Scutari in Auto",
     "card_skadar_excerpt": "Il lago piu grande dei Balcani si trova a 30 minuti a sud di Podgorica. Navigare tra le ninfee, degustare il vino di Crmnica e visitare la fortezza in rovina sopra il porto di Virpazar.",
     "card_niksic_title": "Niksic, Cascate e Lago Krupac",
@@ -645,32 +645,32 @@
     "card_biogradska_title": "Biogradska Gora: L'Ultima Foresta Pluviale d'Europa",
     "card_biogradska_excerpt": "Una foresta primordiale intatta da secoli, avvolta attorno a un lago glaciale a 1.094 metri. Il viaggio da Podgorica passa attraverso il Canyon della Moraca.",
     "card_airport_title": "Dall'Aeroporto alla Costa: Opzioni di Percorso",
-    "card_airport_excerpt": "Quattro percorsi dall'Aeroporto di Podgorica all'Adriatico — Budva via il tunnel Sozina, Bar lungo il Lago di Scutari, Kotor attraverso le montagne, o Ulcinj verso sud."
+    "card_airport_excerpt": "Quattro percorsi dall'Aeroporto di Podgorica all'Adriatico, Budva via il tunnel Sozina, Bar lungo il Lago di Scutari, Kotor attraverso le montagne, o Ulcinj verso sud."
   },
   "blogCityGuide": {
     "title": "Podgorica Oltre lo Scalo: Cio che la Maggior Parte dei Turisti si Perde",
     "subtitle": "Rovine ottomane, passeggiate lungo il fiume e una scena gastronomica che premia chi si ferma piu di uno scalo.",
-    "description": "Una guida locale a Podgorica — Stara Varos, il Ponte del Millennio, spazi verdi lungo la Moraca e dove mangiare nella capitale sottovalutata del Montenegro.",
+    "description": "Una guida locale a Podgorica, Stara Varos, il Ponte del Millennio, spazi verdi lungo la Moraca e dove mangiare nella capitale sottovalutata del Montenegro.",
     "h2Reputation": "Perche Tutti Saltano Podgorica",
-    "reputationP1": "Podgorica ha un problema di reputazione. Le guide turistiche la liquidano come una ricostruzione postbellica in cemento senza nulla da vedere. I viaggiatori atterrano al TGD, ritirano l'auto a noleggio e guidano dritti verso la costa o le montagne. La citta stessa riceve al massimo un'ora di tempo dal finestrino — un susseguirsi di palazzi e rotonde tra l'aeroporto e il primo tunnel.",
-    "reputationP2": "Quella reputazione e superata. La Podgorica di oggi ha un lungofiume pedonale lungo la Moraca, una concentrazione di ristoranti genuinamente eccellenti che non sfigurerebbero in nessuna capitale europea, e abbastanza architettura ottomana e austro-ungarica nel quartiere di Stara Varos da riempire una mattinata di passeggiate rilassate. Non e una destinazione turistica — ed e proprio per questo che premia i visitatori che si fermano davvero.",
+    "reputationP1": "Podgorica ha un problema di reputazione. Le guide turistiche la liquidano come una ricostruzione postbellica in cemento senza nulla da vedere. I viaggiatori atterrano al TGD, ritirano l'auto a noleggio e guidano dritti verso la costa o le montagne. La citta stessa riceve al massimo un'ora di tempo dal finestrino, un susseguirsi di palazzi e rotonde tra l'aeroporto e il primo tunnel.",
+    "reputationP2": "Quella reputazione e superata. La Podgorica di oggi ha un lungofiume pedonale lungo la Moraca, una concentrazione di ristoranti genuinamente eccellenti che non sfigurerebbero in nessuna capitale europea, e abbastanza architettura ottomana e austro-ungarica nel quartiere di Stara Varos da riempire una mattinata di passeggiate rilassate. Non e una destinazione turistica, ed e proprio per questo che premia i visitatori che si fermano davvero.",
     "h2Old": "Stara Varos: Il Quartiere Ottomano",
-    "oldP": "Il centro storico si trova tra i fiumi Ribnica e Moraca. Cio che sopravvive include la Torre dell'Orologio Sahat Kula — una tozza torre di avvistamento ottomana ora circondata da terrazze di caffe — e un pugno di vicoli stretti con muri in pietra e balconi sporgenti. Le rovine della fortezza Ribnica dominano la confluenza dei due fiumi. Nelle sere d'estate, le terrazze dei caffe si riempiono di locali che bevono macchiato e guardano il sole tramontare dietro le montagne. I turisti sono in netta minoranza.",
+    "oldP": "Il centro storico si trova tra i fiumi Ribnica e Moraca. Cio che sopravvive include la Torre dell'Orologio Sahat Kula, una tozza torre di avvistamento ottomana ora circondata da terrazze di caffe, e un pugno di vicoli stretti con muri in pietra e balconi sporgenti. Le rovine della fortezza Ribnica dominano la confluenza dei due fiumi. Nelle sere d'estate, le terrazze dei caffe si riempiono di locali che bevono macchiato e guardano il sole tramontare dietro le montagne. I turisti sono in netta minoranza.",
     "altInline": "Ponte del Millennio di Podgorica e passeggiata sul lungofiume",
     "h2Green": "Il Corridoio Verde: Lungofiume della Moraca",
-    "greenP": "La migliore caratteristica della citta e il suo fiume. La Moraca scorre fredda e sorprendentemente pulita attraverso il centro — i locali ci nuotano nei pomeriggi estivi proprio sotto il Ponte del Millennio. Un percorso continuo per passeggiate e ciclismo segue entrambe le rive per diversi chilometri, collegando parchi, aree gioco e caffe all'aperto. Il Ponte del Millennio e la struttura piu fotogenica di Podgorica: un ponte strallato illuminato di blu di notte, con le montagne sullo sfondo. Attraversatelo al tramonto.",
+    "greenP": "La migliore caratteristica della citta e il suo fiume. La Moraca scorre fredda e sorprendentemente pulita attraverso il centro, i locali ci nuotano nei pomeriggi estivi proprio sotto il Ponte del Millennio. Un percorso continuo per passeggiate e ciclismo segue entrambe le rive per diversi chilometri, collegando parchi, aree gioco e caffe all'aperto. Il Ponte del Millennio e la struttura piu fotogenica di Podgorica: un ponte strallato illuminato di blu di notte, con le montagne sullo sfondo. Attraversatelo al tramonto.",
     "h2Food": "Dove Mangiare",
-    "foodP1": "Podgorica supera le aspettative in fatto di cibo. La citta ha la piu alta concentrazione di ristoranti del Montenegro e i prezzi sono notevolmente inferiori a quelli della costa. Pod Volat serve cucina montenegrina alla brace in un ambiente rustico convertito. Lanterna occupa lo stesso angolo del centro storico da decenni, servendo pesce di fiume alla griglia e Niksicko alla spina. Per qualcosa di moderno, provate i ristoranti lungo il Bulevar Svetog Petra Cetinjskog — la principale via gastronomica di Podgorica.",
-    "foodP2": "Se vi dirigete a nord, fate scorta al mercato contadino. Il birrificio di Niksic merita un viaggio separato — consultate la nostra guida a",
+    "foodP1": "Podgorica supera le aspettative in fatto di cibo. La citta ha la piu alta concentrazione di ristoranti del Montenegro e i prezzi sono notevolmente inferiori a quelli della costa. Pod Volat serve cucina montenegrina alla brace in un ambiente rustico convertito. Lanterna occupa lo stesso angolo del centro storico da decenni, servendo pesce di fiume alla griglia e Niksicko alla spina. Per qualcosa di moderno, provate i ristoranti lungo il Bulevar Svetog Petra Cetinjskog, la principale via gastronomica di Podgorica.",
+    "foodP2": "Se vi dirigete a nord, fate scorta al mercato contadino. Il birrificio di Niksic merita un viaggio separato, consultate la nostra guida a",
     "foodLink": "Niksic, Cascate di Kapino e Lago Krupac",
     "h2Markets": "Il Mercato Verde",
-    "marketsP": "Il mercato contadino centrale di Podgorica funziona ogni mattina tranne la domenica. I banchi vendono prodotti di stagione dalla circostante valle della Zeta — peperoni, pomodori, prugne, fichi — insieme a miele dai villaggi di montagna e forme di formaggio Njeguski. Arrivate prima delle 10 per la migliore selezione. L'edificio del mercato ospita anche alcuni macellai che vendono prsut (prosciutto stagionato) e un paio di banchi che offrono burek gia pronto.",
+    "marketsP": "Il mercato contadino centrale di Podgorica funziona ogni mattina tranne la domenica. I banchi vendono prodotti di stagione dalla circostante valle della Zeta, peperoni, pomodori, prugne, fichi, insieme a miele dai villaggi di montagna e forme di formaggio Njeguski. Arrivate prima delle 10 per la migliore selezione. L'edificio del mercato ospita anche alcuni macellai che vendono prsut (prosciutto stagionato) e un paio di banchi che offrono burek gia pronto.",
     "h2DayTrips": "Podgorica come Base per Escursioni Giornaliere",
-    "dayTripsP": "La posizione della capitale e il suo asso nella manica. Entro 90 minuti si raggiungono il Lago di Scutari, Cetinje, il Monastero di Ostrog o l'inizio della strada del Canyon della Moraca. Entro tre ore, il Parco Nazionale di Durmitor e la costa adriatica. Nessun'altra citta montenegrina offre questa varieta. Se avete tempo limitato, Virpazar e la riva del lago sono la fuga piu rapida — consultate la nostra",
+    "dayTripsP": "La posizione della capitale e il suo asso nella manica. Entro 90 minuti si raggiungono il Lago di Scutari, Cetinje, il Monastero di Ostrog o l'inizio della strada del Canyon della Moraca. Entro tre ore, il Parco Nazionale di Durmitor e la costa adriatica. Nessun'altra citta montenegrina offre questa varieta. Se avete tempo limitato, Virpazar e la riva del lago sono la fuga piu rapida, consultate la nostra",
     "dayTripsLink": "guida alla guida del Lago di Scutari",
     "h2Tips": "Consigli Pratici",
     "tipParkingLabel": "Parcheggio:",
-    "tipParkingVal": "Parcheggio gratuito in strada facile da trovare fuori dal centro. Vicino al centro storico, usate le zone a pagamento segnalate — biglietti dai chioschi o via SMS.",
+    "tipParkingVal": "Parcheggio gratuito in strada facile da trovare fuori dal centro. Vicino al centro storico, usate le zone a pagamento segnalate, biglietti dai chioschi o via SMS.",
     "tipHeatLabel": "Caldo:",
     "tipHeatVal": "Podgorica e una delle capitali piu calde d'Europa. Luglio e agosto raggiungono regolarmente i 40°C. Pianificate le passeggiate all'aperto per la mattina presto o il tardo pomeriggio.",
     "tipWalkLabel": "A piedi:",
@@ -689,25 +689,25 @@
   },
   "blogOstrog": {
     "title": "In Auto al Monastero di Ostrog: La Strada Scavata nella Roccia",
-    "subtitle": "Un monastero nella parete rocciosa a 900 metri sopra la valle della Zeta — e uno dei viaggi brevi piu memorabili dei Balcani.",
+    "subtitle": "Un monastero nella parete rocciosa a 900 metri sopra la valle della Zeta, e uno dei viaggi brevi piu memorabili dei Balcani.",
     "description": "Come guidare da Podgorica al Monastero di Ostrog. Condizioni stradali, parcheggio, codice di abbigliamento, orari di visita e cosa vedere nel luogo piu sacro del Montenegro.",
     "h2Why": "Perche Ostrog e Importante",
-    "whyP1": "Il Monastero di Ostrog e il sito di pellegrinaggio piu visitato del Montenegro e uno dei piu importanti dell'intero mondo ortodosso. Attira credenti da tutti i Balcani — serbi, montenegrini, bosniaci, croati — insieme a un numero crescente di turisti che vengono semplicemente a vedere un monastero costruito in una parete rocciosa a strapiombo. Il monastero superiore sembra sfidare la gravita: muri imbiancati emergono direttamente dalla roccia a 900 metri sopra la pianura della Zeta sottostante.",
+    "whyP1": "Il Monastero di Ostrog e il sito di pellegrinaggio piu visitato del Montenegro e uno dei piu importanti dell'intero mondo ortodosso. Attira credenti da tutti i Balcani, serbi, montenegrini, bosniaci, croati, insieme a un numero crescente di turisti che vengono semplicemente a vedere un monastero costruito in una parete rocciosa a strapiombo. Il monastero superiore sembra sfidare la gravita: muri imbiancati emergono direttamente dalla roccia a 900 metri sopra la pianura della Zeta sottostante.",
     "whyP2": "Il monastero fu fondato nel XVII secolo da Sveti Vasilije Ostroski, le cui reliquie sono conservate in una piccola cappella rupestre all'interno della rupe. La strada di accesso sale dal fondovalle attraverso tornanti scavati nel fianco della montagna. Nei giorni di pellegrinaggio il traffico puo formare code per chilometri, ma in un normale giorno feriale la guida e tranquilla e l'ambientazione e straordinaria.",
     "h2Road": "La Strada da Podgorica",
     "roadP": "Da Podgorica, prendete la E65 in direzione nord-ovest verso Niksic. Dopo circa 30 minuti, un bivio segnalato porta a destra verso Ostrog. Gli ultimi 7 km di salita dalla strada principale al monastero superiore sono la parte impegnativa: una strada stretta e tortuosa a corsia unica con occasionali piazzole di sosta. Il fondo e asfaltato ma ripido. In estate, aspettatevi di incontrare pullman, pellegrini a piedi e traffico in senso contrario nei tornanti ciechi. Guidate lentamente, usate il clacson nelle curve e tenete i fari accesi.",
     "altInline": "Monastero di Ostrog costruito nella parete rocciosa sopra la valle della Zeta",
     "h2Lower": "Il Monastero Inferiore",
-    "lowerP": "La maggior parte dei visitatori parcheggia al complesso del monastero inferiore e sale a piedi o in auto fino al monastero superiore. Il monastero inferiore fu costruito nel XIX secolo e ospita la Chiesa della Santa Trinita, insieme ad alloggi per i pellegrini. Il cortile ha una fontana e posti a sedere ombreggiati. Se guidate fino in cima, tenete presente che il parcheggio al monastero superiore e estremamente limitato — da 15 a 20 posti — e nei giorni di affluenza sarete indirizzati a parcheggiare sotto e camminare i restanti 20 minuti in salita.",
+    "lowerP": "La maggior parte dei visitatori parcheggia al complesso del monastero inferiore e sale a piedi o in auto fino al monastero superiore. Il monastero inferiore fu costruito nel XIX secolo e ospita la Chiesa della Santa Trinita, insieme ad alloggi per i pellegrini. Il cortile ha una fontana e posti a sedere ombreggiati. Se guidate fino in cima, tenete presente che il parcheggio al monastero superiore e estremamente limitato, da 15 a 20 posti, e nei giorni di affluenza sarete indirizzati a parcheggiare sotto e camminare i restanti 20 minuti in salita.",
     "h2Upper": "Il Monastero Superiore",
-    "upperP": "Il monastero superiore e dove l'esperienza diventa straordinaria. Due piccole chiese rupestri sono costruite direttamente nella parete rocciosa. La Chiesa della Presentazione contiene affreschi del XVII secolo dipinti direttamente sulla roccia. La Chiesa della Santa Croce custodisce le reliquie di Sveti Vasilije in una teca d'argento. Lo spazio e minuscolo — forse 15 persone possono stare in piedi contemporaneamente — e l'atmosfera e intensa. I visitatori si mettono in fila indiana per entrare, baciare il reliquiario e uscire attraverso uno stretto passaggio nella roccia. Non e permesso fotografare all'interno.",
+    "upperP": "Il monastero superiore e dove l'esperienza diventa straordinaria. Due piccole chiese rupestri sono costruite direttamente nella parete rocciosa. La Chiesa della Presentazione contiene affreschi del XVII secolo dipinti direttamente sulla roccia. La Chiesa della Santa Croce custodisce le reliquie di Sveti Vasilije in una teca d'argento. Lo spazio e minuscolo, forse 15 persone possono stare in piedi contemporaneamente, e l'atmosfera e intensa. I visitatori si mettono in fila indiana per entrare, baciare il reliquiario e uscire attraverso uno stretto passaggio nella roccia. Non e permesso fotografare all'interno.",
     "h2Practical": "Consigli Pratici",
     "tipDressLabel": "Codice di abbigliamento:",
     "tipDressVal": "Ginocchia e spalle devono essere coperte. Foulard per le donne sono disponibili all'ingresso se necessario. Regola rigorosamente applicata.",
     "tipParkingLabel": "Parcheggio:",
-    "tipParkingVal": "Gratuito al monastero inferiore. Il parcheggio del monastero superiore e minuscolo — arrivate prima delle 9 nei giorni feriali, oppure parcheggiate sotto e salite a piedi.",
+    "tipParkingVal": "Gratuito al monastero inferiore. Il parcheggio del monastero superiore e minuscolo, arrivate prima delle 9 nei giorni feriali, oppure parcheggiate sotto e salite a piedi.",
     "tipTimingLabel": "Momento migliore:",
-    "tipTimingVal": "La mattina presto nei giorni feriali e il momento piu tranquillo. Le principali feste ortodosse attirano migliaia di persone — aspettatevi attese di piu ore.",
+    "tipTimingVal": "La mattina presto nei giorni feriali e il momento piu tranquillo. Le principali feste ortodosse attirano migliaia di persone, aspettatevi attese di piu ore.",
     "tipWaterLabel": "Acqua:",
     "tipWaterVal": "Portatela con voi. C'e una sorgente al monastero inferiore ma nulla al livello superiore.",
     "h2Combine": "Combinare con Niksic",
@@ -725,23 +725,23 @@
   },
   "blogDurmitor": {
     "title": "Da Podgorica a Durmitor: Il Viaggio in Montagna di 3 Ore",
-    "subtitle": "Due percorsi verso il Lago Nero, il Ponte sulla Tara e il parco nazionale piu alto del Montenegro — via Niksic o attraverso il Canyon della Moraca.",
+    "subtitle": "Due percorsi verso il Lago Nero, il Ponte sulla Tara e il parco nazionale piu alto del Montenegro, via Niksic o attraverso il Canyon della Moraca.",
     "description": "Guida completa alla guida da Podgorica al Parco Nazionale di Durmitor. Opzioni di percorso, rifornimenti, consigli per l'alloggio a Zabljak e cosa fare al Lago Nero e al Canyon della Tara.",
     "h2Overview": "Perche Guidare fino a Durmitor",
-    "overviewP1": "Il Parco Nazionale di Durmitor e Patrimonio dell'Umanita UNESCO nel cuore degli altipiani settentrionali del Montenegro. Il parco copre 390 chilometri quadrati di vette, laghi glaciali, fitte foreste di pini e il Canyon del fiume Tara — la gola piu profonda d'Europa. Il Lago Nero, a 20 minuti a piedi dalla citta di Zabljak, e il singolo luogo piu visitato. Il Ponte Durdevica Tara attraversa il canyon a 172 metri sopra il fiume. In inverno, la stazione sciistica di Savin Kuk opera sopra Zabljak.",
+    "overviewP1": "Il Parco Nazionale di Durmitor e Patrimonio dell'Umanita UNESCO nel cuore degli altipiani settentrionali del Montenegro. Il parco copre 390 chilometri quadrati di vette, laghi glaciali, fitte foreste di pini e il Canyon del fiume Tara, la gola piu profonda d'Europa. Il Lago Nero, a 20 minuti a piedi dalla citta di Zabljak, e il singolo luogo piu visitato. Il Ponte Durdevica Tara attraversa il canyon a 172 metri sopra il fiume. In inverno, la stazione sciistica di Savin Kuk opera sopra Zabljak.",
     "overviewP2": "Da Podgorica, due percorsi principali raggiungono il parco. Entrambi richiedono circa tre ore. La scelta dipende dal fatto che preferiate il percorso autostradale piu rapido attraverso Niksic, o il percorso panoramico piu suggestivo attraverso la Moraca. In ogni caso, il viaggio stesso e meta dell'esperienza.",
     "h2RouteNiksic": "Percorso 1: Via Niksic (Piu Veloce, Piu Facile)",
-    "routeNiksicP": "Prendete la E65 da Podgorica in direzione nord-ovest verso Niksic (1 ora). Da Niksic, proseguite verso nord sulla P5 attraverso Savnik verso Zabljak (2 ore). Questo percorso segue strade principali ben tenute per la prima meta, poi si restringe in una classica strada di montagna montenegrina sopra Savnik — a corsia unica in alcuni tratti, con occasionali attraversamenti di bestiame e viste spettacolari sulla valle. La distanza totale e di circa 170 km. Fate il pieno a Niksic: la prossima stazione di servizio affidabile e a Zabljak, oltre un'ora di guida in montagna.",
+    "routeNiksicP": "Prendete la E65 da Podgorica in direzione nord-ovest verso Niksic (1 ora). Da Niksic, proseguite verso nord sulla P5 attraverso Savnik verso Zabljak (2 ore). Questo percorso segue strade principali ben tenute per la prima meta, poi si restringe in una classica strada di montagna montenegrina sopra Savnik, a corsia unica in alcuni tratti, con occasionali attraversamenti di bestiame e viste spettacolari sulla valle. La distanza totale e di circa 170 km. Fate il pieno a Niksic: la prossima stazione di servizio affidabile e a Zabljak, oltre un'ora di guida in montagna.",
     "altInline": "Lago Nero nel Parco Nazionale di Durmitor circondato da foresta di pini",
     "h2RouteMoraca": "Percorso 2: Via Canyon della Moraca (Piu Lento, Spettacolare)",
-    "routeMoracaP": "Prendete la E65 verso nord da Podgorica attraverso il Canyon della Moraca verso Kolasin, poi dirigetevi a ovest verso Zabljak via Mojkovac. Questo percorso e piu lungo (circa 200 km) e aggiunge 30-45 minuti, ma la sezione del Canyon della Moraca e uno dei percorsi stradali piu spettacolari d'Europa — pareti calcaree verticali che si innalzano per centinaia di metri su entrambi i lati del fiume. Leggete la nostra guida completa alla",
+    "routeMoracaP": "Prendete la E65 verso nord da Podgorica attraverso il Canyon della Moraca verso Kolasin, poi dirigetevi a ovest verso Zabljak via Mojkovac. Questo percorso e piu lungo (circa 200 km) e aggiunge 30-45 minuti, ma la sezione del Canyon della Moraca e uno dei percorsi stradali piu spettacolari d'Europa, pareti calcaree verticali che si innalzano per centinaia di metri su entrambi i lati del fiume. Leggete la nostra guida completa alla",
     "routeMoracaLink": "strada del Canyon della Moraca",
     "h2BlackLake": "Lago Nero",
-    "blackLakeP": "Il Crno Jezero si trova a 1.416 metri in una conca di foresta di pini e cime montuose. Un sentiero di 3,5 km circonda il lago — pianeggiante, ben tenuto e percorribile in un'ora. L'acqua e fredda e incredibilmente limpida. Il bagno e consentito e popolare in luglio e agosto, sebbene la temperatura raramente superi i 18°C. L'ingresso al lago dista 20 minuti a piedi dal centro di Zabljak; e necessario un biglietto per il parco nazionale.",
+    "blackLakeP": "Il Crno Jezero si trova a 1.416 metri in una conca di foresta di pini e cime montuose. Un sentiero di 3,5 km circonda il lago, pianeggiante, ben tenuto e percorribile in un'ora. L'acqua e fredda e incredibilmente limpida. Il bagno e consentito e popolare in luglio e agosto, sebbene la temperatura raramente superi i 18°C. L'ingresso al lago dista 20 minuti a piedi dal centro di Zabljak; e necessario un biglietto per il parco nazionale.",
     "h2TaraBridge": "Ponte Durdevica Tara",
-    "taraBridgeP": "Il ponte attraversa il Canyon della Tara a un'altezza di 172 metri. Costruito nel 1940 e parzialmente distrutto durante la Seconda Guerra Mondiale per rallentare l'avanzata italiana, fu ricostruito nel 1946. Si puo attraversare a piedi e fotografare il canyon da entrambi i lati. In estate funziona una zipline attraverso la gola. Il ponte dista 25 km a nord di Zabljak — 30 minuti di guida attraverso foresta montana.",
+    "taraBridgeP": "Il ponte attraversa il Canyon della Tara a un'altezza di 172 metri. Costruito nel 1940 e parzialmente distrutto durante la Seconda Guerra Mondiale per rallentare l'avanzata italiana, fu ricostruito nel 1946. Si puo attraversare a piedi e fotografare il canyon da entrambi i lati. In estate funziona una zipline attraverso la gola. Il ponte dista 25 km a nord di Zabljak, 30 minuti di guida attraverso foresta montana.",
     "h2Fuel": "Carburante e Rifornimenti",
-    "fuelP": "Questo e fondamentale. Tra Niksic e Zabljak non ci sono stazioni di servizio garantite. Le stazioni di Niksic sono l'ultima opzione affidabile. A Zabljak stesso il carburante e disponibile ma l'unica stazione puo avere code in alta stagione. Portate acqua, snack e strati caldi anche in estate — il tempo in montagna sopra i 1.400 metri cambia rapidamente.",
+    "fuelP": "Questo e fondamentale. Tra Niksic e Zabljak non ci sono stazioni di servizio garantite. Le stazioni di Niksic sono l'ultima opzione affidabile. A Zabljak stesso il carburante e disponibile ma l'unica stazione puo avere code in alta stagione. Portate acqua, snack e strati caldi anche in estate, il tempo in montagna sopra i 1.400 metri cambia rapidamente.",
     "h2Stops": "Soste Consigliate",
     "stopNiksicLabel": "Niksic:",
     "stopNiksicVal": "Carburante, caffe e il Birrificio Trebjesa se avete tempo.",
@@ -752,7 +752,7 @@
     "stopTaraLabel": "Ponte sulla Tara:",
     "stopTaraVal": "Prevedete 30 minuti per foto e una passeggiata sul ponte.",
     "h2Car": "Quale Auto Scegliere",
-    "carP": "Qualsiasi auto della flotta gestisce comodamente il percorso via Niksic — e asfaltato per intero. Per il percorso del Canyon della Moraca o se prevedete di esplorare strade forestali sterrate all'interno di Durmitor, un veicolo con maggiore altezza da terra e preferibile. In inverno (da novembre a marzo), catene da neve o pneumatici invernali sono obbligatori per legge sopra i 1.000 metri e praticamente indispensabili sopra Savnik.",
+    "carP": "Qualsiasi auto della flotta gestisce comodamente il percorso via Niksic, e asfaltato per intero. Per il percorso del Canyon della Moraca o se prevedete di esplorare strade forestali sterrate all'interno di Durmitor, un veicolo con maggiore altezza da terra e preferibile. In inverno (da novembre a marzo), catene da neve o pneumatici invernali sono obbligatori per legge sopra i 1.000 metri e praticamente indispensabili sopra Savnik.",
     "glanceTitle": "A Colpo d'Occhio",
     "glanceDistance": "Distanza",
     "glanceDistanceVal": "170 km (via Niksic)",
@@ -765,23 +765,23 @@
   },
   "blogCetinje": {
     "title": "Gita a Cetinje: Capitale Reale e Spirituale del Montenegro",
-    "subtitle": "Trentacinque minuti da Podgorica verso le montagne — ambasciate trasformate in musei, un monastero con reliquie sacre e una citta sospesa in un secolo piu tranquillo.",
+    "subtitle": "Trentacinque minuti da Podgorica verso le montagne, ambasciate trasformate in musei, un monastero con reliquie sacre e una citta sospesa in un secolo piu tranquillo.",
     "description": "Guidare da Podgorica a Cetinje per una gita giornaliera. Visitate il Monastero di Cetinje, il Museo Nazionale, il viale delle ambasciate e mangiate nell'antica capitale reale del Montenegro.",
     "h2Why": "Perche Cetinje e Speciale",
-    "whyP1": "Cetinje fu la capitale del Montenegro dal XV secolo fino al 1918, quando il regno si uni alla Jugoslavia. Per secoli fu la sede dei principi-vescovi montenegrini, e alla fine dell'Ottocento ospito missioni diplomatiche delle grandi potenze europee — Russia, Francia, Gran Bretagna, Austria-Ungheria, Italia. Le ambasciate che costruirono sono ancora in piedi lungo le vie alberate, la maggior parte convertite in musei e gallerie.",
+    "whyP1": "Cetinje fu la capitale del Montenegro dal XV secolo fino al 1918, quando il regno si uni alla Jugoslavia. Per secoli fu la sede dei principi-vescovi montenegrini, e alla fine dell'Ottocento ospito missioni diplomatiche delle grandi potenze europee, Russia, Francia, Gran Bretagna, Austria-Ungheria, Italia. Le ambasciate che costruirono sono ancora in piedi lungo le vie alberate, la maggior parte convertite in musei e gallerie.",
     "whyP2": "La citta si trova a 670 metri su un altopiano carsico sotto il Monte Lovcen, circondata da montagne grigie e secche che amplificano il senso di isolamento. Cetinje sembra un luogo che un tempo aveva un'importanza enorme e ora esiste in uno stato di quiete dignita. Questo e esattamente il suo fascino. Non ci sono folle, navi da crociera, ne negozi di souvenir che vendono calamite. Solo edifici in pietra, vecchi tigli e il suono degli uccelli nel cortile del monastero.",
     "h2Monastery": "Il Monastero di Cetinje",
-    "monasteryP": "Il Monastero di Cetinje e il cuore spirituale della Chiesa Ortodossa Montenegrina. Fondato nel 1484, distrutto e ricostruito piu volte, l'attuale struttura risale al 1786. Il monastero afferma di custodire un frammento della Vera Croce e la mano destra di Giovanni Battista — reliquie che attirano pellegrini da tutto il mondo ortodosso. I visitatori possono entrare liberamente nel cortile del monastero e nella chiesa; la sala del tesoro con le reliquie richiede un biglietto separato. Non e permesso fotografare all'interno.",
+    "monasteryP": "Il Monastero di Cetinje e il cuore spirituale della Chiesa Ortodossa Montenegrina. Fondato nel 1484, distrutto e ricostruito piu volte, l'attuale struttura risale al 1786. Il monastero afferma di custodire un frammento della Vera Croce e la mano destra di Giovanni Battista, reliquie che attirano pellegrini da tutto il mondo ortodosso. I visitatori possono entrare liberamente nel cortile del monastero e nella chiesa; la sala del tesoro con le reliquie richiede un biglietto separato. Non e permesso fotografare all'interno.",
     "altInline": "Cortile del Monastero di Cetinje con sfondo montano",
     "h2Museums": "Il Circuito dei Musei",
-    "museumsP": "La concentrazione di musei di Cetinje e notevole per una citta di 15.000 abitanti. Il Museo Nazionale del Montenegro occupa il Palazzo di Re Nikola — un edificio sorprendentemente modesto per una residenza reale, pieno di armi, medaglie e mobili ottocenteschi. L'edificio Biljarda (chiamato cosi per il tavolo da biliardo trasportato attraverso le montagne per il Principe-Vescovo Petar II) ospita una mappa in rilievo del Montenegro che da sola vale il biglietto. Il Museo d'Arte custodisce la piu importante collezione di icone del Montenegro.",
+    "museumsP": "La concentrazione di musei di Cetinje e notevole per una citta di 15.000 abitanti. Il Museo Nazionale del Montenegro occupa il Palazzo di Re Nikola, un edificio sorprendentemente modesto per una residenza reale, pieno di armi, medaglie e mobili ottocenteschi. L'edificio Biljarda (chiamato cosi per il tavolo da biliardo trasportato attraverso le montagne per il Principe-Vescovo Petar II) ospita una mappa in rilievo del Montenegro che da sola vale il biglietto. Il Museo d'Arte custodisce la piu importante collezione di icone del Montenegro.",
     "h2Embassies": "Il Viale delle Ambasciate",
-    "embassiesP": "Lungo via Njegoseva e gli isolati circostanti, edifici imponenti portano targhe che li identificano come ex ambasciate di Russia, Francia, Impero Ottomano, Gran Bretagna e Austria-Ungheria. Ciascuno ha uno stile architettonico diverso — neoclassico russo, Secondo Impero francese, revival ottomano — creando una miniatura della storia della diplomazia europea cristallizzata nella pietra. La maggior parte sono ora edifici istituzionali o gallerie. Percorrere il circuito richiede 30 minuti e offre un senso stranamente commovente di un piccolo regno montano che un tempo aveva un peso molto superiore alle sue dimensioni sulla scena mondiale.",
+    "embassiesP": "Lungo via Njegoseva e gli isolati circostanti, edifici imponenti portano targhe che li identificano come ex ambasciate di Russia, Francia, Impero Ottomano, Gran Bretagna e Austria-Ungheria. Ciascuno ha uno stile architettonico diverso, neoclassico russo, Secondo Impero francese, revival ottomano, creando una miniatura della storia della diplomazia europea cristallizzata nella pietra. La maggior parte sono ora edifici istituzionali o gallerie. Percorrere il circuito richiede 30 minuti e offre un senso stranamente commovente di un piccolo regno montano che un tempo aveva un peso molto superiore alle sue dimensioni sulla scena mondiale.",
     "h2LovcenLink": "Proseguendo verso il Lovcen",
-    "lovcenLinkP": "Da Cetinje, una spettacolare strada di montagna sale al Parco Nazionale del Lovcen e al Mausoleo di Njegos a 1.657 metri. La strada e stretta con tornanti ma asfaltata per intero. Se avete una giornata intera, combinare Cetinje con il Lovcen offre una delle piu belle guide del Montenegro. In alternativa, proseguite verso nord in direzione Durmitor — consultate la nostra",
+    "lovcenLinkP": "Da Cetinje, una spettacolare strada di montagna sale al Parco Nazionale del Lovcen e al Mausoleo di Njegos a 1.657 metri. La strada e stretta con tornanti ma asfaltata per intero. Se avete una giornata intera, combinare Cetinje con il Lovcen offre una delle piu belle guide del Montenegro. In alternativa, proseguite verso nord in direzione Durmitor, consultate la nostra",
     "lovcenLinkText": "guida alla guida da Podgorica a Durmitor",
     "h2Food": "Dove Mangiare a Cetinje",
-    "foodP": "La citta ha una manciata di ristoranti semplici e caffe lungo la zona pedonale principale. Ocev Kutak serve piatti tradizionali montenegrini — agnello sotto il sac (un coperchio metallico a cupola coperto di braci), bistecca alla Njeguski farcita con prosciutto e formaggio, e peperoni grigliati con kajmak. Le porzioni sono abbondanti e i prezzi notevolmente inferiori a quelli della costa. Nelle giornate calde, un edificio su due sembra avere una terrazza con vista sulle montagne.",
+    "foodP": "La citta ha una manciata di ristoranti semplici e caffe lungo la zona pedonale principale. Ocev Kutak serve piatti tradizionali montenegrini, agnello sotto il sac (un coperchio metallico a cupola coperto di braci), bistecca alla Njeguski farcita con prosciutto e formaggio, e peperoni grigliati con kajmak. Le porzioni sono abbondanti e i prezzi notevolmente inferiori a quelli della costa. Nelle giornate calde, un edificio su due sembra avere una terrazza con vista sulle montagne.",
     "h2Tips": "Consigli Pratici",
     "tipRoadLabel": "Strada:",
     "tipRoadVal": "La strada Podgorica-Cetinje e ben tenuta e sale gradualmente attraverso un passo montano. Qualsiasi auto la percorre facilmente.",
@@ -803,20 +803,20 @@
   },
   "blogSkadar": {
     "title": "Virpazar e il Lago di Scutari da Podgorica in Auto",
-    "subtitle": "Il lago piu grande dei Balcani e a 30 minuti a sud — gite in barca tra le ninfee, vino di Crmnica e una fortezza in rovina sopra il porto.",
+    "subtitle": "Il lago piu grande dei Balcani e a 30 minuti a sud, gite in barca tra le ninfee, vino di Crmnica e una fortezza in rovina sopra il porto.",
     "description": "Guidare da Podgorica al Parco Nazionale del Lago di Scutari. Gite in barca a Virpazar, sentiero del vino di Crmnica, punti balneari e consigli pratici per una giornata sul lago piu grande dei Balcani.",
     "h2Why": "Perche il Lago di Scutari Merita una Giornata",
-    "whyP1": "Il Lago di Scutari e il lago piu grande dei Balcani, condiviso tra Montenegro e Albania. Il lato montenegrino e un parco nazionale — 40.000 ettari di acqua, paludi e isole boscose, dimora di oltre 280 specie di uccelli tra cui pellicani dalmati e cormorani pigmei. In estate, le baie settentrionali sono tappezzate di ninfee bianche e gialle. Il paesaggio ha un aspetto subtropicale, in strano contrasto con le aspre montagne visibili in ogni direzione.",
-    "whyP2": "Da Podgorica, Virpazar — il principale villaggio lacustre — dista solo 30 minuti in auto. Questo lo rende la gita giornaliera piu facile dalla capitale, e una delle piu gratificanti. Potete essere in barca entro un'ora dalla partenza dall'hotel.",
+    "whyP1": "Il Lago di Scutari e il lago piu grande dei Balcani, condiviso tra Montenegro e Albania. Il lato montenegrino e un parco nazionale, 40.000 ettari di acqua, paludi e isole boscose, dimora di oltre 280 specie di uccelli tra cui pellicani dalmati e cormorani pigmei. In estate, le baie settentrionali sono tappezzate di ninfee bianche e gialle. Il paesaggio ha un aspetto subtropicale, in strano contrasto con le aspre montagne visibili in ogni direzione.",
+    "whyP2": "Da Podgorica, Virpazar, il principale villaggio lacustre, dista solo 30 minuti in auto. Questo lo rende la gita giornaliera piu facile dalla capitale, e una delle piu gratificanti. Potete essere in barca entro un'ora dalla partenza dall'hotel.",
     "h2Virpazar": "Virpazar: La Porta d'Accesso",
     "virpazarP": "Virpazar si trova dove il fiume Crmnica sfocia nel lago, rannicchiata sotto le rovine della fortezza di Besac. Il villaggio ha un'unica strada principale, una manciata di ristoranti e un molo in pietra dove gli operatori nautici aspettano i passeggeri. E piccola, tranquilla e assolutamente incantevole. La salita alla fortezza richiede 15 minuti e premia con una vista sul lago, i tetti del villaggio e le montagne circostanti. Le mura in rovina risalgono al periodo ottomano.",
     "altInline": "Gita in barca tra le ninfee sul Lago di Scutari vicino a Virpazar",
     "h2Boat": "Gite in Barca sul Lago",
-    "boatP": "Le escursioni in barca partono dal molo di Virpazar durante tutta la giornata in stagione (da aprile a ottobre). Le gite standard durano 2-3 ore e seguono la costa nelle baie delle ninfee, oltre le isole-monastero di Kom e Beska, e attraverso canali stretti dove l'acqua diventa di un verde luminoso. I prezzi vanno tipicamente da 15 a 25 euro a persona. Barche private possono essere noleggiate per maggiore flessibilita. La luce migliore per la fotografia e al mattino presto — la superficie del lago e perfettamente immobile prima delle 9.",
+    "boatP": "Le escursioni in barca partono dal molo di Virpazar durante tutta la giornata in stagione (da aprile a ottobre). Le gite standard durano 2-3 ore e seguono la costa nelle baie delle ninfee, oltre le isole-monastero di Kom e Beska, e attraverso canali stretti dove l'acqua diventa di un verde luminoso. I prezzi vanno tipicamente da 15 a 25 euro a persona. Barche private possono essere noleggiate per maggiore flessibilita. La luce migliore per la fotografia e al mattino presto, la superficie del lago e perfettamente immobile prima delle 9.",
     "h2Wine": "La Zona Vinicola di Crmnica",
-    "wineP": "La valle di Crmnica a sud di Virpazar e la regione vinicola piu antica del Montenegro. Piccole aziende a conduzione familiare producono Vranac (il rosso montenegrino dominante — scuro, tannico e corposo) e Krstac (un bianco locale piu difficile da trovare fuori dal paese). Diverse cantine accettano visitatori senza appuntamento — cercate insegne scritte a mano lungo la strada tra Virpazar e il villaggio di Godinje. Un bicchiere di Vranac su una terrazza ricoperta di vite con vista sul lago e una delle migliori esperienze che il Montenegro offre.",
+    "wineP": "La valle di Crmnica a sud di Virpazar e la regione vinicola piu antica del Montenegro. Piccole aziende a conduzione familiare producono Vranac (il rosso montenegrino dominante, scuro, tannico e corposo) e Krstac (un bianco locale piu difficile da trovare fuori dal paese). Diverse cantine accettano visitatori senza appuntamento, cercate insegne scritte a mano lungo la strada tra Virpazar e il villaggio di Godinje. Un bicchiere di Vranac su una terrazza ricoperta di vite con vista sul lago e una delle migliori esperienze che il Montenegro offre.",
     "h2Beaches": "Spiagge Lacustri e Bagno",
-    "beachesP": "Diverse piccole spiagge di ciottoli e sabbia costeggiano la riva settentrionale tra Virpazar e il villaggio di Skadar. L'acqua e calda — fino a 27°C in agosto — e pulita. La spiaggia di Murici sulla riva meridionale e la piu popolare, raggiungibile in barca o per una pista sterrata. Per le spiagge adriatiche, la costa e a meno di due ore a sud — consultate la nostra",
+    "beachesP": "Diverse piccole spiagge di ciottoli e sabbia costeggiano la riva settentrionale tra Virpazar e il villaggio di Skadar. L'acqua e calda, fino a 27°C in agosto, e pulita. La spiaggia di Murici sulla riva meridionale e la piu popolare, raggiungibile in barca o per una pista sterrata. Per le spiagge adriatiche, la costa e a meno di due ore a sud, consultate la nostra",
     "beachesLink": "guida ai percorsi dall'aeroporto alla costa",
     "h2Tips": "Consigli Pratici",
     "tipSeasonLabel": "Stagione migliore:",
@@ -839,20 +839,20 @@
   },
   "blogNiksic": {
     "title": "Niksic, Cascate di Kapino e Lago Krupac",
-    "subtitle": "La seconda citta del Montenegro produce la birra nazionale, nasconde una cascata nel bosco e offre un lago glaciale per nuotare — il tutto a un'ora dalla capitale.",
+    "subtitle": "La seconda citta del Montenegro produce la birra nazionale, nasconde una cascata nel bosco e offre un lago glaciale per nuotare, il tutto a un'ora dalla capitale.",
     "description": "Gita giornaliera da Podgorica a Niksic: visitate il birrificio Trebjesa, nuotate al Lago Krupac, camminate fino alle Cascate di Kapino ed esplorate la fortezza di Bedem. Indicazioni stradali incluse.",
     "h2Why": "Perche Niksic Vale una Giornata",
-    "whyP1": "Niksic e la seconda citta del Montenegro, ma non assomiglia per niente a Podgorica. Si trova su un ampio altopiano circondato da montagne, con un clima notevolmente piu fresco e verde. La citta e nota soprattutto per la Niksicko pivo — la lager chiara che appare su ogni bancone e tavolo di ristorante del paese. Il birrificio Trebjesa la produce dal 1896 e il complesso originale e aperto ai visitatori.",
+    "whyP1": "Niksic e la seconda citta del Montenegro, ma non assomiglia per niente a Podgorica. Si trova su un ampio altopiano circondato da montagne, con un clima notevolmente piu fresco e verde. La citta e nota soprattutto per la Niksicko pivo, la lager chiara che appare su ogni bancone e tavolo di ristorante del paese. Il birrificio Trebjesa la produce dal 1896 e il complesso originale e aperto ai visitatori.",
     "whyP2": "Oltre alla birra, Niksic offre tre cose che rendono una gita giornaliera da Podgorica davvero interessante: le Cascate di Kapino nella foresta a sud-ovest della citta, il Lago Krupac dove meta del Montenegro settentrionale nuota d'estate, e la fortezza di Bedem che domina il centro storico. Insieme compongono una giornata varia che combina cibo, natura e storia.",
     "h2Brewery": "Birrificio Trebjesa",
-    "breweryP": "Il birrificio Trebjesa si trova su una collina sopra il centro citta, circondato da un parco. Gli edifici originali ottocenteschi — muri in pietra, tetti di tegole rosse, ciminiera industriale — sono ancora in piedi e ora ospitano un'esperienza per visitatori accanto all'impianto produttivo moderno. Le visite guidate si svolgono nei giorni feriali e includono una degustazione. Anche senza visita, la terrazza del birrificio merita — birra Niksicko fredda spillata direttamente dalla fonte, con vista sull'altopiano fino alle montagne di Lukavica.",
+    "breweryP": "Il birrificio Trebjesa si trova su una collina sopra il centro citta, circondato da un parco. Gli edifici originali ottocenteschi, muri in pietra, tetti di tegole rosse, ciminiera industriale, sono ancora in piedi e ora ospitano un'esperienza per visitatori accanto all'impianto produttivo moderno. Le visite guidate si svolgono nei giorni feriali e includono una degustazione. Anche senza visita, la terrazza del birrificio merita, birra Niksicko fredda spillata direttamente dalla fonte, con vista sull'altopiano fino alle montagne di Lukavica.",
     "altInline": "Area balneare del Lago Krupac vicino a Niksic con sfondo montano",
     "h2Kapino": "Cascate di Kapino",
-    "kapinoP": "Le Cascate di Kapino si trovano a circa 6 km a sud-ovest del centro di Niksic, lungo una strada secondaria attraverso bosco misto. La cascata principale precipita per circa 10 metri in una pozza rocciosa circondata da faggi e querce. Un breve sentiero conduce dal parcheggio alle cascate — circa 15 minuti attraverso bosco ombreggiato. L'ambiente e tranquillo e raramente affollato; in un giorno feriale potreste averlo tutto per voi. Il bagno nella pozza e possibile ma l'acqua e fredda anche in piena estate.",
+    "kapinoP": "Le Cascate di Kapino si trovano a circa 6 km a sud-ovest del centro di Niksic, lungo una strada secondaria attraverso bosco misto. La cascata principale precipita per circa 10 metri in una pozza rocciosa circondata da faggi e querce. Un breve sentiero conduce dal parcheggio alle cascate, circa 15 minuti attraverso bosco ombreggiato. L'ambiente e tranquillo e raramente affollato; in un giorno feriale potreste averlo tutto per voi. Il bagno nella pozza e possibile ma l'acqua e fredda anche in piena estate.",
     "h2Krupac": "Lago Krupac",
-    "krupacP": "Il Lago Krupac si trova a 5 km a nord del centro di Niksic. E un piccolo lago limpido di origine glaciale circondato da prati pianeggianti con le montagne sullo sfondo. In estate diventa il principale punto per nuotare e fare picnic dell'intera regione. L'acqua raggiunge una temperatura confortevole entro fine giugno. Non ci sono strutture formali — solo erba, acqua e montagne. Portate il vostro cibo e un asciugamano. Il lago e particolarmente bello nella luce del tardo pomeriggio quando le cime circostanti diventano dorate.",
+    "krupacP": "Il Lago Krupac si trova a 5 km a nord del centro di Niksic. E un piccolo lago limpido di origine glaciale circondato da prati pianeggianti con le montagne sullo sfondo. In estate diventa il principale punto per nuotare e fare picnic dell'intera regione. L'acqua raggiunge una temperatura confortevole entro fine giugno. Non ci sono strutture formali, solo erba, acqua e montagne. Portate il vostro cibo e un asciugamano. Il lago e particolarmente bello nella luce del tardo pomeriggio quando le cime circostanti diventano dorate.",
     "h2Fortress": "Fortezza di Bedem",
-    "fortressP": "La fortezza di Bedem domina la parte vecchia di Niksic da un promontorio roccioso. Originariamente romana, ampliata dagli ottomani e ora parzialmente restaurata, le mura offrono una vista panoramica sull'altopiano di Niksic. La salita richiede circa 15 minuti dal centro citta. In estate la fortezza ospita occasionali concerti ed eventi culturali. In qualsiasi periodo dell'anno, la vista a 360 gradi dalle mura — pianura agricola in primo piano, montagne che si accumulano in ogni direzione — giustifica la breve salita.",
+    "fortressP": "La fortezza di Bedem domina la parte vecchia di Niksic da un promontorio roccioso. Originariamente romana, ampliata dagli ottomani e ora parzialmente restaurata, le mura offrono una vista panoramica sull'altopiano di Niksic. La salita richiede circa 15 minuti dal centro citta. In estate la fortezza ospita occasionali concerti ed eventi culturali. In qualsiasi periodo dell'anno, la vista a 360 gradi dalle mura, pianura agricola in primo piano, montagne che si accumulano in ogni direzione, giustifica la breve salita.",
     "h2Combine": "Combinare con Ostrog",
     "combineP": "La strada tra Podgorica e Niksic passa il bivio per il Monastero di Ostrog circa a meta percorso. Questo rende facile visitare entrambi in un'unica giornata: Ostrog al mattino, Niksic nel pomeriggio. Consultate la nostra guida completa alla",
     "combineLink": "guida al Monastero di Ostrog",
@@ -877,18 +877,18 @@
   },
   "blogMoraca": {
     "title": "La Strada del Canyon della Moraca: L'Autostrada Piu Spettacolare del Montenegro",
-    "subtitle": "Pareti calcaree verticali, un monastero del XIII secolo nella gola e una strada scavata nella roccia — il percorso verso nord da Podgorica.",
+    "subtitle": "Pareti calcaree verticali, un monastero del XIII secolo nella gola e una strada scavata nella roccia, il percorso verso nord da Podgorica.",
     "description": "Guida alla guida della strada del Canyon della Moraca da Podgorica a Kolasin. Condizioni stradali, visita al Monastero della Moraca, migliori punti panoramici e dove il canyon si collega a Durmitor.",
     "h2Why": "Perche Questa Strada Esiste",
     "whyP1": "Il Canyon della Moraca e una gola verticale di calcare scavata dal fiume Moraca attraverso le Alpi Dinariche tra Podgorica e Kolasin. Le pareti si innalzano per centinaia di metri su entrambi i lati, a volte quasi verticalmente, con il fiume che scorre verde-azzurro sul fondo. Per decenni, questa gola e stata il principale ostacolo sulla strada che collegava la capitale del Montenegro agli altipiani settentrionali.",
-    "whyP2": "L'autostrada moderna — la E65 — fu scavata nelle pareti del canyon in epoca jugoslava e rimane una delle piu spettacolari imprese di ingegneria stradale dell'Europa meridionale. Gallerie perforano speroni rocciosi, ponti scavalcano gole laterali, e in alcuni punti la strada si aggrappa alla parete con nulla tra l'asfalto e un precipizio di 200 metri se non un basso guardrail. E emozionante, bella e del tutto sicura a velocita ragionevoli.",
+    "whyP2": "L'autostrada moderna, la E65, fu scavata nelle pareti del canyon in epoca jugoslava e rimane una delle piu spettacolari imprese di ingegneria stradale dell'Europa meridionale. Gallerie perforano speroni rocciosi, ponti scavalcano gole laterali, e in alcuni punti la strada si aggrappa alla parete con nulla tra l'asfalto e un precipizio di 200 metri se non un basso guardrail. E emozionante, bella e del tutto sicura a velocita ragionevoli.",
     "h2Road": "Cosa Aspettarsi sulla Strada",
-    "roadP": "La sezione del canyon inizia circa 20 km a nord di Podgorica e si estende per circa 30 km. La strada e un'autostrada a due corsie ben tenuta con gallerie regolari (tenete i fari accesi). Il traffico puo essere intenso con camion diretti in Serbia, in particolare nei giorni feriali. Le opportunita di sorpasso sono limitate all'interno del canyon — e necessaria pazienza. Il paesaggio e straordinario per l'intero percorso: pareti rocciose a strapiombo striate di venature minerali, cascate che precipitano da sorgenti invisibili in alto, e il fiume in basso, visibile attraverso gli spazi nel guardrail.",
+    "roadP": "La sezione del canyon inizia circa 20 km a nord di Podgorica e si estende per circa 30 km. La strada e un'autostrada a due corsie ben tenuta con gallerie regolari (tenete i fari accesi). Il traffico puo essere intenso con camion diretti in Serbia, in particolare nei giorni feriali. Le opportunita di sorpasso sono limitate all'interno del canyon, e necessaria pazienza. Il paesaggio e straordinario per l'intero percorso: pareti rocciose a strapiombo striate di venature minerali, cascate che precipitano da sorgenti invisibili in alto, e il fiume in basso, visibile attraverso gli spazi nel guardrail.",
     "altInline": "Strada del Canyon della Moraca con pareti calcaree verticali e fiume sottostante",
     "h2Monastery": "Monastero della Moraca",
-    "monasteryP": "Circa a meta del canyon, il Monastero della Moraca si trova in una sezione allargata della gola dove il fondovalle si apre quel tanto da ospitare un complesso murato, una chiesa e un giardino. Fondato nel 1252, e uno dei monasteri medievali serbo-ortodossi meglio conservati del Montenegro. L'interno della chiesa contiene affreschi originali del XIII secolo raffiguranti la vita del profeta Elia — tra le piu belle pitture murali medievali dei Balcani. Il giardino del monastero produce miele venduto in un piccolo negozio all'ingresso. L'ingresso e gratuito. Il parcheggio e direttamente sulla strada principale.",
+    "monasteryP": "Circa a meta del canyon, il Monastero della Moraca si trova in una sezione allargata della gola dove il fondovalle si apre quel tanto da ospitare un complesso murato, una chiesa e un giardino. Fondato nel 1252, e uno dei monasteri medievali serbo-ortodossi meglio conservati del Montenegro. L'interno della chiesa contiene affreschi originali del XIII secolo raffiguranti la vita del profeta Elia, tra le piu belle pitture murali medievali dei Balcani. Il giardino del monastero produce miele venduto in un piccolo negozio all'ingresso. L'ingresso e gratuito. Il parcheggio e direttamente sulla strada principale.",
     "h2Viewpoints": "Migliori Punti Panoramici",
-    "viewpointsP": "Diverse piazzole di sosta informali lungo la strada del canyon offrono viste spettacolari. Le piu fotogeniche si trovano nel terzo meridionale del canyon dove le pareti sono piu alte e il fiume piu visibile. Cercate allargamenti della carreggiata con auto parcheggiate — sono punti panoramici non ufficiali usati da locali e fotografi. Il ponte a Medurijecje offre una vista diretta nella gola. Nel pomeriggio, la parete occidentale cattura la luce diretta del sole, trasformando la superficie rocciosa in oro e arancione.",
+    "viewpointsP": "Diverse piazzole di sosta informali lungo la strada del canyon offrono viste spettacolari. Le piu fotogeniche si trovano nel terzo meridionale del canyon dove le pareti sono piu alte e il fiume piu visibile. Cercate allargamenti della carreggiata con auto parcheggiate, sono punti panoramici non ufficiali usati da locali e fotografi. Il ponte a Medurijecje offre una vista diretta nella gola. Nel pomeriggio, la parete occidentale cattura la luce diretta del sole, trasformando la superficie rocciosa in oro e arancione.",
     "h2Continue": "Proseguendo verso Nord",
     "continueP": "Il canyon termina vicino a Kolasin, una piccola citta di montagna che funge da porta d'accesso a Biogradska Gora e alla stazione sciistica di Kolasin 1600. Da Kolasin, potete proseguire verso ovest per Mojkovac e poi verso sud-ovest per Zabljak e il Parco Nazionale di Durmitor. Consultate la nostra guida completa",
     "continueLink": "da Podgorica a Durmitor",
@@ -898,7 +898,7 @@
     "tipFuelLabel": "Carburante:",
     "tipFuelVal": "Fate il pieno a Podgorica. Non ci sono stazioni di servizio nel canyon. La prossima e a Kolasin.",
     "tipStopsLabel": "Soste:",
-    "tipStopsVal": "Prevedete 20-30 minuti per il Monastero della Moraca. Prevedete tempo per soste fotografiche — le vorrete.",
+    "tipStopsVal": "Prevedete 20-30 minuti per il Monastero della Moraca. Prevedete tempo per soste fotografiche, le vorrete.",
     "tipCameraLabel": "Fotografia:",
     "tipCameraVal": "La luce del pomeriggio e la migliore per le pareti del canyon. Il monastero si fotografa bene con qualsiasi luce.",
     "glanceTitle": "A Colpo d'Occhio",
@@ -909,25 +909,25 @@
     "glanceRoad": "Tipo di Strada",
     "glanceRoadVal": "Autostrada asfaltata, gallerie",
     "glanceBestCar": "Auto Migliore",
-    "glanceBestCarVal": "Qualsiasi — strada ben tenuta"
+    "glanceBestCarVal": "Qualsiasi, strada ben tenuta"
   },
   "blogBiogradska": {
     "title": "Biogradska Gora: In Auto verso l'Ultima Foresta Pluviale d'Europa",
-    "subtitle": "Una foresta primordiale intatta da secoli, avvolta attorno a un lago glaciale a 1.094 metri — raggiungibile attraverso il Canyon della Moraca.",
+    "subtitle": "Una foresta primordiale intatta da secoli, avvolta attorno a un lago glaciale a 1.094 metri, raggiungibile attraverso il Canyon della Moraca.",
     "description": "Guidare da Podgorica al Parco Nazionale di Biogradska Gora. Percorso attraverso il Canyon della Moraca, sentiero del lago glaciale, passeggiate nella foresta antica e consigli per visitare Kolasin.",
     "h2Why": "Perche Biogradska Gora e Importante",
-    "whyP1": "Biogradska Gora e una delle ultime tre foreste primordiali rimaste in Europa. La riserva di 1.600 ettari contiene alberi di oltre 500 anni — enormi faggi, aceri, olmi e abeti — che crescono in una chioma densa e stratificata mai sfruttata commercialmente. Il suolo della foresta e denso di felci, muschio e tronchi caduti che tornano lentamente alla terra. Camminare al suo interno sembra genuinamente preistorico.",
-    "whyP2": "Al cuore del parco si trova il Lago di Biogradsko, un bacino glaciale a 1.094 metri circondato dalla foresta antica. Un sentiero di 3,5 km circonda il lago — pianeggiante, ben tenuto e percorribile in circa un'ora. L'acqua riflette la foresta circostante cosi perfettamente nelle mattine calme che il confine tra alberi e riflesso si dissolve completamente.",
+    "whyP1": "Biogradska Gora e una delle ultime tre foreste primordiali rimaste in Europa. La riserva di 1.600 ettari contiene alberi di oltre 500 anni, enormi faggi, aceri, olmi e abeti, che crescono in una chioma densa e stratificata mai sfruttata commercialmente. Il suolo della foresta e denso di felci, muschio e tronchi caduti che tornano lentamente alla terra. Camminare al suo interno sembra genuinamente preistorico.",
+    "whyP2": "Al cuore del parco si trova il Lago di Biogradsko, un bacino glaciale a 1.094 metri circondato dalla foresta antica. Un sentiero di 3,5 km circonda il lago, pianeggiante, ben tenuto e percorribile in circa un'ora. L'acqua riflette la foresta circostante cosi perfettamente nelle mattine calme che il confine tra alberi e riflesso si dissolve completamente.",
     "h2Route": "Il Percorso da Podgorica",
-    "routeP": "Il viaggio dura circa 2-2,5 ore a seconda delle soste. Seguite la E65 verso nord attraverso il Canyon della Moraca fino a Kolasin (1-1,5 ore), poi prendete il bivio segnalato verso est in direzione Biogradska Gora (30 minuti su una stretta strada del parco). La sezione del Canyon della Moraca e una destinazione a se — consultate la nostra",
+    "routeP": "Il viaggio dura circa 2-2,5 ore a seconda delle soste. Seguite la E65 verso nord attraverso il Canyon della Moraca fino a Kolasin (1-1,5 ore), poi prendete il bivio segnalato verso est in direzione Biogradska Gora (30 minuti su una stretta strada del parco). La sezione del Canyon della Moraca e una destinazione a se, consultate la nostra",
     "routeLink": "guida alla guida del Canyon della Moraca",
     "altInline": "Lago di Biogradsko circondato dalla foresta primordiale di Biogradska Gora",
     "h2Lake": "Lago di Biogradsko",
-    "lakeP": "Il lago si trova a 1.094 metri e raggiunge profondita di 12 metri. Le sue acque sono fredde, limpide e tinte di verde dalla vegetazione circostante. Il sentiero circolare e l'attrazione principale del parco — una passeggiata dolce tra alberi imponenti con il lago visibile attraverso gli spazi nella chioma. Barche a remi possono essere noleggiate sulla riva settentrionale per una prospettiva diversa. In autunno, la foresta si trasforma in straordinarie sfumature d'oro e cremisi, e i riflessi sul lago diventano quasi psichedelici.",
+    "lakeP": "Il lago si trova a 1.094 metri e raggiunge profondita di 12 metri. Le sue acque sono fredde, limpide e tinte di verde dalla vegetazione circostante. Il sentiero circolare e l'attrazione principale del parco, una passeggiata dolce tra alberi imponenti con il lago visibile attraverso gli spazi nella chioma. Barche a remi possono essere noleggiate sulla riva settentrionale per una prospettiva diversa. In autunno, la foresta si trasforma in straordinarie sfumature d'oro e cremisi, e i riflessi sul lago diventano quasi psichedelici.",
     "h2Trails": "Sentieri Forestali Oltre il Lago",
-    "trailsP": "Diversi sentieri escursionistici piu lunghi si diramano dal circuito del lago nella foresta piu profonda e sulle montagne circostanti. Il sentiero per il belvedere di Bendovac (1.650 m) richiede circa 2 ore per tratta e offre viste panoramiche sul parco. L'interno della foresta e denso e scuro — portate una lampada frontale se prevedete di camminare nel tardo pomeriggio. I segnali sui sentieri sono adeguati ma non sempre evidenti; restate sui sentieri segnalati. Il silenzio nella foresta primordiale e assoluto — nessuna strada, nessun macchinario, nessun rumore umano.",
+    "trailsP": "Diversi sentieri escursionistici piu lunghi si diramano dal circuito del lago nella foresta piu profonda e sulle montagne circostanti. Il sentiero per il belvedere di Bendovac (1.650 m) richiede circa 2 ore per tratta e offre viste panoramiche sul parco. L'interno della foresta e denso e scuro, portate una lampada frontale se prevedete di camminare nel tardo pomeriggio. I segnali sui sentieri sono adeguati ma non sempre evidenti; restate sui sentieri segnalati. Il silenzio nella foresta primordiale e assoluto, nessuna strada, nessun macchinario, nessun rumore umano.",
     "h2Kolasin": "Kolasin: Sosta nella Citta di Montagna",
-    "kolasinP": "Kolasin e la sosta pranzo naturale lungo il percorso per o da Biogradska Gora. La piccola citta di montagna ha diversi ristoranti tradizionali che servono cucina del Montenegro settentrionale — kacamak (polenta di mais con panna e formaggio), agnello sotto il sac e piatti di funghi di bosco in stagione. In inverno Kolasin e una destinazione sciistica; in estate funziona come base per escursioni e rafting. La citta ha stazioni di servizio, bancomat e un piccolo mercato all'aperto.",
+    "kolasinP": "Kolasin e la sosta pranzo naturale lungo il percorso per o da Biogradska Gora. La piccola citta di montagna ha diversi ristoranti tradizionali che servono cucina del Montenegro settentrionale, kacamak (polenta di mais con panna e formaggio), agnello sotto il sac e piatti di funghi di bosco in stagione. In inverno Kolasin e una destinazione sciistica; in estate funziona come base per escursioni e rafting. La citta ha stazioni di servizio, bancomat e un piccolo mercato all'aperto.",
     "h2Tips": "Consigli Pratici",
     "tipShoesLabel": "Calzature:",
     "tipShoesVal": "Scarponi da trekking impermeabili raccomandati. I sentieri forestali sono umidi e pieni di radici anche con tempo asciutto.",
@@ -949,30 +949,30 @@
   },
   "blogAirportCoast": {
     "title": "Dall'Aeroporto di Podgorica alla Costa: Confronto dei Percorsi",
-    "subtitle": "Quattro percorsi dal TGD all'Adriatico — Budva attraverso il tunnel Sozina, Bar lungo il lago, Kotor via le montagne, o Ulcinj verso sud.",
+    "subtitle": "Quattro percorsi dal TGD all'Adriatico, Budva attraverso il tunnel Sozina, Bar lungo il lago, Kotor via le montagne, o Ulcinj verso sud.",
     "description": "Confrontate i percorsi dall'Aeroporto di Podgorica (TGD) alla costa del Montenegro. Tempi di guida, costi dei pedaggi, condizioni stradali e quale percorso si adatta alla vostra destinazione.",
     "h2Overview": "Perche la Scelta del Percorso e Importante",
-    "overviewP1": "L'Aeroporto di Podgorica (TGD) si trova a 12 km a sud del centro citta sulla pianura della Zeta. Da qui, la costa adriatica dista tra 1 e 2,5 ore a seconda della destinazione e del percorso scelto. A differenza degli aeroporti costieri di Tivat, il TGD richiede un vero viaggio attraverso le montagne o lungo il lago — e il percorso scelto puo fare la differenza tra un trasferimento agevole e un'inaspettata attraversata montana.",
-    "overviewP2": "Ci sono quattro percorsi principali verso la costa. Ciascuno raggiunge un tratto diverso dell'Adriatico, e ciascuno ha un carattere distinto. Nessuno e oggettivamente il migliore — la scelta giusta dipende dalla vostra destinazione, dall'orario di atterraggio e dal fatto che preferiate la strada piu veloce o la piu panoramica.",
+    "overviewP1": "L'Aeroporto di Podgorica (TGD) si trova a 12 km a sud del centro citta sulla pianura della Zeta. Da qui, la costa adriatica dista tra 1 e 2,5 ore a seconda della destinazione e del percorso scelto. A differenza degli aeroporti costieri di Tivat, il TGD richiede un vero viaggio attraverso le montagne o lungo il lago, e il percorso scelto puo fare la differenza tra un trasferimento agevole e un'inaspettata attraversata montana.",
+    "overviewP2": "Ci sono quattro percorsi principali verso la costa. Ciascuno raggiunge un tratto diverso dell'Adriatico, e ciascuno ha un carattere distinto. Nessuno e oggettivamente il migliore, la scelta giusta dipende dalla vostra destinazione, dall'orario di atterraggio e dal fatto che preferiate la strada piu veloce o la piu panoramica.",
     "h2RouteBudva": "Percorso 1: Podgorica-Budva via Tunnel Sozina",
-    "routeBudvaP": "Questo e il percorso piu veloce verso la costa montenegrina centrale. Prendete la E65 a sud dall'aeroporto, seguite le indicazioni per Bar/Sozina ed entrate nel tunnel Sozina — un traforo di 4,2 km attraverso le montagne costiere inaugurato nel 2005 che ha dimezzato il viaggio Podgorica-costa. Dopo il tunnel, svoltate a destra verso Petrovac e seguite la strada costiera verso nord fino a Budva. Il tempo di guida totale e di circa 1 ora e 15 minuti. Il pedaggio del tunnel e di 3,50 euro per auto. La strada dopo il tunnel scende attraverso uliveti e colline mediterranee prima di raggiungere la costa a Petrovac.",
+    "routeBudvaP": "Questo e il percorso piu veloce verso la costa montenegrina centrale. Prendete la E65 a sud dall'aeroporto, seguite le indicazioni per Bar/Sozina ed entrate nel tunnel Sozina, un traforo di 4,2 km attraverso le montagne costiere inaugurato nel 2005 che ha dimezzato il viaggio Podgorica-costa. Dopo il tunnel, svoltate a destra verso Petrovac e seguite la strada costiera verso nord fino a Budva. Il tempo di guida totale e di circa 1 ora e 15 minuti. Il pedaggio del tunnel e di 3,50 euro per auto. La strada dopo il tunnel scende attraverso uliveti e colline mediterranee prima di raggiungere la costa a Petrovac.",
     "altInline": "Vista della strada costiera avvicinandosi a Budva dalle montagne",
     "h2RouteBar": "Percorso 2: Podgorica-Bar via Lago di Scutari",
-    "routeBarP": "Questo percorso segue la E65 a sud oltre la sponda occidentale del Lago di Scutari attraverso Virpazar, poi prosegue fino a Bar sulla costa. Il viaggio totale dura circa 1 ora. La sezione del Lago di Scutari e panoramica e merita una sosta — specialmente intorno a Virpazar. Se atterrate al mattino e non avete fretta, questo percorso combina il trasferimento verso la costa con il miglior paesaggio lacustre del paese. Consultate la nostra",
+    "routeBarP": "Questo percorso segue la E65 a sud oltre la sponda occidentale del Lago di Scutari attraverso Virpazar, poi prosegue fino a Bar sulla costa. Il viaggio totale dura circa 1 ora. La sezione del Lago di Scutari e panoramica e merita una sosta, specialmente intorno a Virpazar. Se atterrate al mattino e non avete fretta, questo percorso combina il trasferimento verso la costa con il miglior paesaggio lacustre del paese. Consultate la nostra",
     "routeBarLink": "guida al Lago di Scutari",
     "h2RouteKotor": "Percorso 3: Podgorica-Kotor via Cetinje",
-    "routeKotorP": "Questo e il percorso piu lungo ma il piu spettacolare. Guidate fino a Cetinje (35 minuti), poi scendete verso la costa per la vecchia strada di montagna attraverso il villaggio di Njegusi e giu per i famosi tornanti fino alla Baia di Kotor. La discesa dalle montagne al livello del mare richiede circa 45 minuti di guida concentrata su stretti tornanti con viste mozzafiato. Il tempo di viaggio totale e di 1,5-2 ore. Questo percorso non e consigliato per guidatori nervosi in montagna o per chi arriva di notte — i tornanti non hanno illuminazione.",
+    "routeKotorP": "Questo e il percorso piu lungo ma il piu spettacolare. Guidate fino a Cetinje (35 minuti), poi scendete verso la costa per la vecchia strada di montagna attraverso il villaggio di Njegusi e giu per i famosi tornanti fino alla Baia di Kotor. La discesa dalle montagne al livello del mare richiede circa 45 minuti di guida concentrata su stretti tornanti con viste mozzafiato. Il tempo di viaggio totale e di 1,5-2 ore. Questo percorso non e consigliato per guidatori nervosi in montagna o per chi arriva di notte, i tornanti non hanno illuminazione.",
     "h2Tunnel": "Il Tunnel Sozina: Cosa Sapere",
-    "tunnelP": "Il tunnel Sozina e il modo piu rapido per attraversare la catena montuosa costiera. E ben illuminato, ventilato e ha due corsie (una per senso di marcia). Il pedaggio e di 3,50 euro ed e pagabile in contanti (euro) o con carta alla barriera. Il tunnel e occasionalmente chiuso per manutenzione — verificate prima di partire se avete un programma serrato. Dall'altro lato, la strada inizia immediatamente a scendere verso la costa attraverso colline di ulivi.",
+    "tunnelP": "Il tunnel Sozina e il modo piu rapido per attraversare la catena montuosa costiera. E ben illuminato, ventilato e ha due corsie (una per senso di marcia). Il pedaggio e di 3,50 euro ed e pagabile in contanti (euro) o con carta alla barriera. Il tunnel e occasionalmente chiuso per manutenzione, verificate prima di partire se avete un programma serrato. Dall'altro lato, la strada inizia immediatamente a scendere verso la costa attraverso colline di ulivi.",
     "h2Tips": "Consigli Pratici",
     "tipTimingLabel": "Tempistica:",
-    "tipTimingVal": "Prevedete tempo extra se atterrate in un tardo pomeriggio estivo — i percorsi Sozina e Cetinje possono intasarsi il venerdi e sabato sera.",
+    "tipTimingVal": "Prevedete tempo extra se atterrate in un tardo pomeriggio estivo, i percorsi Sozina e Cetinje possono intasarsi il venerdi e sabato sera.",
     "tipTollLabel": "Pedaggi:",
-    "tipTollVal": "Il tunnel Sozina e l'unico pedaggio su qualsiasi percorso costiero — 3,50 euro per auto. Tenete contanti a portata di mano.",
+    "tipTollVal": "Il tunnel Sozina e l'unico pedaggio su qualsiasi percorso costiero, 3,50 euro per auto. Tenete contanti a portata di mano.",
     "tipFuelLabel": "Carburante:",
     "tipFuelVal": "Fate il pieno vicino all'aeroporto o a Podgorica. Le stazioni di servizio sono meno frequenti sui percorsi montani.",
     "tipNightLabel": "Guida notturna:",
-    "tipNightVal": "Il percorso Sozina e ben illuminato per intero. La strada di montagna Cetinje-Kotor non ha illuminazione — evitatela dopo il buio.",
+    "tipNightVal": "Il percorso Sozina e ben illuminato per intero. La strada di montagna Cetinje-Kotor non ha illuminazione, evitatela dopo il buio.",
     "h2Compare": "Confronto dei Percorsi",
     "compareTitle": "Percorsi a Colpo d'Occhio",
     "compareBudva": "Per Budva (Sozina)",
@@ -992,86 +992,86 @@
   },
   "lake-skadar": {
     "title": "Da Podgorica al Lago di Scutari",
-    "subtitle": "391 km² di zone umide — pellicani, villaggi vinicoli e spiagge nascoste a soli 30 minuti a sud.",
-    "seoDesc": "30 min da TGD: 391 km² di zone umide, pellicani dalmati, 270 specie di uccelli, regione vinicola di Crmnica e gite in barca da Virpazar. Un'auto a noleggio svela le baie più tranquille del lago."
+    "subtitle": "391 km² di zone umide, pellicani, villaggi vinicoli e spiagge nascoste a soli 30 minuti a sud.",
+    "seoDesc": "30 min da TGD: 391 km² di zone umide, pellicani dalmati, 270 specie di uccelli, regione vinicola di Crmnica e gite in barca da Virpazar. Un'auto a"
   },
   "cetinje": {
     "title": "Da Podgorica a Cetinje",
-    "subtitle": "L'ex capitale reale del Montenegro a 670 m di altitudine — 35 minuti tra le nuvole.",
-    "seoDesc": "Salita di 35 min da Podgorica a Cetinje, capitale del Montenegro dal 1878 al 1918. Monastero di Cetinje, Palazzo di Re Nicola, poi il Mausoleo di Njegoš sul Lovćen."
+    "subtitle": "L'ex capitale reale del Montenegro a 670 m di altitudine, 35 minuti tra le nuvole.",
+    "seoDesc": "Salita di 35 min da Podgorica a Cetinje, capitale del Montenegro dal 1878 al 1918. Monastero di Cetinje, Palazzo di Re Nicola, poi il Mausoleo di Njegoš"
   },
   "durmitor": {
     "title": "Da Podgorica al Durmitor",
-    "subtitle": "Vette UNESCO, laghi glaciali e il secondo canyon più profondo del mondo — 2,5 ore a nord.",
-    "seoDesc": "2,5 ore da TGD attraverso il Canyon della Morača fino alle vette del Durmitor (2.522 m). Lago Nero, Canyon della Tara (1.300 m), Žabljak a 1.456 m. SUV e catene da neve disponibili."
+    "subtitle": "Vette UNESCO, laghi glaciali e il secondo canyon più profondo del mondo, 2,5 ore a nord.",
+    "seoDesc": "2,5 ore da TGD attraverso il Canyon della Morača fino alle vette del Durmitor (2.522 m). Lago Nero, Canyon della Tara (1.300 m), Žabljak a 1.456 m. SUV e"
   },
   "ostrog-monastery": {
     "title": "Da Podgorica al Monastero di Ostrog",
-    "subtitle": "Un monastero del XVII secolo scavato in una parete rocciosa di 900 m — 2 milioni di visitatori all'anno non possono sbagliarsi.",
-    "seoDesc": "45 min da Podgorica a un monastero incastonato nella roccia a 900 m. Ostrog accoglie 2 milioni di pellegrini all'anno — arrivate all'alba per evitare la folla."
+    "subtitle": "Un monastero del XVII secolo scavato in una parete rocciosa di 900 m, 2 milioni di visitatori all'anno non possono sbagliarsi.",
+    "seoDesc": "45 min da Podgorica a un monastero incastonato nella roccia a 900 m. Ostrog accoglie 2 milioni di pellegrini all'anno, arrivate all'alba per evitare la"
   },
   "niksic": {
     "title": "Da Podgorica a Nikšić",
-    "subtitle": "Birra, rovine di fortezze e l'ultimo rifornimento prima del Durmitor — 1 ora da Podgorica.",
-    "seoDesc": "Un'ora di guida fino alla seconda città del Montenegro e capitale della birra. Visita Trebjesa, fai il pieno, poi prosegui verso nord alle vette del Durmitor. Nikšić è una sosta intelligente per la notte."
+    "subtitle": "Birra, rovine di fortezze e l'ultimo rifornimento prima del Durmitor, 1 ora da Podgorica.",
+    "seoDesc": "Un'ora di guida fino alla seconda città del Montenegro e capitale della birra. Visita Trebjesa, fai il pieno, poi prosegui verso nord alle vette del"
   },
   "cetinjeBody": {
-    "h1": "Cetinje — dove un regno viveva a 670 metri",
-    "p1": "Cetinje è una delle ex capitali più improbabili d'Europa. Arroccata a 670 metri di altitudine in una valle calcarea circondata da montagne, questa cittadina di 15.000 abitanti fu capitale del Montenegro dal 1878 al 1918 — sede di un regno riconosciuto da tutte le grandi potenze, con ambasciate di Russia, Gran Bretagna, Francia, Austria-Ungheria e Impero Ottomano. Le ambasciate si ergono ancora lungo i viali larghi, convertite in musei e scuole di musica, conferendo alla città un fascino sbiadito che nessun altro luogo in Montenegro può eguagliare.",
-    "p2": "Il viaggio da Podgorica dura 35 minuti, salendo costantemente dalla pianura fluviale a 44 metri della capitale fino alle montagne. La strada è moderna e ben tenuta. In alternativa, Cetinje è collegata alla costa tramite la leggendaria strada a 25 tornanti da Kotor — una delle strade di montagna più spettacolari d'Europa, scavata nella parete calcarea del Monte Lovćen.",
+    "h1": "Cetinje, dove un regno viveva a 670 metri",
+    "p1": "Cetinje è una delle ex capitali più improbabili d'Europa. Arroccata a 670 metri di altitudine in una valle calcarea circondata da montagne, questa cittadina di 15.000 abitanti fu capitale del Montenegro dal 1878 al 1918, sede di un regno riconosciuto da tutte le grandi potenze, con ambasciate di Russia, Gran Bretagna, Francia, Austria-Ungheria e Impero Ottomano. Le ambasciate si ergono ancora lungo i viali larghi, convertite in musei e scuole di musica, conferendo alla città un fascino sbiadito che nessun altro luogo in Montenegro può eguagliare.",
+    "p2": "Il viaggio da Podgorica dura 35 minuti, salendo costantemente dalla pianura fluviale a 44 metri della capitale fino alle montagne. La strada è moderna e ben tenuta. In alternativa, Cetinje è collegata alla costa tramite la leggendaria strada a 25 tornanti da Kotor, una delle strade di montagna più spettacolari d'Europa, scavata nella parete calcarea del Monte Lovćen.",
     "monasteryTitle": "Monastero di Cetinje",
-    "monasteryText": "Fondato nel 1484 da Ivan Crnojević e ricostruito nel 1786 dopo la distruzione ottomana, il monastero è il cuore spirituale dell'ortodossia montenegrina. Custodisce diverse reliquie straordinarie: quella che si crede essere la mano di Giovanni Battista, un frammento della Vera Croce e la corona di Re Stefan Dečanski. Il monastero è ancora attivo — i monaci vivono e pregano qui — e i visitatori sono benvenuti durante gli orari di apertura. Abbigliamento modesto: spalle e ginocchia coperte.",
+    "monasteryText": "Fondato nel 1484 da Ivan Crnojević e ricostruito nel 1786 dopo la distruzione ottomana, il monastero è il cuore spirituale dell'ortodossia montenegrina. Custodisce diverse reliquie straordinarie: quella che si crede essere la mano di Giovanni Battista, un frammento della Vera Croce e la corona di Re Stefan Dečanski. Il monastero è ancora attivo, i monaci vivono e pregano qui, e i visitatori sono benvenuti durante gli orari di apertura. Abbigliamento modesto: spalle e ginocchia coperte.",
     "museumsTitle": "La Cetinje reale",
     "kingPalaceTitle": "Palazzo di Re Nicola",
-    "kingPalaceText": "Costruito nel 1871 come residenza dell'unico re del Montenegro, il palazzo è ora un museo con arredi originali, ritratti reali, decorazioni militari e doni di capi di Stato stranieri. La sala biliardo è un punto forte — un ricordo che anche in un regno montano l'aristocrazia seguiva le mode europee.",
+    "kingPalaceText": "Costruito nel 1871 come residenza dell'unico re del Montenegro, il palazzo è ora un museo con arredi originali, ritratti reali, decorazioni militari e doni di capi di Stato stranieri. La sala biliardo è un punto forte, un ricordo che anche in un regno montano l'aristocrazia seguiva le mode europee.",
     "nationalMuseumTitle": "Museo Nazionale del Montenegro",
     "nationalMuseumText": "Ospitato nell'ex edificio del Parlamento, il museo copre la storia montenegrina dallo stato medievale di Zeta attraverso l'occupazione ottomana, l'era monarchica, il socialismo jugoslavo e il voto per l'indipendenza del 2006. L'ala della galleria d'arte ospita una significativa collezione di icone, tra cui la presumibilmente miracolosa Madonna di Fileremo, portata da Rodi dai Cavalieri di San Giovanni.",
     "lovcenTitle": "Lovćen e il Mausoleo di Njegoš",
-    "lovcenText": "Da Cetinje, un viaggio di 30 minuti attraverso fitti boschi di faggi e pini porta alla zona sommitale del Monte Lovćen. A 1.657 metri, il Mausoleo di Njegoš corona la cima — un monumento in granito e marmo dedicato a Petar II Petrović-Njegoš, il più grande poeta e sovrano del Montenegro. Salite i 461 gradini dal parcheggio all'ingresso. In una giornata limpida, il panorama spazia dalle isole adriatiche alle Alpi albanesi fino al massiccio del Durmitor. Sulla via del ritorno, fermatevi al villaggio di Njeguši per il famoso prosciutto affumicato (pršut) e formaggio — prodotti con latte di pecore che pascolano su questi prati montani."
+    "lovcenText": "Da Cetinje, un viaggio di 30 minuti attraverso fitti boschi di faggi e pini porta alla zona sommitale del Monte Lovćen. A 1.657 metri, il Mausoleo di Njegoš corona la cima, un monumento in granito e marmo dedicato a Petar II Petrović-Njegoš, il più grande poeta e sovrano del Montenegro. Salite i 461 gradini dal parcheggio all'ingresso. In una giornata limpida, il panorama spazia dalle isole adriatiche alle Alpi albanesi fino al massiccio del Durmitor. Sulla via del ritorno, fermatevi al villaggio di Njeguši per il famoso prosciutto affumicato (pršut) e formaggio, prodotti con latte di pecore che pascolano su questi prati montani."
   },
   "durmitorBody": {
-    "h1": "Durmitor — dove il Montenegro diventa verticale",
-    "p1": "Il Parco Nazionale del Durmitor è Patrimonio dell'Umanità UNESCO e copre 390 km² di natura montana selvaggia nel nord del Montenegro. Il parco conta 48 cime sopra i 2.000 metri — la più alta è il Bobotov Kuk a 2.522 m — oltre a 18 laghi glaciali, antiche foreste di pini e il Canyon della Tara, il canyon più profondo d'Europa e il secondo al mondo con 1.300 metri. Questo è il pezzo forte. Per questo avete noleggiato un'auto a Podgorica.",
-    "p2": "La città-porta di Žabljak si trova a 1.456 metri, rendendola uno degli insediamenti più alti dei Balcani. In inverno le temperature scendono a -20°C e la neve copre tutto. In estate, prati di fiori selvatici salgono fino al limite del bosco e i laghi glaciali brillano di turchese contro il verde scuro dei pini. Il dislivello da Podgorica (44 m) alle cime del Durmitor (2.522 m) si copre in sole 2,5 ore di guida — un salto verticale che cambia completamente il mondo fuori dal finestrino.",
+    "h1": "Durmitor, dove il Montenegro diventa verticale",
+    "p1": "Il Parco Nazionale del Durmitor è Patrimonio dell'Umanità UNESCO e copre 390 km² di natura montana selvaggia nel nord del Montenegro. Il parco conta 48 cime sopra i 2.000 metri, la più alta è il Bobotov Kuk a 2.522 m, oltre a 18 laghi glaciali, antiche foreste di pini e il Canyon della Tara, il canyon più profondo d'Europa e il secondo al mondo con 1.300 metri. Questo è il pezzo forte. Per questo avete noleggiato un'auto a Podgorica.",
+    "p2": "La città-porta di Žabljak si trova a 1.456 metri, rendendola uno degli insediamenti più alti dei Balcani. In inverno le temperature scendono a -20°C e la neve copre tutto. In estate, prati di fiori selvatici salgono fino al limite del bosco e i laghi glaciali brillano di turchese contro il verde scuro dei pini. Il dislivello da Podgorica (44 m) alle cime del Durmitor (2.522 m) si copre in sole 2,5 ore di guida, un salto verticale che cambia completamente il mondo fuori dal finestrino.",
     "activitiesTitle": "Cosa fare",
     "hikingTitle": "Escursionismo",
-    "hikingText": "Il circuito di 3,5 km attorno al Lago Nero (Crno Jezero) è l'escursione d'ingresso — pianeggiante, boscosa e straordinariamente bella. Per qualcosa di più impegnativo, l'ascesa del Bobotov Kuk (2.522 m) richiede un'intera giornata (8-10 ore A/R), esperienza alpina, scarponi adeguati e partenza all'alba. Tra questi estremi, decine di sentieri segnalati attraversano prati alpini, morene glaciali e crinali con viste fino all'Albania.",
+    "hikingText": "Il circuito di 3,5 km attorno al Lago Nero (Crno Jezero) è l'escursione d'ingresso, pianeggiante, boscosa e straordinariamente bella. Per qualcosa di più impegnativo, l'ascesa del Bobotov Kuk (2.522 m) richiede un'intera giornata (8-10 ore A/R), esperienza alpina, scarponi adeguati e partenza all'alba. Tra questi estremi, decine di sentieri segnalati attraversano prati alpini, morene glaciali e crinali con viste fino all'Albania.",
     "raftingTitle": "Rafting sulla Tara",
     "raftingText": "Il rafting nel Canyon della Tara è l'avventura simbolo del Montenegro. Il percorso standard di 18 km attraversa la sezione più profonda della gola: rapide di grado III-IV, pareti rocciose alte 1.300 m su entrambi i lati, cascate dalle valli laterali e l'iconico Ponte Đurđevica a 150 m sopra il fiume. Le uscite vanno da maggio a ottobre, durano quasi tutto il giorno e includono il pranzo su una spiaggia di ghiaia.",
     "winterTitle": "Sport invernali",
-    "winterText": "Da dicembre a marzo Žabljak diventa una stazione sciistica. Le piste sul Savin Kuk (2.313 m) e Javorovača offrono discese poco affollate, skipass economici e copertura nevosa affidabile. Il comprensorio è piccolo e non commerciale — niente lusso, solo buono sci con panorami eccezionali. Piste di fondo e percorsi con le ciaspole si addentrano nel parco per chi preferisce il silenzio agli impianti.",
+    "winterText": "Da dicembre a marzo Žabljak diventa una stazione sciistica. Le piste sul Savin Kuk (2.313 m) e Javorovača offrono discese poco affollate, skipass economici e copertura nevosa affidabile. Il comprensorio è piccolo e non commerciale, niente lusso, solo buono sci con panorami eccezionali. Piste di fondo e percorsi con le ciaspole si addentrano nel parco per chi preferisce il silenzio agli impianti.",
     "blackLakeTitle": "Lago Nero",
-    "blackLakeText": "Il luogo più visitato del parco — un lago glaciale in un anfiteatro naturale di pineta e pareti montane, a 15 minuti a piedi dal centro di Žabljak. L'acqua è verde scuro e perfettamente immobile nelle mattine calme, riflettendo il picco Međed sopra. Il sentiero di 3,5 km intorno alla riva è pianeggiante e adatto alle famiglie. In estate si può nuotare per i più coraggiosi — la temperatura dell'acqua supera raramente i 18°C anche in agosto.",
+    "blackLakeText": "Il luogo più visitato del parco, un lago glaciale in un anfiteatro naturale di pineta e pareti montane, a 15 minuti a piedi dal centro di Žabljak. L'acqua è verde scuro e perfettamente immobile nelle mattine calme, riflettendo il picco Međed sopra. Il sentiero di 3,5 km intorno alla riva è pianeggiante e adatto alle famiglie. In estate si può nuotare per i più coraggiosi, la temperatura dell'acqua supera raramente i 18°C anche in agosto.",
     "drivingTitle": "Il viaggio da Podgorica",
-    "drivingText": "Calcolate 2,5 ore via E65 verso nord. La strada segue il fiume Morača, poi entra nel Canyon della Morača — un tratto mozzafiato dove la strada è scavata nelle pareti rocciose sopra una gola profonda. Fermatevi al Monastero di Morača (XIII sec., ancora attivo) circa a metà strada. Dopo Kolašin, la strada sale fino a Žabljak attraverso un altopiano. In inverno, catene o pneumatici invernali sono obbligatori — i passi sopra i 1.000 m possono essere insidiosi. Controllate le condizioni prima di partire tra novembre e aprile."
+    "drivingText": "Calcolate 2,5 ore via E65 verso nord. La strada segue il fiume Morača, poi entra nel Canyon della Morača, un tratto mozzafiato dove la strada è scavata nelle pareti rocciose sopra una gola profonda. Fermatevi al Monastero di Morača (XIII sec., ancora attivo) circa a metà strada. Dopo Kolašin, la strada sale fino a Žabljak attraverso un altopiano. In inverno, catene o pneumatici invernali sono obbligatori, i passi sopra i 1.000 m possono essere insidiosi. Controllate le condizioni prima di partire tra novembre e aprile."
   },
   "ostrogBody": {
-    "h1": "Ostrog — un monastero nel cielo",
-    "p1": "Ostrog è il tipo di luogo che mette in discussione le leggi dell'edilizia. Il monastero superiore non è semplicemente appollaiato su una rupe — è dentro la rupe, incastonato in due grotte naturali a 900 metri di altitudine con una parete rocciosa a strapiombo sotto. Da lontano sembra un miraggio bianco dipinto su pietra grigia. Da vicino, è una delle più stupefacenti architetture sacre al mondo.",
-    "p2": "Il monastero accoglie circa 2 milioni di visitatori all'anno — pellegrini ortodossi, turisti cattolici, viaggiatori musulmani e zaino in spalla che ne hanno sentito parlare in ostello. È il sito più visitato del Montenegro di qualsiasi tipo. Il viaggio da Podgorica dura circa 45 minuti, e l'ultimo tratto su una stretta strada a tornanti è già un'avventura.",
+    "h1": "Ostrog, un monastero nel cielo",
+    "p1": "Ostrog è il tipo di luogo che mette in discussione le leggi dell'edilizia. Il monastero superiore non è semplicemente appollaiato su una rupe, è dentro la rupe, incastonato in due grotte naturali a 900 metri di altitudine con una parete rocciosa a strapiombo sotto. Da lontano sembra un miraggio bianco dipinto su pietra grigia. Da vicino, è una delle più stupefacenti architetture sacre al mondo.",
+    "p2": "Il monastero accoglie circa 2 milioni di visitatori all'anno, pellegrini ortodossi, turisti cattolici, viaggiatori musulmani e zaino in spalla che ne hanno sentito parlare in ostello. È il sito più visitato del Montenegro di qualsiasi tipo. Il viaggio da Podgorica dura circa 45 minuti, e l'ultimo tratto su una stretta strada a tornanti è già un'avventura.",
     "upperTitle": "Il monastero superiore",
-    "upperText": "Costruito nel XVII secolo da San Basilio di Ostrog (Sveti Vasilije Ostroski), il monastero superiore è scavato in due grotte in alto nella parete rocciosa. La Chiesa della Presentazione custodisce affreschi del XVII secolo dipinti direttamente sulla roccia della grotta. La Chiesa della Santa Croce ospita le reliquie di San Basilio — il suo corpo è conservato in un reliquiario d'argento ed è meta di pellegrinaggio. L'accesso prevede una strada ripida e tortuosa — in estate il parcheggio superiore si riempie presto e potreste dover percorrere l'ultimo chilometro dal parcheggio inferiore. La passeggiata ne vale la pena: le viste sulla valle sono straordinarie.",
+    "upperText": "Costruito nel XVII secolo da San Basilio di Ostrog (Sveti Vasilije Ostroski), il monastero superiore è scavato in due grotte in alto nella parete rocciosa. La Chiesa della Presentazione custodisce affreschi del XVII secolo dipinti direttamente sulla roccia della grotta. La Chiesa della Santa Croce ospita le reliquie di San Basilio, il suo corpo è conservato in un reliquiario d'argento ed è meta di pellegrinaggio. L'accesso prevede una strada ripida e tortuosa, in estate il parcheggio superiore si riempie presto e potreste dover percorrere l'ultimo chilometro dal parcheggio inferiore. La passeggiata ne vale la pena: le viste sulla valle sono straordinarie.",
     "lowerTitle": "Il monastero inferiore",
-    "lowerText": "Ai piedi della rupe, il monastero inferiore offre una chiesa, alloggi per pellegrini, una sorgente ritenuta dalle proprietà curative e un negozio di souvenir con icone e candele. Molti visitatori percorrono il sentiero tra il monastero inferiore e superiore come pellegrinaggio — il ripido sentiero richiede circa 20 minuti attraverso bosco e tratti di roccia esposta.",
+    "lowerText": "Ai piedi della rupe, il monastero inferiore offre una chiesa, alloggi per pellegrini, una sorgente ritenuta dalle proprietà curative e un negozio di souvenir con icone e candele. Molti visitatori percorrono il sentiero tra il monastero inferiore e superiore come pellegrinaggio, il ripido sentiero richiede circa 20 minuti attraverso bosco e tratti di roccia esposta.",
     "practicalTitle": "Consigli per la visita",
-    "practicalText": "L'ingresso è gratuito. L'abbigliamento modesto è rigorosamente richiesto — spalle e ginocchia coperte per uomini e donne. La fotografia è limitata all'interno delle chiese. I momenti di maggiore affluenza sono i weekend e le festività religiose. Arrivare prima delle 9 o dopo le 16 nei giorni feriali offre le migliori possibilità per una visita contemplativa. C'è un piccolo bar al monastero inferiore ma nessun ristorante — portate acqua e snack.",
+    "practicalText": "L'ingresso è gratuito. L'abbigliamento modesto è rigorosamente richiesto, spalle e ginocchia coperte per uomini e donne. La fotografia è limitata all'interno delle chiese. I momenti di maggiore affluenza sono i weekend e le festività religiose. Arrivare prima delle 9 o dopo le 16 nei giorni feriali offre le migliori possibilità per una visita contemplativa. C'è un piccolo bar al monastero inferiore ma nessun ristorante, portate acqua e snack.",
     "drivingTitle": "Il viaggio da Podgorica",
-    "drivingText": "Prendete la E762 in direzione nord-ovest verso Nikšić per circa 30 minuti, poi seguite le indicazioni per Ostrog. Gli ultimi 15 minuti prevedono una stretta strada di montagna con tornanti e punti di incrocio limitati. Guidate con sicurezza ma prudenza — condividerete la strada con pullman turistici e mezzi di pellegrini. Con tempo umido il fondo può essere scivoloso. La ricompensa in cima vale ogni tornante."
+    "drivingText": "Prendete la E762 in direzione nord-ovest verso Nikšić per circa 30 minuti, poi seguite le indicazioni per Ostrog. Gli ultimi 15 minuti prevedono una stretta strada di montagna con tornanti e punti di incrocio limitati. Guidate con sicurezza ma prudenza, condividerete la strada con pullman turistici e mezzi di pellegrini. Con tempo umido il fondo può essere scivoloso. La ricompensa in cima vale ogni tornante."
   },
   "niksicBody": {
-    "h1": "Nikšić — birra, fortezza e l'ultima fermata prima della natura selvaggia",
-    "p1": "Nikšić è la seconda città del Montenegro — 56.000 abitanti distribuiti su un ampio altopiano montano a 630 metri, circa un'ora di auto da Podgorica. È il tipo di città che i turisti attraversano diretti al Durmitor, il che è un errore. Fermatevi. Fate il pieno, visitate il birrificio, salite alla fortezza sulla collina e mangiate in uno dei ristoranti grill locali prima che la strada verso nord lasci la civiltà alle spalle.",
-    "p2": "La città ha un'energia diversa dalla costa — meno glamour, più carattere. Nikšić è una città industriale con un'identità orgogliosa, conosciuta nei Balcani come patria della birra Nikšičko. Il paesaggio circostante è tutto altopiano aperto, creste montane lontane e allevamenti di pecore — un'anteprima del vasto e scarsamente popolato nord che vi attende.",
+    "h1": "Nikšić, birra, fortezza e l'ultima fermata prima della natura selvaggia",
+    "p1": "Nikšić è la seconda città del Montenegro, 56.000 abitanti distribuiti su un ampio altopiano montano a 630 metri, circa un'ora di auto da Podgorica. È il tipo di città che i turisti attraversano diretti al Durmitor, il che è un errore. Fermatevi. Fate il pieno, visitate il birrificio, salite alla fortezza sulla collina e mangiate in uno dei ristoranti grill locali prima che la strada verso nord lasci la civiltà alle spalle.",
+    "p2": "La città ha un'energia diversa dalla costa, meno glamour, più carattere. Nikšić è una città industriale con un'identità orgogliosa, conosciuta nei Balcani come patria della birra Nikšičko. Il paesaggio circostante è tutto altopiano aperto, creste montane lontane e allevamenti di pecore, un'anteprima del vasto e scarsamente popolato nord che vi attende.",
     "breweryTitle": "Birrificio Trebjesa",
-    "breweryText": "La Nikšičko viene prodotta qui dal 1896 sulle pendici della collina Trebjesa. Il birrificio offre visite e degustazioni — una pinta fresca di Nikšičko Tamno (la lager scura) dopo un'ora di guida in montagna è uno dei piaceri semplici della vita. La terrazza del birrificio offre viste sulla città e sulla piana di Nikšić fino alle montagne.",
+    "breweryText": "La Nikšičko viene prodotta qui dal 1896 sulle pendici della collina Trebjesa. Il birrificio offre visite e degustazioni, una pinta fresca di Nikšičko Tamno (la lager scura) dopo un'ora di guida in montagna è uno dei piaceri semplici della vita. La terrazza del birrificio offre viste sulla città e sulla piana di Nikšić fino alle montagne.",
     "lakeTitle": "Lago Krupac",
-    "lakeText": "Un lago artificiale sul margine nord della città, circondato da sentieri, aree picnic e una piccola spiaggia. In estate i locali nuotano, pescano e fanno barbecue lungo le rive. L'acqua è limpida e lo sfondo montano è spettacolare — un luogo sorprendentemente piacevole per una città che non compare in nessuna guida turistica.",
+    "lakeText": "Un lago artificiale sul margine nord della città, circondato da sentieri, aree picnic e una piccola spiaggia. In estate i locali nuotano, pescano e fanno barbecue lungo le rive. L'acqua è limpida e lo sfondo montano è spettacolare, un luogo sorprendentemente piacevole per una città che non compare in nessuna guida turistica.",
     "fortressTitle": "Fortezza Bedem",
-    "fortressText": "L'antica fortezza sulla collina domina l'intera piana di Nikšić da un promontorio roccioso. Originariamente romana, ricostruita dagli Ottomani, ora sede estiva di concerti ed eventi culturali. La salita richiede circa 15 minuti e il panorama a 360 gradi dalle mura è la vista migliore della regione — pianure agricole in primo piano, creste montane che si sovrappongono fino all'orizzonte in ogni direzione.",
+    "fortressText": "L'antica fortezza sulla collina domina l'intera piana di Nikšić da un promontorio roccioso. Originariamente romana, ricostruita dagli Ottomani, ora sede estiva di concerti ed eventi culturali. La salita richiede circa 15 minuti e il panorama a 360 gradi dalle mura è la vista migliore della regione, pianure agricole in primo piano, creste montane che si sovrappongono fino all'orizzonte in ogni direzione.",
     "gatewayTitle": "Porta del Durmitor",
-    "gatewayText": "Nikšić è il punto di partenza naturale per il Parco Nazionale del Durmitor. Da qui la strada verso nord entra in territori sempre più selvaggi — i campi cedono alla foresta, le montagne si stringono, e quando raggiungete Šavnik il paesaggio è pura natura alpina. Fate il pieno a Nikšić. La prossima stazione di servizio affidabile è a Žabljak, oltre un'ora di guida in montagna.",
+    "gatewayText": "Nikšić è il punto di partenza naturale per il Parco Nazionale del Durmitor. Da qui la strada verso nord entra in territori sempre più selvaggi, i campi cedono alla foresta, le montagne si stringono, e quando raggiungete Šavnik il paesaggio è pura natura alpina. Fate il pieno a Nikšić. La prossima stazione di servizio affidabile è a Žabljak, oltre un'ora di guida in montagna.",
     "drivingTitle": "Come arrivare da Podgorica",
-    "drivingText": "Il viaggio dura circa 1 ora via E762. La strada è una buona statale a doppia corsia per la maggior parte del percorso, che sale gradualmente dalla pianura fluviale di Podgorica attraverso campi e boschi radi. Fate attenzione alla deviazione per il Monastero di Ostrog circa 30 minuti dopo la partenza — potete combinare entrambe le tappe in una gita di un giorno."
+    "drivingText": "Il viaggio dura circa 1 ora via E762. La strada è una buona statale a doppia corsia per la maggior parte del percorso, che sale gradualmente dalla pianura fluviale di Podgorica attraverso campi e boschi radi. Fate attenzione alla deviazione per il Monastero di Ostrog circa 30 minuti dopo la partenza, potete combinare entrambe le tappe in una gita di un giorno."
   },
   "contentPage": {
     "youMightAlsoLike": "Potrebbe Piacerti Anche",
@@ -1097,7 +1097,7 @@
   },
   "contact": {
     "title": "Contattaci",
-    "seoDesc": "In arrivo presso TGD o soggiorno nell'entroterra? Email, WhatsApp o il modulo qui sotto vi aiuta a ottenere preventivi rapidi e slot di consegna in aeroporto, solitamente entro due ore.",
+    "seoDesc": "In arrivo presso TGD o soggiorno nell'entroterra? Email, WhatsApp o il modulo qui sotto vi aiuta a ottenere preventivi rapidi e slot di consegna in",
     "heading": "Contattaci",
     "intro": "Hai una domanda sul noleggio auto a Podgorica? Contattaci e ti aiuteremo a trovare il veicolo perfetto per il tuo viaggio."
   }
