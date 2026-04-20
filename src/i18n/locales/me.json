@@ -170,22 +170,22 @@
   "kotor": {
     "title": "Rent a Car Kotor",
     "subtitle": "Istražite UNESCO dragulj Crne Gore sopstvenim tempom.",
-    "seoDesc": "Iznajmite auto u Kotoru, Crna Gora. Istražite UNESCO stari grad, Bokokotorski zaliv i obližnji Perast uz povoljnu najam i besplatnu isporuku sa aerodroma."
+    "seoDesc": "Kotor je 90 km zapadno od Podgorice kroz tunel Sozina, 75 minuta ka obali. UNESCO bedemi, zaliv poput fjorda, barokni Perast 12 km uz zaliv."
   },
   "tivat-airport": {
     "title": "Rent a Car Aerodrom Tivat",
     "subtitle": "Preuzmite vaš auto na izlazu iz zone dolaska.",
-    "seoDesc": "Preuzmite rent a car na aerodromu Tivat (TIV). Čekamo vas na izlazu sa vašim vozilom. Stignite do Kotora, Budve ili Porto Montenegra za nekoliko minuta."
+    "seoDesc": "Aerodrom Tivat (TIV) je 85 km od Podgorice, 70 minuta kroz tunel Sozina. Iznajmite u Podgorici, vratite na TIV, ili preuzmite drugi auto u dolasku."
   },
   "budva": {
     "title": "Rent a Car Budva",
     "subtitle": "Rivijera Crne Gore, plaže, noćni život i šarm starog grada.",
-    "seoDesc": "Iznajmite auto u Budvi, Crna Gora. Odvezite se na plažu Mogren, Sveti Stefan i do najboljeg noćnog života rivijere."
+    "seoDesc": "Vozite 55 km jugozapadno od Podgorice do Budve za 1 sat kroz tunel Sozina. Sedamnaest rivijera plaža, Stari grad pod bedemima, Sveti Stefan 7 km dalje."
   },
   "perast": {
     "title": "Rent a Car Perast",
     "subtitle": "Barokni dragulj na Bokokotorskom zalivu.",
-    "seoDesc": "Iznajmite auto i posjetite Perast, barokni dragulj na Bokokotorskom zalivu."
+    "seoDesc": "Vozite 100 km zapadno od Podgorice do Perasta za 1 sat 30 kroz tunel Sozina. Barokno selo, šesnaest crkava, ostrvo Gospe od Škrpjela."
   },
   "podgorica": {
     "title": "Rent a Car Podgorica",
@@ -195,27 +195,27 @@
   "podgorica-airport": {
     "title": "Rent a Car Aerodrom Podgorica",
     "subtitle": "Glavna međunarodna kapija Crne Gore.",
-    "seoDesc": "Preuzmite rent a car na aerodromu Podgorica (TGD). Isporučujemo vozilo do zone dolaska."
+    "seoDesc": "Aerodrom Podgorica (TGD) je 11 km južno od grada, 20 minuta vožnje. Najbliži aerodrom prijestonici, cijele godine, brza carina."
   },
   "dubrovnik-airport": {
     "title": "Rent a Car Aerodrom Dubrovnik",
     "subtitle": "Doletite u Hrvatsku, odvezite se u Crnu Goru.",
-    "seoDesc": "Iznajmite auto na aerodromu Dubrovnik i odvezite se u Crnu Goru. Prelazak granice za manje od sat vremena. Puno osiguranje i zeleni karton uključeni."
+    "seoDesc": "Aerodrom Dubrovnik je 145 km zapadno od Podgorice, 2 sata 30 minuta preko Herceg Novog i prelaza Debeli Brijeg. Zelena karta spremna."
   },
   "tivat": {
     "title": "Rent a Car Tivat",
     "subtitle": "Grad marina Crne Gore na Bokokotorskom zalivu.",
-    "seoDesc": "Iznajmite auto u Tivtu, domu marine Porto Crna Gora. Istražite obližnje plaže, Kotor i Bokokotorski zaliv uz povoljnu najam automobila."
+    "seoDesc": "Tivat je 85 km od Podgorice, 70 minuta zapadno kroz tunel Sozina. Marina Porto Montenegro, riblje konobe uz obalu i parking uz obalnu stazu."
   },
   "montenegro": {
     "title": "Rent a Car i Vodič za Crnu Goru",
     "subtitle": "Sve što treba da znate o vožnji u Crnoj Gori.",
-    "seoDesc": "Kompletan vodič za vožnju u Crnoj Gori. Saobraćajna pravila, ograničenja brzine, cijene goriva i najbolje panoramske rute od obale do planina."
+    "seoDesc": "Crnogorski put iz Podgorice: Skadarsko jezero na jugu, Ostrog 50 km sjeverozapadno, kanjoni Durmitora 140 km sjeverno. Zelena karta uračunata."
   },
   "border-crossing": {
     "title": "Vodič za Prelazak Granica na Balkanu",
     "subtitle": "Sve o prelaženju granica sa vašim rentiranim automobilom.",
-    "seoDesc": "Vodič za prelazak granica iz Crne Gore rentiranim autom. Osiguranje zeleni karton, potrebna dokumenta i savjeti za Hrvatsku, Bosnu, Albaniju i Srbiju."
+    "seoDesc": "Granični prelazi iz Podgorice: Albanija preko Božaja 40 km, Kosovo preko Kule 160 km, Hrvatska preko Debelog Brijega 145 km. Zelena karta svaki put."
   },
   "privacy": {
     "title": "Politika Privatnosti",
