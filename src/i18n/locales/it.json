@@ -101,7 +101,7 @@
   "book": {
     "title": "Trova la Tua Auto",
     "seoTitle": "Prenota un'Auto",
-    "seoDesc": "Prenota un'auto a noleggio a Podgorica in pochi secondi. Consegna aeroporto TGD a 11 km dal centro, conferma istantanea e cancellazione gratuita sulla"
+    "seoDesc": "Prenota un'auto a noleggio a Podgorica in pochi secondi. Consegna aeroporto TGD a 11 km dal centro, conferma istantanea e cancellazione gratuita."
   },
   "footer": {
     "brandDesc": "Noleggi a Podgorica per gli arrivi Ryanair e Wizz Air presso TGD. Esperti di strade di montagna interna, passo Durmitor fluente, e tariffe di consegna aeroporto piatte con assicurazione completa.",
@@ -131,12 +131,12 @@
     "searchCars": "Cerca Auto"
   },
   "home": {
-    "seoDesc": "Noleggio auto a Podgorica da €13 al giorno presso l'aeroporto TGD, 11 km dalla capitale. Lago di Skadar in 30 min, Durmitor in 2,5 ore, la costa a meno di"
+    "seoDesc": "Noleggio auto a Podgorica da €13 al giorno presso l'aeroporto TGD, 11 km dalla capitale."
   },
   "about": {
     "title": "Chi Siamo",
     "subtitle": "Aiutiamo i viaggiatori a esplorare il Montenegro dal 2007.",
-    "seoDesc": "Specialisti di noleggio presso l'Aeroporto di Podgorica per gli arrivi di voli low-cost. Conosciamo le strade del monastero di Ostrog, i ponti del Canyon",
+    "seoDesc": "Specialisti di noleggio presso l'Aeroporto di Podgorica per gli arrivi di voli low-cost.",
     "heading1": "Noleggio Auto a Podgorica",
     "p1": "Noleggio Auto a Podgorica connette i viaggiatori avventurosi con auto affidabili per raggiungere l'interno selvaggio del Montenegro rapidamente. Siamo un affiliato indipendente che lavora con partner locali di noleggio fidati: atterra con un volo low-cost, ritira le chiavi all'arrivo, e in un'ora puoi essere alle prese con i tornanti verso Durmitor o navigando la sponda del Lago Skadar.",
     "heading2": "Perché Podgorica?",
@@ -170,37 +170,37 @@
   "kotor": {
     "title": "Noleggio Auto a Kotor",
     "subtitle": "Esplora il gioiello UNESCO del Montenegro al tuo ritmo.",
-    "seoDesc": "Noleggia un'auto a Kotor, Montenegro. Esplora il centro storico UNESCO, le Bocche di Kotor e la vicina Perast con noleggio conveniente e consegna gratuita"
+    "seoDesc": "Noleggia un'auto a Kotor, Montenegro. Esplora il centro storico UNESCO, le Bocche di Kotor e la vicina Perast con noleggio conveniente e consegna."
   },
   "tivat-airport": {
     "title": "Noleggio Auto Aeroporto Tivat",
     "subtitle": "Ritira la tua auto a noleggio agli arrivi.",
-    "seoDesc": "Ritira la tua auto a noleggio all'aeroporto di Tivat (TIV). Ti aspettiamo agli arrivi con il veicolo pronto. Raggiungi Kotor, Budva o Porto Montenegro in"
+    "seoDesc": "Ritira la tua auto a noleggio all'aeroporto di Tivat (TIV). Ti aspettiamo agli arrivi con il veicolo pronto."
   },
   "budva": {
     "title": "Noleggio Auto a Budva",
     "subtitle": "La riviera del Montenegro, spiagge, vita notturna e fascino della città vecchia.",
-    "seoDesc": "Noleggia un'auto a Budva, Montenegro. Raggiungi la spiaggia di Mogren, Sveti Stefan e la migliore vita notturna della riviera. Assicurazione completa"
+    "seoDesc": "Noleggia un'auto a Budva, Montenegro. Raggiungi la spiaggia di Mogren, Sveti Stefan e la migliore vita notturna della riviera."
   },
   "perast": {
     "title": "Noleggio Auto a Perast",
     "subtitle": "Un gioiello barocco sulle Bocche di Kotor.",
-    "seoDesc": "Noleggia un'auto e visita Perast, un gioiello barocco sulle Bocche di Kotor. Ammira l'isola della Madonna dello Scalpello e splendidi palazzi sul"
+    "seoDesc": "Noleggia un'auto e visita Perast, un gioiello barocco sulle Bocche di Kotor."
   },
   "podgorica": {
     "title": "Noleggio Auto a Podgorica",
     "subtitle": "La capitale del Montenegro, cultura, fiumi e fascino moderno.",
-    "seoDesc": "Podgorica si trova a 44 m di elevazione dove cinque fiumi incontrano le montagne. Usa la capitale come base per il Lago di Skadar, Ostrog, Cetinje e"
+    "seoDesc": "Podgorica si trova a 44 m di elevazione dove cinque fiumi incontrano le montagne."
   },
   "podgorica-airport": {
     "title": "Noleggio Auto Aeroporto Podgorica",
     "subtitle": "Il principale gateway internazionale del Montenegro.",
-    "seoDesc": "Ritira la tua auto a noleggio all'aeroporto di Podgorica (TGD). Consegniamo il veicolo agli arrivi. Raggiungi la costa, il Lago di Scutari o il Parco"
+    "seoDesc": "Ritira la tua auto a noleggio all'aeroporto di Podgorica (TGD). Consegniamo il veicolo agli arrivi."
   },
   "dubrovnik-airport": {
     "title": "Noleggio Auto Aeroporto Dubrovnik",
     "subtitle": "Vola in Croazia, guida verso il Montenegro.",
-    "seoDesc": "Noleggia un'auto all'aeroporto di Dubrovnik e guida verso il Montenegro. Attraversa il confine in meno di un'ora. Assicurazione completa e carta verde"
+    "seoDesc": "Noleggia un'auto all'aeroporto di Dubrovnik e guida verso il Montenegro. Attraversa il confine in meno di un'ora."
   },
   "tivat": {
     "title": "Noleggio Auto a Tivat",
@@ -210,12 +210,12 @@
   "montenegro": {
     "title": "Noleggio Auto e Guida Viaggio Montenegro",
     "subtitle": "Tutto ciò che devi sapere sulla guida in Montenegro.",
-    "seoDesc": "Guida completa alla guida in Montenegro. Regole stradali, limiti di velocità, prezzi del carburante e i migliori percorsi panoramici dalla costa alle"
+    "seoDesc": "Guida completa alla guida in Montenegro. Regole stradali, limiti di velocità, prezzi del carburante e i migliori percorsi panoramici dalla costa."
   },
   "border-crossing": {
     "title": "Guida Attraversamento Frontiere Balcani",
     "subtitle": "Tutto sul passaggio delle frontiere con la tua auto a noleggio.",
-    "seoDesc": "Guida all'attraversamento delle frontiere dal Montenegro con auto a noleggio. Assicurazione carta verde, documenti necessari e consigli per Croazia"
+    "seoDesc": "Guida all'attraversamento delle frontiere dal Montenegro con auto a noleggio."
   },
   "privacy": {
     "title": "Informativa sulla Privacy",
@@ -993,27 +993,27 @@
   "lake-skadar": {
     "title": "Da Podgorica al Lago di Scutari",
     "subtitle": "391 km² di zone umide, pellicani, villaggi vinicoli e spiagge nascoste a soli 30 minuti a sud.",
-    "seoDesc": "30 min da TGD: 391 km² di zone umide, pellicani dalmati, 270 specie di uccelli, regione vinicola di Crmnica e gite in barca da Virpazar. Un'auto a"
+    "seoDesc": "30 min da TGD: 391 km² di zone umide, pellicani dalmati, 270 specie di uccelli, regione vinicola di Crmnica e gite in barca da Virpazar."
   },
   "cetinje": {
     "title": "Da Podgorica a Cetinje",
     "subtitle": "L'ex capitale reale del Montenegro a 670 m di altitudine, 35 minuti tra le nuvole.",
-    "seoDesc": "Salita di 35 min da Podgorica a Cetinje, capitale del Montenegro dal 1878 al 1918. Monastero di Cetinje, Palazzo di Re Nicola, poi il Mausoleo di Njegoš"
+    "seoDesc": "Salita di 35 min da Podgorica a Cetinje, capitale del Montenegro dal 1878 al 1918."
   },
   "durmitor": {
     "title": "Da Podgorica al Durmitor",
     "subtitle": "Vette UNESCO, laghi glaciali e il secondo canyon più profondo del mondo, 2,5 ore a nord.",
-    "seoDesc": "2,5 ore da TGD attraverso il Canyon della Morača fino alle vette del Durmitor (2.522 m). Lago Nero, Canyon della Tara (1.300 m), Žabljak a 1.456 m. SUV e"
+    "seoDesc": "2,5 ore da TGD attraverso il Canyon della Morača fino alle vette del Durmitor (2.522 m). Lago Nero, Canyon della Tara (1.300 m), Žabljak a 1.456 m."
   },
   "ostrog-monastery": {
     "title": "Da Podgorica al Monastero di Ostrog",
     "subtitle": "Un monastero del XVII secolo scavato in una parete rocciosa di 900 m, 2 milioni di visitatori all'anno non possono sbagliarsi.",
-    "seoDesc": "45 min da Podgorica a un monastero incastonato nella roccia a 900 m. Ostrog accoglie 2 milioni di pellegrini all'anno, arrivate all'alba per evitare la"
+    "seoDesc": "45 min da Podgorica a un monastero incastonato nella roccia a 900 m."
   },
   "niksic": {
     "title": "Da Podgorica a Nikšić",
     "subtitle": "Birra, rovine di fortezze e l'ultimo rifornimento prima del Durmitor, 1 ora da Podgorica.",
-    "seoDesc": "Un'ora di guida fino alla seconda città del Montenegro e capitale della birra. Visita Trebjesa, fai il pieno, poi prosegui verso nord alle vette del"
+    "seoDesc": "Un'ora di guida fino alla seconda città del Montenegro e capitale della birra."
   },
   "cetinjeBody": {
     "h1": "Cetinje, dove un regno viveva a 670 metri",
@@ -1097,7 +1097,7 @@
   },
   "contact": {
     "title": "Contattaci",
-    "seoDesc": "In arrivo presso TGD o soggiorno nell'entroterra? Email, WhatsApp o il modulo qui sotto vi aiuta a ottenere preventivi rapidi e slot di consegna in",
+    "seoDesc": "In arrivo presso TGD o soggiorno nell'entroterra? Email, WhatsApp o il modulo qui sotto vi aiuta a ottenere preventivi rapidi e slot di consegna.",
     "heading": "Contattaci",
     "intro": "Hai una domanda sul noleggio auto a Podgorica? Contattaci e ti aiuteremo a trovare il veicolo perfetto per il tuo viaggio."
   }

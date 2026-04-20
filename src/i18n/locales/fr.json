@@ -101,7 +101,7 @@
   "book": {
     "title": "Trouvez Votre Voiture",
     "seoTitle": "Réserver une Voiture",
-    "seoDesc": "Réservez une voiture de location à Podgorica en quelques secondes. Remise à l'aéroport TGD à 11 km du centre, confirmation instantanée et annulation"
+    "seoDesc": "Réservez une voiture de location à Podgorica en quelques secondes."
   },
   "footer": {
     "brandDesc": "Locations à Podgorica pour les arrivées Ryanair et Wizz Air à TGD. Expertise des routes de montagne, maîtrise du col de Durmitor, et tarifs de remise aéroport fixes avec assurance complète.",
@@ -131,12 +131,12 @@
     "searchCars": "Rechercher"
   },
   "home": {
-    "seoDesc": "Location de voiture à Podgorica à partir de €13 par jour à l'aéroport TGD, 11 km de la capitale. Lac de Skadar en 30 min, Durmitor en 2 h 30, la côte à"
+    "seoDesc": "Location de voiture à Podgorica à partir de €13 par jour à l'aéroport TGD, 11 km de la capitale."
   },
   "about": {
     "title": "À Propos",
     "subtitle": "Nous aidons les voyageurs à explorer le Monténégro depuis 2007.",
-    "seoDesc": "Spécialistes de la location à l'aéroport de Podgorica pour les arrivées low-cost. Nous connaissons les routes du monastère d'Ostrog, les ponts du canyon",
+    "seoDesc": "Spécialistes de la location à l'aéroport de Podgorica pour les arrivées low-cost.",
     "heading1": "Location de voitures à Podgorica",
     "p1": "Location de voitures à Podgorica connecte les voyageurs aventureux à des voitures de location fiables pour qu'ils puissent atteindre rapidement l'intérieur sauvage du Monténégro. Nous sommes un partenaire affilié indépendant travaillant avec des partenaires de location locaux de confiance. Atterrissez sur un vol bon marché, récupérez les clés à l'arrivée, et en une heure vous pouvez grimper les virages en épingle vers Durmitor ou longer les rives du lac Skadar.",
     "heading2": "Pourquoi Podgorica ?",
@@ -170,37 +170,37 @@
   "kotor": {
     "title": "Location de Voiture à Kotor",
     "subtitle": "Explorez le joyau UNESCO du Monténégro à votre rythme.",
-    "seoDesc": "Louez une voiture à Kotor, Monténégro. Explorez la vieille ville UNESCO, la baie de Kotor et Perast avec une location abordable et livraison gratuite à"
+    "seoDesc": "Louez une voiture à Kotor, Monténégro. Explorez la vieille ville UNESCO, la baie de Kotor et Perast avec une location abordable et livraison gratuite."
   },
   "tivat-airport": {
     "title": "Location de Voiture Aéroport Tivat",
     "subtitle": "Récupérez votre voiture aux arrivées.",
-    "seoDesc": "Récupérez votre voiture de location à l'aéroport de Tivat (TIV). Nous vous attendons aux arrivées avec votre véhicule. Rejoignez Kotor, Budva ou Porto"
+    "seoDesc": "Récupérez votre voiture de location à l'aéroport de Tivat (TIV). Nous vous attendons aux arrivées avec votre véhicule."
   },
   "budva": {
     "title": "Location de Voiture à Budva",
     "subtitle": "La riviera du Monténégro, plages, vie nocturne et charme de la vieille ville.",
-    "seoDesc": "Louez une voiture à Budva, Monténégro. Rejoignez la plage de Mogren, Sveti Stefan et la meilleure vie nocturne de la riviera. Assurance complète, sans"
+    "seoDesc": "Louez une voiture à Budva, Monténégro. Rejoignez la plage de Mogren, Sveti Stefan et la meilleure vie nocturne de la riviera."
   },
   "perast": {
     "title": "Location de Voiture à Perast",
     "subtitle": "Un joyau baroque sur la baie de Kotor.",
-    "seoDesc": "Louez une voiture et visitez Perast, un joyau baroque sur la baie de Kotor. Découvrez l'île Notre-Dame du Rocher et de superbes palais en bord de mer à"
+    "seoDesc": "Louez une voiture et visitez Perast, un joyau baroque sur la baie de Kotor."
   },
   "podgorica": {
     "title": "Location de Voiture à Podgorica",
     "subtitle": "La capitale du Monténégro, culture, rivières et charme moderne.",
-    "seoDesc": "Podgorica s'élève à 44 m d'altitude où cinq fleuves rencontrent les montagnes. Utilisez la capitale comme base pour explorer le lac de Skadar, Ostrog"
+    "seoDesc": "Podgorica s'élève à 44 m d'altitude où cinq fleuves rencontrent les montagnes."
   },
   "podgorica-airport": {
     "title": "Location de Voiture Aéroport Podgorica",
     "subtitle": "La principale porte internationale du Monténégro.",
-    "seoDesc": "Récupérez votre voiture à l'aéroport de Podgorica (TGD). Nous livrons votre véhicule aux arrivées. Rejoignez la côte, le lac Skadar ou le parc national de"
+    "seoDesc": "Récupérez votre voiture à l'aéroport de Podgorica (TGD). Nous livrons votre véhicule aux arrivées."
   },
   "dubrovnik-airport": {
     "title": "Location de Voiture Aéroport Dubrovnik",
     "subtitle": "Envolez-vous vers la Croatie, conduisez vers le Monténégro.",
-    "seoDesc": "Louez une voiture à l'aéroport de Dubrovnik et rejoignez le Monténégro. Passage de frontière en moins d'une heure. Assurance complète et carte verte"
+    "seoDesc": "Louez une voiture à l'aéroport de Dubrovnik et rejoignez le Monténégro. Passage de frontière en moins d'une heure."
   },
   "tivat": {
     "title": "Location de Voiture à Tivat",
@@ -210,17 +210,17 @@
   "montenegro": {
     "title": "Location de Voiture et Guide du Monténégro",
     "subtitle": "Tout ce que vous devez savoir sur la conduite au Monténégro.",
-    "seoDesc": "Guide complet de la conduite au Monténégro. Code de la route, limitations de vitesse, prix du carburant et les plus beaux itinéraires de la côte aux"
+    "seoDesc": "Guide complet de la conduite au Monténégro. Code de la route, limitations de vitesse, prix du carburant et les plus beaux itinéraires de la côte."
   },
   "border-crossing": {
     "title": "Guide Passage des Frontières Balkans",
     "subtitle": "Tout sur le passage des frontières avec votre voiture de location.",
-    "seoDesc": "Guide pour traverser les frontières depuis le Monténégro en voiture de location. Assurance carte verte, documents requis et conseils pour la Croatie, la"
+    "seoDesc": "Guide pour traverser les frontières depuis le Monténégro en voiture de location."
   },
   "privacy": {
     "title": "Politique de Confidentialité",
     "subtitle": "Comment nous traitons vos informations.",
-    "seoDesc": "Politique de confidentialité de Podgorica Car Hire. Comment nous collectons, utilisons et protégeons vos données personnelles lors de la recherche de"
+    "seoDesc": "Politique de confidentialité de Podgorica Car Hire. Comment nous collectons, utilisons et protégeons vos données personnelles lors de la recherche."
   },
   "terms": {
     "title": "Conditions Générales",
@@ -230,7 +230,7 @@
   "cookie-policy": {
     "title": "Politique de Cookies",
     "subtitle": "Comment nous utilisons les cookies sur ce site.",
-    "seoDesc": "Politique de cookies de Podgorica Car Hire. Découvrez quels cookies nous utilisons, comment le widget de réservation stocke vos préférences et comment les"
+    "seoDesc": "Politique de cookies de Podgorica Car Hire. Découvrez quels cookies nous utilisons, comment le widget de réservation stocke vos préférences et comment."
   },
   "featureCards": {
     "airportPickup": {
@@ -993,27 +993,27 @@
   "lake-skadar": {
     "title": "De Podgorica au lac Skadar",
     "subtitle": "391 km² de zones humides, pélicans, villages viticoles et plages secrètes à seulement 30 minutes au sud.",
-    "seoDesc": "30 min de TGD : 391 km² de zones humides, pélicans frisés, 270 espèces d'oiseaux, vignoble de Crmnica et croisières au départ de Virpazar. Une voiture de"
+    "seoDesc": "30 min de TGD : 391 km² de zones humides, pélicans frisés, 270 espèces d'oiseaux, vignoble de Crmnica et croisières au départ de Virpazar."
   },
   "cetinje": {
     "title": "De Podgorica à Cetinje",
     "subtitle": "L'ancienne capitale royale du Monténégro à 670 m d'altitude, 35 minutes dans les nuages.",
-    "seoDesc": "35 min de montée de Podgorica à Cetinje, capitale du Monténégro de 1878 à 1918. Monastère de Cetinje, palais du roi Nikola, puis mausolée de Njegoš sur le"
+    "seoDesc": "35 min de montée de Podgorica à Cetinje, capitale du Monténégro de 1878 à 1918."
   },
   "durmitor": {
     "title": "De Podgorica au Durmitor",
     "subtitle": "Sommets UNESCO, lacs glaciaires et le deuxième canyon le plus profond du monde, 2 h 30 vers le nord.",
-    "seoDesc": "2 h 30 de TGD à travers le canyon de la Morača jusqu'aux sommets du Durmitor (2 522 m). Lac Noir, canyon de la Tara (1 300 m de profondeur), Žabljak à 1"
+    "seoDesc": "2 h 30 de TGD à travers le canyon de la Morača jusqu'aux sommets du Durmitor (2 522 m)."
   },
   "ostrog-monastery": {
     "title": "De Podgorica au monastère d'Ostrog",
     "subtitle": "Un monastère du XVIIe siècle taillé dans une falaise de 900 m, 2 millions de visiteurs par an ne peuvent se tromper.",
-    "seoDesc": "45 min de Podgorica jusqu'à un monastère encastré dans la roche à 900 m d'altitude. Ostrog accueille 2 millions de pèlerins par an, arrivez à l'aube pour"
+    "seoDesc": "45 min de Podgorica jusqu'à un monastère encastré dans la roche à 900 m d'altitude."
   },
   "niksic": {
     "title": "De Podgorica à Nikšić",
     "subtitle": "Bière, ruines de forteresse et dernier plein avant le Durmitor, 1 heure de Podgorica.",
-    "seoDesc": "Une heure de route jusqu'à la deuxième ville du Monténégro et sa capitale brassicole. Visitez Trebjesa, faites le plein, puis cap au nord vers les sommets"
+    "seoDesc": "Une heure de route jusqu'à la deuxième ville du Monténégro et sa capitale brassicole."
   },
   "cetinjeBody": {
     "h1": "Cetinje, là où un royaume vivait à 670 mètres",
@@ -1097,7 +1097,7 @@
   },
   "contact": {
     "title": "Nous contacter",
-    "seoDesc": "Arrivée à TGD ou séjour en montagne ? Email, WhatsApp ou le formulaire ci-dessous pour des devis rapides et des créneaux de remise aéroport, généralement",
+    "seoDesc": "Arrivée à TGD ou séjour en montagne ? Email, WhatsApp ou le formulaire ci-dessous pour des devis rapides et des créneaux de remise aéroport.",
     "heading": "Nous contacter",
     "intro": "Une question sur la location de voiture à Podgorica ? Contactez-nous, nous vous aiderons à trouver le véhicule idéal pour votre séjour."
   }

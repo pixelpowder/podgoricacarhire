@@ -101,7 +101,7 @@
   "book": {
     "title": "Pronađite Vaš Auto",
     "seoTitle": "Rezervišite Auto",
-    "seoDesc": "Rezervirajte auto u Podgorici za sekunde. Preuzimanje na aerodromu TGD 11 km od centra, trenutna potvrda, i besplatno otkazivanje za većinu dnevnih"
+    "seoDesc": "Rezervirajte auto u Podgorici za sekunde. Preuzimanje na aerodromu TGD 11 km od centra, trenutna potvrda, i besplatno otkazivanje za većinu."
   },
   "footer": {
     "brandDesc": "Podgorica rentals za dolazake Ryanairom i Wizz Airom na TGD. Stručnjaci za planinske putanje, Durmitorski prolaz bez problema, i fiksne cijene preuzimanja na aerodromu sa punim osiguranjem.",
@@ -131,12 +131,12 @@
     "searchCars": "Pretraži Auta"
   },
   "home": {
-    "seoDesc": "Iznajmljivanje automobila u Podgorici od €13 dnevno na aerodromu TGD, 11 km od glavnog grada. Skadarsko jezero za 30 min, Durmitor za 2,5 sata, obala"
+    "seoDesc": "Iznajmljivanje automobila u Podgorici od €13 dnevno na aerodromu TGD, 11 km od glavnog grada."
   },
   "about": {
     "title": "O Nama",
     "subtitle": "Pomažemo putnicima da istraže Crnu Goru od 2007.",
-    "seoDesc": "Specijalizovani iznajmljivač automobila na aerodromu Podgorice za putovanje budžetskim letovima. Vozimo Ostrog monastery putanje, Tara Canyon mostove, i",
+    "seoDesc": "Specijalizovani iznajmljivač automobila na aerodromu Podgorice za putovanje budžetskim letovima.",
     "heading1": "Iznajmljivanje automobila Podgorica",
     "p1": "Iznajmljivanje automobila Podgorica povezuje avanturističke putnika sa pouzdanim automobilima kako bi brzo dostigli divlji enterijer Crne Gore. Predstavljamo nezavisne partnere sa pouzdanim lokalnim rentera, što znači: sletite na budžetski let, preuzmi ključeve pri dolasku i za sat vremena možete biti na serpentinama prema Durmitoru ili na obali Skadarskog jezera.",
     "heading2": "Zašto Podgorica?",
@@ -180,22 +180,22 @@
   "budva": {
     "title": "Rent a Car Budva",
     "subtitle": "Rivijera Crne Gore, plaže, noćni život i šarm starog grada.",
-    "seoDesc": "Iznajmite auto u Budvi, Crna Gora. Odvezite se na plažu Mogren, Sveti Stefan i do najboljeg noćnog života rivijere. Puno osiguranje, bez skrivenih"
+    "seoDesc": "Iznajmite auto u Budvi, Crna Gora. Odvezite se na plažu Mogren, Sveti Stefan i do najboljeg noćnog života rivijere."
   },
   "perast": {
     "title": "Rent a Car Perast",
     "subtitle": "Barokni dragulj na Bokokotorskom zalivu.",
-    "seoDesc": "Iznajmite auto i posjetite Perast, barokni dragulj na Bokokotorskom zalivu. Pogledajte ostrvo Gospa od Škrpjela i veličanstvene palate uz obalu sopstvenim"
+    "seoDesc": "Iznajmite auto i posjetite Perast, barokni dragulj na Bokokotorskom zalivu."
   },
   "podgorica": {
     "title": "Rent a Car Podgorica",
     "subtitle": "Glavni grad Crne Gore, kultura, rijeke i moderni šarm.",
-    "seoDesc": "Podgorica se nalazi na 44 m nadmorske visine gdje se pet rijeka susreće sa planinama. Koristite glavni grad kao baznu bazu za Skadarsko jezero, Ostrog"
+    "seoDesc": "Podgorica se nalazi na 44 m nadmorske visine gdje se pet rijeka susreće sa planinama."
   },
   "podgorica-airport": {
     "title": "Rent a Car Aerodrom Podgorica",
     "subtitle": "Glavna međunarodna kapija Crne Gore.",
-    "seoDesc": "Preuzmite rent a car na aerodromu Podgorica (TGD). Isporučujemo vozilo do zone dolaska. Stignite do obale, Skadarskog jezera ili Nacionalnog parka"
+    "seoDesc": "Preuzmite rent a car na aerodromu Podgorica (TGD). Isporučujemo vozilo do zone dolaska."
   },
   "dubrovnik-airport": {
     "title": "Rent a Car Aerodrom Dubrovnik",
@@ -993,17 +993,17 @@
   "lake-skadar": {
     "title": "Od Podgorice do Skadarskog jezera",
     "subtitle": "391 km² močvarnog divljeg područja, pelikani, vinska sela i skrivene plaže samo 30 minuta južno.",
-    "seoDesc": "30 min od TGD: 391 km² močvara, kudravi pelikani, 270 vrsta ptica, crmničko vinsko područje i izleti brodom iz Virpazara. Automobil otvara tiše uvale"
+    "seoDesc": "30 min od TGD: 391 km² močvara, kudravi pelikani, 270 vrsta ptica, crmničko vinsko područje i izleti brodom iz Virpazara."
   },
   "cetinje": {
     "title": "Od Podgorice do Cetinja",
     "subtitle": "Nekadašnja crnogorska prijestonica na 670 m nadmorske visine, 35 minuta do oblaka.",
-    "seoDesc": "35-minutni uspon od Podgorice do Cetinja, crnogorske prijestolnice od 1878. do 1918. Cetinjski manastir, Dvorac kralja Nikole, pa Njegošev mauzolej na"
+    "seoDesc": "35-minutni uspon od Podgorice do Cetinja, crnogorske prijestolnice od 1878. do 1918."
   },
   "durmitor": {
     "title": "Od Podgorice do Durmitora",
     "subtitle": "UNESCO vrhovi, glečerska jezera i drugi najdublji kanjon na svijetu, 2,5 sata na sjever.",
-    "seoDesc": "2,5 sata od TGD kroz kanjon Morače do vrhova Durmitora (2.522 m). Crno jezero, kanjon Tare (1.300 m dubine) i Žabljak na 1.456 m. Terenska vozila i lanci"
+    "seoDesc": "2,5 sata od TGD kroz kanjon Morače do vrhova Durmitora (2.522 m). Crno jezero, kanjon Tare (1.300 m dubine) i Žabljak na 1.456 m."
   },
   "ostrog-monastery": {
     "title": "Od Podgorice do manastira Ostrog",
@@ -1013,7 +1013,7 @@
   "niksic": {
     "title": "Od Podgorice do Nikšića",
     "subtitle": "Pivo, ruševine tvrđave i poslednja pumpa prije Durmitora, 1 sat od Podgorice.",
-    "seoDesc": "Sat vremena vožnje do drugog crnogorskog grada i pivske prijestolnice. Obilazak Trebjese, punjenje gorivom, pa na sjever ka vrhovima Durmitora. Nikšić je"
+    "seoDesc": "Sat vremena vožnje do drugog crnogorskog grada i pivske prijestolnice. Obilazak Trebjese, punjenje gorivom, pa na sjever ka vrhovima Durmitora."
   },
   "cetinjeBody": {
     "h1": "Cetinje, đe je kraljevstvo živjelo na 670 metara",
@@ -1097,7 +1097,7 @@
   },
   "contact": {
     "title": "Kontaktirajte nas",
-    "seoDesc": "Stižete na TGD ili ostajete u unutrašnjosti? Email, WhatsApp, ili obrazac ispod omogućavaju vam brze ponude i vremenske slotove preuzimanja, obično u roku",
+    "seoDesc": "Stižete na TGD ili ostajete u unutrašnjosti? Email, WhatsApp, ili obrazac ispod omogućavaju vam brze ponude i vremenske slotove preuzimanja, obično u.",
     "heading": "Kontaktirajte nas",
     "intro": "Imate pitanje o iznajmljivanju automobila u Podgorici? Javite nam se i pomoći ćemo vam pronaći savršeno vozilo za vaše putovanje."
   }
