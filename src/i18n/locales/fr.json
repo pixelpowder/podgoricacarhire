@@ -101,10 +101,10 @@
   "book": {
     "title": "Trouvez Votre Voiture",
     "seoTitle": "Réserver une Voiture",
-    "seoDesc": "Recherchez et réservez des voitures de location au Monténégro. Disponibilité en temps réel, confirmation instantanée, annulation gratuite."
+    "seoDesc": "Réservez une voiture de location à Podgorica en quelques secondes. Remise à l'aéroport TGD à 11 km du centre, confirmation instantanée et annulation gratuite sur la plupart des tarifs journaliers."
   },
   "footer": {
-    "brandDesc": "Location de voitures depuis Podgorica, capitale du Monténégro. Prise en charge aéroport, assurance tous risques.",
+    "brandDesc": "Locations à Podgorica pour les arrivées Ryanair et Wizz Air à TGD. Expertise des routes de montagne, maîtrise du col de Durmitor, et tarifs de remise aéroport fixes avec assurance complète.",
     "quickLinks": "Liens Rapides",
     "guides": "Guides",
     "locations": "Nos Agences",
@@ -131,12 +131,12 @@
     "searchCars": "Rechercher"
   },
   "home": {
-    "seoDesc": "Louez une voiture au Monténégro à partir de 13 €/jour. Prise en charge à l'aéroport de Tivat, Podgorica, Kotor, Budva et plus de 28 points. Annulation gratuite, assurance complète, sans frais cachés. Réservez en ligne en quelques minutes."
+    "seoDesc": "Location de voiture à Podgorica à partir de €13 par jour à l'aéroport TGD, 11 km de la capitale. Lac de Skadar en 30 min, Durmitor en 2 h 30, la côte à moins d'une heure."
   },
   "about": {
     "title": "À Propos",
     "subtitle": "Nous aidons les voyageurs à explorer le Monténégro depuis 2007.",
-    "seoDesc": "À propos de Podgorica Car Hire. Nous aidons les voyageurs à explorer le Monténégro depuis 2007 avec des voitures fiables, la livraison à l'aéroport et une expertise locale.",
+    "seoDesc": "Spécialistes de la location à l'aéroport de Podgorica pour les arrivées low-cost. Nous connaissons les routes du monastère d'Ostrog, les ponts du canyon de la Tara, et les petites routes du lac de Skadar sur le bout des doigts.",
     "heading1": "Location de voitures à Podgorica",
     "p1": "Location de voitures à Podgorica connecte les voyageurs aventureux à des voitures de location fiables pour qu'ils puissent atteindre rapidement l'intérieur sauvage du Monténégro. Nous sommes un partenaire affilié indépendant travaillant avec des partenaires de location locaux de confiance. Atterrissez sur un vol bon marché, récupérez les clés à l'arrivée, et en une heure vous pouvez grimper les virages en épingle vers Durmitor ou longer les rives du lac Skadar.",
     "heading2": "Pourquoi Podgorica ?",
@@ -190,7 +190,7 @@
   "podgorica": {
     "title": "Location de Voiture à Podgorica",
     "subtitle": "La capitale du Monténégro — culture, rivières et charme moderne.",
-    "seoDesc": "Location de voiture à Podgorica, capitale du Monténégro. Explorez le lac Skadar, le monastère d'Ostrog et Durmitor en voiture. Prise en charge à l'aéroport disponible."
+    "seoDesc": "Podgorica s'élève à 44 m d'altitude où cinq fleuves rencontrent les montagnes. Utilisez la capitale comme base pour explorer le lac de Skadar, Ostrog, Cetinje et Durmitor."
   },
   "podgorica-airport": {
     "title": "Location de Voiture Aéroport Podgorica",
@@ -1097,7 +1097,7 @@
   },
   "contact": {
     "title": "Nous contacter",
-    "seoDesc": "Contactez Podgorica Car Hire. Email, WhatsApp et formulaire de contact.",
+    "seoDesc": "Arrivée à TGD ou séjour en montagne ? Email, WhatsApp ou le formulaire ci-dessous pour des devis rapides et des créneaux de remise aéroport, généralement dans les deux heures.",
     "heading": "Nous contacter",
     "intro": "Une question sur la location de voiture à Podgorica ? Contactez-nous, nous vous aiderons à trouver le véhicule idéal pour votre séjour."
   }

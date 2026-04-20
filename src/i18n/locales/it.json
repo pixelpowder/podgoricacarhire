@@ -101,10 +101,10 @@
   "book": {
     "title": "Trova la Tua Auto",
     "seoTitle": "Prenota un'Auto",
-    "seoDesc": "Cerca e prenota auto a noleggio in Montenegro. Disponibilità in tempo reale, conferma immediata, cancellazione gratuita."
+    "seoDesc": "Prenota un'auto a noleggio a Podgorica in pochi secondi. Consegna aeroporto TGD a 11 km dal centro, conferma istantanea e cancellazione gratuita sulla maggior parte delle tariffe giornaliere."
   },
   "footer": {
-    "brandDesc": "Noleggio auto da Podgorica, capitale del Montenegro. Ritiro in aeroporto, assicurazione completa.",
+    "brandDesc": "Noleggi a Podgorica per gli arrivi Ryanair e Wizz Air presso TGD. Esperti di strade di montagna interna, passo Durmitor fluente, e tariffe di consegna aeroporto piatte con assicurazione completa.",
     "quickLinks": "Link Rapidi",
     "guides": "Guide",
     "locations": "Sedi",
@@ -131,12 +131,12 @@
     "searchCars": "Cerca Auto"
   },
   "home": {
-    "seoDesc": "Noleggia un'auto in Montenegro da 13 €/giorno. Ritiro all'aeroporto di Tivat, Podgorica, Kotor, Budva e oltre 28 punti. Cancellazione gratuita, assicurazione completa, nessun costo nascosto. Prenota online in pochi minuti."
+    "seoDesc": "Noleggio auto a Podgorica da €13 al giorno presso l'aeroporto TGD, 11 km dalla capitale. Lago di Skadar in 30 min, Durmitor in 2,5 ore, la costa a meno di un'ora."
   },
   "about": {
     "title": "Chi Siamo",
     "subtitle": "Aiutiamo i viaggiatori a esplorare il Montenegro dal 2007.",
-    "seoDesc": "Chi è Podgorica Car Hire. Dal 2007 aiutiamo i viaggiatori a esplorare il Montenegro con auto affidabili, consegna in aeroporto e competenza locale.",
+    "seoDesc": "Specialisti di noleggio presso l'Aeroporto di Podgorica per gli arrivi di voli low-cost. Conosciamo le strade del monastero di Ostrog, i ponti del Canyon Tara e le strade secondarie del Lago di Skadar.",
     "heading1": "Noleggio Auto a Podgorica",
     "p1": "Noleggio Auto a Podgorica connette i viaggiatori avventurosi con auto affidabili per raggiungere l'interno selvaggio del Montenegro rapidamente. Siamo un affiliato indipendente che lavora con partner locali di noleggio fidati: atterra con un volo low-cost, ritira le chiavi all'arrivo, e in un'ora puoi essere alle prese con i tornanti verso Durmitor o navigando la sponda del Lago Skadar.",
     "heading2": "Perché Podgorica?",
@@ -190,7 +190,7 @@
   "podgorica": {
     "title": "Noleggio Auto a Podgorica",
     "subtitle": "La capitale del Montenegro — cultura, fiumi e fascino moderno.",
-    "seoDesc": "Noleggio auto a Podgorica, capitale del Montenegro. Esplora il Lago di Scutari, il Monastero di Ostrog e Durmitor con un'auto a noleggio. Ritiro in aeroporto disponibile."
+    "seoDesc": "Podgorica si trova a 44 m di elevazione dove cinque fiumi incontrano le montagne. Usa la capitale come base per il Lago di Skadar, Ostrog, Cetinje e Durmitor."
   },
   "podgorica-airport": {
     "title": "Noleggio Auto Aeroporto Podgorica",
@@ -1097,7 +1097,7 @@
   },
   "contact": {
     "title": "Contattaci",
-    "seoDesc": "Entra in contatto con Podgorica Car Hire. Email, WhatsApp e modulo di contatto.",
+    "seoDesc": "In arrivo presso TGD o soggiorno nell'entroterra? Email, WhatsApp o il modulo qui sotto vi aiuta a ottenere preventivi rapidi e slot di consegna in aeroporto, solitamente entro due ore.",
     "heading": "Contattaci",
     "intro": "Hai una domanda sul noleggio auto a Podgorica? Contattaci e ti aiuteremo a trovare il veicolo perfetto per il tuo viaggio."
   }
