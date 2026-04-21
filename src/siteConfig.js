@@ -4,7 +4,7 @@ const siteConfig = {
   domain: "podgoricacarhire.com",
   phone: "",
   email: "info@podgoricacarhire.com",
-  address: "Podgorica, Montenegro",
+  address: "Tabacina BB, Kotor, 85330",
 
   hero: {
     headline: "Podgorica Car Hire",
