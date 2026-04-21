@@ -2,10 +2,13 @@ import { t, buildAlternates } from '../../metadata';
 import PodgoricaToDurmitor from '@/src/components/pages/blog/PodgoricaToDurmitor';
 
 export async function generateMetadata() {
+  const title = t('en', 'blogDurmitor.title') + ' | Podgorica Car Hire';
+  const description = t('en', 'blogDurmitor.description');
   return {
-    title: t('en', 'blogDurmitor.title') + ' | Podgorica Car Hire',
-    description: t('en', 'blogDurmitor.description'),
+    title: title,
+    description: description,
     alternates: buildAlternates('blog/podgorica-to-durmitor'),
+    openGraph: { title, description, type: 'website' },
   };
 }
 

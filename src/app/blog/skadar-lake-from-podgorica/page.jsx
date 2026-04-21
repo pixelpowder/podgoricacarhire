@@ -2,10 +2,13 @@ import { t, buildAlternates } from '../../metadata';
 import SkadarLakeFromPodgorica from '@/src/components/pages/blog/SkadarLakeFromPodgorica';
 
 export async function generateMetadata() {
+  const title = t('en', 'blogSkadar.title') + ' | Podgorica Car Hire';
+  const description = t('en', 'blogSkadar.description');
   return {
-    title: t('en', 'blogSkadar.title') + ' | Podgorica Car Hire',
-    description: t('en', 'blogSkadar.description'),
+    title: title,
+    description: description,
     alternates: buildAlternates('blog/skadar-lake-from-podgorica'),
+    openGraph: { title, description, type: 'website' },
   };
 }
 

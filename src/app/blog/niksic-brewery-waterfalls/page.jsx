@@ -2,10 +2,13 @@ import { t, buildAlternates } from '../../metadata';
 import NiksicBreweryWaterfalls from '@/src/components/pages/blog/NiksicBreweryWaterfalls';
 
 export async function generateMetadata() {
+  const title = t('en', 'blogNiksic.title') + ' | Podgorica Car Hire';
+  const description = t('en', 'blogNiksic.description');
   return {
-    title: t('en', 'blogNiksic.title') + ' | Podgorica Car Hire',
-    description: t('en', 'blogNiksic.description'),
+    title: title,
+    description: description,
     alternates: buildAlternates('blog/niksic-brewery-waterfalls'),
+    openGraph: { title, description, type: 'website' },
   };
 }
 

@@ -2,10 +2,13 @@ import { t, buildAlternates } from '../metadata';
 import Cetinje from '@/src/components/pages/Cetinje';
 
 export async function generateMetadata() {
+  const title = t('en', 'cetinje.title') + ' | Podgorica Car Hire';
+  const description = t('en', 'cetinje.seoDesc');
   return {
-    title: t('en', 'cetinje.title') + ' | Podgorica Car Hire',
-    description: t('en', 'cetinje.seoDesc'),
+    title: title,
+    description: description,
     alternates: buildAlternates('cetinje'),
+    openGraph: { title, description, type: 'website' },
   };
 }
 

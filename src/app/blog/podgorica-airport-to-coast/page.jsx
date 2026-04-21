@@ -2,10 +2,13 @@ import { t, buildAlternates } from '../../metadata';
 import PodgoricaAirportToCoast from '@/src/components/pages/blog/PodgoricaAirportToCoast';
 
 export async function generateMetadata() {
+  const title = t('en', 'blogAirportCoast.title') + ' | Podgorica Car Hire';
+  const description = t('en', 'blogAirportCoast.description');
   return {
-    title: t('en', 'blogAirportCoast.title') + ' | Podgorica Car Hire',
-    description: t('en', 'blogAirportCoast.description'),
+    title: title,
+    description: description,
     alternates: buildAlternates('blog/podgorica-airport-to-coast'),
+    openGraph: { title, description, type: 'website' },
   };
 }
 
