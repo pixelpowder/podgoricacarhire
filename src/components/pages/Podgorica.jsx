@@ -19,7 +19,7 @@ export default function Podgorica() {
       <h3>{t('podgoricaBody.danilovgradTitle')}</h3>
       <p>{t('podgoricaBody.danilovgradText')}</p>
       <h3>{t('podgoricaBody.durmitorTitle')}</h3>
-      <p>{t('podgoricaBody.zabljak')} {t('podgoricaBody.durmitorLinkPre')}<a href={localePath('/durmitor')}>{t('podgoricaBody.durmitorLinkText')}</a>{t('podgoricaBody.durmitorLinkPost')}</p>
+      <p>{t('podgoricaBody.zabljak')} {t('podgoricaBody.durmitorLinkPre')} <a href={localePath('/durmitor')}>{t('podgoricaBody.durmitorLinkText')}</a> {t('podgoricaBody.durmitorLinkPost')}</p>
     </ContentPage>
   );
 }

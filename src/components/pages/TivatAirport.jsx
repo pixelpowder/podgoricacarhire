@@ -20,7 +20,7 @@ export default function TivatAirport() {
       <h2>{t('tivatAirportBody.facilitiesTitle')}</h2>
       <p>{t('tivatAirportBody.facilitiesText')}</p>
       <h2>{t('tivatAirportBody.whyTitle')}</h2>
-      <p>{t('tivatAirportBody.whyText')} {t('tivatAirportBody.budvaLinkPre')}<a href={localePath('/budva')}>{t('tivatAirportBody.budvaLinkText')}</a>{t('tivatAirportBody.budvaLinkPost')}</p>
+      <p>{t('tivatAirportBody.whyText')} {t('tivatAirportBody.budvaLinkPre')} <a href={localePath('/budva')}>{t('tivatAirportBody.budvaLinkText')}</a> {t('tivatAirportBody.budvaLinkPost')}</p>
       <p>{t('tivatAirportBody.meetText')}</p>
     </ContentPage>
   );

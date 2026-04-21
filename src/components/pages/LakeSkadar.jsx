@@ -20,7 +20,7 @@ export default function LakeSkadar() {
       <h2>{t('lakeSkadarBody.wineTitle')}</h2>
       <p>{t('lakeSkadarBody.wineText')}</p>
       <h2>{t('lakeSkadarBody.drivingTitle')}</h2>
-      <p>{t('lakeSkadarBody.drivingText')} {t('lakeSkadarBody.cetinjeLinkPre')}<a href={localePath('/cetinje')}>{t('lakeSkadarBody.cetinjeLinkText')}</a>{t('lakeSkadarBody.cetinjeLinkPost')}</p>
+      <p>{t('lakeSkadarBody.drivingText')} {t('lakeSkadarBody.cetinjeLinkPre')} <a href={localePath('/cetinje')}>{t('lakeSkadarBody.cetinjeLinkText')}</a> {t('lakeSkadarBody.cetinjeLinkPost')}</p>
     </ContentPage>
   );
 }

@@ -10,7 +10,7 @@ export default function Montenegro() {
       <p>{t('montenegroBody.p1')}</p>
       <p>{t('montenegroBody.p2')}</p>
       <h2>{t('montenegroBody.startTitle')}</h2>
-      <p>{t('montenegroBody.startText')} <a href={localePath('/tivat-airport')}>{t('montenegroBody.tivatLinkText')}</a>{t('montenegroBody.tivatLinkPost')}</p>
+      <p>{t('montenegroBody.startText')} <a href={localePath('/tivat-airport')}>{t('montenegroBody.tivatLinkText')}</a> {t('montenegroBody.tivatLinkPost')}</p>
       <h2>{t('montenegroBody.timesTitle')}</h2>
       <p>{t('montenegroBody.timesText1')}</p>
       <p>{t('montenegroBody.timesText2')}</p>

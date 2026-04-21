@@ -17,7 +17,7 @@ export default function DubrovnikAirport() {
       <p>{t('dubrovnikAirportBody.p2')}</p>
       <p>{t('dubrovnikAirportBody.p3')}</p>
       <h2>{t('dubrovnikAirportBody.borderTitle')}</h2>
-      <p>{t('dubrovnikAirportBody.borderText')} {t('dubrovnikAirportBody.borderLinkPre')}<a href={localePath('/border-crossing-guide')}>{t('dubrovnikAirportBody.borderLinkText')}</a>{t('dubrovnikAirportBody.borderLinkPost')}</p>
+      <p>{t('dubrovnikAirportBody.borderText')} {t('dubrovnikAirportBody.borderLinkPre')} <a href={localePath('/border-crossing-guide')}>{t('dubrovnikAirportBody.borderLinkText')}</a> {t('dubrovnikAirportBody.borderLinkPost')}</p>
       <h2>{t('dubrovnikAirportBody.facilitiesTitle')}</h2>
       <p>{t('dubrovnikAirportBody.facilitiesText1')}</p>
       <p>{t('dubrovnikAirportBody.facilitiesText2')}</p>
