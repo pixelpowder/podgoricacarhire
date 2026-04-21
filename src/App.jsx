@@ -36,6 +36,90 @@ import {
 import config from './siteConfig';
 import './App.css';
 
+/* ─── FLEET SHOWCASE (homepage) ────────────────────────── */
+const FLEET_TABS = [
+  { key: 'all',     fallback: 'All' },
+  { key: 'economy', fallback: 'Economy' },
+  { key: 'midsize', fallback: 'Mid-Size' },
+  { key: 'suv',     fallback: 'Crossover' },
+];
+
+// Homepage curates 6 of 7 — the front-of-fleet mix at TGD.
+const HOMEPAGE_FLEET_SLUGS = [
+  'vw-polo', 'renault-clio', 'toyota-yaris',
+  'peugeot-308', 'vw-golf', 'kia-stonic',
+];
+
+function FleetShowcase() {
+  const { t, localePath } = useTranslation();
+  const [activeTab, setActiveTab] = useState('all');
+  const tf = (key, fb) => {
+    const v = t(key);
+    return v && v !== key ? v : fb;
+  };
+  const homepageCars = config.cars.filter(c => HOMEPAGE_FLEET_SLUGS.includes(c.slug));
+  const filtered = activeTab === 'all'
+    ? homepageCars
+    : homepageCars.filter(c => c.typeGroup === activeTab);
+
+  return (
+    <section className="section fleet-showcase" id="fleet-info">
+      <div className="container">
+        <div className="section-header">
+          <span className="section-label">{tf('fleetShowcase.label', 'Know your car')}</span>
+          <h2 className="section-title">{tf('fleetShowcase.title', 'Guides to every car on the TGD rank')}</h2>
+          <p className="section-subtitle">{tf('fleetShowcase.subtitle', 'Specs, fuel use, boot size and what each car is really good at from Podgorica Airport.')}</p>
+        </div>
+
+        <div className="fleet-showcase__tabs" role="tablist">
+          {FLEET_TABS.map(tab => (
+            <button
+              key={tab.key}
+              role="tab"
+              aria-selected={activeTab === tab.key}
+              onClick={() => setActiveTab(tab.key)}
+              className={`fleet-showcase__tab${activeTab === tab.key ? ' fleet-showcase__tab--active' : ''}`}
+            >
+              {tf(`fleetShowcase.tabs.${tab.key}`, tab.fallback)}
+            </button>
+          ))}
+        </div>
+
+        <div className="fleet-showcase__strip">
+          {filtered.map((car) => {
+            const tk = (sub, fb) => {
+              const val = t(`cars.${car.slug}.${sub}`);
+              return val && val !== `cars.${car.slug}.${sub}` ? val : fb;
+            };
+            const name = tk('name', car.name);
+            const category = tk('category', car.category);
+            return (
+              <a
+                key={car.slug}
+                href={localePath(`/cars/${car.slug}`)}
+                className="fleet-showcase__chip"
+                title={tk('tagline', car.tagline)}
+              >
+                <div className="fleet-showcase__chip-img" style={{ backgroundImage: `url(${car.image})` }} />
+                <div className="fleet-showcase__chip-body">
+                  <div className="fleet-showcase__chip-cat">{category}</div>
+                  <div className="fleet-showcase__chip-name">{name}</div>
+                </div>
+              </a>
+            );
+          })}
+        </div>
+
+        <div className="fleet-showcase__all">
+          <a href={localePath('/cars')} className="fleet-showcase__all-link">
+            {tf('fleetShowcase.viewAll', 'See all fleet guides')} <ArrowRight size={14} />
+          </a>
+        </div>
+      </div>
+    </section>
+  );
+}
+
 /* ─── ICON MAP ─────────────────────────────────────────── */
 const FEATURE_ICONS = {
   'map-pin': MapPin,
@@ -832,6 +916,7 @@ export default function App() {
         </div>
         <Features />
         <Fleet />
+        <FleetShowcase />
         {/* <Reviews /> */}
         <HowItWorks />
         <BlogCards />
