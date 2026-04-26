@@ -496,9 +496,9 @@ function MountainRoutes() {
         </div>
         <div className="mountain-grid">
           {[
-            { title: 'Durmitor & \u017dabljak', desc: 'UNESCO national park at 1,450 m. Black Lake, Tara Bridge, winter skiing at Savin Kuk. Fill up in Nik\u0161i\u0107 — fuel is scarce beyond.', distance: '170 km', time: '2.5 hours', image: '/img/durmitor-mountains.webp' },
-            { title: 'Mora\u010Da Canyon', desc: 'Vertical limestone gorge with a 13th-century monastery tucked inside. The road clings to the cliff face — one of Europe\'s most dramatic drives.', distance: '65 km', time: '1 hour', image: '/img/moraca-canyon.webp' },
-            { title: 'Ostrog Monastery', desc: 'Cliff-carved Orthodox monastery — Montenegro\'s most visited pilgrimage site. The upper monastery is built into a sheer rock face at 900 m.', distance: '50 km', time: '45 min', image: '/img/ostrog-monastery.webp' },
+            { title: 'Durmitor & \u017dabljak', desc: 'UNESCO national park at 1,450 m. Black Lake, Tara Bridge, winter skiing at Savin Kuk. Fill up in Nik\u0161i\u0107, fuel is scarce beyond.', distance: '170 km', time: '2.5 hours', image: '/img/durmitor-mountains.webp' },
+            { title: 'Mora\u010Da Canyon', desc: 'Vertical limestone gorge with a 13th-century monastery tucked inside. The road clings to the cliff face, one of Europe\'s most dramatic drives.', distance: '65 km', time: '1 hour', image: '/img/moraca-canyon.webp' },
+            { title: 'Ostrog Monastery', desc: 'Cliff-carved Orthodox monastery, Montenegro\'s most visited pilgrimage site. The upper monastery is built into a sheer rock face at 900 m.', distance: '50 km', time: '45 min', image: '/img/ostrog-monastery.webp' },
             { title: 'Lake Skadar Wine Trail', desc: 'Boat through lily pads, taste Vranac reds at lakeside vineyards in Crmnica. The Balkans\' largest lake is just 30 minutes south.', distance: '30 km', time: '30 min', image: '/img/lake-skadar.webp' },
           ].map((route) => (
             <div key={route.title} className="mountain-card reveal-item">

@@ -3,7 +3,7 @@
 export const carMetas = {
   'vw-polo': {
     en: { title: 'VW Polo Hire Podgorica | Easy-Park City Economy Hatch',
-          desc: 'Rent a VW Polo at Podgorica Airport — 5.2 L/100 km petrol hatch that fits the capital\u2019s free kerbside bays and cruises the Sozina motorway.' },
+          desc: 'Rent a VW Polo at Podgorica Airport, 5.2 L/100 km petrol hatch that fits the capital\u2019s free kerbside bays and cruises the Sozina motorway.' },
     de: { title: 'VW Polo Mieten in Podgorica | Wendiger Kleinwagen',
           desc: 'Mieten Sie einen VW Polo am Flughafen Podgorica \u2014 5,2 L/100 km, ideal fürs freie Parken in der Hauptstadt und die Sozina-Mautstraße.' },
     ru: { title: 'Аренда VW Polo в Подгорице | Городской хэтчбек',

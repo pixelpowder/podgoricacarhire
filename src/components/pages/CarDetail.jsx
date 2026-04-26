@@ -26,13 +26,13 @@ import {
 
 // One UNIQUE inline Montenegro-road photo per car. Podgorica/inland flavour.
 const INLINE_PHOTOS = {
-  'vw-polo':        { src: '/img/fleet-inline/village-trees.jpg',     alt: 'Inland Montenegro stone village',                 caption: 'The back-road villages around Skadar Lake — tight lanes and free shoulder parking the Polo slips into without drama.' },
-  'renault-clio':   { src: '/img/fleet-inline/coastal-road.jpg',      alt: 'Road from Podgorica toward the coast',            caption: 'The Sozina toll motorway south of Podgorica — the exact route the default TGD rental was built for.' },
-  'peugeot-308':    { src: '/img/fleet-inline/mountain-highway.jpg',  alt: 'Smokovac motorway through the canyon',            caption: "The new Smokovac–Mateševo section toward Kolašin — the 308's natural habitat: cruise set, diesel humming, canyon walls sliding past." },
-  'renault-megane': { src: '/img/fleet-inline/sea-road.jpg',          alt: 'Coastal road below Sozina tunnel',                caption: 'The Podgorica–Bar motorway past the Sozina tunnel — the Megane eats this flat distance at 4.3 L/100 km in top gear.' },
-  'kia-stonic':     { src: '/img/fleet-inline/rocky-road.jpg',        alt: 'Broken inland tarmac toward Ostrog',              caption: "Inland Montenegro — the Stonic\u2019s ride height clears the patchier M9 stretches toward Ostrog without paying full SUV money." },
-  'vw-golf':        { src: '/img/fleet-inline/forest-road.jpg',       alt: 'Tree-lined road through Morača canyon',           caption: 'The Morača canyon climb to Kolašin — DSG plus 2.0 TDI takes the guesswork out of gear changes on sustained 8% gradients.' },
-  'toyota-yaris':   { src: '/img/fleet-inline/aerial-mountains.jpg',  alt: 'Aerial view of central Montenegro',               caption: "A fortnight of Podgorica-based driving costs under €80 in fuel in the Yaris Hybrid — city heat, canyon air-con, quietly remarkable." },
+  'vw-polo':        { src: '/img/fleet-inline/village-trees.jpg',     alt: 'Inland Montenegro stone village',                 caption: 'The back-road villages around Skadar Lake, tight lanes and free shoulder parking the Polo slips into without drama.' },
+  'renault-clio':   { src: '/img/fleet-inline/coastal-road.jpg',      alt: 'Road from Podgorica toward the coast',            caption: 'The Sozina toll motorway south of Podgorica, the exact route the default TGD rental was built for.' },
+  'peugeot-308':    { src: '/img/fleet-inline/mountain-highway.jpg',  alt: 'Smokovac motorway through the canyon',            caption: "The new Smokovac–Mateševo section toward Kolašin, the 308's natural habitat: cruise set, diesel humming, canyon walls sliding past." },
+  'renault-megane': { src: '/img/fleet-inline/sea-road.jpg',          alt: 'Coastal road below Sozina tunnel',                caption: 'The Podgorica–Bar motorway past the Sozina tunnel, the Megane eats this flat distance at 4.3 L/100 km in top gear.' },
+  'kia-stonic':     { src: '/img/fleet-inline/rocky-road.jpg',        alt: 'Broken inland tarmac toward Ostrog',              caption: "Inland Montenegro, the Stonic\u2019s ride height clears the patchier M9 stretches toward Ostrog without paying full SUV money." },
+  'vw-golf':        { src: '/img/fleet-inline/forest-road.jpg',       alt: 'Tree-lined road through Morača canyon',           caption: 'The Morača canyon climb to Kolašin, DSG plus 2.0 TDI takes the guesswork out of gear changes on sustained 8% gradients.' },
+  'toyota-yaris':   { src: '/img/fleet-inline/aerial-mountains.jpg',  alt: 'Aerial view of central Montenegro',               caption: "A fortnight of Podgorica-based driving costs under €80 in fuel in the Yaris Hybrid, city heat, canyon air-con, quietly remarkable." },
   _default:         { src: '/img/fleet-inline/sunset-montenegro.jpg', alt: 'Montenegro mountain landscape at sunset',         caption: 'From Podgorica you reach coast, canyon and mountain in a single day.' },
 };
 

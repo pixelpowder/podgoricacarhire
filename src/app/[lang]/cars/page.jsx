@@ -18,7 +18,7 @@ export async function generateMetadata({ params }) {
   const descTranslated = t(lang, descKey);
   const description = descTranslated !== descKey
     ? descTranslated
-    : 'Browse the Podgorica Car Hire fleet — economy, mid-size and crossover options from €22/day at TGD airport.';
+    : 'Browse the Podgorica Car Hire fleet, economy, mid-size and crossover options from €22/day at TGD airport.';
   const titleTranslated = t(lang, 'fleetIndex.title');
   const baseTitle = titleTranslated !== 'fleetIndex.title' ? titleTranslated : 'Our Fleet';
   const title = `${baseTitle} | Podgorica Car Hire`;

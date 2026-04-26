@@ -2,7 +2,7 @@ import { t, buildAlternates } from './metadata';
 import HomeClient from '@/src/HomeClient';
 
 export async function generateMetadata() {
-  const title = 'Car Hire in Montenegro — Tivat & Podgorica Airport Pickup | Podgorica Car Hire';
+  const title = 'Car Hire in Montenegro, Tivat & Podgorica Airport Pickup | Podgorica Car Hire';
   const description = t('en', 'home.seoDesc');
   return {
     title: title,
