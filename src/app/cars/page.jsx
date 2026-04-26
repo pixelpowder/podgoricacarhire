@@ -17,7 +17,7 @@ export async function generateMetadata() {
       description,
       url: `${SITE}/cars`,
       type: 'website',
-      images: [{ url: `${SITE}/img/fleet/renault-clio.jpg`, width: 1200, height: 800, alt: 'Podgorica Car Hire fleet' }],
+      images: [{ url: `${SITE}/img/fleet/renault-clio.jpg`, width: 1200, height: 800, alt: t('en', 'aria.fleetGalleryAlt') }],
     },
   };
 }

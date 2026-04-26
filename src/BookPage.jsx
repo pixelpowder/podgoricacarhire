@@ -60,7 +60,7 @@ export default function BookPage() {
           ref={iframeRef}
           src={widgetSrc}
           className="book-page__widget"
-          title="Car rental booking"
+          title={t('aria.carRentalBooking')}
           frameBorder="0"
           scrolling="no"
           style={lightboxOpen ? {

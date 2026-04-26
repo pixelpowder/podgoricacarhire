@@ -292,8 +292,8 @@
       "a": "Podgorički aerodrom (TGD) je kompaktna zgrada s jednim terminalom, dolazak je jednostavan za snalaženje. Naš agent dočekuje vas u holu za dolaske s tablom s vašim imenom. Vozilo je parkirano odmah ispred terminala. Od slijetanja do odlaska vozicom obično prolazi manje od 10 minuta."
     },
     "5": {
-      "q": "Mogu li vratiti vozilo na drugoj lokaciji?",
-      "a": "Da, jednosmjerno iznajmljivanje dostupno je na 28 destinacija u Crnoj Gori. Odaberite željene lokacije preuzimanja i vraćanja pri rezervaciji. Naknade za jednosmjerne iznajme, gdje se primjenjuju, transparentno su prikazane prije potvrde."
+      "q": "Mogu li dodati dječje sjedište ili sjedalicu?",
+      "a": "Da. Dječja sjedišta, sjedalice i nosiljke za bebe dostupni su na zahtjev i ugrađuju se prije vašeg dolaska. Dodajte vrstu sjedišta koja vam treba pri rezervaciji i naš agent će ga ugraditi na TGD-u. Lokalni propisi zahtijevaju da djeca ispod 150 cm koriste odgovarajući sistem zadržavanja."
     },
     "6": {
       "q": "Koja je politika otkazivanja?",
@@ -1125,6 +1125,394 @@
     "intro3": "Dva pravila za podgoričke zakupce: prvo, birajte za najteži dan, ne najlakši. Yaris je magičan na ravnoj Sozini do obale ali bruji na 1.450 m usponu do Žabljaka i do druge serpentine ćete poželjeti dizelov moment Golfa. Drugo, slobodni kerbside prostori glavnog grada praštaju veći auto nego obalni stari gradovi, ovdje iznajmite 308 bez kotorske tetris-igre kroz bastionske kapije. Rečeno, ako je plan jedan dan u Podgorici i šest u Bokokotorskom zalivu, iznajmite za obalu; ako ste bazirani u glavnom gradu sa Ostrogom, skadarskim degustacijama i durmitorskim vikendom, iznajmite za planinske puteve."
   },
   "cars": {
-    "readGuide": "Pročitaj vodič"
+    "readGuide": "Pročitaj vodič",
+    "vw-polo": {
+      "name": "VW Polo",
+      "category": "Ekonomična",
+      "tagline": "Praktičan gradski hečbek za TGD, gradske obaveze i izlet do Skadarskog jezera",
+      "lede": "Stane u besplatne parking-niše na bulevarima Podgorice i bez napora drži 130 km/h na auto-putu Sozina.",
+      "suitability": "Dvoje putnika s ručnim prtljagom, opušteno preuzimanje na aerodromu u Podgorici i bezbrižna vožnja širokim bulevarima glavnog grada.",
+      "regional": "Bez napora pristaje uz pločnik u Njegoševoj i Bokeškoj, drži auto-put Bar - Podgorica na 120 i savlada 25 km do Virpazara na Skadarskom jezeru za opušteno pola sata.",
+      "bestFor": {
+        "0": "Kratki boravci preko TGD-a",
+        "1": "Putnici sami",
+        "2": "Vikend u glavnom gradu"
+      },
+      "inlineAlt": "Kameno selo u unutrašnjosti Crne Gore",
+      "inlineCaption": "Sela na sporednim putevima oko Skadarskog jezera, uske uličice i besplatno parkiranje uz banketu gdje Polo lako pristane.",
+      "features": {
+        "0": "Klima uređaj",
+        "1": "Bluetooth audio",
+        "2": "USB punjenje",
+        "3": "Centralna brava"
+      },
+      "related": {
+        "0": "Podgorica",
+        "1": "Skadarsko jezero",
+        "2": "Vodič kroz Podgoricu"
+      }
+    },
+    "renault-clio": {
+      "name": "Renault Clio",
+      "category": "Ekonomična",
+      "tagline": "Standardno preuzimanje na TGD-u, štedljiv i udoban na auto-putu Sozina",
+      "lede": "Najčešće iznajmljivani hečbek na aerodromu u Podgorici. Pet vrata, prtljažnik od 391 litar, savršen za auto-put prema obali.",
+      "suitability": "Dvoje putnika koji slijeću u Podgoricu i žele jutro kroz tunel Sozina do Budve, a popodne do Ostroga.",
+      "regional": "Komotno klizi po E80 kroz ravnu mrežu Podgorice, savladava plaćeni Sozina-put prema Baru na 110 km/h i parkira se u uličicama Bloka 5 bez ogrebotina. Standardni inland najam u Crnoj Gori.",
+      "bestFor": {
+        "0": "Dolasci na TGD",
+        "1": "Jednodnevni izlet do Skadarskog jezera",
+        "2": "Kratki izleti na obalu"
+      },
+      "inlineAlt": "Put iz Podgorice prema obali",
+      "inlineCaption": "Plaćeni put Sozina južno od Podgorice, baš ona ruta za koju je standardni najam s TGD-a i namijenjen.",
+      "features": {
+        "0": "Bluetooth audio",
+        "1": "USB punjenje",
+        "2": "Centralna brava",
+        "3": "Ekran osjetljiv na dodir"
+      },
+      "related": {
+        "0": "Aerodrom Podgorica",
+        "1": "Od aerodroma TGD do obale",
+        "2": "Budva"
+      }
+    },
+    "peugeot-308": {
+      "name": "Peugeot 308",
+      "category": "Srednja klasa",
+      "tagline": "Dizel automatik za rute glavni grad - planine, Ostrog, Durmitor, Biogradska",
+      "lede": "Tihi BlueHDi dizel, prtljažnik od 412 litara, automatik s 8 brzina. Vozilo za novi auto-put Smokovac prema Kolašinu.",
+      "suitability": "Četvoro odraslih s prtljagom ili porodica koja vozi punu rutu Podgorica - Kolašin - Žabljak. Dizel uz automatik prava je kombinacija za duge kanjonske dane.",
+      "regional": "Drži 1.800 obrtaja na novom auto-putu Smokovac - Mateševo prema Kolašinu, vozi planinarsku opremu do prilaza kanjonu Tare i daje iskrenih 5,0 L/100 km na mješovitim relacijama unutrašnjost-obala.",
+      "bestFor": {
+        "0": "Porodice od četvoro",
+        "1": "Vozači rute glavni grad - Durmitor",
+        "2": "Prekogranična putovanja"
+      },
+      "inlineAlt": "Auto-put Smokovac kroz kanjon",
+      "inlineCaption": "Nova dionica Smokovac - Mateševo prema Kolašinu, prirodno okruženje 308-ke: tempomat uključen, dizel mirno radi, klisure prolijeću pored.",
+      "features": {
+        "0": "Automatski mjenjač",
+        "1": "Adaptivni tempomat",
+        "2": "Dvozonski klima uređaj",
+        "3": "Veliki prtljažnik"
+      },
+      "related": {
+        "0": "Durmitor",
+        "1": "Iz Podgorice do Durmitora",
+        "2": "Jezera Biogradske gore"
+      }
+    },
+    "renault-megane": {
+      "name": "Renault Megane",
+      "category": "Srednja klasa",
+      "tagline": "Najveći prtljažnik u klasi hečbeka za porodice iz Podgorice ka sjeveru ili Baru",
+      "lede": "Prtljažnik od 434 litra, mekano dalekoputno vješanje, i dalje čest u TGD voznim parkovima, ekonomičan gutač kilometara.",
+      "suitability": "Porodica od četvoro s većim koferima koje Clio ne može progutati. Kabina je iz prethodne generacije, ali prtljažnik se isplati na 2,5 sata vožnje do Žabljaka.",
+      "regional": "Prtljažnik od 434 litra proguta kolica, plažnu opremu za Ulcinj i frižider-torbu iz Plantaža u jednom utovaru. Manuelni dizel je štedljiv na ravnoj relaciji Podgorica - Bar preko Sozine, komotan na 120 u najvišoj brzini.",
+      "bestFor": {
+        "0": "Porodice od četvoro iz Podgorice",
+        "1": "Transferi s aerodroma TGD",
+        "2": "Duga putovanja u unutrašnjost"
+      },
+      "inlineAlt": "Obalski put ispod tunela Sozina",
+      "inlineCaption": "Auto-put Podgorica - Bar nakon tunela Sozina, Megane guta ovu ravnu dionicu uz 4,3 L/100 km u najvišoj brzini.",
+      "features": {
+        "0": "Veliki prtljažnik",
+        "1": "Bluetooth audio",
+        "2": "Tempomat",
+        "3": "Parking senzori"
+      },
+      "related": {
+        "0": "Od aerodroma TGD do obale",
+        "1": "Budva",
+        "2": "Vodič kroz Podgoricu"
+      }
+    },
+    "kia-stonic": {
+      "name": "Kia Stonic",
+      "category": "Kompaktni krosover",
+      "tagline": "Povišena podloga za sporedne puteve Podgorice, Ostrog, Rijeka Crnojevića, granica s Kosovom",
+      "lede": "Prtljažnik od 352 litra, viši klirens od hečbeka, mali 1,0-litarski turbo benzinac, ekonomičan krosover za izlete u unutrašnjost.",
+      "suitability": "Najmoprimcima koji žele višu poziciju i malo veći klirens za uspon M9 do Ostroga ili put Rožaje - Kosovo, bez pune cijene SUV-a.",
+      "regional": "Dodatni klirens ublažava razbijene dionice M9 prema Ostrogu, savladava neasfaltirane sporedne puteve oko Rijeke Crnojevića na vinskoj ruti Skadarskog jezera i nosi vikend opremu za par do Kolašina bez tresavice. Samo prednji pogon, zimi iznad 1.000 m lanci obavezni.",
+      "bestFor": {
+        "0": "Hodočasnici u Ostrog",
+        "1": "Vinski put Skadarskog jezera",
+        "2": "Vozači prema Kosovu preko Rožaja"
+      },
+      "inlineAlt": "Razbijeni asfalt u unutrašnjosti prema Ostrogu",
+      "inlineCaption": "U unutrašnjosti Crne Gore, klirens Stonica savladava lošije dionice M9 prema Ostrogu, a da ne platite punu cijenu SUV-a.",
+      "features": {
+        "0": "Povišeni klirens",
+        "1": "Apple CarPlay",
+        "2": "Kamera za vožnju unazad",
+        "3": "Asistent za zadržavanje na traci"
+      },
+      "related": {
+        "0": "Manastir Ostrog",
+        "1": "Iz Podgorice do Ostroga",
+        "2": "Vinski put Skadarskog jezera"
+      }
+    },
+    "vw-golf": {
+      "name": "VW Golf",
+      "category": "Srednja klasa",
+      "tagline": "Mjerilo dizel DSG-a, podgorički svestrani izbor za svaki plan puta",
+      "lede": "Okretnost Pola, dalekoputni komfor 308-ke, razuman izbor za miješane kilometre po glavnom gradu, obali i planinama.",
+      "suitability": "Parovi ili manje porodice koji žele vozilo podjednako udobno na bulevarima Podgorice, auto-putu Sozina i usponu kroz kanjon Morače, bez prelaska na veću srednju klasu.",
+      "regional": "Bez napora vozi auto-put Bar - Podgorica na 120 km/h u sedmoj DSG brzini, savladava uspon kroz klisuru Platije do Kolašina bez razmišljanja o brzinama, i daje stvarnih 5,0 L/100 km na mješovitoj relaciji do Ulcinja i nazad.",
+      "bestFor": {
+        "0": "Parovi na cijeloj crnogorskoj turi",
+        "1": "Mješovite ture glavni grad i obala",
+        "2": "Brzi transferi s aerodroma"
+      },
+      "inlineAlt": "Drvoredom obrubljen put kroz kanjon Morače",
+      "inlineCaption": "Uspon kroz kanjon Morače prema Kolašinu, DSG i 2.0 TDI uklanjaju brigu o brzinama na stalnih 8 odsto nagiba.",
+      "features": {
+        "0": "DSG mjenjač",
+        "1": "Adaptivni tempomat",
+        "2": "Digitalni kokpit",
+        "3": "Apple CarPlay"
+      },
+      "related": {
+        "0": "Vožnja kroz kanjon Morače",
+        "1": "Iz Podgorice do Durmitora",
+        "2": "Nikšić"
+      }
+    },
+    "toyota-yaris": {
+      "name": "Toyota Yaris",
+      "category": "Ekonomična",
+      "tagline": "Najštedljiviji u voznom parku, hibridni pogon za vrelu stani-kreni vožnju u Podgorici",
+      "lede": "3,8 L/100 km u stvarnoj upotrebi. Tih električni hod kroz ljetnu vrelinu od 40°C u glavnom gradu, bez brige za bateriju.",
+      "suitability": "Putnici koji žele najjači klima uređaj u julu u Podgorici, tišinu električnog režima u gužvi i polovinu računa za gorivo u odnosu na Megane.",
+      "regional": "Kreće se kroz jutarnju gužvu na Moskovskoj na električnom pogonu, klizi ravnim auto-putem Sozina prema Baru bez trošenja goriva, a klima na električni pogon ostaje ledena i kada grad pređe 40 °C. Izbjeći za vikend na Žabljaku, baterija se troši tokom dugog uspona.",
+      "bestFor": {
+        "0": "Štedljivi najmoprimci u glavnom gradu",
+        "1": "Boravci usredsređeni na grad",
+        "2": "Vozači u ljetnoj vrelini"
+      },
+      "inlineAlt": "Pogled iz vazduha na centralnu Crnu Goru",
+      "inlineCaption": "Dvije nedjelje vožnje iz Podgorice u Yaris hibridu staju ispod 80 EUR goriva, gradska vrelina i klima u kanjonima uključeni, tiho impresivno.",
+      "features": {
+        "0": "Hibridni pogon",
+        "1": "Kamera za vožnju unazad",
+        "2": "Apple CarPlay",
+        "3": "Adaptivni tempomat"
+      },
+      "related": {
+        "0": "Podgorica",
+        "1": "Jednodnevni izlet do Skadarskog jezera",
+        "2": "Skadarsko jezero"
+      }
+    },
+    "overviewTitle": "Ukratko",
+    "specsTitle": "Kompletne specifikacije",
+    "whoForTitle": "Kome je ovo vozilo namijenjeno?",
+    "regionalTitle": "Najbolja regionalna upotreba",
+    "articleTitle": "{name} oko Podgorice",
+    "sections": {
+      "behindWheel": "Iza volana",
+      "onRoads": "Na putevima Podgorice",
+      "spaceLoad": "Prostor i prtljag",
+      "bestFor": "Najbolje rute za ovo vozilo",
+      "practical": "Praktične napomene",
+      "verdict": "Presuda"
+    },
+    "defaultInline": {
+      "alt": "Planinski pejzaž Crne Gore u suton",
+      "caption": "Iz Podgorice za jedan dan stižete do obale, kanjona i planina."
+    },
+    "featuresTitle": "Unutar vozila",
+    "relatedTitle": "Kuda vas vodi ovo vozilo",
+    "checkAvailability": "Provjeri dostupnost i aktuelne cijene",
+    "nextBtn": "Sljedeće vozilo: {name}"
+  },
+  "aria": {
+    "fleetGalleryAlt": "Vozni park Podgorica Car Hire",
+    "whatsapp": "Razgovaraj na WhatsApp-u",
+    "scrollTop": "Pomjeri na vrh",
+    "carRentalBooking": "Rezervacija najma vozila"
+  },
+  "mountainRoutes": {
+    "label": "Planinske rute",
+    "title": "Rute iz glavnog grada",
+    "subtitle": "Podgorica leži na raskršću obale i planina. Ovo su rute za koje naši gosti najčešće rezervišu.",
+    "durmitor": {
+      "title": "Durmitor i Žabljak",
+      "desc": "UNESCO nacionalni park na 1.450 m. Crno jezero, most na Tari, zimsko skijanje na Savin Kuku. Natočite gorivo u Nikšiću, dalje su pumpe rijetke.",
+      "distance": "170 km",
+      "time": "2,5 sata"
+    },
+    "moraca": {
+      "title": "Kanjon Morače",
+      "desc": "Vertikalna krečnjačka klisura s manastirom iz 13. vijeka. Put se priljubljuje uz stijenu, jedan od najdramatičnijih u Evropi.",
+      "distance": "65 km",
+      "time": "1 sat"
+    },
+    "ostrog": {
+      "title": "Manastir Ostrog",
+      "desc": "Pravoslavni manastir uklesan u stijenu, najposjećenije hodočasničko mjesto u Crnoj Gori. Gornji manastir je ugrađen u okomitu liticu na 900 m.",
+      "distance": "50 km",
+      "time": "45 min"
+    },
+    "skadar": {
+      "title": "Vinski put Skadarskog jezera",
+      "desc": "Brodom kroz lokvanje, degustacija Vranca u vinogradima Crmnice. Najveće jezero Balkana udaljeno je svega 30 minuta na jug.",
+      "distance": "30 km",
+      "time": "30 min"
+    }
+  },
+  "pickupPoints": {
+    "label": "Mjesta preuzimanja",
+    "title": "Gdje možete preuzeti vozilo?",
+    "subtitle": "Više lokacija širom Crne Gore za maksimalnu udobnost."
+  },
+  "pageAlt": {
+    "dubrovnikWalls": "Tvrđavski zidovi i toranj Dubrovnika",
+    "belgradeChurch": "Crkva Svetog Marka, Beograd",
+    "budvaCoast": "Stari grad Budve",
+    "budvaPeninsula": "Poluostrvo Starog grada Budve",
+    "lovcenViewpoint": "Vidikovac u nacionalnom parku Lovćen iznad oblaka",
+    "cetinjeVillage": "Crnogorsko selo u blizini Cetinja",
+    "dubrovnikRoad": "Put iz Crne Gore prema Dubrovniku",
+    "kotorBay": "Bokokotorski zaliv",
+    "kotorOldTown": "Uličice Starog grada Kotora",
+    "lakeSkadarWetlands": "Močvarna područja Skadarskog jezera",
+    "montenegroMountainRoad": "Planinski put u Crnoj Gori",
+    "canyonRoadMontenegro": "Put kroz kanjon u Crnoj Gori",
+    "niksicMountainRoad": "Planinski put kod Nikšića",
+    "ostrogCliff": "Manastir Ostrog uklesan u liticu",
+    "perastIslands": "Perast i ostrva",
+    "kotorBayLandscape": "Pejzaž Bokokotorskog zaliva",
+    "moracaPodgorica": "Rijeka Morača kroz Podgoricu",
+    "tivatMarina": "Marina Porto Montenegro",
+    "podgoricaCity": "Podgorica",
+    "podgoricaAirport": "Aerodrom Podgorica"
+  },
+  "carSpecs": {
+    "seats": "Sjedišta",
+    "transmission": "Mjenjač",
+    "fuel": "Gorivo",
+    "luggage": "Prtljag",
+    "bootSize": "Prtljažnik",
+    "mpg": "Potrošnja"
+  },
+  "contactBody": {
+    "chatBtn": "Pišite nam",
+    "namePlaceholder": "Vaše ime",
+    "emailPlaceholder": "Vaš e-mail",
+    "messagePlaceholder": "Kako možemo pomoći?"
+  },
+  "cookieBody": {
+    "lastUpdatedLabel": "Posljednje ažuriranje:",
+    "lastUpdated": "April 2026.",
+    "whatTitle": "Šta su kolačići?",
+    "whatText": "Kolačići su mali tekstualni fajlovi koji se čuvaju na vašem uređaju kada posjetite sajt. Pomažu sajtu da zapamti vaše postavke i razumije kako ga koristite.",
+    "weUseTitle": "Kolačići koje koristimo",
+    "essentialTitle": "Neophodni kolačići",
+    "essentialText": "Neophodni su za rad sajta. Ne mogu se isključiti.",
+    "sessionLabel": "Sesijski kolačići:",
+    "sessionText": "održavaju vašu sesiju tokom kretanja sajtom",
+    "prefLabel": "Kolačići postavki:",
+    "prefText": "pamte jezik i lokaciju",
+    "thirdTitle": "Kolačići trećih strana",
+    "thirdIntro": "Naš widget za rezervaciju može postaviti kolačiće da:",
+    "third1": "zapamti vaše postavke pretrage (datumi, lokacija)",
+    "third2": "održi sesiju tokom procesa rezervacije",
+    "third3": "prati partnerske posjete",
+    "thirdOutro": "Ove kolačiće postavlja partner za rezervacije i podliježu njegovoj politici privatnosti.",
+    "manageTitle": "Upravljanje kolačićima",
+    "manageIntro": "Kolačiće možete podesiti u postavkama pretraživača. Većina pretraživača omogućava da:",
+    "manage1": "pregledate sačuvane kolačiće",
+    "manage2": "obrišete pojedinačne ili sve kolačiće",
+    "manage3": "blokirate kolačiće s određenih sajtova",
+    "manage4": "blokirate sve kolačiće trećih strana",
+    "manageOutro": "Imajte na umu da blokiranje neophodnih kolačića može uticati na rad widgeta za rezervaciju.",
+    "contactTitle": "Kontakt",
+    "contactText": "Pitanja o korištenju kolačića? Pišite nam na info@podgoricacarhire.com."
+  },
+  "privacyBody": {
+    "lastUpdatedLabel": "Posljednje ažuriranje:",
+    "lastUpdated": "April 2026.",
+    "whoTitle": "Ko smo mi",
+    "whoText": "Podgorica Car Hire djeluje kao partnerski posrednik koji povezuje putnike s pružaocima usluga iznajmljivanja vozila u Crnoj Gori. Naša stranica nalazi se na podgoricacarhire.com. Korišćenjem sajta možemo prikupljati podatke opisane u nastavku.",
+    "whatTitle": "Koje podatke prikupljamo",
+    "providedTitle": "Podaci koje sami unosite",
+    "providedText": "Kada koristite obrazac za rezervaciju prikupljamo lokaciju, datume i vrijeme kako bismo prikazali dostupna vozila. Podaci se prosljeđuju našem partneru za rezervacije. Ne čuvamo platne podatke, sve uplate idu direktno pružaocu usluge.",
+    "autoTitle": "Podaci koji se prikupljaju automatski",
+    "usageLabel": "Podaci o korištenju:",
+    "usageText": "posjećene stranice, vrijeme na sajtu, referirajući sajt",
+    "deviceLabel": "Podaci o uređaju:",
+    "deviceText": "tip pretraživača, operativni sistem, rezolucija ekrana",
+    "ipLabel": "IP adresa:",
+    "ipText": "koristi se za okvirnu lokaciju i sigurnost",
+    "useTitle": "Kako koristimo vaše podatke",
+    "use1": "da vam pokažemo dostupnost i cijene najma",
+    "use2": "da unaprijedimo sajt i korisničko iskustvo",
+    "use3": "da razumijemo kako posjetioci koriste sajt (analitika)",
+    "use4": "da odgovaramo na upite preko WhatsApp-a, Viber-a ili e-maila",
+    "thirdTitle": "Usluge trećih strana",
+    "thirdIntro": "Naš sajt koristi sljedeće usluge trećih strana:",
+    "partnerLabel": "Partner za rezervacije:",
+    "partnerText": "widget za rezervaciju obrađuje pretrage i preuzima rezervaciju i plaćanje.",
+    "hostingLabel": "Hosting:",
+    "hostingText": "sajt je hostovan na upravljanoj cloud platformi.",
+    "photosLabel": "Fotografije:",
+    "photosText": "stock fotografije su licencirane od bibliotekarskih partnera.",
+    "thirdOutro": "Svaka od ovih usluga ima vlastitu politiku privatnosti koja uređuje obradu podataka.",
+    "cookiesTitle": "Kolačići",
+    "cookiesIntro": "Koristimo samo neophodne kolačiće za rad sajta. Widget za rezervaciju može postaviti vlastite kolačiće. Pogledajte našu",
+    "cookiesLink": "Politiku kolačića",
+    "cookiesOutro": "za detalje.",
+    "rightsTitle": "Vaša prava",
+    "rightsIntro": "Imate pravo da:",
+    "right1": "zatražite pristup vašim ličnim podacima koje čuvamo",
+    "right2": "zatražite ispravak ili brisanje vaših podataka",
+    "right3": "povučete saglasnost za obradu podataka",
+    "right4": "podnesete prigovor nadležnom organu za zaštitu podataka",
+    "contactTitle": "Kontakt",
+    "contactText": "Za sva pitanja o privatnosti pišite nam na info@podgoricacarhire.com."
+  },
+  "termsBody": {
+    "lastUpdatedLabel": "Posljednje ažuriranje:",
+    "lastUpdated": "April 2026.",
+    "aboutTitle": "O ovom sajtu",
+    "aboutText": "Podgorica Car Hire (podgoricacarhire.com) je partnerski sajt koji povezuje putnike s pružaocima usluga iznajmljivanja u Crnoj Gori. Mi nismo agencija za iznajmljivanje, već koristimo partnera za rezervacije u stvarnom vremenu.",
+    "bookingTitle": "Uslovi rezervacije i najma",
+    "bookingText1": "Sve rezervacije napravljene preko našeg sajta obrađuje naš partner za rezervacije. Ugovor o najmu sklapate direktno s pružaocem vozila, ne s Podgorica Car Hire.",
+    "bookingText2": "Uslove najma (otkazivanje, osiguranje, starosnu granicu, plaćanje) postavlja pružalac vozila i prikazuju se tokom rezervacije. Preporučujemo pažljivo čitanje prije potvrde.",
+    "roleTitle": "Naša uloga",
+    "weProvide": "Pružamo:",
+    "provide1": "pretragu dostupnih vozila za najam",
+    "provide2": "informacije o destinacijama i putovanjima u Crnoj Gori",
+    "provide3": "korisničku podršku za upite prije rezervacije",
+    "weDont": "Ne radimo sljedeće:",
+    "dont1": "ne posjedujemo, ne upravljamo i ne održavamo vozila za najam",
+    "dont2": "ne obrađujemo plaćanja niti povrate sredstava",
+    "dont3": "ne određujemo cijene najma, uslove osiguranja niti otkazivanja",
+    "pricingTitle": "Cijene",
+    "pricingText": "Cijene na sajtu naš partner šalje u stvarnom vremenu i mogu se mijenjati. Konačnu cijenu potvrđujete u trenutku rezervacije. Sve cijene uključuju PDV i obavezno osiguranje, osim ako nije drugačije naznačeno.",
+    "contentTitle": "Sadržaj sajta",
+    "contentText": "Trudimo se da informacije budu tačne i ažurne. Međutim, informacije o putovanjima, saobraćajni propisi i granični uslovi se mogu promijeniti. Preporučujemo provjeru ključnih detalja kod zvaničnih izvora prije puta.",
+    "liabilityTitle": "Ograničenje odgovornosti",
+    "liabilityIntro": "Podgorica Car Hire djeluje kao posrednik i ne odgovara za:",
+    "liab1": "stanje ili dostupnost vozila za najam",
+    "liab2": "postupke ili propuste pružalaca najma",
+    "liab3": "gubitke uslijed problema na granici ili s dokumentacijom",
+    "liab4": "promjene cijena nakon potvrde rezervacije",
+    "ipTitle": "Intelektualna svojina",
+    "ipText": "Cjelokupan sadržaj ovog sajta, uključujući tekstove, dizajn i grafiku, vlasništvo je Podgorica Car Hire osim ako nije drugačije naznačeno. Stock fotografije licencirane su od bibliotekarskih partnera.",
+    "contactTitle": "Kontakt",
+    "contactText": "Pitanja o ovim uslovima? Pišite nam na info@podgoricacarhire.com."
+  },
+  "metaTitle": {
+    "homepage": "Podgorica Car Hire, jeftini letovi, otvoreni putevi",
+    "notFound": "Stranica nije pronađena"
+  },
+  "schemaText": {
+    "carDescription": "Iznajmljivanje {category}, {transmission}, {fuel}, {seats} sjedišta"
   }
 }

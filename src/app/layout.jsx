@@ -9,11 +9,11 @@ import CookieBanner from '@/src/CookieBanner';
 import DynamicLanguageProvider from '@/src/i18n/DynamicLanguageProvider';
 import { SUPPORTED_LANGS, DEFAULT_LANG, LANG_HREFLANG } from '@/src/i18n/languages';
 import LocaleAwareSchema from '@/src/components/LocaleAwareSchema';
+import { t as translate } from './metadata';
 
 export const metadata = {
-  title: 'Podgorica Car Hire, Budget Flights, Open Roads',
-  description:
-    'Fly Ryanair or Wizz into TGD, grab a car from \u20AC13/day, and reach Lake Skadar in 30 min or Durmitor in 2.5 hrs. 200+ vehicles, free cancellation, full insurance.',
+  title: translate('en', 'metaTitle.homepage'),
+  description: translate('en', 'home.seoDesc'),
   metadataBase: new URL('https://www.podgoricacarhire.com'),
 };
 

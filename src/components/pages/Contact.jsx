@@ -70,7 +70,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <div style={{ fontSize: '13px', color: 'var(--gray-500)', marginBottom: '2px' }}>WhatsApp</div>
-                  <div style={{ fontSize: '14px', fontWeight: 600 }}>Chat with us</div>
+                  <div style={{ fontSize: '14px', fontWeight: 600 }}>{t('contactBody.chatBtn')}</div>
                 </div>
               </a>
             </div>
@@ -78,9 +78,9 @@ export default function Contact() {
             <div style={{ padding: '32px', background: 'var(--gray-50)', borderRadius: '16px' }}>
               <h2 style={{ fontSize: '20px', fontWeight: 700, color: 'var(--navy)', marginBottom: '20px' }}>Send us a message</h2>
               <form onSubmit={handleSubmit} style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
-                <input type="text" name="name" placeholder="Your name" required style={{ padding: '14px 16px', border: '1px solid var(--gray-200)', borderRadius: '10px', fontSize: '15px', fontFamily: 'inherit' }} />
-                <input type="email" name="email" placeholder="Your email" required style={{ padding: '14px 16px', border: '1px solid var(--gray-200)', borderRadius: '10px', fontSize: '15px', fontFamily: 'inherit' }} />
-                <textarea name="message" placeholder="How can we help?" rows={4} required style={{ padding: '14px 16px', border: '1px solid var(--gray-200)', borderRadius: '10px', fontSize: '15px', fontFamily: 'inherit', resize: 'vertical' }} />
+                <input type="text" name="name" placeholder={t('contactBody.namePlaceholder')} required style={{ padding: '14px 16px', border: '1px solid var(--gray-200)', borderRadius: '10px', fontSize: '15px', fontFamily: 'inherit' }} />
+                <input type="email" name="email" placeholder={t('contactBody.emailPlaceholder')} required style={{ padding: '14px 16px', border: '1px solid var(--gray-200)', borderRadius: '10px', fontSize: '15px', fontFamily: 'inherit' }} />
+                <textarea name="message" placeholder={t('contactBody.messagePlaceholder')} rows={4} required style={{ padding: '14px 16px', border: '1px solid var(--gray-200)', borderRadius: '10px', fontSize: '15px', fontFamily: 'inherit', resize: 'vertical' }} />
                 <button type="submit" style={{ padding: '14px 28px', background: 'var(--blue)', color: '#fff', border: 'none', borderRadius: 'var(--radius-pill)', fontSize: '15px', fontWeight: 700, cursor: 'pointer', alignSelf: 'flex-start' }}>
                   Send Message
                 </button>

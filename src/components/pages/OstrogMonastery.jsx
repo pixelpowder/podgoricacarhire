@@ -9,7 +9,7 @@ export default function OstrogMonastery() {
       <h2>{t('ostrogBody.h1')}</h2>
       <p>{t('ostrogBody.p1')}</p>
       <p>{t('ostrogBody.p2')}</p>
-      <img src="/img/ostrog-cliff.webp" alt="Ostrog Monastery carved into cliff face" loading="lazy" />
+      <img src="/img/ostrog-cliff.webp" alt={t('pageAlt.ostrogCliff')} loading="lazy" />
       <h2>{t('ostrogBody.upperTitle')}</h2>
       <p>{t('ostrogBody.upperText')}</p>
       <h2>{t('ostrogBody.lowerTitle')}</h2>

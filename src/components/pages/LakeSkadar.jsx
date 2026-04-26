@@ -11,7 +11,7 @@ export default function LakeSkadar() {
       <p>{t('lakeSkadarBody.p2')}</p>
       <h2>{t('lakeSkadarBody.wildlifeTitle')}</h2>
       <p>{t('lakeSkadarBody.wildlifeText')}</p>
-      <img src="/img/moraca-canyon.webp" alt="Lake Skadar wetlands" loading="lazy" />
+      <img src="/img/moraca-canyon.webp" alt={t('pageAlt.lakeSkadarWetlands')} loading="lazy" />
       <h2>{t('lakeSkadarBody.villagesTitle')}</h2>
       <h3>{t('lakeSkadarBody.virpazarTitle')}</h3>
       <p>{t('lakeSkadarBody.virpazarText')}</p>

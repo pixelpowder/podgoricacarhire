@@ -25,53 +25,55 @@ import {
 } from 'lucide-react';
 
 // One UNIQUE inline Montenegro-road photo per car. Podgorica/inland flavour.
+// Strings (alt, caption) come from i18n via cars.<slug>.inlineAlt / .inlineCaption
 const INLINE_PHOTOS = {
-  'vw-polo':        { src: '/img/fleet-inline/village-trees.jpg',     alt: 'Inland Montenegro stone village',                 caption: 'The back-road villages around Skadar Lake, tight lanes and free shoulder parking the Polo slips into without drama.' },
-  'renault-clio':   { src: '/img/fleet-inline/coastal-road.jpg',      alt: 'Road from Podgorica toward the coast',            caption: 'The Sozina toll motorway south of Podgorica, the exact route the default TGD rental was built for.' },
-  'peugeot-308':    { src: '/img/fleet-inline/mountain-highway.jpg',  alt: 'Smokovac motorway through the canyon',            caption: "The new Smokovac–Mateševo section toward Kolašin, the 308's natural habitat: cruise set, diesel humming, canyon walls sliding past." },
-  'renault-megane': { src: '/img/fleet-inline/sea-road.jpg',          alt: 'Coastal road below Sozina tunnel',                caption: 'The Podgorica–Bar motorway past the Sozina tunnel, the Megane eats this flat distance at 4.3 L/100 km in top gear.' },
-  'kia-stonic':     { src: '/img/fleet-inline/rocky-road.jpg',        alt: 'Broken inland tarmac toward Ostrog',              caption: "Inland Montenegro, the Stonic\u2019s ride height clears the patchier M9 stretches toward Ostrog without paying full SUV money." },
-  'vw-golf':        { src: '/img/fleet-inline/forest-road.jpg',       alt: 'Tree-lined road through Morača canyon',           caption: 'The Morača canyon climb to Kolašin, DSG plus 2.0 TDI takes the guesswork out of gear changes on sustained 8% gradients.' },
-  'toyota-yaris':   { src: '/img/fleet-inline/aerial-mountains.jpg',  alt: 'Aerial view of central Montenegro',               caption: "A fortnight of Podgorica-based driving costs under €80 in fuel in the Yaris Hybrid, city heat, canyon air-con, quietly remarkable." },
-  _default:         { src: '/img/fleet-inline/sunset-montenegro.jpg', alt: 'Montenegro mountain landscape at sunset',         caption: 'From Podgorica you reach coast, canyon and mountain in a single day.' },
+  'vw-polo':        { src: '/img/fleet-inline/village-trees.jpg' },
+  'renault-clio':   { src: '/img/fleet-inline/coastal-road.jpg' },
+  'peugeot-308':    { src: '/img/fleet-inline/mountain-highway.jpg' },
+  'renault-megane': { src: '/img/fleet-inline/sea-road.jpg' },
+  'kia-stonic':     { src: '/img/fleet-inline/rocky-road.jpg' },
+  'vw-golf':        { src: '/img/fleet-inline/forest-road.jpg' },
+  'toyota-yaris':   { src: '/img/fleet-inline/aerial-mountains.jpg' },
+  _default:         { src: '/img/fleet-inline/sunset-montenegro.jpg' },
 };
 
-// Related image-link cards at the end of each detail page — Podgorica-relevant.
+// Related image-link cards at the end of each detail page (Podgorica-relevant).
+// Card titles are looked up via cars.<slug>.related.<i>.
 const RELATED = {
   'vw-polo': [
-    { href: '/podgorica',                           img: '/img/podgorica-city.webp',                                 title: 'Podgorica' },
-    { href: '/lake-skadar',                         img: '/img/lake-skadar.webp',                                    title: 'Lake Skadar' },
-    { href: '/blog/podgorica-city-guide',           img: '/img/blog-podgorica-city-guide.webp',                      title: 'Podgorica city guide' },
+    { href: '/podgorica',                           img: '/img/podgorica-city.webp' },
+    { href: '/lake-skadar',                         img: '/img/lake-skadar.webp' },
+    { href: '/blog/podgorica-city-guide',           img: '/img/blog-podgorica-city-guide.webp' },
   ],
   'renault-clio': [
-    { href: '/podgorica-airport',                   img: '/img/podgorica-airport.webp',                              title: 'Podgorica Airport' },
-    { href: '/blog/podgorica-airport-to-coast',     img: '/img/blog-podgorica-airport-to-coast.webp',                title: 'TGD airport to the coast' },
-    { href: '/budva',                               img: '/img/budva-coast.webp',                                    title: 'Budva' },
+    { href: '/podgorica-airport',                   img: '/img/podgorica-airport.webp' },
+    { href: '/blog/podgorica-airport-to-coast',     img: '/img/blog-podgorica-airport-to-coast.webp' },
+    { href: '/budva',                               img: '/img/budva-coast.webp' },
   ],
   'peugeot-308': [
-    { href: '/durmitor',                            img: '/img/durmitor-mountains.webp',                             title: 'Durmitor' },
-    { href: '/blog/podgorica-to-durmitor',          img: '/img/blog-podgorica-to-durmitor.webp',                     title: 'Podgorica to Durmitor' },
-    { href: '/blog/podgorica-to-biogradska',        img: '/img/blog-podgorica-to-biogradska.webp',                   title: 'Biogradska Gora lakes' },
+    { href: '/durmitor',                            img: '/img/durmitor-mountains.webp' },
+    { href: '/blog/podgorica-to-durmitor',          img: '/img/blog-podgorica-to-durmitor.webp' },
+    { href: '/blog/podgorica-to-biogradska',        img: '/img/blog-podgorica-to-biogradska.webp' },
   ],
   'renault-megane': [
-    { href: '/blog/podgorica-airport-to-coast',     img: '/img/blog-podgorica-airport-to-coast.webp',                title: 'TGD to the coast' },
-    { href: '/budva',                               img: '/img/budva-coast.webp',                                    title: 'Budva' },
-    { href: '/blog/podgorica-city-guide',           img: '/img/blog-podgorica-city-guide.webp',                      title: 'Podgorica city guide' },
+    { href: '/blog/podgorica-airport-to-coast',     img: '/img/blog-podgorica-airport-to-coast.webp' },
+    { href: '/budva',                               img: '/img/budva-coast.webp' },
+    { href: '/blog/podgorica-city-guide',           img: '/img/blog-podgorica-city-guide.webp' },
   ],
   'kia-stonic': [
-    { href: '/ostrog-monastery',                    img: '/img/ostrog-monastery.webp',                               title: 'Ostrog Monastery' },
-    { href: '/blog/podgorica-to-ostrog',            img: '/img/blog-podgorica-to-ostrog.webp',                       title: 'Podgorica to Ostrog' },
-    { href: '/blog/skadar-lake-from-podgorica',     img: '/img/blog-skadar-lake-from-podgorica.webp',                title: 'Skadar Lake wine trail' },
+    { href: '/ostrog-monastery',                    img: '/img/ostrog-monastery.webp' },
+    { href: '/blog/podgorica-to-ostrog',            img: '/img/blog-podgorica-to-ostrog.webp' },
+    { href: '/blog/skadar-lake-from-podgorica',     img: '/img/blog-skadar-lake-from-podgorica.webp' },
   ],
   'vw-golf': [
-    { href: '/blog/podgorica-moraca-canyon',        img: '/img/blog-podgorica-moraca-canyon.webp',                   title: 'Morača canyon drive' },
-    { href: '/blog/podgorica-to-durmitor',          img: '/img/blog-podgorica-to-durmitor.webp',                     title: 'Podgorica to Durmitor' },
-    { href: '/niksic',                              img: '/img/niksic-town.webp',                                    title: 'Nikšić' },
+    { href: '/blog/podgorica-moraca-canyon',        img: '/img/blog-podgorica-moraca-canyon.webp' },
+    { href: '/blog/podgorica-to-durmitor',          img: '/img/blog-podgorica-to-durmitor.webp' },
+    { href: '/niksic',                              img: '/img/niksic-town.webp' },
   ],
   'toyota-yaris': [
-    { href: '/podgorica',                           img: '/img/podgorica-city.webp',                                 title: 'Podgorica' },
-    { href: '/blog/skadar-lake-from-podgorica',     img: '/img/blog-skadar-lake-from-podgorica.webp',                title: 'Skadar Lake day trip' },
-    { href: '/lake-skadar',                         img: '/img/lake-skadar.webp',                                    title: 'Lake Skadar' },
+    { href: '/podgorica',                           img: '/img/podgorica-city.webp' },
+    { href: '/blog/skadar-lake-from-podgorica',     img: '/img/blog-skadar-lake-from-podgorica.webp' },
+    { href: '/lake-skadar',                         img: '/img/lake-skadar.webp' },
   ],
 };
 
@@ -169,7 +171,7 @@ export default function CarDetail({ slug }) {
 
       <CarGallery images={carImages[slug] || [car.image]} alt={name} />
 
-      <h2>{tf('cars.overviewTitle', 'At a glance')}</h2>
+      <h2>{t('cars.overviewTitle')}</h2>
       <div className="car-detail-specs car-detail-specs--quick">
         {quickRow.map((s) => (
           <div key={s.label} className="car-detail-spec">
@@ -182,7 +184,7 @@ export default function CarDetail({ slug }) {
 
       {detailRow.length > 0 && (
         <>
-          <h3 className="car-detail-specs__subhead">{t('cars.specsTitle') || 'Performance & dimensions'}</h3>
+          <h3 className="car-detail-specs__subhead">{t('cars.specsTitle')}</h3>
           <div className="car-detail-specs car-detail-specs--full">
             {detailRow.map((s) => (
               <div key={s.label} className="car-detail-spec">
@@ -195,7 +197,7 @@ export default function CarDetail({ slug }) {
         </>
       )}
 
-      <h2>{t('cars.whoForTitle') || `Who is the ${car.name} for?`}</h2>
+      <h2>{t('cars.whoForTitle')}</h2>
       <p>{suitability}</p>
       {Array.isArray(car.bestFor) && (
         <ul className="car-detail-bestfor">
@@ -206,13 +208,13 @@ export default function CarDetail({ slug }) {
       )}
 
       <div className="car-detail-regional">
-        <h2>{t('cars.regionalTitle') || 'Best regional use'}</h2>
+        <h2>{t('cars.regionalTitle')}</h2>
         <p>{regional}</p>
       </div>
 
       {carArticles[slug] && (
         <div className="car-detail-article">
-          <h2>{tf('cars.articleTitle', `The ${car.name} around Podgorica`)}</h2>
+          <h2>{(t('cars.articleTitle') || `The {name} around Podgorica`).replace('{name}', car.name)}</h2>
           {carArticles[slug].paragraphs.map((para, i) => {
             const rule = ARTICLE_LINKS[slug];
             const applyRuleHere = rule && rule.paraIndex === i;
@@ -235,10 +237,16 @@ export default function CarDetail({ slug }) {
                 </section>
                 {i === 2 && (() => {
                   const inline = INLINE_PHOTOS[slug] || INLINE_PHOTOS._default;
+                  const inlineAlt = INLINE_PHOTOS[slug]
+                    ? tk('inlineAlt', t('cars.defaultInline.alt'))
+                    : t('cars.defaultInline.alt');
+                  const inlineCaption = INLINE_PHOTOS[slug]
+                    ? tk('inlineCaption', t('cars.defaultInline.caption'))
+                    : t('cars.defaultInline.caption');
                   return (
                     <figure key={`inline-${i}`} className="car-detail-article__figure">
-                      <img src={inline.src} alt={inline.alt} loading="lazy" />
-                      <figcaption>{inline.caption}</figcaption>
+                      <img src={inline.src} alt={inlineAlt} loading="lazy" />
+                      <figcaption>{inlineCaption}</figcaption>
                     </figure>
                   );
                 })()}
@@ -248,7 +256,7 @@ export default function CarDetail({ slug }) {
         </div>
       )}
 
-      <h2>{t('cars.specsTitle') || 'Full specification'}</h2>
+      <h2>{t('cars.specsTitle')}</h2>
       <div className="car-detail-specs car-detail-specs--full">
         {detailRow.map((s) => (
           <div key={s.label} className="car-detail-spec">
@@ -259,7 +267,7 @@ export default function CarDetail({ slug }) {
         ))}
       </div>
 
-      <h2>{t('cars.featuresTitle') || 'Inside the car'}</h2>
+      <h2>{t('cars.featuresTitle')}</h2>
       <ul className="car-detail-feature-list">
         {car.features.map((f, i) => {
           const translated = tk(`features.${i}`, f);
@@ -269,13 +277,13 @@ export default function CarDetail({ slug }) {
 
       {RELATED[slug] && (
         <div className="car-detail-related">
-          <h2>{tf('cars.relatedTitle', 'Where this car takes you')}</h2>
+          <h2>{t('cars.relatedTitle')}</h2>
           <div className="car-detail-related__grid">
-            {RELATED[slug].map((card) => (
+            {RELATED[slug].map((card, i) => (
               <a key={card.href} href={localePath(card.href)} className="car-detail-related__card">
                 <div className="car-detail-related__img" style={{ backgroundImage: `url(${card.img})` }} />
                 <div className="car-detail-related__body">
-                  <span className="car-detail-related__title">{card.title}</span>
+                  <span className="car-detail-related__title">{tk(`related.${i}`, '')}</span>
                   <ArrowRight size={14} />
                 </div>
               </a>
@@ -286,10 +294,10 @@ export default function CarDetail({ slug }) {
 
       <div className="car-detail-cta">
         <a href={localePath('/book')} className="car-detail-cta__btn">
-          {t('cars.checkAvailability') || `Check availability & live pricing`} <ArrowRight size={16} />
+          {t('cars.checkAvailability')} <ArrowRight size={16} />
         </a>
         <a href={localePath(`/cars/${next.slug}`)} className="car-detail-cta__next">
-          {t('cars.nextBtn') || `Next in fleet: ${next.name}`} →
+          {(t('cars.nextBtn') || `Next in fleet: {name}`).replace('{name}', next.name)} →
         </a>
       </div>
     </ContentPage>

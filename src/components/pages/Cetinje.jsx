@@ -5,13 +5,13 @@ export default function Cetinje() {
   const { t } = useTranslation();
   return (
     <ContentPage title={t("cetinje.title")} subtitle={t("cetinje.subtitle")} description={t("cetinje.seoDesc")} image="/img/lovcen-viewpoint.webp">
-      <img src="/img/lovcen-viewpoint.webp" alt="Lovćen National Park viewpoint above the clouds" loading="lazy" />
+      <img src="/img/lovcen-viewpoint.webp" alt={t('pageAlt.lovcenViewpoint')} loading="lazy" />
       <h2>{t('cetinjeBody.h1')}</h2>
       <p>{t('cetinjeBody.p1')}</p>
       <p>{t('cetinjeBody.p2')}</p>
       <h2>{t('cetinjeBody.monasteryTitle')}</h2>
       <p>{t('cetinjeBody.monasteryText')}</p>
-      <img src="/img/cetinje-village.webp" alt="Montenegrin village near Cetinje" loading="lazy" />
+      <img src="/img/cetinje-village.webp" alt={t('pageAlt.cetinjeVillage')} loading="lazy" />
       <h2>{t('cetinjeBody.museumsTitle')}</h2>
       <h3>{t('cetinjeBody.kingPalaceTitle')}</h3>
       <p>{t('cetinjeBody.kingPalaceText')}</p>

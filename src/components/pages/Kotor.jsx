@@ -5,7 +5,7 @@ export default function Kotor() {
   const { t, localePath } = useTranslation();
   return (
     <ContentPage title={t("kotor.title")} subtitle={t("kotor.subtitle")} description={t("kotor.seoDesc")} image="/img/kotor-bay.webp">
-      <img src="/img/kotor-bay.webp" alt="Bay of Kotor" loading="lazy" />
+      <img src="/img/kotor-bay.webp" alt={t('pageAlt.kotorBay')} loading="lazy" />
       <h2>{t('kotorBody.h1')}</h2>
       <p>{t('kotorBody.p1')}</p>
       <p>{t('kotorBody.p2')}</p>
@@ -14,7 +14,7 @@ export default function Kotor() {
       <p>{t('kotorBody.stJohnText')}</p>
       <h3>{t('kotorBody.cathedralTitle')}</h3>
       <p>{t('kotorBody.cathedralText')}</p>
-      <img src="/img/kotor-old-town.webp" alt="Kotor Old Town streets" loading="lazy" />
+      <img src="/img/kotor-old-town.webp" alt={t('pageAlt.kotorOldTown')} loading="lazy" />
       <h2>{t('kotorBody.dayTripsTitle')}</h2>
       <p>{t('kotorBody.perastTrip')}</p>
       <p>{t('kotorBody.cetinjeTrip')}</p>

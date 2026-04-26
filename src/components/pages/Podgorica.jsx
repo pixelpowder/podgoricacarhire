@@ -12,7 +12,7 @@ export default function Podgorica() {
       <p>{t('podgoricaBody.p3')}</p>
       <h2>{t('podgoricaBody.seeTitle')}</h2>
       <p>{t('podgoricaBody.seeText')}</p>
-      <img src="/img/moraca-canyon.webp" alt="Moraca river through Podgorica" loading="lazy" />
+      <img src="/img/moraca-canyon.webp" alt={t('pageAlt.moracaPodgorica')} loading="lazy" />
       <h2>{t('podgoricaBody.dayTripsTitle')}</h2>
       <h3>{t('podgoricaBody.skadarTitle')}</h3>
       <p>{t('podgoricaBody.skadarText')}</p>

@@ -332,7 +332,7 @@ function Hero() {
             <div className="booking-card__fields">
               <LocationField value={pickup} onChange={setPickup} />
               <div className="booking-field booking-field--dates">
-                <label>{t('hero.pickupDate')} — {t('hero.dropoffDate')}</label>
+                <label>{t('hero.pickupDate')} - {t('hero.dropoffDate')}</label>
                 <DatePicker
                   selectsRange
                   startDate={startDate}
@@ -486,20 +486,21 @@ function BlogCards() {
 
 /* ─── MOUNTAIN ROUTES (PODGORICA UNIQUE) ──────────────── */
 function MountainRoutes() {
+  const { t } = useTranslation();
   return (
     <section className="section" id="mountain-routes">
       <div className="container">
         <div className="section-header">
-          <span className="section-label">Mountain Drives</span>
-          <h2 className="section-title">Routes from the Capital</h2>
-          <p className="section-subtitle">Podgorica sits at the crossroads of coast and mountains. These are the drives our customers book for.</p>
+          <span className="section-label">{t('mountainRoutes.label')}</span>
+          <h2 className="section-title">{t('mountainRoutes.title')}</h2>
+          <p className="section-subtitle">{t('mountainRoutes.subtitle')}</p>
         </div>
         <div className="mountain-grid">
           {[
-            { title: 'Durmitor & \u017dabljak', desc: 'UNESCO national park at 1,450 m. Black Lake, Tara Bridge, winter skiing at Savin Kuk. Fill up in Nik\u0161i\u0107, fuel is scarce beyond.', distance: '170 km', time: '2.5 hours', image: '/img/durmitor-mountains.webp' },
-            { title: 'Mora\u010Da Canyon', desc: 'Vertical limestone gorge with a 13th-century monastery tucked inside. The road clings to the cliff face, one of Europe\'s most dramatic drives.', distance: '65 km', time: '1 hour', image: '/img/moraca-canyon.webp' },
-            { title: 'Ostrog Monastery', desc: 'Cliff-carved Orthodox monastery, Montenegro\'s most visited pilgrimage site. The upper monastery is built into a sheer rock face at 900 m.', distance: '50 km', time: '45 min', image: '/img/ostrog-monastery.webp' },
-            { title: 'Lake Skadar Wine Trail', desc: 'Boat through lily pads, taste Vranac reds at lakeside vineyards in Crmnica. The Balkans\' largest lake is just 30 minutes south.', distance: '30 km', time: '30 min', image: '/img/lake-skadar.webp' },
+            { title: t('mountainRoutes.durmitor.title'), desc: t('mountainRoutes.durmitor.desc'), distance: t('mountainRoutes.durmitor.distance'), time: t('mountainRoutes.durmitor.time'), image: '/img/durmitor-mountains.webp' },
+            { title: t('mountainRoutes.moraca.title'), desc: t('mountainRoutes.moraca.desc'), distance: t('mountainRoutes.moraca.distance'), time: t('mountainRoutes.moraca.time'), image: '/img/moraca-canyon.webp' },
+            { title: t('mountainRoutes.ostrog.title'), desc: t('mountainRoutes.ostrog.desc'), distance: t('mountainRoutes.ostrog.distance'), time: t('mountainRoutes.ostrog.time'), image: '/img/ostrog-monastery.webp' },
+            { title: t('mountainRoutes.skadar.title'), desc: t('mountainRoutes.skadar.desc'), distance: t('mountainRoutes.skadar.distance'), time: t('mountainRoutes.skadar.time'), image: '/img/lake-skadar.webp' },
           ].map((route) => (
             <div key={route.title} className="mountain-card reveal-item">
               <div className="mountain-card__img" style={{ backgroundImage: `url(${route.image})` }} />
@@ -716,13 +717,14 @@ function Reviews() {
 
 /* ─── LOCATIONS ────────────────────────────────────────── */
 function Locations() {
+  const { t } = useTranslation();
   return (
     <section className="section" id="locations">
       <div className="container">
         <div className="section-header">
-          <span className="section-label">Pickup Points</span>
-          <h2 className="section-title">Where Can You Collect?</h2>
-          <p className="section-subtitle">Multiple locations across Montenegro for maximum convenience.</p>
+          <span className="section-label">{t('pickupPoints.label')}</span>
+          <h2 className="section-title">{t('pickupPoints.title')}</h2>
+          <p className="section-subtitle">{t('pickupPoints.subtitle')}</p>
         </div>
 
         <div className="locations-grid">
@@ -845,13 +847,14 @@ function StickyMobileCTA() {
 
 /* ─── SCROLL TO TOP ────────────────────────────────────── */
 function WhatsAppFab() {
+  const { t } = useTranslation();
   return (
     <a
       href={`https://wa.me/38269000000?text=Hi!%20I%27d%20like%20to%20enquire%20about%20renting%20a%20car%20in%20Podgorica.`}
       target="_blank"
       rel="noopener noreferrer"
       className="whatsapp-fab"
-      aria-label="Chat on WhatsApp"
+      aria-label={t('aria.whatsapp')}
     >
       <MessageCircle size={22} />
     </a>
@@ -859,6 +862,7 @@ function WhatsAppFab() {
 }
 
 function ScrollToTop() {
+  const { t } = useTranslation();
   const [show, setShow] = useState(false);
 
   useEffect(() => {
@@ -873,7 +877,7 @@ function ScrollToTop() {
     <button
       className="scroll-top"
       onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-      aria-label="Scroll to top"
+      aria-label={t('aria.scrollTop')}
     >
       <ChevronRight size={20} style={{ transform: 'rotate(-90deg)' }} />
     </button>

@@ -292,8 +292,8 @@
       "a": "Der Flughafen Podgorica (TGD) ist ein kompaktes Einterminalgebäude, die Ankunft ist übersichtlich. Unser Mitarbeiter empfängt Sie in der Ankunftshalle mit einem Schild mit Ihrem Namen. Das Fahrzeug steht direkt vor dem Terminal. Von der Landung bis zum Losfahren dauert es in der Regel unter 10 Minuten."
     },
     "5": {
-      "q": "Kann ich das Fahrzeug an einem anderen Ort zurückgeben?",
-      "a": "Ja, Einwegmieten sind an 28 Standorten in Montenegro möglich. Wählen Sie bei der Buchung einfach verschiedene Abhol- und Rückgabeorte. Einweggebühren werden, falls anfallend, vor der Buchungsbestätigung transparent ausgewiesen."
+      "q": "Kann ich einen Kindersitz oder Sitzerhöhung dazubuchen?",
+      "a": "Ja. Kindersitze, Sitzerhöhungen und Babyschalen sind auf Anfrage verfügbar und werden vor Ihrer Ankunft eingebaut. Geben Sie den gewünschten Sitztyp bei der Buchung an, unser Mitarbeiter installiert ihn am TGD für Sie. Nach lokalem Recht müssen Kinder unter 150 cm in einem geeigneten Rückhaltesystem reisen."
     },
     "6": {
       "q": "Wie lautet die Stornierungsbedingung?",
@@ -371,7 +371,7 @@
     "p3": "Wir bündeln über 200 Fahrzeuge vertrauenswürdiger lokaler Partner am Flughafen Podgorica, im Stadtzentrum und an 28 weiteren Abholpunkten in Montenegro. Kompakte Kleinwagen für enge Canyonstraßen. Mittelgroße Kombis für Familien mit Skiausrüstung. Robuste SUVs für die Schotterpisten oberhalb von Žabljak. Jedes Fahrzeug ist vollständig versichert mit einer Selbstbeteiligung-null-Option, und jeder Preis enthält Steuern, Kilometer und Ausstattungssets, keine Überraschungen am Schalter.",
     "promiseTitle": "Unser Versprechen",
     "promise1": "Vollversicherung mit null Selbstbeteiligung, auch für unbefestigte Bergpisten",
-    "promise2": "Meet-and-Greet am Flughafen: Ihr Fahrzeug wartet bei der Ankunft in TGD, Tank voll, Motor kalt",
+    "promise2": "Persönliche Übergabe am Flughafen: Ihr Fahrzeug wartet bei der Ankunft in TGD, Tank voll, Motor kalt",
     "promise3": "Keine versteckten Gebühren, die Summe auf dem Bildschirm ist die Summe, die Sie zahlen",
     "promise4": "Grenzüberschreitende Fahrten nach Kroatien, Bosnien, Albanien, Serbien und Kosovo inbegriffen",
     "promise5": "Kostenlose Stornierung bei den meisten Buchungen",
@@ -1125,6 +1125,394 @@
     "intro3": "Zwei Faustregeln für Podgorica-Mieter: Erstens: Wählen Sie nach dem härtesten Tag, nicht nach dem leichtesten. Der Yaris ist magisch auf dem flachen Sozina-Lauf zur Küste, aber er dröhnt im 1.450-Meter-Anstieg nach Žabljak, und spätestens in der zweiten Kehre werden Sie sich den Diesel-Drehmoment des Golf wünschen. Zweitens: Die kostenlosen Randparkplätze der Hauptstadt verzeihen ein größeres Auto, als es die Altstädte an der Küste tun, hier mieten Sie einen 308 ohne das Tetris-Spiel an den Bastionstoren von Kotor. Wenn der Plan aber einen Tag Podgorica und sechs Tage Bucht von Kotor vorsieht, mieten Sie für die Küste; wenn Sie in der Hauptstadt stationiert sind und Ostrog, Skadar-See-Weinproben und ein Durmitor-Wochenende planen, mieten Sie für die Bergstraßen."
   },
   "cars": {
-    "readGuide": "Ratgeber lesen"
+    "readGuide": "Ratgeber lesen",
+    "vw-polo": {
+      "name": "VW Polo",
+      "category": "Economy",
+      "tagline": "Kompakter Stadtwagen für TGD, Erledigungen in der Hauptstadt und die Fahrt zum Skadarsee",
+      "lede": "Passt in die kostenlosen Parkbuchten an Podgoricas Boulevards und hält 130 km/h auf der Mautautobahn Sozina ohne Stress.",
+      "suitability": "Zwei Reisende mit Handgepäck, eine entspannte Abholung am Flughafen Podgorica und eine ruhige Fahrt durch die breiten Boulevards der Hauptstadt.",
+      "regional": "Schmiegt sich ohne Mühe an die Bordsteinparkplätze in Njegoševa und Bokeška, hält die Autobahn Bar - Podgorica bei stetigen 120 und bewältigt die 25 km nach Virpazar am Skadarsee in einer entspannten halben Stunde.",
+      "bestFor": {
+        "0": "Kurzaufenthalte ab TGD",
+        "1": "Alleinreisende",
+        "2": "Wochenenden in der Hauptstadt"
+      },
+      "inlineAlt": "Steindorf im montenegrinischen Hinterland",
+      "inlineCaption": "Die Nebenstraßendörfer rund um den Skadarsee, enge Gassen und freie Schulterparkplätze, in die der Polo ohne Drama gleitet.",
+      "features": {
+        "0": "Klimaanlage",
+        "1": "Bluetooth-Audio",
+        "2": "USB-Ladegerät",
+        "3": "Zentralverriegelung"
+      },
+      "related": {
+        "0": "Podgorica",
+        "1": "Skadarsee",
+        "2": "Stadtführer Podgorica"
+      }
+    },
+    "renault-clio": {
+      "name": "Renault Clio",
+      "category": "Economy",
+      "tagline": "Standard-Abholung am TGD, sparsam im Verbrauch und komfortabel auf der Sozina-Autobahn",
+      "lede": "Der meistgemietete Hatchback am Flughafen Podgorica. Fünf Türen, 391 Liter Kofferraum, gerne auf der Küstenautobahn unterwegs.",
+      "suitability": "Zwei Reisende, die in Podgorica landen und morgens den Sozina-Tunnel nach Budva und nachmittags Ostrog ansteuern wollen.",
+      "regional": "Komfortabel auf der E80 durch Podgoricas flaches Raster, frisst die Sozina-Mautautobahn nach Bar bei 110 km/h und parkt in den Seitenstraßen von Blok 5 ohne anzuecken. Der Standard-Mietwagen für das Hinterland Montenegros.",
+      "bestFor": {
+        "0": "Ankünfte am TGD",
+        "1": "Tagesausflügler an den Skadarsee",
+        "2": "Kurze Küstentrips"
+      },
+      "inlineAlt": "Straße von Podgorica zur Küste",
+      "inlineCaption": "Die Sozina-Mautautobahn südlich von Podgorica, genau die Route, für die der Standard-Mietwagen am TGD gemacht ist.",
+      "features": {
+        "0": "Bluetooth-Audio",
+        "1": "USB-Ladegerät",
+        "2": "Zentralverriegelung",
+        "3": "Touchscreen"
+      },
+      "related": {
+        "0": "Flughafen Podgorica",
+        "1": "Vom TGD an die Küste",
+        "2": "Budva"
+      }
+    },
+    "peugeot-308": {
+      "name": "Peugeot 308",
+      "category": "Mittelklasse",
+      "tagline": "Diesel-Automatik für die Hauptstadt-zu-den-Bergen-Schleifen, Ostrog, Durmitor, Biogradska",
+      "lede": "Leiser BlueHDi-Diesel, 412-Liter-Kofferraum, 8-Gang-Automatik. Das Auto für die neue Smokovac-Autobahn nach Kolašin.",
+      "suitability": "Vier Erwachsene mit Aufgabegepäck oder eine Familie, die die volle Schleife Podgorica - Kolašin - Žabljak fährt. Diesel und Automatik sind die Kombination für lange Tage in der Schlucht.",
+      "regional": "Bleibt bei 1.800 U/min auf der neuen Smokovac - Mateševo Autobahn nach Kolašin, transportiert Wanderausrüstung an den Eingang des Tara-Canyons und liefert ehrliche 5,0 L/100 km auf gemischten Strecken zwischen Inland und Küste.",
+      "bestFor": {
+        "0": "Vierköpfige Familien",
+        "1": "Fahrer von der Hauptstadt zum Durmitor",
+        "2": "Grenzüberschreitende Fahrten"
+      },
+      "inlineAlt": "Smokovac-Autobahn durch die Schlucht",
+      "inlineCaption": "Der neue Abschnitt Smokovac - Mateševo Richtung Kolašin, das natürliche Habitat des 308: Tempomat gesetzt, Diesel summt, Schluchtwände gleiten vorbei.",
+      "features": {
+        "0": "Automatikgetriebe",
+        "1": "Adaptive Geschwindigkeitsregelung",
+        "2": "Zwei-Zonen-Klima",
+        "3": "Großer Kofferraum"
+      },
+      "related": {
+        "0": "Durmitor",
+        "1": "Von Podgorica nach Durmitor",
+        "2": "Seen der Biogradska Gora"
+      }
+    },
+    "renault-megane": {
+      "name": "Renault Megane",
+      "category": "Mittelklasse",
+      "tagline": "Größter Kofferraum im Hatchback-Segment für Familien aus Podgorica nach Norden oder Bar",
+      "lede": "434-Liter-Kofferraum, weiches Langstrecken-Fahrwerk, noch verbreitet auf TGD-Flotten, der preisbewusste Distanzfresser.",
+      "suitability": "Eine vierköpfige Familie mit großen Koffern, die der Clio nicht schluckt. Ältere Generation des Innenraums, aber der Kofferraum bewährt sich auf der 2,5-stündigen Fahrt nach Žabljak wirklich.",
+      "regional": "Der 434-Liter-Kofferraum schluckt Kinderwagen, Strandausrüstung für Ulcinj und eine Kühltasche aus den Plantaže-Kellern in einer Ladung. Manueller Diesel ist sparsam auf der flachen Strecke Podgorica - Bar via Sozina, komfortabel im höchsten Gang bei 120.",
+      "bestFor": {
+        "0": "Vierköpfige Familien aus Podgorica",
+        "1": "Flughafentransfers TGD",
+        "2": "Lange Touren ins Inland"
+      },
+      "inlineAlt": "Küstenstraße unter dem Sozina-Tunnel",
+      "inlineCaption": "Die Autobahn Podgorica - Bar nach dem Sozina-Tunnel, der Megane verschlingt diese flache Strecke bei 4,3 L/100 km im höchsten Gang.",
+      "features": {
+        "0": "Großer Kofferraum",
+        "1": "Bluetooth-Audio",
+        "2": "Tempomat",
+        "3": "Parksensoren"
+      },
+      "related": {
+        "0": "Vom TGD an die Küste",
+        "1": "Budva",
+        "2": "Stadtführer Podgorica"
+      }
+    },
+    "kia-stonic": {
+      "name": "Kia Stonic",
+      "category": "Kompakt-Crossover",
+      "tagline": "Höhere Bodenfreiheit für Podgoricas Nebenstraßen, Ostrog, Rijeka Crnojevića, Grenze zum Kosovo",
+      "lede": "352-Liter-Kofferraum, höhere Bodenfreiheit als ein Hatchback, kleiner 1,0-Liter-Turbo-Benziner, der Budget-Crossover für Inland-Abstecher.",
+      "suitability": "Mieter, die eine höhere Sitzposition und etwas mehr Bodenfreiheit für die M9 nach Ostrog oder die Strecke nach Rožaje Richtung Kosovo möchten, ohne den vollen SUV-Preis zu zahlen.",
+      "regional": "Die zusätzliche Bodenfreiheit nimmt den brüchigen M9-Abschnitten nach Ostrog die Schärfe, klärt die rauen unbefestigten Abzweigungen rund um Rijeka Crnojevića auf der Skadar-Weinroute und trägt das Wochenendgepäck eines Paares nach Kolašin, ohne zu klappern. Nur Frontantrieb, im Winter über 1.000 m Schneeketten.",
+      "bestFor": {
+        "0": "Ostrog-Pilger",
+        "1": "Weinroute am Skadarsee",
+        "2": "Fahrer in den Kosovo via Rožaje"
+      },
+      "inlineAlt": "Aufgebrochener Asphalt im Hinterland Richtung Ostrog",
+      "inlineCaption": "Im Hinterland Montenegros räumt die Bodenfreiheit des Stonic die schlechteren M9-Abschnitte nach Ostrog, ohne den vollen SUV-Preis zu zahlen.",
+      "features": {
+        "0": "Höhere Bodenfreiheit",
+        "1": "Apple CarPlay",
+        "2": "Rückfahrkamera",
+        "3": "Spurhalteassistent"
+      },
+      "related": {
+        "0": "Kloster Ostrog",
+        "1": "Von Podgorica nach Ostrog",
+        "2": "Weinroute am Skadarsee"
+      }
+    },
+    "vw-golf": {
+      "name": "VW Golf",
+      "category": "Mittelklasse",
+      "tagline": "Diesel-DSG-Maßstab, der Allrounder aus Podgorica für jedes Reiseprogramm",
+      "lede": "Wendigkeit eines Polo, Langstreckenruhe eines 308, der vernünftige Standardwagen für gemischte Kilometer in Hauptstadt, Küste und Bergen.",
+      "suitability": "Paare oder kleine Familien, die ein Auto wollen, das gleichermaßen auf Podgoricas Boulevards, der Sozina-Autobahn und der Morača-Schluchtsteigung zu Hause ist, ohne sich auf eine größere Mittelklasse festzulegen.",
+      "regional": "Cruist die Autobahn Bar - Podgorica mühelos bei 120 km/h im siebten DSG-Gang, meistert den Anstieg durch die Platije-Schlucht nach Kolašin, ohne dass der Fahrer für Gangwechsel raten muss, und liefert echte 5,0 L/100 km auf der gemischten Strecke nach Ulcinj und zurück.",
+      "bestFor": {
+        "0": "Paare auf voller Montenegro-Schleife",
+        "1": "Gemischte Routen Hauptstadt und Küste",
+        "2": "Schnelle Flughafentransfers"
+      },
+      "inlineAlt": "Baumgesäumte Straße durch die Morača-Schlucht",
+      "inlineCaption": "Der Aufstieg durch die Morača-Schlucht nach Kolašin, DSG plus 2.0 TDI nimmt die Last des Schaltens bei dauerhaften 8 Prozent Steigung ab.",
+      "features": {
+        "0": "DSG-Automatik",
+        "1": "Adaptive Geschwindigkeitsregelung",
+        "2": "Digitales Cockpit",
+        "3": "Apple CarPlay"
+      },
+      "related": {
+        "0": "Fahrt durch die Morača-Schlucht",
+        "1": "Von Podgorica nach Durmitor",
+        "2": "Nikšić"
+      }
+    },
+    "toyota-yaris": {
+      "name": "Toyota Yaris",
+      "category": "Economy",
+      "tagline": "Sparsamster Verbrauch in der Flotte, Hybridantrieb für die zähflüssige Sommerhitze von Podgorica",
+      "lede": "3,8 L/100 km im realen Betrieb. Lautloses Elektrokriechen durch den 40 Grad heißen Sommerverkehr der Hauptstadt, ohne Reichweitenangst.",
+      "suitability": "Reisende, die im Juli in Podgorica die stärkste mögliche Klimaanlage wollen, in zähflüssigen Verkehrslagen die Stille des Elektromodus genießen, nur die halbe Tankrechnung eines Megane bezahlen.",
+      "regional": "Schleicht im Berufsverkehr auf der Moskovska rein elektrisch, gleitet auf der flachen Sozina-Autobahn nach Bar, ohne den Tank zu berühren, und die elektrisch betriebene Klimaanlage bleibt arktisch kalt, selbst wenn die Stadt 40 Grad knackt. Vermeiden für Žabljak-Wochenenden, die Batterie entlädt sich auf dem langen Anstieg.",
+      "bestFor": {
+        "0": "Sparsame Hauptstadt-Mieter",
+        "1": "Aufenthalte mit Stadtfokus",
+        "2": "Fahrer in der Sommerhitze"
+      },
+      "inlineAlt": "Luftaufnahme von Zentralmontenegro",
+      "inlineCaption": "Vierzehn Tage Podgorica-basiertes Fahren kostet im Yaris Hybrid unter 80 EUR Sprit, Stadthitze und Schluchtklima inklusive, leise bemerkenswert.",
+      "features": {
+        "0": "Hybridantrieb",
+        "1": "Rückfahrkamera",
+        "2": "Apple CarPlay",
+        "3": "Adaptive Geschwindigkeitsregelung"
+      },
+      "related": {
+        "0": "Podgorica",
+        "1": "Tagesausflug zum Skadarsee",
+        "2": "Skadarsee"
+      }
+    },
+    "overviewTitle": "Auf einen Blick",
+    "specsTitle": "Vollständige Spezifikation",
+    "whoForTitle": "Für wen ist dieses Auto?",
+    "regionalTitle": "Beste regionale Nutzung",
+    "articleTitle": "Der {name} rund um Podgorica",
+    "sections": {
+      "behindWheel": "Hinter dem Lenkrad",
+      "onRoads": "Auf den Straßen von Podgorica",
+      "spaceLoad": "Platz und Beladung",
+      "bestFor": "Beste Strecken für dieses Auto",
+      "practical": "Praktische Hinweise",
+      "verdict": "Das Fazit"
+    },
+    "defaultInline": {
+      "alt": "Berglandschaft Montenegro im Sonnenuntergang",
+      "caption": "Von Podgorica aus erreichen Sie Küste, Schlucht und Berge an einem einzigen Tag."
+    },
+    "featuresTitle": "Im Innenraum",
+    "relatedTitle": "Wohin Sie dieses Auto bringt",
+    "checkAvailability": "Verfügbarkeit und Live-Preise prüfen",
+    "nextBtn": "Nächstes Fahrzeug: {name}"
+  },
+  "aria": {
+    "fleetGalleryAlt": "Fuhrpark Podgorica Car Hire",
+    "whatsapp": "Per WhatsApp chatten",
+    "scrollTop": "Nach oben scrollen",
+    "carRentalBooking": "Autovermietung Buchung"
+  },
+  "mountainRoutes": {
+    "label": "Bergstraßen",
+    "title": "Routen ab der Hauptstadt",
+    "subtitle": "Podgorica liegt am Schnittpunkt von Küste und Bergen. Diese Strecken buchen unsere Kunden am häufigsten.",
+    "durmitor": {
+      "title": "Durmitor und Žabljak",
+      "desc": "UNESCO-Nationalpark auf 1.450 m. Schwarzer See, Tara-Brücke, Skifahren am Savin Kuk im Winter. In Nikšić tanken, danach gibt es kaum Tankstellen.",
+      "distance": "170 km",
+      "time": "2,5 Stunden"
+    },
+    "moraca": {
+      "title": "Morača-Schlucht",
+      "desc": "Senkrechte Kalksteinschlucht mit einem Kloster aus dem 13. Jahrhundert direkt darin. Die Straße schmiegt sich an die Felswand, eine der dramatischsten Strecken Europas.",
+      "distance": "65 km",
+      "time": "1 Stunde"
+    },
+    "ostrog": {
+      "title": "Kloster Ostrog",
+      "desc": "In den Fels gehauenes orthodoxes Kloster, der meistbesuchte Wallfahrtsort Montenegros. Das obere Kloster ist auf 900 m direkt in eine senkrechte Felswand gebaut.",
+      "distance": "50 km",
+      "time": "45 Min"
+    },
+    "skadar": {
+      "title": "Weinroute am Skutarisee",
+      "desc": "Mit dem Boot durch Seerosen, Vranac-Rotweinprobe in den Weingütern am See in Crmnica. Der größte See des Balkans liegt nur 30 Minuten südlich.",
+      "distance": "30 km",
+      "time": "30 Min"
+    }
+  },
+  "pickupPoints": {
+    "label": "Abholpunkte",
+    "title": "Wo können Sie das Auto abholen?",
+    "subtitle": "Mehrere Standorte in ganz Montenegro, für maximalen Komfort."
+  },
+  "pageAlt": {
+    "dubrovnikWalls": "Festungsmauern und Turm von Dubrovnik",
+    "belgradeChurch": "Markuskirche, Belgrad",
+    "budvaCoast": "Altstadt von Budva",
+    "budvaPeninsula": "Halbinsel der Altstadt von Budva",
+    "lovcenViewpoint": "Aussichtspunkt im Lovćen-Nationalpark über den Wolken",
+    "cetinjeVillage": "Montenegrinisches Dorf in der Nähe von Cetinje",
+    "dubrovnikRoad": "Straße von Montenegro nach Dubrovnik",
+    "kotorBay": "Bucht von Kotor",
+    "kotorOldTown": "Gassen der Altstadt von Kotor",
+    "lakeSkadarWetlands": "Feuchtgebiete des Skutarisees",
+    "montenegroMountainRoad": "Bergstraße in Montenegro",
+    "canyonRoadMontenegro": "Schluchtstraße in Montenegro",
+    "niksicMountainRoad": "Bergstraße bei Nikšić",
+    "ostrogCliff": "In die Felswand gehauenes Kloster Ostrog",
+    "perastIslands": "Perast und die Inseln",
+    "kotorBayLandscape": "Landschaft der Bucht von Kotor",
+    "moracaPodgorica": "Fluss Morača durch Podgorica",
+    "tivatMarina": "Yachthafen Porto Montenegro",
+    "podgoricaCity": "Podgorica",
+    "podgoricaAirport": "Flughafen Podgorica"
+  },
+  "carSpecs": {
+    "seats": "Sitzplätze",
+    "transmission": "Getriebe",
+    "fuel": "Kraftstoff",
+    "luggage": "Gepäck",
+    "bootSize": "Kofferraum",
+    "mpg": "Verbrauch"
+  },
+  "contactBody": {
+    "chatBtn": "Schreiben Sie uns",
+    "namePlaceholder": "Ihr Name",
+    "emailPlaceholder": "Ihre E-Mail",
+    "messagePlaceholder": "Wie können wir helfen?"
+  },
+  "cookieBody": {
+    "lastUpdatedLabel": "Letzte Aktualisierung:",
+    "lastUpdated": "April 2026",
+    "whatTitle": "Was sind Cookies?",
+    "whatText": "Cookies sind kleine Textdateien, die beim Besuch einer Website auf Ihrem Gerät gespeichert werden. Sie helfen der Seite, Ihre Einstellungen zu merken und die Nutzung zu verstehen.",
+    "weUseTitle": "Cookies, die wir verwenden",
+    "essentialTitle": "Notwendige Cookies",
+    "essentialText": "Diese sind für den Betrieb der Website erforderlich und können nicht deaktiviert werden.",
+    "sessionLabel": "Sitzungs-Cookies:",
+    "sessionText": "erhalten Ihre Sitzung beim Navigieren",
+    "prefLabel": "Präferenz-Cookies:",
+    "prefText": "merken sich Ihre Sprach- und Standortauswahl",
+    "thirdTitle": "Cookies von Drittanbietern",
+    "thirdIntro": "Unser Buchungs-Widget kann Cookies setzen, um:",
+    "third1": "Ihre Sucheinstellungen (Daten, Ort) zu speichern",
+    "third2": "Ihre Sitzung während des Buchungsvorgangs aufrechtzuerhalten",
+    "third3": "Affiliate-Verweise zu verfolgen",
+    "thirdOutro": "Diese Cookies werden vom Buchungspartner gesetzt und unterliegen dessen Datenschutzerklärung.",
+    "manageTitle": "Cookies verwalten",
+    "manageIntro": "Sie können Cookies in den Browsereinstellungen steuern. Die meisten Browser erlauben Ihnen:",
+    "manage1": "gespeicherte Cookies anzuzeigen",
+    "manage2": "einzelne oder alle Cookies zu löschen",
+    "manage3": "Cookies von bestimmten Seiten zu blockieren",
+    "manage4": "alle Drittanbieter-Cookies zu blockieren",
+    "manageOutro": "Beachten Sie, dass das Blockieren essentieller Cookies die Funktion des Buchungs-Widgets beeinträchtigen kann.",
+    "contactTitle": "Kontakt",
+    "contactText": "Fragen zu unserer Cookie-Nutzung? Kontaktieren Sie uns unter info@podgoricacarhire.com."
+  },
+  "privacyBody": {
+    "lastUpdatedLabel": "Letzte Aktualisierung:",
+    "lastUpdated": "April 2026",
+    "whoTitle": "Wer wir sind",
+    "whoText": "Podgorica Car Hire ist als Affiliate-Partner tätig und vermittelt Reisende an Mietwagenanbieter in Montenegro. Unsere Website ist unter podgoricacarhire.com erreichbar. Bei der Nutzung unserer Seite erheben wir bestimmte Daten wie unten beschrieben.",
+    "whatTitle": "Welche Daten wir erfassen",
+    "providedTitle": "Daten, die Sie angeben",
+    "providedText": "Wenn Sie das Buchungsformular nutzen, erfassen wir Abholort, Datum und Uhrzeit, um verfügbare Fahrzeuge anzuzeigen. Diese Daten werden an unseren Buchungspartner weitergegeben. Zahlungsdaten speichern wir nicht, alle Zahlungen erfolgen direkt beim Anbieter.",
+    "autoTitle": "Automatisch erfasste Daten",
+    "usageLabel": "Nutzungsdaten:",
+    "usageText": "besuchte Seiten, Verweildauer, verweisende Website",
+    "deviceLabel": "Geräteinformationen:",
+    "deviceText": "Browsertyp, Betriebssystem, Bildschirmauflösung",
+    "ipLabel": "IP-Adresse:",
+    "ipText": "verwendet zur ungefähren Standortbestimmung und Sicherheit",
+    "useTitle": "Wie wir Ihre Daten verwenden",
+    "use1": "um Ihnen Verfügbarkeit und Preise von Mietwagen anzuzeigen",
+    "use2": "um unsere Website und Nutzererfahrung zu verbessern",
+    "use3": "um die Nutzung unserer Seite besser zu verstehen (Analyse)",
+    "use4": "um Anfragen per WhatsApp, Viber oder E-Mail zu beantworten",
+    "thirdTitle": "Drittanbieter-Dienste",
+    "thirdIntro": "Unsere Website nutzt folgende Drittanbieter:",
+    "partnerLabel": "Buchungspartner:",
+    "partnerText": "das Buchungs-Widget verarbeitet Suchanfragen und übernimmt Buchung und Zahlung.",
+    "hostingLabel": "Hosting:",
+    "hostingText": "die Website läuft auf einer verwalteten Cloud-Plattform.",
+    "photosLabel": "Fotografie:",
+    "photosText": "Stockfotos werden über Drittanbieter-Bibliotheken lizenziert.",
+    "thirdOutro": "Jeder dieser Dienste hat seine eigene Datenschutzerklärung, die den Umgang mit Daten regelt.",
+    "cookiesTitle": "Cookies",
+    "cookiesIntro": "Wir verwenden nur die für den Betrieb der Website notwendigen Cookies. Das Buchungs-Widget kann eigene Cookies setzen. Siehe unsere",
+    "cookiesLink": "Cookie-Richtlinie",
+    "cookiesOutro": "für Details.",
+    "rightsTitle": "Ihre Rechte",
+    "rightsIntro": "Sie haben das Recht:",
+    "right1": "Auskunft über die zu Ihrer Person gespeicherten Daten zu verlangen",
+    "right2": "die Berichtigung oder Löschung Ihrer Daten zu verlangen",
+    "right3": "die Einwilligung zur Datenverarbeitung zu widerrufen",
+    "right4": "eine Beschwerde bei einer Datenschutzbehörde einzureichen",
+    "contactTitle": "Kontakt",
+    "contactText": "Bei datenschutzbezogenen Fragen erreichen Sie uns per E-Mail unter info@podgoricacarhire.com."
+  },
+  "termsBody": {
+    "lastUpdatedLabel": "Letzte Aktualisierung:",
+    "lastUpdated": "April 2026",
+    "aboutTitle": "Über diese Website",
+    "aboutText": "Podgorica Car Hire (podgoricacarhire.com) ist eine Affiliate-Website, die Reisende mit Mietwagenanbietern in Montenegro verbindet. Wir sind kein Autovermietungsunternehmen, sondern arbeiten mit einem Buchungspartner für Echtzeit-Verfügbarkeit zusammen.",
+    "bookingTitle": "Buchungs- und Mietbedingungen",
+    "bookingText1": "Alle über unsere Website getätigten Mietwagenbuchungen werden von unserem Buchungspartner abgewickelt. Der Mietvertrag entsteht direkt mit dem Fahrzeuganbieter, nicht mit Podgorica Car Hire.",
+    "bookingText2": "Mietbedingungen, einschließlich Stornierungspolitik, Versicherungsumfang, Altersanforderungen und Zahlungsbedingungen, werden vom Anbieter festgelegt und während der Buchung angezeigt. Wir empfehlen, diese Bedingungen vor der Bestätigung sorgfältig zu lesen.",
+    "roleTitle": "Unsere Rolle",
+    "weProvide": "Wir bieten:",
+    "provide1": "eine Suchoberfläche zum Durchsuchen verfügbarer Mietfahrzeuge",
+    "provide2": "Reise- und Zielinformationen über Montenegro",
+    "provide3": "Kundensupport bei Anfragen vor der Buchung",
+    "weDont": "Wir tun nicht:",
+    "dont1": "Mietfahrzeuge besitzen, betreiben oder warten",
+    "dont2": "Zahlungen abwickeln oder Rückerstattungen bearbeiten",
+    "dont3": "Mietpreise, Versicherungs- oder Stornierungsbedingungen festlegen",
+    "pricingTitle": "Preise",
+    "pricingText": "Die auf unserer Website angezeigten Preise werden in Echtzeit von unserem Buchungspartner geliefert und können sich ändern. Der endgültige Preis wird zum Zeitpunkt der Buchung bestätigt. Alle Preise enthalten MwSt. und Pflichtversicherung, sofern nicht anders angegeben.",
+    "contentTitle": "Inhalte der Website",
+    "contentText": "Wir bemühen uns, die Informationen auf dieser Website aktuell und korrekt zu halten. Reiseinformationen, Verkehrsregeln und Grenzbestimmungen können sich jedoch ändern. Wir empfehlen, kritische Details (insbesondere zu Grenzdokumenten und Verkehrsregeln) vor der Reise bei offiziellen Quellen zu prüfen.",
+    "liabilityTitle": "Haftungsbeschränkung",
+    "liabilityIntro": "Podgorica Car Hire fungiert als Vermittler und haftet nicht für:",
+    "liab1": "Zustand oder Verfügbarkeit der Mietfahrzeuge",
+    "liab2": "Handlungen oder Unterlassungen der Vermieter",
+    "liab3": "Verluste durch Probleme an der Grenze oder mit Dokumenten",
+    "liab4": "Preisänderungen nach der Buchungsbestätigung",
+    "ipTitle": "Geistiges Eigentum",
+    "ipText": "Alle Inhalte dieser Website, einschließlich Texte, Design und Grafiken, gehören Podgorica Car Hire, sofern nicht anders angegeben. Stockfotos werden über Drittanbieter-Bibliotheken lizenziert.",
+    "contactTitle": "Kontakt",
+    "contactText": "Fragen zu diesen Bedingungen? Schreiben Sie uns an info@podgoricacarhire.com."
+  },
+  "metaTitle": {
+    "homepage": "Podgorica Car Hire, Günstige Flüge, offene Straßen",
+    "notFound": "Seite nicht gefunden"
+  },
+  "schemaText": {
+    "carDescription": "Mietwagen {category}, {transmission}, {fuel}, {seats} Sitze"
   }
 }

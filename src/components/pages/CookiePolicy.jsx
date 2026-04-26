@@ -11,41 +11,41 @@ export default function CookiePolicy() {
       description={t("cookie-policy.seoDesc")}
       image="/img/podgorica-city.webp"
     >
-      <p><strong>Last updated:</strong> April 2026</p>
+      <p><strong>{t("cookieBody.lastUpdatedLabel")}</strong> {t("cookieBody.lastUpdated")}</p>
 
-      <h2>What Are Cookies?</h2>
-      <p>Cookies are small text files stored on your device when you visit a website. They help the site remember your preferences and understand how you use it.</p>
+      <h2>{t("cookieBody.whatTitle")}</h2>
+      <p>{t("cookieBody.whatText")}</p>
 
-      <h2>Cookies We Use</h2>
+      <h2>{t("cookieBody.weUseTitle")}</h2>
 
-      <h3>Essential Cookies</h3>
-      <p>These are necessary for the website to function. They cannot be disabled.</p>
+      <h3>{t("cookieBody.essentialTitle")}</h3>
+      <p>{t("cookieBody.essentialText")}</p>
       <ul>
-        <li><strong>Session cookies:</strong> maintain your browsing session while you navigate the site</li>
-        <li><strong>Preference cookies:</strong> remember your language and location selections</li>
+        <li><strong>{t("cookieBody.sessionLabel")}</strong> {t("cookieBody.sessionText")}</li>
+        <li><strong>{t("cookieBody.prefLabel")}</strong> {t("cookieBody.prefText")}</li>
       </ul>
 
-      <h3>Third-Party Cookies</h3>
-      <p>Our car rental booking widget (provided by LocalRent) may set cookies to:</p>
+      <h3>{t("cookieBody.thirdTitle")}</h3>
+      <p>{t("cookieBody.thirdIntro")}</p>
       <ul>
-        <li>Remember your search preferences (dates, location)</li>
-        <li>Maintain your session during the booking process</li>
-        <li>Track affiliate referrals</li>
+        <li>{t("cookieBody.third1")}</li>
+        <li>{t("cookieBody.third2")}</li>
+        <li>{t("cookieBody.third3")}</li>
       </ul>
-      <p>These cookies are set by LocalRent and are governed by their privacy policy.</p>
+      <p>{t("cookieBody.thirdOutro")}</p>
 
-      <h2>Managing Cookies</h2>
-      <p>You can control cookies through your browser settings. Most browsers allow you to:</p>
+      <h2>{t("cookieBody.manageTitle")}</h2>
+      <p>{t("cookieBody.manageIntro")}</p>
       <ul>
-        <li>View what cookies are stored</li>
-        <li>Delete individual or all cookies</li>
-        <li>Block cookies from specific sites</li>
-        <li>Block all third-party cookies</li>
+        <li>{t("cookieBody.manage1")}</li>
+        <li>{t("cookieBody.manage2")}</li>
+        <li>{t("cookieBody.manage3")}</li>
+        <li>{t("cookieBody.manage4")}</li>
       </ul>
-      <p>Note that blocking essential cookies may affect the functionality of the booking widget.</p>
+      <p>{t("cookieBody.manageOutro")}</p>
 
-      <h2>Contact</h2>
-      <p>Questions about our use of cookies? Contact us at info@podgoricacarhire.com.</p>
+      <h2>{t("cookieBody.contactTitle")}</h2>
+      <p>{t("cookieBody.contactText")}</p>
     </ContentPage>
   );
 }

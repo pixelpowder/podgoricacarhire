@@ -113,7 +113,11 @@ export default function LocaleAwareSchema({ lang = 'en', isHomepage = true }) {
       "@type": "Car",
       "name": car.name,
       "image": car.image && (car.image.startsWith('http') ? car.image : `${siteUrl}${car.image}`),
-      "description": `${car.category} rental, ${car.transmission}, ${car.fuel}, ${car.seats} seats`,
+      "description": (translations[lang] || translations.en)?.schemaText?.carDescription
+        ?.replace('{category}', car.category)
+        ?.replace('{transmission}', car.transmission)
+        ?.replace('{fuel}', car.fuel)
+        ?.replace('{seats}', car.seats) || '',
       "brand": { "@type": "Brand", "name": car.name.split(' ')[0] },
       "vehicleTransmission": car.transmission,
       "fuelType": car.fuel,
