@@ -255,6 +255,7 @@ const siteConfig = {
   ],
 
   faq: [
+    { q: "Can I drop off at a different location?", a: "Yes \u2014 one-way rentals are available across 28 destinations in Montenegro. Choose your preferred pickup and dropoff points during booking. One-way fees, where they apply, are shown transparently before you confirm." },
     { q: "What documents do I need?", a: "A valid driving licence showing Latin-script details, your passport, and a physical credit card issued in the main driver's name. If your licence was issued outside the EU, an International Driving Permit is strongly recommended alongside your national licence. Photocopies and digital licences stored on a phone are not accepted at pickup." },
     { q: "Can I drive to Serbia or Albania?", a: "Yes \u2014 cross-border travel is permitted to Serbia, Albania, Kosovo, Bosnia, and Croatia. The main border crossings near Podgorica are Dra\u010Denovac for Serbia and Hani i Hotit for Albania. Let us know at booking so we can prepare the Green Card and any additional paperwork in advance." },
     { q: "Is there a minimum age?", a: "The minimum rental age is 21, with at least 2 years of driving experience. Drivers aged 21\u201324 pay a young driver supplement; the exact rate depends on the vehicle category and is shown clearly during the search before you confirm anything." },
