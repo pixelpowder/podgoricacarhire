@@ -170,8 +170,8 @@
   },
   "kotor": {
     "title": "Noleggio Auto a Kotor",
-    "subtitle": "Esplora il gioiello UNESCO del Montenegro al tuo ritmo.",
-    "seoDesc": "Da Podgorica a Kotor: 90 km a ovest via tunnel Sozina, 75 minuti verso la costa. Mura UNESCO, baia simil-fjord, Perast a 12 km."
+    "subtitle": "Esplora il gioiello del Montenegro al tuo ritmo.",
+    "seoDesc": "Da Podgorica a Kotor: 90 km a ovest via tunnel Sozina, 75 minuti verso la costa. Mura, baia simil-fjord, Perast a 12 km."
   },
   "tivat-airport": {
     "title": "Noleggio Auto Aeroporto Tivat",
@@ -344,12 +344,12 @@
     "kotor": {
       "name": "Kotor",
       "tag": "1,5 Ore",
-      "desc": "Città fortificata UNESCO nella baia di Kotor."
+      "desc": "Città fortificata nella baia di Kotor."
     },
     "durmitor": {
       "name": "Durmitor",
       "tag": "2,5 Ore",
-      "desc": "Parco nazionale UNESCO, montagne, laghi e canyon."
+      "desc": "Parco nazionale, montagne, laghi e canyon."
     },
     "ostrog-monastery": {
       "name": "Monastero di Ostrog",
@@ -411,7 +411,7 @@
     "oldTownText": "Il centro storico di Budva (Stari Grad) è una compatta cittadella fortificata su una piccola penisola. All'interno delle mura troverete strette stradine acciottolate, architettura dell'epoca veneziana, piccole chiese risalenti al VII secolo e un vivace mix di ristoranti, gallerie e boutique. La fortezza Citadela sulla punta meridionale offre viste panoramiche sulla costa e sulle isole vicine.",
     "dayTripsTitle": "Gite Giornaliere da Budva",
     "svetiStefanTrip": "A soli 6 km a sud, questo fotogenico villaggio-isola fortificato è oggi un hotel di lusso, ma le viste dalla strada sovrastante sono spettacolari e gratuite. La spiaggia sul lato della terraferma è aperta a tutti.",
-    "kotorTrip": "Un viaggio di 30 minuti in auto verso nord attraverso un suggestivo tunnel montano vi porta alla Baia di Kotor e al suo centro storico inserito nella lista UNESCO.",
+    "kotorTrip": "Un viaggio di 30 minuti in auto verso nord attraverso un suggestivo tunnel montano vi porta alla Baia di Kotor e al suo centro storico inserito nella lista.",
     "lovcenTrip": "Dirigetevi verso l'interno per ammirare i paesaggi montani e il Mausoleo di Njegos, arroccato a 1.657 metri con viste su quattro paesi nelle giornate limpide. La strada tortuosa dalla costa è un'esperienza in sé.",
     "gettingAroundTitle": "Come Spostarsi",
     "gettingAroundText": "Mentre il centro storico di Budva è meglio esplorarlo a piedi, un'auto a noleggio è essenziale per raggiungere le migliori spiagge, i villaggi vicini e le attrazioni dell'entroterra. Il parcheggio è disponibile vicino alle mura del centro storico e in diversi parcheggi pubblici lungo la strada principale. In piena estate, arrivare presto assicura i posti migliori."
@@ -634,7 +634,7 @@
     "card_ostrog_title": "In Auto al Monastero di Ostrog",
     "card_ostrog_excerpt": "Un monastero scavato nella roccia a 900 metri sopra la valle della Zeta. La strada e ripida, stretta e indimenticabile, e il viaggio dura meno di due ore dalla capitale.",
     "card_durmitor_title": "Da Podgorica a Durmitor: 3 Ore verso Nord",
-    "card_durmitor_excerpt": "Due percorsi verso il parco nazionale UNESCO, via Niksic o via il Canyon della Moraca. Lago Nero, Ponte sulla Tara e paesaggi montani che cambiano ogni 20 minuti.",
+    "card_durmitor_excerpt": "Due percorsi verso il parco nazionale, via Niksic o via il Canyon della Moraca. Lago Nero, Ponte sulla Tara e paesaggi montani che cambiano ogni 20 minuti.",
     "card_cetinje_title": "Cetinje: La Capitale Reale del Montenegro",
     "card_cetinje_excerpt": "Trentacinque minuti sulle montagne e si raggiunge l'antica capitale, ambasciate trasformate in musei, il Monastero di Cetinje e una citta ferma nell'eleganza ottocentesca.",
     "card_skadar_title": "Virpazar e il Lago di Scutari in Auto",
@@ -729,7 +729,7 @@
     "subtitle": "Due percorsi verso il Lago Nero, il Ponte sulla Tara e il parco nazionale piu alto del Montenegro, via Niksic o attraverso il Canyon della Moraca.",
     "description": "Guida completa alla guida da Podgorica al Parco Nazionale di Durmitor. Opzioni di percorso, rifornimenti, consigli per l'alloggio a Zabljak e cosa fare al Lago Nero e al Canyon della Tara.",
     "h2Overview": "Perche Guidare fino a Durmitor",
-    "overviewP1": "Il Parco Nazionale di Durmitor e Patrimonio dell'Umanita UNESCO nel cuore degli altipiani settentrionali del Montenegro. Il parco copre 390 chilometri quadrati di vette, laghi glaciali, fitte foreste di pini e il Canyon del fiume Tara, la gola piu profonda d'Europa. Il Lago Nero, a 20 minuti a piedi dalla citta di Zabljak, e il singolo luogo piu visitato. Il Ponte Durdevica Tara attraversa il canyon a 172 metri sopra il fiume. In inverno, la stazione sciistica di Savin Kuk opera sopra Zabljak.",
+    "overviewP1": "Il Parco Nazionale di Durmitor e Patrimonio dell'Umanita nel cuore degli altipiani settentrionali del Montenegro. Il parco copre 390 chilometri quadrati di vette, laghi glaciali, fitte foreste di pini e il Canyon del fiume Tara, la gola piu profonda d'Europa. Il Lago Nero, a 20 minuti a piedi dalla citta di Zabljak, e il singolo luogo piu visitato. Il Ponte Durdevica Tara attraversa il canyon a 172 metri sopra il fiume. In inverno, la stazione sciistica di Savin Kuk opera sopra Zabljak.",
     "overviewP2": "Da Podgorica, due percorsi principali raggiungono il parco. Entrambi richiedono circa tre ore. La scelta dipende dal fatto che preferiate il percorso autostradale piu rapido attraverso Niksic, o il percorso panoramico piu suggestivo attraverso la Moraca. In ogni caso, il viaggio stesso e meta dell'esperienza.",
     "h2RouteNiksic": "Percorso 1: Via Niksic (Piu Veloce, Piu Facile)",
     "routeNiksicP": "Prendete la E65 da Podgorica in direzione nord-ovest verso Niksic (1 ora). Da Niksic, proseguite verso nord sulla P5 attraverso Savnik verso Zabljak (2 ore). Questo percorso segue strade principali ben tenute per la prima meta, poi si restringe in una classica strada di montagna montenegrina sopra Savnik, a corsia unica in alcuni tratti, con occasionali attraversamenti di bestiame e viste spettacolari sulla valle. La distanza totale e di circa 170 km. Fate il pieno a Niksic: la prossima stazione di servizio affidabile e a Zabljak, oltre un'ora di guida in montagna.",
@@ -1003,7 +1003,7 @@
   },
   "durmitor": {
     "title": "Da Podgorica al Durmitor",
-    "subtitle": "Vette UNESCO, laghi glaciali e il secondo canyon più profondo del mondo, 2,5 ore a nord.",
+    "subtitle": "Vette, laghi glaciali e il secondo canyon più profondo del mondo, 2,5 ore a nord.",
     "seoDesc": "2,5 ore da TGD attraverso il Canyon della Morača fino alle vette del Durmitor (2.522 m). Lago Nero, Canyon della Tara (1.300 m), Žabljak a 1.456 m."
   },
   "ostrog-monastery": {
@@ -1032,7 +1032,7 @@
   },
   "durmitorBody": {
     "h1": "Durmitor, dove il Montenegro diventa verticale",
-    "p1": "Il Parco Nazionale del Durmitor è Patrimonio dell'Umanità UNESCO e copre 390 km² di natura montana selvaggia nel nord del Montenegro. Il parco conta 48 cime sopra i 2.000 metri, la più alta è il Bobotov Kuk a 2.522 m, oltre a 18 laghi glaciali, antiche foreste di pini e il Canyon della Tara, il canyon più profondo d'Europa e il secondo al mondo con 1.300 metri. Questo è il pezzo forte. Per questo avete noleggiato un'auto a Podgorica.",
+    "p1": "Il Parco Nazionale del Durmitor è Patrimonio dell'Umanità e copre 390 km² di natura montana selvaggia nel nord del Montenegro. Il parco conta 48 cime sopra i 2.000 metri, la più alta è il Bobotov Kuk a 2.522 m, oltre a 18 laghi glaciali, antiche foreste di pini e il Canyon della Tara, il canyon più profondo d'Europa e il secondo al mondo con 1.300 metri. Questo è il pezzo forte. Per questo avete noleggiato un'auto a Podgorica.",
     "p2": "La città-porta di Žabljak si trova a 1.456 metri, rendendola uno degli insediamenti più alti dei Balcani. In inverno le temperature scendono a -20°C e la neve copre tutto. In estate, prati di fiori selvatici salgono fino al limite del bosco e i laghi glaciali brillano di turchese contro il verde scuro dei pini. Il dislivello da Podgorica (44 m) alle cime del Durmitor (2.522 m) si copre in sole 2,5 ore di guida, un salto verticale che cambia completamente il mondo fuori dal finestrino.",
     "activitiesTitle": "Cosa fare",
     "hikingTitle": "Escursionismo",
@@ -1342,7 +1342,7 @@
     "subtitle": "Podgorica si trova al crocevia tra costa e montagne. Queste sono le strade più richieste dai nostri clienti.",
     "durmitor": {
       "title": "Durmitor e Žabljak",
-      "desc": "Parco nazionale UNESCO a 1.450 m. Lago Nero, ponte sulla Tara, sci invernale a Savin Kuk. Fate il pieno a Nikšić, oltre il carburante scarseggia.",
+      "desc": "Parco nazionale a 1.450 m. Lago Nero, ponte sulla Tara, sci invernale a Savin Kuk. Fate il pieno a Nikšić, oltre il carburante scarseggia.",
       "distance": "170 km",
       "time": "2,5 ore"
     },

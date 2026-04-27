@@ -170,8 +170,8 @@
   },
   "kotor": {
     "title": "Rent a Car Kotor",
-    "subtitle": "Istražite UNESCO dragulj Crne Gore sopstvenim tempom.",
-    "seoDesc": "Kotor je 90 km zapadno od Podgorice kroz tunel Sozina, 75 minuta ka obali. UNESCO bedemi, zaliv poput fjorda, barokni Perast 12 km uz zaliv."
+    "subtitle": "Istražite dragulj Crne Gore sopstvenim tempom.",
+    "seoDesc": "Kotor je 90 km zapadno od Podgorice kroz tunel Sozina, 75 minuta ka obali. bedemi, zaliv poput fjorda, barokni Perast 12 km uz zaliv."
   },
   "tivat-airport": {
     "title": "Rent a Car Aerodrom Tivat",
@@ -344,12 +344,12 @@
     "kotor": {
       "name": "Kotor",
       "tag": "1,5 Sati",
-      "desc": "UNESCO zidinama opasani grad u Boki Kotorskoj."
+      "desc": "zidinama opasani grad u Boki Kotorskoj."
     },
     "durmitor": {
       "name": "Durmitor",
       "tag": "2,5 Sata",
-      "desc": "UNESCO nacionalni park, planine, jezera i kanjoni."
+      "desc": "nacionalni park, planine, jezera i kanjoni."
     },
     "ostrog-monastery": {
       "name": "Manastir Ostrog",
@@ -382,8 +382,8 @@
     "p5": "Pretražite flotu, rezervišite cijenu, otkažite besplatno ako se planovi promijene. Ili nam napišite na WhatsApp sa datumima i spiskom želja, kanjoni, manastiri, plaže, skijaške staze, pa ćemo Vam preporučiti pravi automobil, pravu rutu i restorane uz put koji zaslužuju zaustavljanje."
   },
   "kotorBody": {
-    "h1": "Kotor -- Lokalitet pod Zastitom UNESCO-a",
-    "p1": "Kotor je jedan od najljepših primorskih gradova Crne Gore, koji nudi prekrasne plaže, šarm istorijskog Starog grada i srednjovjekovne zidine unutar kojih se nalaze umjetničke galerije, kafići i odlični restorani. Kao lokalitet pod zaštitom UNESCO-a, znamenitosti grada su koncentrisane u predivno očuvanom Starom gradu.",
+    "h1": "Kotor -- Lokalitet pod Zastitom-a",
+    "p1": "Kotor je jedan od najljepših primorskih gradova Crne Gore, koji nudi prekrasne plaže, šarm istorijskog Starog grada i srednjovjekovne zidine unutar kojih se nalaze umjetničke galerije, kafići i odlični restorani. Kao lokalitet pod zaštitom-a, znamenitosti grada su koncentrisane u predivno očuvanom Starom gradu.",
     "p2": "Iznajmljivanje automobila u Kotoru daje vam slobodu da istražujete lokalne atrakcije i obližnje crnogorske gradove i prirodna područja sopstvenim tempom. Dostupnost parkinga varira sezonski, jer ljetnji turizam stvara nestašicu u centru, ali postoje veća parkirališta na prilaznim putevima.",
     "landmarksTitle": "Znamenitosti",
     "stJohnTitle": "Tvrđava Sv. Ivana",
@@ -411,7 +411,7 @@
     "oldTownText": "Budvanski Stari Grad je kompaktna utvrđena citadela na malom poluostrvu. Unutar zidina naći ćete uske popločane ulice, venecijansku arhitekturu, male crkve koje datiraju iz 7. vijeka, te živahnu mješavinu restorana, galerija i butika. Tvrđava Citadela na južnom vrhu nudi panoramske poglede na obalu i obližnja ostrva.",
     "dayTripsTitle": "Jednodnevni Izleti iz Budve",
     "svetiStefanTrip": "Samo 6 km južno, ovo fotogenično utvrđeno ostrvsko selo sada je luksuzni hotel, ali pogledi sa puta iznad su spektakularni i besplatni. Plaža na kopnenoj strani je otvorena za sve.",
-    "kotorTrip": "Vožnja od 30 minuta na sjever kroz dramatičan planinski tunel dovodi vas do Bokokotorskog zaliva i njegovog Starog grada pod zaštitom UNESCO-a.",
+    "kotorTrip": "Vožnja od 30 minuta na sjever kroz dramatičan planinski tunel dovodi vas do Bokokotorskog zaliva i njegovog Starog grada pod zaštitom-a.",
     "lovcenTrip": "Uputite se u unutrašnjost ka planinskim pejzažima i Njegoševom mauzoleju, smještenom na 1.657 metara nadmorske visine, sa pogledom na četiri zemlje po vedrom danu. Vijugavi put od obale je doživljaj sam po sebi.",
     "gettingAroundTitle": "Kretanje",
     "gettingAroundText": "Dok je Budvanski Stari Grad najbolje istraživati pješice, iznajmljeni automobil je neophodan za dolazak do najljepših plaža, obližnjih sela i atrakcija u unutrašnjosti. Parking je dostupan u blizini zidina Starog grada i na nekoliko javnih parkirališta duž glavnog puta. U vrhu ljeta, rani dolazak osigurava najbolja mjesta."
@@ -634,7 +634,7 @@
     "card_ostrog_title": "Vožnja do manastira Ostrog",
     "card_ostrog_excerpt": "Manastir uklesan u stijenu na 900 metara iznad Zetske ravnice. Put naviše je uzak, strm i nezaboravan, a čitav izlet traje manje od dva sata iz prijestolnice.",
     "card_durmitor_title": "Podgorica do Durmitora: 3 sata na sjever",
-    "card_durmitor_excerpt": "Dvije rute do UNESCO nacionalnog parka, preko Nikšića ili kanjonom Morače. Crno jezero, Most na Tari i planinski pejzaži koji se mijenjaju svakih 20 minuta.",
+    "card_durmitor_excerpt": "Dvije rute do nacionalnog parka, preko Nikšića ili kanjonom Morače. Crno jezero, Most na Tari i planinski pejzaži koji se mijenjaju svakih 20 minuta.",
     "card_cetinje_title": "Cetinje: kraljevska prijestolnica Crne Gore",
     "card_cetinje_excerpt": "Trideset pet minuta u planine i stižete u staru prijestolnicu, ambasade pretvorene u muzeje, Cetinjski manastir i grad zamrznut u eleganciji XIX vijeka.",
     "card_skadar_title": "Virpazar i Skadarsko jezero autom",
@@ -729,7 +729,7 @@
     "subtitle": "Dvije rute do Crnog jezera, Mosta na Tari i najvišeg nacionalnog parka Crne Gore, preko Nikšića ili kanjonom Morače.",
     "description": "Kompletan vodič za vožnju od Podgorice do Nacionalnog parka Durmitor. Opcije ruta, benzinske pumpe, savjeti za smještaj na Žabljaku i aktivnosti na Crnom jezeru i kanjonu Tare.",
     "h2Overview": "Zašto ići na Durmitor",
-    "overviewP1": "Nacionalni park Durmitor je UNESCO lokalitet svjetske baštine u srcu sjevernocrnogorskog visoravnja. Park pokriva 390 km² vrhova, glacijalnih jezera, gustih borovih šuma i kanjona rijeke Tare, najdublje klisure u Evropi. Crno jezero, 20 minuta hoda od Žabljaka, je najposjećenije mjesto. Most Đurđevića premošćuje kanjon na 172 metra iznad rijeke. Zimi radi ski-centar Savin Kuk iznad Žabljaka.",
+    "overviewP1": "Nacionalni park Durmitor je lokalitet svjetske baštine u srcu sjevernocrnogorskog visoravnja. Park pokriva 390 km² vrhova, glacijalnih jezera, gustih borovih šuma i kanjona rijeke Tare, najdublje klisure u Evropi. Crno jezero, 20 minuta hoda od Žabljaka, je najposjećenije mjesto. Most Đurđevića premošćuje kanjon na 172 metra iznad rijeke. Zimi radi ski-centar Savin Kuk iznad Žabljaka.",
     "overviewP2": "Iz Podgorice dvije glavne rute vode do parka. Obje traju oko tri sata. Izbor zavisi od toga da li preferirate brži put preko Nikšića ili dramatičniju kanjonsku rutu kroz Moraču. U svakom slučaju, sama vožnja je pola doživljaja.",
     "h2RouteNiksic": "Ruta 1: Preko Nikšića (brža, lakša)",
     "routeNiksicP": "Krenite magistralom E65 sjeverozapadno od Podgorice ka Nikšiću (1 sat). Iz Nikšića nastavite na sjever putem P5 kroz Šavnik ka Žabljaku (2 sata). Ova ruta prati dobro održavane glavne puteve u prvoj polovini, a zatim se sužava u klasičan crnogorski planinski put iznad Šavnika, mjestimično jednospurni, s povremenim stočnim prelazima i spektakularnim pogledima na dolinu. Ukupna udaljenost je oko 170 km. Natočite gorivo u Nikšiću: sljedeća pouzdana pumpa je na Žabljaku, preko sat vremena planinske vožnje dalje.",
@@ -1003,7 +1003,7 @@
   },
   "durmitor": {
     "title": "Od Podgorice do Durmitora",
-    "subtitle": "UNESCO vrhovi, glečerska jezera i drugi najdublji kanjon na svijetu, 2,5 sata na sjever.",
+    "subtitle": "vrhovi, glečerska jezera i drugi najdublji kanjon na svijetu, 2,5 sata na sjever.",
     "seoDesc": "2,5 sata od TGD kroz kanjon Morače do vrhova Durmitora (2.522 m). Crno jezero, kanjon Tare (1.300 m dubine) i Žabljak na 1.456 m."
   },
   "ostrog-monastery": {
@@ -1032,7 +1032,7 @@
   },
   "durmitorBody": {
     "h1": "Durmitor, đe Crna Gora ide u vertikalu",
-    "p1": "Nacionalni park Durmitor je UNESCO lokalitet svetske baštine koji pokriva 390 km² divlje planinske prirode na sjeveru Crne Gore. Park sadrži 48 vrhova iznad 2.000 metara, najviši je Bobotov Kuk sa 2.522 m, uz 18 glečerskih jezera, drevne borove šume i kanjon rijeke Tare, najdublji kanjon u Evropi i drugi najdublji na svijetu sa 1.300 metara. Ovo je to. Zbog ovoga ste iznajmili auto u Podgorici.",
+    "p1": "Nacionalni park Durmitor je lokalitet svetske baštine koji pokriva 390 km² divlje planinske prirode na sjeveru Crne Gore. Park sadrži 48 vrhova iznad 2.000 metara, najviši je Bobotov Kuk sa 2.522 m, uz 18 glečerskih jezera, drevne borove šume i kanjon rijeke Tare, najdublji kanjon u Evropi i drugi najdublji na svijetu sa 1.300 metara. Ovo je to. Zbog ovoga ste iznajmili auto u Podgorici.",
     "p2": "Kapija Durmitora, Žabljak, leži na 1.456 metara, što ga čini jednim od najviše naseljenih mjesta na Balkanu. Zimi temperature padaju na -20°C i sve pokriva snijeg. Ljeti, livade divljeg cvijeća sežu do granice šume, a glečerska jezera sijaju tirkizno na pozadini tamnog bora. Visinska razlika od Podgorice (44 m) do vrhova Durmitora (2.522 m) prevaziđe se za samo 2,5 sata vožnje, vertikalni uspon koji potpuno mijenja svijet iza prozora.",
     "activitiesTitle": "Šta raditi",
     "hikingTitle": "Pješačenje",
@@ -1342,7 +1342,7 @@
     "subtitle": "Podgorica leži na raskršću obale i planina. Ovo su rute za koje naši gosti najčešće rezervišu.",
     "durmitor": {
       "title": "Durmitor i Žabljak",
-      "desc": "UNESCO nacionalni park na 1.450 m. Crno jezero, most na Tari, zimsko skijanje na Savin Kuku. Natočite gorivo u Nikšiću, dalje su pumpe rijetke.",
+      "desc": "nacionalni park na 1.450 m. Crno jezero, most na Tari, zimsko skijanje na Savin Kuku. Natočite gorivo u Nikšiću, dalje su pumpe rijetke.",
       "distance": "170 km",
       "time": "2,5 sata"
     },

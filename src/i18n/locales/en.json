@@ -171,7 +171,7 @@
   "kotor": {
     "title": "Podgorica to Kotor",
     "subtitle": "Trade the capital's 40°C heat for the cool shade of medieval walls, 1.5 hours over the Lovćen switchbacks.",
-    "seoDesc": "Kotor lies 90 km west of Podgorica via the Sozina tunnel, a 75 minute coast-bound drive. UNESCO walls, fjord-like bay, and baroque Perast 12 km up."
+    "seoDesc": "Kotor lies 90 km west of Podgorica via the Sozina tunnel, a 75 minute coast-bound drive. walls, fjord-like bay, and baroque Perast 12 km up."
   },
   "tivat-airport": {
     "title": "Tivat Airport Car Hire",
@@ -220,7 +220,7 @@
   },
   "durmitor": {
     "title": "Podgorica to Durmitor",
-    "subtitle": "UNESCO peaks, glacial lakes, and the world's second-deepest canyon, 2.5 hours north.",
+    "subtitle": "peaks, glacial lakes, and the world's second-deepest canyon, 2.5 hours north.",
     "seoDesc": "2.5 hrs from TGD through Morača Canyon to Durmitor's 2,522 m peaks. Black Lake trail, Tara Canyon (1,300 m deep), and Žabljak at 1,456 m."
   },
   "ostrog-monastery": {
@@ -353,7 +353,7 @@
     "kotor": {
       "name": "Kotor",
       "tag": "1.5 Hours",
-      "desc": "UNESCO fortress town wedged between bay and mountain."
+      "desc": "fortress town wedged between bay and mountain."
     },
     "durmitor": {
       "name": "Durmitor",
@@ -393,7 +393,7 @@
   "kotorBody": {
     "h1": "The Drive That Earns Every View",
     "p1": "The road from Podgorica to Kotor is not just transport, it is the headline act. You climb from the capital's 44-metre river plain up and over the Lovćen massif, carving through 25 numbered hairpin bends with the Bay of Kotor slowly unfolding below. On a clear morning, the water glows turquoise against the limestone cliffs. The descent into the bay is one of Europe's great driving experiences.",
-    "p2": "Kotor itself is a medieval walled city wedged between the bay and the steep flanks of Mount St. John. UNESCO listed the old town and its natural setting together, and once you arrive the reason is obvious. Narrow limestone streets open into tiny squares, cats sleep on windowsills, and fortress walls zigzag 1,200 metres up the mountainside above.",
+    "p2": "Kotor itself is a medieval walled city wedged between the bay and the steep flanks of Mount St. John. listed the old town and its natural setting together, and once you arrive the reason is obvious. Narrow limestone streets open into tiny squares, cats sleep on windowsills, and fortress walls zigzag 1,200 metres up the mountainside above.",
     "landmarksTitle": "Inside the Walls",
     "stJohnTitle": "St. John Fortress",
     "stJohnText": "The 1,350-step climb to the fortress ruins above Kotor is the must-do activity. Start early, the afternoon heat makes the ascent punishing. At the top, the entire bay spreads out below, cruise ships looking like bath toys. The Contarini Tower and the Church of Our Lady of Health mark the halfway point.",
@@ -420,7 +420,7 @@
     "oldTownText": "Budva's Stari Grad is a compact peninsula fortress, Venetian-era stone houses, narrow cobbled lanes, churches dating to the 7th century, and the Citadela fortress at the southern tip with panoramic views of the coast and offshore islands. Restaurants spill onto every available square metre in summer, and live music echoes off the walls most nights.",
     "dayTripsTitle": "Day Trips from Budva",
     "svetiStefanTrip": "Drive 6 km south for the most photographed view in Montenegro, the fortified island village of Sveti Stefan, now an Aman resort. The public viewpoint above and the mainland beach below are both free.",
-    "kotorTrip": "Head 30 minutes north through a mountain tunnel and you drop into the Bay of Kotor, the UNESCO-listed old town and 1,350 steps to the fortress await.",
+    "kotorTrip": "Head 30 minutes north through a mountain tunnel and you drop into the Bay of Kotor, the historic old town and 1,350 steps to the fortress await.",
     "lovcenTrip": "Turn inland for the winding ascent to Lovćen National Park. The Njegos Mausoleum sits at 1,657 m with views across four countries on a clear day. The road itself, carved into limestone switchbacks, is half the adventure.",
     "gettingAroundTitle": "Parking and Getting Around",
     "gettingAroundText": "The old town is pedestrian-only, but several car parks line the approach roads. Arrive before 10 AM in July and August to secure a spot without circling. A rental car is essential for beach-hopping along the riviera and for reaching inland attractions like Lovćen, Cetinje, and Lake Skadar."
@@ -649,7 +649,7 @@
   },
   "durmitorBody": {
     "h1": "Durmitor, Where Montenegro Goes Vertical",
-    "p1": "Durmitor National Park is a UNESCO World Heritage Site covering 390 km² of raw mountain wilderness in northern Montenegro. The park contains 48 peaks above 2,000 metres, the highest being Bobotov Kuk at 2,522 m, along with 18 glacial lakes, ancient pine forests, and the Tara River Canyon, the deepest canyon in Europe and the second deepest in the world at 1,300 metres. This is the big one. This is why you rented a car in Podgorica.",
+    "p1": "Durmitor National Park is a historic walled town covering 390 km² of raw mountain wilderness in northern Montenegro. The park contains 48 peaks above 2,000 metres, the highest being Bobotov Kuk at 2,522 m, along with 18 glacial lakes, ancient pine forests, and the Tara River Canyon, the deepest canyon in Europe and the second deepest in the world at 1,300 metres. This is the big one. This is why you rented a car in Podgorica.",
     "p2": "The gateway town of Žabljak sits at 1,456 metres, making it one of the highest settlements in the Balkans. In winter, temperatures drop to -20°C and snow blankets everything. In summer, wildflower meadows run up to the treeline and the glacial lakes glow turquoise against dark pine. The altitude swing from Podgorica (44 m) to the Durmitor peaks (2,522 m) happens in just 2.5 hours of driving, a vertical gain that changes the entire world outside your windscreen.",
     "activitiesTitle": "What to Do",
     "hikingTitle": "Hiking",
@@ -701,7 +701,7 @@
     "card_ostrog_title": "Driving to Ostrog Monastery",
     "card_ostrog_excerpt": "A cliff-carved monastery 900 metres above the Zeta valley. The road up is narrow, steep, and unforgettable, and the whole trip takes under two hours from the capital.",
     "card_durmitor_title": "Podgorica to Durmitor: 3 Hours North",
-    "card_durmitor_excerpt": "Two routes to the UNESCO national park, via Nikšić or via Morača Canyon. Black Lake, Tara Bridge, and mountain scenery that changes every 20 minutes.",
+    "card_durmitor_excerpt": "Two routes to the national park, via Nikšić or via Morača Canyon. Black Lake, Tara Bridge, and mountain scenery that changes every 20 minutes.",
     "card_cetinje_title": "Cetinje: Montenegro's Royal Capital",
     "card_cetinje_excerpt": "Thirty-five minutes into the mountains and you reach the old capital, embassies turned museums, the Cetinje Monastery, and a town frozen in 19th-century elegance.",
     "card_skadar_title": "Virpazar and Lake Skadar by Car",
@@ -796,7 +796,7 @@
     "subtitle": "Two routes to Black Lake, Tara Bridge, and Montenegro's highest national park, via Nikšić or through the Morača Canyon.",
     "description": "Complete driving guide from Podgorica to Durmitor National Park. Route options, fuel stops, Žabljak accommodation tips, and what to do at Black Lake and Tara Canyon.",
     "h2Overview": "Why Drive to Durmitor",
-    "overviewP1": "Durmitor National Park is a UNESCO World Heritage Site at the heart of Montenegro's northern highlands. The park covers 390 square kilometres of peaks, glacial lakes, dense pine forests, and the Tara River Canyon, the deepest gorge in Europe. Black Lake, a 20-minute walk from the town of Žabljak, is the most visited single spot. The Đurđevića Tara Bridge spans the canyon at 172 metres above the river. In winter, Savin Kuk ski resort operates above Žabljak.",
+    "overviewP1": "Durmitor National Park is a historic walled town at the heart of Montenegro's northern highlands. The park covers 390 square kilometres of peaks, glacial lakes, dense pine forests, and the Tara River Canyon, the deepest gorge in Europe. Black Lake, a 20-minute walk from the town of Žabljak, is the most visited single spot. The Đurđevića Tara Bridge spans the canyon at 172 metres above the river. In winter, Savin Kuk ski resort operates above Žabljak.",
     "overviewP2": "From Podgorica, two main routes reach the park. Both take roughly three hours. The choice depends on whether you want the faster highway route through Nikšić, or the more dramatic canyon route through Morača. Either way, the drive itself is half the experience.",
     "h2RouteNiksic": "Route 1: Via Nikšić (Faster, Easier)",
     "routeNiksicP": "Take the E65 north-west from Podgorica towards Nikšić (1 hour). From Nikšić, continue north on the P5 through Šavnik towards Žabljak (2 hours). This route follows well-maintained main roads for the first half, then narrows into a classic Montenegrin mountain road above Šavnik, single lane in places, with occasional livestock crossings and dramatic valley views. The total distance is around 170 km. Fill your tank in Nikšić: the next reliable fuel station is in Žabljak, over an hour of mountain driving away.",
@@ -1114,7 +1114,7 @@
     "subtitle": "Podgorica sits at the crossroads of coast and mountains. These are the drives our customers book for.",
     "durmitor": {
       "title": "Durmitor and Žabljak",
-      "desc": "UNESCO national park at 1,450 m. Black Lake, Tara Bridge, winter skiing at Savin Kuk. Fill up in Nikšić, fuel is scarce beyond.",
+      "desc": "national park at 1,450 m. Black Lake, Tara Bridge, winter skiing at Savin Kuk. Fill up in Nikšić, fuel is scarce beyond.",
       "distance": "170 km",
       "time": "2.5 hours"
     },

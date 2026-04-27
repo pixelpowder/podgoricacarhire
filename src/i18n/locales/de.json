@@ -170,7 +170,7 @@
   },
   "kotor": {
     "title": "Mietwagen in Kotor",
-    "subtitle": "Entdecken Sie Montenegros UNESCO-Juwel in Ihrem eigenen Tempo.",
+    "subtitle": "Entdecken Sie Montenegros-Juwel in Ihrem eigenen Tempo.",
     "seoDesc": "Von Podgorica nach Kotor: 90 km westlich über den Sozina-Tunnel, 75 Minuten zur Küste. UNESCO-Mauern, Fjord-Bucht, Perast 12 km hinauf."
   },
   "tivat-airport": {
@@ -344,7 +344,7 @@
     "kotor": {
       "name": "Kotor",
       "tag": "1,5 Stunden",
-      "desc": "UNESCO-ummauerte Stadt an der Bucht von Kotor."
+      "desc": "ummauerter Stadt an der Bucht von Kotor."
     },
     "durmitor": {
       "name": "Durmitor",
@@ -382,8 +382,8 @@
     "p5": "Durchsuchen Sie die Flotte, sichern Sie sich einen Preis, stornieren Sie kostenlos, wenn sich Ihre Pläne ändern. Oder schreiben Sie uns per WhatsApp mit Ihren Daten und Wünschen, Canyons, Klöster, Strände, Skipisten, und wir empfehlen Ihnen das richtige Fahrzeug, die richtige Route und die Restaurants, an denen sich ein Halt lohnt."
   },
   "kotorBody": {
-    "h1": "Kotor, UNESCO-Weltkulturerbe",
-    "p1": "Kotor ist eine der schönsten Küstenstädte Montenegros und bietet herrliche Strände, den historischen Charme der Altstadt sowie mittelalterliche Mauern, hinter denen sich Kunstgalerien, Cafés und ausgezeichnete Restaurants verbergen. Als UNESCO-Weltkulturerbe konzentrieren sich die Sehenswürdigkeiten der Stadt in der wunderschön erhaltenen Altstadt.",
+    "h1": "Kotor, Welterbe",
+    "p1": "Kotor ist eine der schönsten Küstenstädte Montenegros und bietet herrliche Strände, den historischen Charme der Altstadt sowie mittelalterliche Mauern, hinter denen sich Kunstgalerien, Cafés und ausgezeichnete Restaurants verbergen. Als Welterbe konzentrieren sich die Sehenswürdigkeiten der Stadt in der wunderschön erhaltenen Altstadt.",
     "p2": "Mit einem Mietwagen in Kotor haben Sie die Freiheit, lokale Sehenswürdigkeiten sowie nahegelegene montenegrinische Städte und Naturgebiete in Ihrem eigenen Tempo zu erkunden.",
     "landmarksTitle": "Sehenswürdigkeiten",
     "stJohnTitle": "Festung St. John",
@@ -411,7 +411,7 @@
     "oldTownText": "Budvas Altstadt (Stari Grad) ist eine kompakte, ummauerte Zitadelle auf einer kleinen Halbinsel. Innerhalb der Mauern finden Sie enge Kopfsteinpflasterstraßen, venezianische Architektur, kleine Kirchen aus dem 7. Jahrhundert und eine lebhafte Mischung aus Restaurants, Galerien und Boutiquen. Die Festung Citadela an der Südspitze bietet einen Panoramablick auf die Küste und die nahe gelegenen Inseln.",
     "dayTripsTitle": "Tagesausflüge ab Budva",
     "svetiStefanTrip": "Nur 6 km südlich gelegen, ist dieses fotogene befestigte Inseldorf heute ein Luxushotel, aber die Aussicht von der Straße oberhalb ist spektakulär und kostenlos. Der Strand auf der Festlandseite ist für alle zugänglich.",
-    "kotorTrip": "Eine 30-minütige Fahrt nach Norden durch einen beeindruckenden Bergtunnel bringt Sie zur Bucht von Kotor und ihrer UNESCO-gelisteten Altstadt.",
+    "kotorTrip": "Eine 30-minütige Fahrt nach Norden durch einen beeindruckenden Bergtunnel bringt Sie zur Bucht von Kotor und ihrer historische Altstadt.",
     "lovcenTrip": "Fahren Sie ins Landesinnere für Berglandschaften und das Njegoš-Mausoleum, das auf 1.657 Metern Höhe thront und an klaren Tagen Ausblicke auf vier Länder bietet. Die kurvenreiche Straße von der Küste ist ein Erlebnis für sich.",
     "gettingAroundTitle": "Fortbewegung",
     "gettingAroundText": "Während Budvas Altstadt am besten zu Fuß erkundet wird, ist ein Mietwagen unverzichtbar, um die besten Strände, nahegelegene Dörfer und Attraktionen im Landesinneren zu erreichen. Parkplätze sind in der Nähe der Altstadtmauern und auf mehreren öffentlichen Parkplätzen entlang der Hauptstraße vorhanden. Im Hochsommer sichert frühes Ankommen die besten Plätze."
@@ -634,7 +634,7 @@
     "card_ostrog_title": "Mit dem Auto zum Kloster Ostrog",
     "card_ostrog_excerpt": "Ein in den Fels gehauenes Kloster 900 Meter ueber dem Zeta-Tal. Die Strasse hinauf ist schmal, steil und unvergesslich -- und der gesamte Ausflug dauert von der Hauptstadt keine zwei Stunden.",
     "card_durmitor_title": "Podgorica nach Durmitor: 3 Stunden Richtung Norden",
-    "card_durmitor_excerpt": "Zwei Routen zum UNESCO-Nationalpark -- ueber Niksic oder durch die Moraca-Schlucht. Schwarzer See, Tara-Bruecke und Berglandschaften, die sich alle 20 Minuten veraendern.",
+    "card_durmitor_excerpt": "Zwei Routen zum-Nationalpark -- ueber Niksic oder durch die Moraca-Schlucht. Schwarzer See, Tara-Bruecke und Berglandschaften, die sich alle 20 Minuten veraendern.",
     "card_cetinje_title": "Cetinje: Montenegros koenigliche Hauptstadt",
     "card_cetinje_excerpt": "Fuenfunddreissig Minuten in die Berge und man erreicht die alte Hauptstadt -- Botschaften als Museen, das Kloster Cetinje und eine Stadt, eingefroren in der Eleganz des 19. Jahrhunderts.",
     "card_skadar_title": "Virpazar und der Skutarisee mit dem Auto",
@@ -729,7 +729,7 @@
     "subtitle": "Zwei Routen zum Schwarzen See, zur Tara-Bruecke und zu Montenegros hoechstem Nationalpark -- ueber Niksic oder durch die Moraca-Schlucht.",
     "description": "Kompletter Fahrguide von Podgorica zum Durmitor-Nationalpark. Routenoptionen, Tankstopps, Unterkunftstipps fuer Zabljak und Aktivitaeten am Schwarzen See und der Tara-Schlucht.",
     "h2Overview": "Warum zum Durmitor fahren",
-    "overviewP1": "Der Durmitor-Nationalpark ist eine UNESCO-Welterbestaette im Herzen des montenegrinischen Hochlands. Der Park erstreckt sich ueber 390 Quadratkilometer mit Gipfeln, Gletscherseen, dichten Kiefernwaeldern und der Tara-Schlucht -- der tiefsten Schlucht Europas. Der Schwarze See, 20 Gehminuten von der Stadt Zabljak entfernt, ist die meistbesuchte Einzelattraktion. Die Durdevica-Tara-Bruecke ueberspannt die Schlucht in 172 Metern Hoehe. Im Winter betreibt das Skigebiet Savin Kuk oberhalb von Zabljak.",
+    "overviewP1": "Der Durmitor-Nationalpark ist eine-Welterbestaette im Herzen des montenegrinischen Hochlands. Der Park erstreckt sich ueber 390 Quadratkilometer mit Gipfeln, Gletscherseen, dichten Kiefernwaeldern und der Tara-Schlucht -- der tiefsten Schlucht Europas. Der Schwarze See, 20 Gehminuten von der Stadt Zabljak entfernt, ist die meistbesuchte Einzelattraktion. Die Durdevica-Tara-Bruecke ueberspannt die Schlucht in 172 Metern Hoehe. Im Winter betreibt das Skigebiet Savin Kuk oberhalb von Zabljak.",
     "overviewP2": "Von Podgorica fuehren zwei Hauptrouten zum Park. Beide dauern etwa drei Stunden. Die Wahl haengt davon ab, ob Sie die schnellere Autobahnroute ueber Niksic oder die dramatischere Schluchtenroute durch die Moraca bevorzugen. In jedem Fall ist die Fahrt selbst die halbe Attraktion.",
     "h2RouteNiksic": "Route 1: Ueber Niksic (schneller, einfacher)",
     "routeNiksicP": "Nehmen Sie die E65 nordwestlich von Podgorica Richtung Niksic (1 Stunde). Von Niksic weiter noerdlich auf der P5 durch Savnik nach Zabljak (2 Stunden). Diese Route folgt in der ersten Haelfte gut ausgebauten Hauptstrassen und wird dann oberhalb von Savnik zur typisch montenegrinischen Bergstrasse -- stellenweise einspurig, mit gelegentlichen Viehuebergaengen und dramatischen Talblicken. Die Gesamtstrecke betraegt etwa 170 km. Tanken Sie in Niksic: Die naechste zuverlaessige Tankstelle ist in Zabljak, ueber eine Stunde Bergfahrt entfernt.",
@@ -1032,7 +1032,7 @@
   },
   "durmitorBody": {
     "h1": "Durmitor, Wo Montenegro in die Vertikale geht",
-    "p1": "Der Nationalpark Durmitor ist UNESCO-Welterbe und umfasst 390 km² unberührte Bergwildnis in Nordmontenegro. Der Park enthält 48 Gipfel über 2.000 Meter, der höchste ist der Bobotov Kuk mit 2.522 m, dazu 18 Gletscherseen, uralte Kiefernwälder und die Tara-Schlucht, die tiefste Schlucht Europas und die zweittiefste der Welt mit 1.300 Metern. Das ist das Highlight. Dafür haben Sie in Podgorica ein Auto gemietet.",
+    "p1": "Der Nationalpark Durmitor ist historische Altstadt und umfasst 390 km² unberührte Bergwildnis in Nordmontenegro. Der Park enthält 48 Gipfel über 2.000 Meter, der höchste ist der Bobotov Kuk mit 2.522 m, dazu 18 Gletscherseen, uralte Kiefernwälder und die Tara-Schlucht, die tiefste Schlucht Europas und die zweittiefste der Welt mit 1.300 Metern. Das ist das Highlight. Dafür haben Sie in Podgorica ein Auto gemietet.",
     "p2": "Die Torstadt Žabljak liegt auf 1.456 Metern und ist damit eine der höchstgelegenen Siedlungen auf dem Balkan. Im Winter fallen die Temperaturen auf -20°C und Schnee bedeckt alles. Im Sommer erstrecken sich Wildblumenwiesen bis zur Baumgrenze und die Gletscherseen leuchten türkis vor dunklem Kieferngrün. Der Höhenunterschied von Podgorica (44 m) zu den Durmitor-Gipfeln (2.522 m) wird in nur 2,5 Stunden Fahrt überwunden, ein vertikaler Anstieg, der die Welt vor Ihrem Fenster komplett verändert.",
     "activitiesTitle": "Aktivitäten",
     "hikingTitle": "Wandern",
