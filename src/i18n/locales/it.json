@@ -60,7 +60,7 @@
   "fleet": {
     "label": "La Nostra Flotta",
     "title": "Scegli la Tua Auto",
-    "subtitle": "Prezzi in tempo reale, conferma immediata, prenoti l'auto che corrisponde al Suo itinerario."
+    "subtitle": "Prezzi in tempo reale e conferma immediata, cancellazione gratuita e assicurazione completa sulla maggior parte delle tariffe, nessuna carta di credito necessaria al momento della ricerca."
   },
   "brands": {
     "label": "Marchi affidabili nella nostra flotta"
@@ -156,7 +156,7 @@
     "promise3": "Nessuna commissione nascosta: il prezzo che vedi è il prezzo che paghi, sempre",
     "promise4": "Viaggio transfrontaliero verso Croazia, Bosnia, Albania, Serbia e Kosovo",
     "promise5": "Cancellazione gratuita: perché il tempo in montagna cambia i piani",
-    "promise6": "Assistenza stradale 24/7 dall'Adriatico al confine albanese",
+    "promise6": " dall'Adriatico al confine albanese",
     "localTitle": "Conoscenza Locale",
     "localText": "Con base a Podgorica, conosciamo ogni strada dalla capitale alla costa. Che tu stia guidando verso il",
     "localLink1": "Lago Skadar",
@@ -375,7 +375,7 @@
     "promise3": "Nessun costo nascosto, la cifra che vede sullo schermo è la cifra che paga",
     "promise4": "Viaggi transfrontalieri verso Croazia, Bosnia, Albania, Serbia e Kosovo inclusi",
     "promise5": "Cancellazione gratuita, perché una tempesta sul Durmitor può riscrivere qualsiasi itinerario",
-    "promise6": "Assistenza stradale 24 ore su 24, dalla costa adriatica fino al confine albanese",
+    "promise6": " dalla costa adriatica fino al confine albanese",
     "h4": "Conoscenza locale",
     "p4": "Il nostro team percorre queste strade ogni settimana. Sappiamo che il tratto della gola di Platije a nord di Podgorica non ha guardrail né segnale telefonico. Sappiamo che il pedaggio del tunnel di Sozina è di EUR 2.50 e che fa risparmiare 30 minuti sulla tratta per Budva. Sappiamo che Pod Volat fa il miglior agnello alla griglia di Podgorica e che Lanterna è dove vanno i locali per il pesce. Ci chieda consigli sul percorso, costruiremo il Suo itinerario insieme via WhatsApp prima ancora che salga sull'aereo.",
     "h5": "Contattaci",
@@ -1118,9 +1118,9 @@
   },
   "fleetIndex": {
     "title": "La Nostra Flotta di Podgorica",
-    "subtitle": "Sette auto scelte per l'itinerario TGD, spostamenti nella capitale, autostrada di Sozina, giornate sulla strada del vino di Scutari e weekend a Durmitor.",
+    "subtitle": "Citycar compatte, hatchback, berline, SUV e van scelti per l'itinerario TGD, spostamenti nella capitale, autostrada di Sozina, giornate sulla strada del vino di Scutari e weekend a Durmitor.",
     "seoDesc": "Auto a noleggio all'aeroporto di Podgorica (TGD), dalla compatta alla media, con schede, consumi e profili d'uso per capitale, costa e montagna.",
-    "intro1": "La flotta di Podgorica è pensata per le esigenze particolari della capitale: viali dritti a scacchiera, ampi parcheggi gratuiti a bordo strada fuori dal centro protetto, il tunnel a pedaggio di Sozina verso la costa, la salita nel canyon della Morača verso Kolašin e la M9 che sale al monastero di Ostrog. Sette auto, ciascuna scelta per un tipo specifico di giornata da TGD: una VW Polo o Toyota Yaris Hybrid per chi noleggia solo per la città e apprezza lo scorrimento elettrico silenzioso in un pomeriggio a 40 °C; una Renault Clio o Peugeot 308 per chi dall'aeroporto va a Bar o Ulcinj; una Renault Megane per famiglie con vero bagaglio da stiva; una Kia Stonic per chi affronta la M9 sconnessa fino a Ostrog o le diramazioni sterrate attorno a Rijeka Crnojevića; e una VW Golf per chi vuole un'unica auto che affronti ogni tratta.",
+    "intro1": "La flotta di Podgorica è pensata per le esigenze particolari della capitale: viali dritti a scacchiera, ampi parcheggi gratuiti a bordo strada fuori dal centro protetto, il tunnel a pedaggio di Sozina verso la costa, la salita nel canyon della Morača verso Kolašin e la M9 che sale al monastero di Ostrog. Citycar compatte, hatchback, berline, SUV e van, ciascuno scelto per un tipo specifico di giornata da TGD: una VW Polo o Toyota Yaris Hybrid per chi noleggia solo per la città e apprezza lo scorrimento elettrico silenzioso in un pomeriggio a 40 °C; una Renault Clio o Peugeot 308 per chi dall'aeroporto va a Bar o Ulcinj; una Renault Megane per famiglie con vero bagaglio da stiva; una Kia Stonic per chi affronta la M9 sconnessa fino a Ostrog o le diramazioni sterrate attorno a Rijeka Crnojevića; e una VW Golf per chi vuole un'unica auto che affronti ogni tratta.",
     "intro2": "Tre aspetti contano a Podgorica più che altrove in Montenegro. Primo, il caldo. La capitale è in un bacino sotto i 50 metri di altitudine e supera regolarmente i 40 °C da metà giugno a fine agosto, il compressore ibrido della Yaris raffredda in modo misurabilmente più forte di un piccolo turbo che aziona l'aria condizionata tramite cinghia, e nel traffico di Podgorica questo pesa più di qualsiasi strada costiera. Secondo, i pedaggi. L'autostrada Bar–Podgorica via Sozina è la prima strada a pedaggio del Montenegro, e la nuova tratta Smokovac–Mateševo che avvicina Kolašin di 40 minuti è anch'essa a pagamento; le auto con cruise adattivo rendono davvero rilassanti quelle lunghe tratte a velocità costante. Terzo, l'autonomia. Oltre Nikšić la rete dei distributori si dirada, una 308 o Megane con serbatoio diesel da 50 litri offre un'autonomia che una Yaris da 36 litri non può avere.",
     "intro3": "Due regole per chi sceglie a Podgorica: primo, puntare sul giorno più difficile, non su quello più facile. La Yaris è magica sul piano di Sozina verso la costa ma urla sulla salita dei 1.450 metri verso Žabljak e al secondo tornante rimpiangerete la coppia diesel della Golf. Secondo, il parcheggio gratuito della capitale perdona un'auto più grande di quanto facciano i centri storici costieri, qui si noleggia una 308 senza il Tetris delle porte bastionate di Cattaro. Detto questo, se il piano è un giorno a Podgorica e sei nelle Bocche di Cattaro, noleggiate per la costa; se siete basati in capitale con Ostrog, degustazioni al lago di Scutari e un weekend a Durmitor, noleggiate per le strade di montagna."
   },

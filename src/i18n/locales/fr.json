@@ -60,7 +60,7 @@
   "fleet": {
     "label": "Notre Flotte",
     "title": "Choisissez Votre Véhicule",
-    "subtitle": "Tarifs en direct, confirmation immédiate, réservez la voiture qui correspond à votre itinéraire."
+    "subtitle": "Tarifs en direct et confirmation immédiate, annulation gratuite et assurance tous risques sur la plupart des tarifs, pas de carte de crédit requise lors de la recherche."
   },
   "brands": {
     "label": "Marques de confiance dans notre flotte"
@@ -156,7 +156,7 @@
     "promise3": "Pas de frais cachés: le prix que vous voyez est le prix que vous payez, toujours",
     "promise4": "Voyages transfrontaliers vers la Croatie, la Bosnie, l'Albanie, la Serbie et le Kosovo",
     "promise5": "Annulation gratuite, car la météo en montagne change les plans",
-    "promise6": "Assistance routière 24h/24 depuis l'Adriatique jusqu'à la frontière albanaise",
+    "promise6": " de l'Adriatique jusqu'à la frontière albanaise",
     "localTitle": "Connaissance locale",
     "localText": "Basés à Podgorica, nous connaissons chaque route de la capitale à la côte. Que vous conduisiez vers",
     "localLink1": "le lac Skadar",
@@ -375,7 +375,7 @@
     "promise3": "Aucun frais caché, le prix affiché est le prix final",
     "promise4": "Déplacements transfrontaliers vers la Croatie, la Bosnie, l'Albanie, la Serbie et le Kosovo inclus",
     "promise5": "Annulation gratuite, parce qu'une tempête sur le Durmitor peut réécrire n'importe quel itinéraire",
-    "promise6": "Assistance routière 24h/24 et 7j/7, du littoral adriatique à la frontière albanaise",
+    "promise6": " du littoral adriatique à la frontière albanaise",
     "h4": "Connaissance locale",
     "p4": "Notre équipe emprunte ces routes chaque semaine. Nous savons que la section des gorges de Platije au nord de Podgorica n'a ni glissières ni signal de téléphone. Nous savons que le péage du tunnel de Sozina est de EUR 2.50 et qu'il fait gagner 30 minutes sur le trajet de Budva. Nous savons que Pod Volat fait le meilleur agneau grillé de Podgorica et que Lanterna est l'adresse des habitants pour le poisson. Demandez nous des conseils d'itinéraire, nous construirons votre feuille de route avec vous par WhatsApp avant même que vous embarquiez.",
     "h5": "Contactez-nous",
@@ -1118,9 +1118,9 @@
   },
   "fleetIndex": {
     "title": "Notre Flotte à Podgorica",
-    "subtitle": "Sept voitures choisies pour le programme TGD, trajets dans la capitale, autoroute de Sozina, journées viticoles au lac de Skadar et week-ends à Durmitor.",
+    "subtitle": "Citadines compactes, hatchbacks, berlines, SUV et vans choisis pour le programme TGD, trajets dans la capitale, autoroute de Sozina, journées viticoles au lac de Skadar et week-ends à Durmitor.",
     "seoDesc": "Voitures de location à l'aéroport de Podgorica (TGD), compactes à berlines, avec fiches techniques, consommation et usages pour capitale, côte et montagne.",
-    "intro1": "La flotte de Podgorica est taillée pour le cahier des charges particulier de la capitale : boulevards tracés en grille, vastes places de stationnement gratuites en bordure de rue hors centre, le tunnel à péage de Sozina vers la côte, la montée du canyon de la Morača vers Kolašin et la M9 qui grimpe jusqu'au monastère d'Ostrog. Sept voitures, chacune choisie pour un type de journée précis au départ de TGD : une VW Polo ou Toyota Yaris Hybrid pour le client strictement urbain qui apprécie le silence électrique dans un après-midi à 40 °C ; une Renault Clio ou Peugeot 308 pour ceux qui rejoignent la côte vers Bar ou Ulcinj ; une Renault Megane pour les familles avec bagages réels ; un Kia Stonic pour quiconque emprunte la M9 cabossée vers Ostrog ou les chemins non revêtus autour de Rijeka Crnojevića ; et une VW Golf pour les locataires qui veulent une seule voiture capable de tout.",
+    "intro1": "La flotte de Podgorica est taillée pour le cahier des charges particulier de la capitale : boulevards tracés en grille, vastes places de stationnement gratuites en bordure de rue hors centre, le tunnel à péage de Sozina vers la côte, la montée du canyon de la Morača vers Kolašin et la M9 qui grimpe jusqu'au monastère d'Ostrog. Citadines compactes, hatchbacks, berlines, SUV et vans, chacun choisi pour un type de journée précis au départ de TGD : une VW Polo ou Toyota Yaris Hybrid pour le client strictement urbain qui apprécie le silence électrique dans un après-midi à 40 °C ; une Renault Clio ou Peugeot 308 pour ceux qui rejoignent la côte vers Bar ou Ulcinj ; une Renault Megane pour les familles avec bagages réels ; un Kia Stonic pour quiconque emprunte la M9 cabossée vers Ostrog ou les chemins non revêtus autour de Rijeka Crnojevića ; et une VW Golf pour les locataires qui veulent une seule voiture capable de tout.",
     "intro2": "Trois éléments comptent davantage à Podgorica qu'ailleurs au Monténégro. Premièrement, la chaleur. La capitale se situe dans un bassin à moins de 50 mètres d'altitude et dépasse régulièrement 40 °C de mi-juin à fin août, le compresseur hybride de la Yaris refroidit mesurablement plus que celui d'un petit turbo entraîné par courroie, et cela compte davantage dans le trafic de Podgorica que sur n'importe quelle route côtière. Deuxièmement, les péages. L'autoroute Bar–Podgorica via Sozina est la première route à péage du Monténégro, et la nouvelle section Smokovac–Mateševo qui rapproche Kolašin de 40 minutes est elle aussi payante ; les voitures à régulateur adaptatif transforment ces longues étapes à vitesse constante en vrai moment de détente. Troisièmement, l'autonomie. Au-delà de Nikšić, le réseau de stations se raréfie, une 308 ou une Megane avec un réservoir diesel de 50 litres offre la portée qu'une Yaris de 36 litres n'a pas.",
     "intro3": "Deux règles d'or pour choisir à Podgorica : primo, choisir pour la journée la plus difficile, pas la plus facile. La Yaris est magique sur le plat de Sozina vers la côte mais elle hurle dans la montée de 1 450 m vers Žabljak et vous regretterez le couple diesel du Golf dès le deuxième virage en épingle. Secundo, le stationnement gratuit de la capitale pardonne une voiture plus grande que les vieilles villes côtières, ici, vous louez une 308 sans le casse-tête des portes de bastion de Kotor. Cela dit, si le programme est un jour à Podgorica et six dans la baie de Kotor, louez pour la côte ; si vous êtes basé dans la capitale et prévoyez Ostrog, dégustations au lac de Skadar et un week-end à Durmitor, louez pour les routes de montagne."
   },
