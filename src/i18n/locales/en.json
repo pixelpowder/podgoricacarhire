@@ -301,8 +301,8 @@
       "a": "A valid driving licence showing Latin-script details, your passport, and a physical credit card issued in the main driver's name. If your licence was issued outside the EU, an International Driving Permit is strongly recommended alongside your national licence. Photocopies and digital licences stored on a phone are not accepted at pickup."
     },
     "1": {
-      "q": "Can I drive to Serbia or Albania?",
-      "a": "Yes, cross-border travel is permitted to Serbia, Albania, Kosovo, Bosnia, and Croatia. The main border crossings near Podgorica are Dračenovac for Serbia and Hani i Hotit for Albania. Let us know at booking so we can prepare the Green Card and any additional paperwork in advance."
+      "q": "Can I drive to Serbia or Albania, and how do the cross-border fees work?",
+      "a": "Yes, and Podgorica is the natural launchpad for it: Hani i Hotit on the Albanian frontier is roughly 30 km east, and the inland highways toward Serbia and Kosovo open up directly from the capital ring road. Cross-border charges are tiered. Tier 1 covers neighbouring countries excluding Albania and Kosovo, suited to a quick run up to Trebinje in Bosnia or a hop to Croatia via Debeli Brijeg. Tier 2 adds Albania and Kosovo, the right pick for a Shkodër weekend or a Prizren detour. Tier 3 is the multi-country Balkans circuit that strings Bosnia, Serbia, Kosovo, North Macedonia and beyond into one trip, exactly the loop renters often build out of TGD. Flag the countries during booking so the Green Card and the matching tier are sorted before you collect the keys."
     },
     "2": {
       "q": "What's included in the price?",
@@ -313,8 +313,8 @@
       "a": "Podgorica Airport (TGD) is a compact single-terminal building, arrivals are straightforward. Our agent meets you in the arrivals hall holding a board with your name. The car is parked just outside the terminal. From wheels-down to driving away typically takes under 10 minutes."
     },
     "4": {
-      "q": "Can I add a child seat or booster?",
-      "a": "Yes, one-way rentals are available across 28 destinations in Montenegro. Choose your preferred pickup and dropoff points during booking. One-way fees, where they apply, are shown transparently before you confirm."
+      "q": "What extras can I add to a Podgorica rental?",
+      "a": "Three child seat formats are bookable, infant, toddler and booster, fitted before handover so you can buckle in straight at the TGD kerb. A Winter Pack pairs winter tyres with chains for January through March renters running the inland route up to Kolašin or Žabljak, where the Smokovac to Mateševo motorway gets you onto the snowline fast. Personal Accident Insurance is the one to weigh for the Morača Canyon and the Ostrog cliff-face approach, both narrow, both unforgiving. Theft Protection layers on top of CDW for longer multi-country trips. For connectivity, a wireless hotspot or a local SIM card both solve the no-roaming problem the moment you walk out of TGD arrivals. Ski rack and snowboard rack ship together with the Žabljak weekenders, a roof rack handles the bulkier hauls. And for darting through Stara Varoš lanes when the car is parked, an electric scooter with charger is on the list."
     },
     "5": {
       "q": "What is the cancellation policy?",
@@ -377,7 +377,7 @@
     "h2": "Why Podgorica Is the Smartest Starting Line",
     "p2": "Podgorica sits at just 44 metres elevation where the Morača and Ribnica rivers converge. It is not a postcard town, it is a launchpad. The brutalist apartment blocks and Ottoman laneways of the capital give way to wild countryside within 15 minutes of driving in any direction. Lake Skadar is 30 minutes south. The cliff-carved Ostrog Monastery is 45 minutes north-west. The Adriatic coast is about an hour through the Sozina tunnel. And Durmitor's 2,522-metre peaks are just 2.5 hours up the Morača Canyon road. No other city in Montenegro puts you this close to this much variety.",
     "h3": "What We Actually Do",
-    "p3": "We aggregate 200+ cars from trusted local partners across Podgorica Airport, the city centre, and 28 other pickup points in Montenegro. Compact hatchbacks for narrow canyon roads. Mid-size estates for families hauling ski gear. Rugged SUVs for the gravel tracks above Žabljak. Every vehicle comes fully insured with a zero-excess option, and every price includes tax, mileage, and equipment kits, no surprises at the counter.",
+    "p3": "We aggregate 200+ cars from trusted local partners across Podgorica Airport, the city centre, and 28 other pickup points in Montenegro. Compact hatchbacks for narrow canyon roads. Mid-size estates for families hauling ski gear, ski racks and snowboard racks bookable when the Žabljak weekend is in the cards. Rugged SUVs for the gravel tracks above the national park. Bolt-ons cover what the route demands: a Winter Pack for the Kolašin run between January and March, Personal Accident Insurance for the Morača Canyon and the Ostrog cliff-face drive, and a local SIM card or hotspot for international visitors landing at TGD without roaming. Every vehicle comes fully insured with a zero-excess option, and every price includes tax, mileage, and equipment kits, no surprises at the counter.",
     "promiseTitle": "The Explorer's Guarantee",
     "promise1": "Full insurance with zero excess, even for unpaved mountain tracks",
     "promise2": "Airport meet-and-greet: your car waits at TGD arrivals, tank full, engine cold",
@@ -563,7 +563,7 @@
   },
   "borderCrossingBody": {
     "h1": "Can I Take My Rental Car Across Borders?",
-    "p1": "Yes. Cross-border travel is permitted from Montenegro to Croatia, Bosnia & Herzegovina, Albania, Kosovo, and Serbia. Notify your rental company at booking so they prepare the paperwork, the main document you need is a Green Card international insurance certificate.",
+    "p1": "Yes. Cross-border travel is permitted from Montenegro to Croatia, Bosnia & Herzegovina, Albania, Kosovo, and Serbia. Cross-border charges work in three tiers: Tier 1 covers neighbouring countries excluding Albania and Kosovo, Tier 2 brings Albania and Kosovo into scope (think Hani i Hotit, the Albanian frontier 30 km east of the capital), and Tier 3 unlocks the multi-country Balkans loop renters often plan from Podgorica. Notify your rental company at booking so they prepare the paperwork, the main document you need is a Green Card international insurance certificate.",
     "greenCardTitle": "The Green Card Explained",
     "greenCardText": "A Green Card is an international motor insurance certificate that confirms your vehicle is covered in the country you are entering. It's commonly required when taking a rental car across borders in the region.",
     "greenCard1": "Cost: approximately EUR 15 for 15 days",
