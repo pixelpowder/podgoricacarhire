@@ -94,7 +94,7 @@
     "bookTitle": "Prenota la Tua Auto",
     "bookText": "Cerca disponibilità e prezzi in tempo reale in tutto il Montenegro.",
     "helpTitle": "Hai Bisogno di Aiuto?",
-    "helpText": "Il nostro team è disponibile via WhatsApp, Viber o telefono.",
+    "helpText": "Inviaci un'email e ti risponderemo a breve.",
     "popularDest": "Destinazioni Popolari",
     "tivatAirport": "Aeroporto di Tivat",
     "dubrovnikAirport": "Aeroporto di Dubrovnik"
@@ -166,7 +166,7 @@
     "localLink3": "Parco Nazionale di Durmitor",
     "localEnd": ", ti abbiniamo con l'auto giusta e il percorso migliore.",
     "contactTitle": "Contattaci",
-    "contactText": "Domande su catene da neve, valichi di montagna o quale SUV affronta meglio la strada del Durmitor? Siamo su WhatsApp, Viber e telefono. Cerca la flotta online e prenota in minuti, oppure mandaci un messaggio e costruiremo il tuo percorso insieme."
+    "contactText": "Domande su catene da neve, valichi di montagna o quale SUV affronta meglio la strada del Durmitor? Siamo via email e telefono. Cerca la flotta online e prenota in minuti, oppure mandaci un messaggio e costruiremo il tuo percorso insieme."
   },
   "kotor": {
     "title": "Noleggio Auto a Kotor",
@@ -1453,7 +1453,7 @@
     "use1": "per mostrarvi disponibilità e prezzi del noleggio",
     "use2": "per migliorare il sito e l'esperienza utente",
     "use3": "per capire come viene utilizzato il sito (analisi)",
-    "use4": "per rispondere alle richieste via WhatsApp, Viber o email",
+    "use4": "per rispondere alle richieste via email o email",
     "thirdTitle": "Servizi di terze parti",
     "thirdIntro": "Il nostro sito utilizza i seguenti servizi di terze parti:",
     "partnerLabel": "Partner di prenotazione:",

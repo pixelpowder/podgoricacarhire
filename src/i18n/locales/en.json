@@ -94,7 +94,7 @@
     "bookTitle": "Book Your Car",
     "bookText": "Live prices from Podgorica. SUVs, hatchbacks, automatics, pick your weapon.",
     "helpTitle": "Need Help?",
-    "helpText": "Reach us on WhatsApp, Viber, or old-fashioned phone.",
+    "helpText": "Send us an email and we will get back to you.",
     "popularDest": "Popular Destinations",
     "tivatAirport": "Tivat Airport",
     "dubrovnikAirport": "Dubrovnik Airport"
@@ -1202,7 +1202,7 @@
     "use1": "To connect you with car rental availability and pricing",
     "use2": "To improve our website and user experience",
     "use3": "To understand how visitors use our site (analytics)",
-    "use4": "To respond to enquiries via WhatsApp, Viber, or email",
+    "use4": "To respond to enquiries via email",
     "thirdTitle": "Third-Party Services",
     "thirdIntro": "Our website uses the following third-party services:",
     "partnerLabel": "Booking partner:",
