@@ -166,7 +166,7 @@
     "localLink3": "Durmitor",
     "localEnd": "National Park, we match you with the right car and the best route.",
     "contactTitle": "Get in Touch",
-    "contactText": "Questions about snow chains, mountain passes, or which SUV handles the Durmitor road best? We are on WhatsApp, Viber, and phone. Search the fleet online and book in minutes, or message us and we will build your route together."
+    "contactText": "Questions about snow chains, mountain passes, or which SUV handles the Durmitor road best? Send us an email and we will get back to you. Search the fleet online and book in minutes, or message us and we will build your route together."
   },
   "kotor": {
     "title": "Podgorica to Kotor",
@@ -386,9 +386,9 @@
     "promise5": "Free cancellation, because a storm over Durmitor can rewrite any itinerary",
     "promise6": "Local rental providers, full insurance and low or no-deposit options",
     "h4": "We Know These Roads",
-    "p4": "Our team drives these routes every week. We know that the Platije gorge section north of Podgorica has no guardrails and no phone signal. We know the Sozina tunnel toll is EUR 2.50 and that it shaves 30 minutes off the Budva drive. We know that Pod Volat does the best grilled lamb in Podgorica, and that Lanterna is where locals go for fish. Ask us for route advice, we will build your itinerary with you over WhatsApp before you even board your flight.",
+    "p4": "Our team drives these routes every week. We know that the Platije gorge section north of Podgorica has no guardrails and no phone signal. We know the Sozina tunnel toll is EUR 2.50 and that it shaves 30 minutes off the Budva drive. We know that Pod Volat does the best grilled lamb in Podgorica, and that Lanterna is where locals go for fish. Ask us for route advice, we will help build your itinerary by email before you even board your flight.",
     "h5": "Start Planning",
-    "p5": "Search the fleet, lock in a price, cancel free if plans change. Or message us on WhatsApp with your dates and wish list, canyons, monasteries, beaches, ski slopes, and we will recommend the right car, the right route, and the restaurants worth stopping at along the way."
+    "p5": "Search the fleet, lock in a price, cancel free if plans change. Or Send us an email."
   },
   "kotorBody": {
     "h1": "The Drive That Earns Every View",
@@ -1082,7 +1082,7 @@
   },
   "contact": {
     "title": "Contact Us",
-    "seoDesc": "Arriving at TGD or staying inland? Email, WhatsApp, or the form below gets you quick quotes and airport handover slots, typically within two hours.",
+    "seoDesc": "Arriving at TGD or staying inland? Email or the form below gets you quick quotes and airport handover slots, typically within two hours.",
     "heading": "Contact Us",
     "intro": "Have a question about renting a car in Podgorica? Get in touch and we'll help you find the perfect vehicle for your trip."
   },
@@ -1143,7 +1143,7 @@
     "subtitle": "Multiple locations across Montenegro for maximum convenience."
   },
   "aria": {
-    "whatsapp": "Chat on WhatsApp",
+    "whatsapp": "Email",
     "scrollTop": "Scroll to top",
     "carRentalBooking": "Car rental booking",
     "fleetGalleryAlt": "Podgorica Car Hire fleet"

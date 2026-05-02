@@ -166,7 +166,7 @@
     "localLink3": "Nacionalnom parku Durmitor",
     "localEnd": ", mi vas upućujemo sa pravim automobilom i najboljom rutom.",
     "contactTitle": "Kontaktirajte nas",
-    "contactText": "Pitanja o lancima za snijeg, planinskim prelazima ili koji terenac je najbolji za cestu Durmitora? Na raspolaganju smo putem WhatsAppa, Vibera i telefona. Pretražite flotu na internetu i rezervirajte za nekoliko minuta, ili nam napišite poruku i zajedno ćemo izplanirati vašu rutu."
+    "contactText": "Pitanja o lancima za snijeg, planinskim prelazima ili koji terenac je najbolji za cestu Durmitora? Na raspolaganju smo putem e-maila i telefona. Pretražite flotu na internetu i rezervirajte za nekoliko minuta, ili nam napišite poruku i zajedno ćemo izplanirati vašu rutu."
   },
   "kotor": {
     "title": "Rent a Car Kotor",
@@ -377,9 +377,9 @@
     "promise5": "Besplatno otkazivanje za većinu rezervacija",
     "promise6": "Lokalni najmodavci, puno osiguranje i opcije sa niskim ili bez depozita",
     "h4": "Lokalno znanje",
-    "p4": "Naš tim vozi ove rute svake nedjelje. Znamo da dionica kroz klisuru Platije sjeverno od Podgorice nema zaštitne ograde ni signala mobilne mreže. Znamo da putarina u tunelu Sozina iznosi EUR 2.50 i da skraćuje vožnju do Budve za 30 minuta. Znamo da Pod Volat sprema najbolju jagnjetinu sa roštilja u Podgorici i da je Lanterna mjesto gdje mještani idu na ribu. Pitajte nas za savjete o ruti, izradićemo Vaš itinerer zajedno putem WhatsApp aplikacije prije nego što se uopšte ukrcate na let.",
+    "p4": "Naš tim vozi ove rute svake nedjelje. Znamo da dionica kroz klisuru Platije sjeverno od Podgorice nema zaštitne ograde ni signala mobilne mreže. Znamo da putarina u tunelu Sozina iznosi EUR 2.50 i da skraćuje vožnju do Budve za 30 minuta. Znamo da Pod Volat sprema najbolju jagnjetinu sa roštilja u Podgorici i da je Lanterna mjesto gdje mještani idu na ribu. Pitajte nas za savjete o ruti, izradićemo Vaš itinerer zajedno putem e-maila aplikacije prije nego što se uopšte ukrcate na let.",
     "h5": "Kontaktirajte nas",
-    "p5": "Pretražite flotu, rezervišite cijenu, otkažite besplatno ako se planovi promijene. Ili nam napišite na WhatsApp sa datumima i spiskom želja, kanjoni, manastiri, plaže, skijaške staze, pa ćemo Vam preporučiti pravi automobil, pravu rutu i restorane uz put koji zaslužuju zaustavljanje."
+    "p5": "Pretražite flotu, rezervišite cijenu, otkažite besplatno ako se planovi promijene. Ili nam napišite putem e-maila sa datumima i spiskom želja, kanjoni, manastiri, plaže, skijaške staze, pa ćemo Vam preporučiti pravi automobil, pravu rutu i restorane uz put koji zaslužuju zaustavljanje."
   },
   "kotorBody": {
     "h1": "Kotor -- Lokalitet pod Zastitom-a",
@@ -1098,7 +1098,7 @@
   },
   "contact": {
     "title": "Kontaktirajte nas",
-    "seoDesc": "Stižete na TGD ili ostajete u unutrašnjosti? Email, WhatsApp, ili obrazac ispod omogućavaju vam brze ponude i vremenske slotove preuzimanja, obično u.",
+    "seoDesc": "Stižete na TGD ili ostajete u unutrašnjosti? Email, putem e-maila, ili obrazac ispod omogućavaju vam brze ponude i vremenske slotove preuzimanja, obično u.",
     "heading": "Kontaktirajte nas",
     "intro": "Imate pitanje o iznajmljivanju automobila u Podgorici? Javite nam se i pomoći ćemo vam pronaći savršeno vozilo za vaše putovanje."
   },
@@ -1332,7 +1332,7 @@
   },
   "aria": {
     "fleetGalleryAlt": "Vozni park Podgorica Car Hire",
-    "whatsapp": "Razgovaraj na WhatsApp-u",
+    "whatsapp": "Email",
     "scrollTop": "Pomjeri na vrh",
     "carRentalBooking": "Rezervacija najma vozila"
   },
@@ -1453,7 +1453,7 @@
     "use1": "da vam pokažemo dostupnost i cijene najma",
     "use2": "da unaprijedimo sajt i korisničko iskustvo",
     "use3": "da razumijemo kako posjetioci koriste sajt (analitika)",
-    "use4": "da odgovaramo na upite preko WhatsApp-a, Viber-a ili e-maila",
+    "use4": "da odgovaramo na upite putem e-maila ili e-maila",
     "thirdTitle": "Usluge trećih strana",
     "thirdIntro": "Naš sajt koristi sljedeće usluge trećih strana:",
     "partnerLabel": "Partner za rezervacije:",

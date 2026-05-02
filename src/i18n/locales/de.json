@@ -377,9 +377,9 @@
     "promise5": "Kostenlose Stornierung bei den meisten Buchungen",
     "promise6": "Lokale Mietanbieter, Vollkasko und Optionen mit niedriger oder keiner Kaution",
     "h4": "Lokales Wissen",
-    "p4": "Unser Team fährt diese Routen jede Woche. Wir wissen, dass der Platije-Schluchtabschnitt nördlich von Podgorica keine Leitplanken und kein Handysignal hat. Wir wissen, dass die Maut im Sozina-Tunnel EUR 2.50 beträgt und dass er 30 Minuten von der Fahrt nach Budva spart. Wir wissen, dass Pod Volat das beste gegrillte Lamm in Podgorica macht und dass die Einheimischen für Fisch zum Lanterna gehen. Fragen Sie uns nach Routenberatung, wir bauen Ihre Reiseroute per WhatsApp mit Ihnen auf, noch bevor Sie in Ihr Flugzeug steigen.",
+    "p4": "Unser Team fährt diese Routen jede Woche. Wir wissen, dass der Platije-Schluchtabschnitt nördlich von Podgorica keine Leitplanken und kein Handysignal hat. Wir wissen, dass die Maut im Sozina-Tunnel EUR 2.50 beträgt und dass er 30 Minuten von der Fahrt nach Budva spart. Wir wissen, dass Pod Volat das beste gegrillte Lamm in Podgorica macht und dass die Einheimischen für Fisch zum Lanterna gehen. Fragen Sie uns nach Routenberatung, wir bauen Ihre Reiseroute per E-Mail mit Ihnen auf, noch bevor Sie in Ihr Flugzeug steigen.",
     "h5": "Kontaktieren Sie uns",
-    "p5": "Durchsuchen Sie die Flotte, sichern Sie sich einen Preis, stornieren Sie kostenlos, wenn sich Ihre Pläne ändern. Oder schreiben Sie uns per WhatsApp mit Ihren Daten und Wünschen, Canyons, Klöster, Strände, Skipisten, und wir empfehlen Ihnen das richtige Fahrzeug, die richtige Route und die Restaurants, an denen sich ein Halt lohnt."
+    "p5": "Durchsuchen Sie die Flotte, sichern Sie sich einen Preis, stornieren Sie kostenlos, wenn sich Ihre Pläne ändern. Oder Schreiben Sie uns eine E-Mail."
   },
   "kotorBody": {
     "h1": "Kotor, Welterbe",
@@ -1098,7 +1098,7 @@
   },
   "contact": {
     "title": "Kontaktieren Sie uns",
-    "seoDesc": "Ankunft am TGD oder im Inland? Email, WhatsApp oder das Formular unten bringen Ihnen schnelle Angebote und Flughafenübergabeslots, typisch innerhalb.",
+    "seoDesc": "Ankunft am TGD oder im Inland? Email, per E-Mail oder das Formular unten bringen Ihnen schnelle Angebote und Flughafenübergabeslots, typisch innerhalb.",
     "heading": "Kontaktieren Sie uns",
     "intro": "Haben Sie eine Frage zur Automiete in Podgorica? Kontaktieren Sie uns, und wir helfen Ihnen, das passende Fahrzeug für Ihre Reise zu finden."
   },
@@ -1332,7 +1332,7 @@
   },
   "aria": {
     "fleetGalleryAlt": "Fuhrpark Podgorica Car Hire",
-    "whatsapp": "Per WhatsApp chatten",
+    "whatsapp": "E-Mail",
     "scrollTop": "Nach oben scrollen",
     "carRentalBooking": "Autovermietung Buchung"
   },

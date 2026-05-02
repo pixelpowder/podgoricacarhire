@@ -377,9 +377,9 @@
     "promise5": "Cancellazione gratuita, perché una tempesta sul Durmitor può riscrivere qualsiasi itinerario",
     "promise6": "Operatori di noleggio locali, assicurazione completa e opzioni con cauzione bassa o nulla",
     "h4": "Conoscenza locale",
-    "p4": "Il nostro team percorre queste strade ogni settimana. Sappiamo che il tratto della gola di Platije a nord di Podgorica non ha guardrail né segnale telefonico. Sappiamo che il pedaggio del tunnel di Sozina è di EUR 2.50 e che fa risparmiare 30 minuti sulla tratta per Budva. Sappiamo che Pod Volat fa il miglior agnello alla griglia di Podgorica e che Lanterna è dove vanno i locali per il pesce. Ci chieda consigli sul percorso, costruiremo il Suo itinerario insieme via WhatsApp prima ancora che salga sull'aereo.",
+    "p4": "Il nostro team percorre queste strade ogni settimana. Sappiamo che il tratto della gola di Platije a nord di Podgorica non ha guardrail né segnale telefonico. Sappiamo che il pedaggio del tunnel di Sozina è di EUR 2.50 e che fa risparmiare 30 minuti sulla tratta per Budva. Sappiamo che Pod Volat fa il miglior agnello alla griglia di Podgorica e che Lanterna è dove vanno i locali per il pesce. Ci chieda consigli sul percorso, costruiremo il Suo itinerario insieme via email prima ancora che salga sull'aereo.",
     "h5": "Contattaci",
-    "p5": "Scorra la flotta, blocchi un prezzo, cancelli gratuitamente se i piani cambiano. Oppure ci scriva su WhatsApp con le Sue date e i Suoi desideri, canyon, monasteri, spiagge, piste da sci, e Le consiglieremo l'auto giusta, il percorso giusto e i ristoranti che vale la pena raggiungere lungo la via."
+    "p5": "Scorra la flotta, blocchi un prezzo, cancelli gratuitamente se i piani cambiano. Oppure ci scriva via email con le Sue date e i Suoi desideri, canyon, monasteri, spiagge, piste da sci, e Le consiglieremo l'auto giusta, il percorso giusto e i ristoranti che vale la pena raggiungere lungo la via."
   },
   "kotorBody": {
     "h1": "Kotor, Patrimonio Mondiale dell'UNESCO",
@@ -1098,7 +1098,7 @@
   },
   "contact": {
     "title": "Contattaci",
-    "seoDesc": "In arrivo presso TGD o soggiorno nell'entroterra? Email, WhatsApp o il modulo qui sotto vi aiuta a ottenere preventivi rapidi e slot di consegna.",
+    "seoDesc": "In arrivo presso TGD o soggiorno nell'entroterra? Email o modulo qui sotto vi aiuta a ottenere preventivi rapidi e slot di consegna.",
     "heading": "Contattaci",
     "intro": "Hai una domanda sul noleggio auto a Podgorica? Contattaci e ti aiuteremo a trovare il veicolo perfetto per il tuo viaggio."
   },
@@ -1332,7 +1332,7 @@
   },
   "aria": {
     "fleetGalleryAlt": "Flotta Podgorica Car Hire",
-    "whatsapp": "Chatta su WhatsApp",
+    "whatsapp": "Email",
     "scrollTop": "Torna su",
     "carRentalBooking": "Prenotazione noleggio auto"
   },
