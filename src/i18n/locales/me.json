@@ -58,9 +58,10 @@
     "step3Desc": "Predajemo Vam ključeve na dolascima. Skadarsko jezero za 30 minutes, kanjon Tare za 2.5 hours, obala za jedan sat. Krenite."
   },
   "fleet": {
-    "label": "Naša Flota",
-    "title": "Izaberite Vaše Vozilo",
-    "subtitle": "Cijene u realnom vremenu i trenutna potvrda, besplatno otkazivanje i puno osiguranje na većini tarifa, kreditna kartica nije potrebna pri pretrazi."
+    "label": "Flota Podgorica",
+    "title": "Iznajmljivanje Auta Podgorica",
+    "subtitle": "Vodič kroz neka od vozila na našem mjestu preuzimanja u Podgorici, prikladnih i za grad i za duže planinske rute prema Durmitoru i Tari.",
+    "bookCta": "Rezerviši ovaj auto"
   },
   "brands": {
     "label": "Provjereni brendovi u našoj floti"

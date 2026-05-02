@@ -58,9 +58,10 @@
     "step3Desc": "Le consegnamo le chiavi agli arrivi. Lago di Skadar in 30 minutes, canyon della Tara in 2.5 hours, la costa in un'ora. Si parte."
   },
   "fleet": {
-    "label": "La Nostra Flotta",
-    "title": "Scegli la Tua Auto",
-    "subtitle": "Prezzi in tempo reale e conferma immediata, cancellazione gratuita e assicurazione completa sulla maggior parte delle tariffe, nessuna carta di credito necessaria al momento della ricerca."
+    "label": "Flotta Podgorica",
+    "title": "Noleggio Auto Podgorica",
+    "subtitle": "Una guida ad alcune delle auto al nostro punto di ritiro a Podgorica, adatte sia alla città che ai lunghi tragitti verso Durmitor e la Tara.",
+    "bookCta": "Prenota quest'auto"
   },
   "brands": {
     "label": "Marchi affidabili nella nostra flotta"

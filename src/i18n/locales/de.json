@@ -58,9 +58,10 @@
     "step3Desc": "Wir übergeben Ihnen die Schlüssel bei der Ankunft. Der Skadar-See in 30 minutes, der Tara-Canyon in 2.5 hours, die Küste in einer Stunde. Auf geht es."
   },
   "fleet": {
-    "label": "Unsere Flotte",
-    "title": "Wählen Sie Ihr Fahrzeug",
-    "subtitle": "Live-Preise und sofortige Bestätigung, kostenlose Stornierung und Vollkasko bei den meisten Tarifen, keine Kreditkarte erforderlich bei der Suche."
+    "label": "Podgorica Flotte",
+    "title": "Mietwagen Podgorica",
+    "subtitle": "Ein Überblick über einige Fahrzeuge an unserer Übernahme in Podgorica, passend für die Boulevards der Stadt und die langen Bergfahrten nach Durmitor und Tara.",
+    "bookCta": "Dieses Auto buchen"
   },
   "brands": {
     "label": "Vertrauenswürdige Marken in unserer Flotte"

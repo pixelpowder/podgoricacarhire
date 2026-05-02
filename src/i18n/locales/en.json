@@ -58,9 +58,10 @@
     "step3Desc": "We hand you the keys at arrivals. Lake Skadar in 30 minutes, Tara Canyon in 2.5 hours, the coast in one. Go."
   },
   "fleet": {
-    "label": "Our Fleet",
-    "title": "Pick Your Adventure Rig",
-    "subtitle": "Live prices and instant confirmation, free cancellation and full insurance on most rates, no credit card needed at the search."
+    "label": "Podgorica Fleet",
+    "title": "Car Hire Podgorica",
+    "subtitle": "A guide to some of the cars at our Podgorica pickup, sized for both city use around the boulevards and the long mountain runs to Durmitor and Tara.",
+    "bookCta": "Book this car"
   },
   "brands": {
     "label": "Trusted brands in our fleet"
