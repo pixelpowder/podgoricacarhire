@@ -5,7 +5,9 @@
     "destinations": "Reiseziele",
     "about": "Über uns",
     "blog": "Ratgeber",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "darkMode": "Dunkelmodus",
+    "lightMode": "Hellmodus"
   },
   "common": {
     "home": "Startseite",

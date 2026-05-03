@@ -5,7 +5,9 @@
     "destinations": "Направления",
     "about": "О нас",
     "blog": "Блог",
-    "contact": "Контакты"
+    "contact": "Контакты",
+    "darkMode": "Тёмный режим",
+    "lightMode": "Светлый режим"
   },
   "common": {
     "home": "Главная",

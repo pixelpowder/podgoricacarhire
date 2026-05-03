@@ -5,7 +5,9 @@
     "blog": "Guida",
     "destinations": "Destinazioni",
     "about": "Chi Siamo",
-    "contact": "Contatti"
+    "contact": "Contatti",
+    "darkMode": "Modalità scura",
+    "lightMode": "Modalità chiara"
   },
   "common": {
     "home": "Home",

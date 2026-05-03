@@ -5,7 +5,9 @@
     "blog": "Actualités",
     "destinations": "Villes",
     "about": "À Propos",
-    "contact": "Nous contacter"
+    "contact": "Nous contacter",
+    "darkMode": "Mode sombre",
+    "lightMode": "Mode clair"
   },
   "common": {
     "home": "Accueil",

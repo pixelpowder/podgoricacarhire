@@ -5,7 +5,9 @@
     "blog": "Vodič",
     "destinations": "Destinacije",
     "about": "O Nama",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "darkMode": "Tamni način",
+    "lightMode": "Svijetli način"
   },
   "common": {
     "home": "Početna",
