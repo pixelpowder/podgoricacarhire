@@ -47,7 +47,7 @@ function shuffled(arr) {
 }
 
 // 3 columns × 4 rows = 12 cards. Shuffled per visit.
-const HOMEPAGE_FLEET_LIMIT = 12;
+const HOMEPAGE_FLEET_LIMIT = 9;
 const HOMEPAGE_FLEET_COLUMNS = 3;
 
 /* ─── FLEET SHOWCASE (homepage) ────────────────────────── */
