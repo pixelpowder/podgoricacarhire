@@ -1008,13 +1008,11 @@ select.booking-field__input {
 
 /* ─── TRUST STRIP ──────────────────────────────────────── */
 .trust-strip {
-  background: rgba(5, 25, 55, 0.93);
-  backdrop-filter: blur(80px);
-  -webkit-backdrop-filter: blur(80px);
+  background: rgb(5, 32, 60);
   padding: 40px 0;
   position: relative;
   overflow: hidden;
-  z-index: 0;
+  z-index: 3;
 }
 
 .trust-strip::before { display: none; }
@@ -1242,6 +1240,7 @@ select.booking-field__input {
 }
 
 .whatsapp-fab {
+  display: none;
   position: fixed;
   bottom: 24px;
   right: 24px;
@@ -1269,7 +1268,7 @@ select.booking-field__input {
 .scroll-top {
   position: fixed;
   bottom: 24px;
-  left: 24px;
+  right: 24px;
   width: 44px;
   height: 44px;
   border-radius: 50%;
