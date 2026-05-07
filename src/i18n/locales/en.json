@@ -21,7 +21,7 @@
     "headline": "Podgorica Car Hire",
     "badges": {
       "freeCancellation": "Free Cancellation",
-      "fullInsurance": "Full Insurance Included",
+      "fullInsurance": "Insurance Options",
       "airportPickup": "10-Min Airport Pickup",
       "trustpilot": "4.8/5 on Trustpilot"
     },
@@ -37,7 +37,7 @@
   "trust": {
     "noHiddenFees": "No Hidden Fees",
     "noHiddenFeesDesc": "Total cost shown before you book, airport fees and taxes all included",
-    "fullInsurance": "Full Insurance",
+    "fullInsurance": "Insurance Options",
     "fullInsuranceDesc": "Every vehicle includes CDW, with zero-excess cover for mountain and motorway trips",
     "fastPickup": "TGD Airport",
     "fastPickupDesc": "Your car is parked at Podgorica Airport, collect and go in minutes"
@@ -159,7 +159,7 @@
     "promise3": "No hidden fees, the price you see is the price you pay, always",
     "promise4": "Cross-border travel to Croatia, Bosnia, Albania, Serbia, and Kosovo",
     "promise5": "Free cancellation, because weather in the mountains changes plans",
-    "promise6": "Local rental providers, full insurance and low or no-deposit options",
+    "promise6": "Local rental providers, flexible insurance tiers and low or no-deposit options",
     "localTitle": "Local Knowledge",
     "localText": "Based in Podgorica, we know every road from the capital to the coast. Whether you're driving to",
     "localLink1": "Lake Skadar",
@@ -387,7 +387,7 @@
     "promise3": "No hidden fees, the number on screen is the number you pay",
     "promise4": "Cross-border travel to Croatia, Bosnia, Albania, Serbia, and Kosovo included",
     "promise5": "Free cancellation, because a storm over Durmitor can rewrite any itinerary",
-    "promise6": "Local rental providers, full insurance and low or no-deposit options",
+    "promise6": "Local rental providers, flexible insurance tiers and low or no-deposit options",
     "h4": "We Know These Roads",
     "p4": "Our team drives these routes every week. We know that the Platije gorge section north of Podgorica has no guardrails and no phone signal. We know the Sozina tunnel toll is EUR 2.50 and that it shaves 30 minutes off the Budva drive. We know that Pod Volat does the best grilled lamb in Podgorica, and that Lanterna is where locals go for fish. Ask us for route advice, we will help build your itinerary by email before you even board your flight.",
     "h5": "Start Planning",

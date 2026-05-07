@@ -241,7 +241,7 @@ const siteConfig = {
 
   features: [
     { icon: "map-pin", title: "Airport Pickup", description: "Keys in hand within 10 minutes of landing at TGD. The mountains are waiting." },
-    { icon: "shield-check", title: "Full Insurance", description: "Full coverage with zero excess option, built for mountain switchbacks, canyon roads, and everything in between." },
+    { icon: "shield-check", title: "Insurance Options", description: "Insurance tiers from basic third-party up to no-deposit zero-excess, ready for mountain switchbacks, canyon roads, and everything in between." },
     { icon: "clock", title: "24/7 Support", description: "Snowed in above \u017dabljak? We've seen it before. Call any time." },
     { icon: "ban", title: "No Hidden Fees", description: "Winter extras like snow chains are priced upfront, never added at the counter. What you see is what you pay." },
     { icon: "refresh-cw", title: "Free Cancellation", description: "Ryanair rescheduled? Mountain pass closed by snow? Cancel up to 24 hours before for a full refund." },

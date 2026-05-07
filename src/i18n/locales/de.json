@@ -21,7 +21,7 @@
     "headline": "Mietwagen in Podgorica",
     "badges": {
       "freeCancellation": "Kostenlose Stornierung",
-      "fullInsurance": "Vollkasko inklusive",
+      "fullInsurance": "Versicherungsoptionen",
       "airportPickup": "10-Min Flughafen-Abholung",
       "trustpilot": "4.8/5 auf Trustpilot"
     },
@@ -37,7 +37,7 @@
   "trust": {
     "noHiddenFees": "Keine versteckten Kosten",
     "noHiddenFeesDesc": "Der angezeigte Preis ist all-inclusive",
-    "fullInsurance": "Vollkasko",
+    "fullInsurance": "Versicherungsoptionen",
     "fullInsuranceDesc": "Option ohne Selbstbeteiligung verfügbar",
     "fastPickup": "10-Min Abholung",
     "fastPickupDesc": "Wir empfangen Sie am Ankunftsbereich"
@@ -159,7 +159,7 @@
     "promise3": "Keine versteckten Gebühren, der Preis, den Sie sehen, ist der Preis, den Sie zahlen, immer",
     "promise4": "Grenzübergang nach Kroatien, Bosnien, Albanien, Serbien und Kosovo",
     "promise5": "Kostenlose Stornierung, denn das Wetter in den Bergen ändert Pläne",
-    "promise6": "Lokale Mietanbieter, Vollkasko und Optionen mit niedriger oder keiner Kaution",
+    "promise6": "Lokale Mietanbieter, Versicherungsoptionen und Optionen mit niedriger oder keiner Kaution",
     "localTitle": "Lokales Wissen",
     "localText": "Mit Sitz in Podgorica kennen wir jede Straße von der Hauptstadt zur Küste. Ob Sie zum",
     "localLink1": "Skadar-See",
@@ -371,14 +371,14 @@
     "h2": "Warum wir angefangen haben",
     "p2": "Podgorica liegt auf nur 44 Metern Höhe, dort wo die Flüsse Morača und Ribnica zusammenfließen. Es ist keine Postkartenstadt, es ist eine Startrampe. Die brutalistischen Wohnblocks und osmanischen Gassen der Hauptstadt weichen innerhalb von 15 Minuten Fahrt in jede Richtung einer wilden Landschaft. Der Skadar-See liegt 30 minutes südlich. Das in den Fels gehauene Kloster Ostrog ist 45 Minuten nordwestlich. Die Adriaküste ist rund eine Stunde durch den Sozina-Tunnel entfernt. Und die 2,522 m hohen Gipfel des Durmitor liegen nur 2.5 hours die Morača-Canyon-Straße hinauf. Keine andere Stadt Montenegros bringt Sie so nah an so viel Vielfalt.",
     "h3": "Was wir anbieten",
-    "p3": "Wir bündeln über 200 Fahrzeuge vertrauenswürdiger lokaler Partner am Flughafen Podgorica, im Stadtzentrum und an 28 weiteren Abholpunkten in Montenegro. Kompakte Kleinwagen für enge Canyonstraßen. Mittelgroße Kombis für Familien mit Skiausrüstung. Robuste SUVs für die Schotterpisten oberhalb von Žabljak. Jedes Fahrzeug ist vollständig versichert mit einer Selbstbeteiligung-null-Option, und jeder Preis enthält Steuern, Kilometer und Ausstattungssets, keine Überraschungen am Schalter.",
+    "p3": "Wir bündeln über 200 Fahrzeuge vertrauenswürdiger lokaler Partner am Flughafen Podgorica, im Stadtzentrum und an 28 weiteren Abholpunkten in Montenegro. Kompakte Kleinwagen für enge Canyonstraßen. Mittelgroße Kombis für Familien mit Skiausrüstung. Robuste SUVs für die Schotterpisten oberhalb von Žabljak. Jedes Fahrzeug ist mit flexiblen Versicherungsoptionen mit einer Selbstbeteiligung-null-Option, und jeder Preis enthält Steuern, Kilometer und Ausstattungssets, keine Überraschungen am Schalter.",
     "promiseTitle": "Unser Versprechen",
     "promise1": "Vollversicherung mit null Selbstbeteiligung, auch für unbefestigte Bergpisten",
     "promise2": "Persönliche Übergabe am Flughafen: Ihr Fahrzeug wartet bei der Ankunft in TGD, Tank voll, Motor kalt",
     "promise3": "Keine versteckten Gebühren, die Summe auf dem Bildschirm ist die Summe, die Sie zahlen",
     "promise4": "Grenzüberschreitende Fahrten nach Kroatien, Bosnien, Albanien, Serbien und Kosovo inbegriffen",
     "promise5": "Kostenlose Stornierung bei den meisten Buchungen",
-    "promise6": "Lokale Mietanbieter, Vollkasko und Optionen mit niedriger oder keiner Kaution",
+    "promise6": "Lokale Mietanbieter, Versicherungsoptionen und Optionen mit niedriger oder keiner Kaution",
     "h4": "Lokales Wissen",
     "p4": "Unser Team fährt diese Routen jede Woche. Wir wissen, dass der Platije-Schluchtabschnitt nördlich von Podgorica keine Leitplanken und kein Handysignal hat. Wir wissen, dass die Maut im Sozina-Tunnel EUR 2.50 beträgt und dass er 30 Minuten von der Fahrt nach Budva spart. Wir wissen, dass Pod Volat das beste gegrillte Lamm in Podgorica macht und dass die Einheimischen für Fisch zum Lanterna gehen. Fragen Sie uns nach Routenberatung, wir bauen Ihre Reiseroute per E-Mail mit Ihnen auf, noch bevor Sie in Ihr Flugzeug steigen.",
     "h5": "Kontaktieren Sie uns",
