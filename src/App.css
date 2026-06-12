@@ -1351,7 +1351,7 @@ select.booking-field__input {
 .destinations-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(2, 200px);
+  grid-auto-rows: 200px;
   gap: 12px;
 }
 
