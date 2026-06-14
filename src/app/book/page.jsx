@@ -13,6 +13,7 @@ export async function generateMetadata() {
   return {
     title: title,
     description: description,
+    robots: { index: false, follow: true },
     alternates: buildAlternates('book'),
     openGraph: { title, description, type: 'website' },
   };

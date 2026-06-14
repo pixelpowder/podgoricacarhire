@@ -12,6 +12,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'book.seoTitle') + ' | Podgorica Car Hire',
     description: t(lang, 'book.seoDesc'),
+    robots: { index: false, follow: true },
     alternates: buildAlternates('book', lang),
   };
 }
